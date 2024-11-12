@@ -1,0 +1,104 @@
+Plh_4 { Was willst du? }
+
+Plh_5 { Hm, warum nicht. Aber eigentlich sollte mein Ruf mir vorauseilen. Ich bin Liandra. }
+
+Plh_6 { Dich kennenlernen. }
+
+Plh_8 { Hab etwas Rostmoos dabei. Interesse? }
+
+Plh_9 { Nein, wer ist Boris? }
+
+Plh_11 { Ich habe keine Zeit, dir irgendwelche Leute vorzustellen ... }
+
+Plh_13 { Endlich gibt's wieder was! Her damit, ich muss gleich in die Arena. }
+
+Plh_14 { Was passiert in der Arena? }
+
+Plh_15 { Die meisten Leute entspannen sich durch Rostmoos, oder sie werden geselliger. Aber bei mir ist das anders. Ich werde aggressiver, stärker, unempfindlich gegen Schmerz ... es ist wie ein Traum, der in Blut endet. Dem Blut der anderen. }
+
+Plh_16 { Was passiert da wohl? Es wird gekämpft! Der Ort, wo man unvergesslich wird! Eines Tages wird man sich Geschichten von Liandra, der Kämpferin erzählen. Eine Legende in Drova. Wer weiß ... vielleicht stehen wir uns irgendwann in der Arena gegenüber. }
+
+Plh_17 { Was hat das mit Rostmoos zu tun? }
+
+Plh_18 { Das klingt ... ungesund. Vor allem für die anderen. }
+
+Plh_19 { Ich sehe es als eine Gabe, die mich zum Ruhm führt. Also - hast du jetzt was oder nicht? }
+
+Plh_20 { Hier. Das macht $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen. }
+
+Plh_21 { Du kannst das Rostmoos umsonst haben. }
+
+Plh_22 { Her damit. Das muss es mir wert sein. Und dann hau ab, wenn du nicht selbst kämpfen willst. }
+
+Plh_23 { Ah, das ist die Art von Unterstützung, die ich mag! Ich werde meinen nächsten Sieg dir widmen! }
+
+Plh_25 { Weißt du etwas über denjenigen, der im oberen Viertel pausenlos trainiert? }
+
+Plh_26 { Meinst du Farlan? Kein Mann der großen Worte. Ich habe diesen Gra in der Arena plattgemacht. Habe wie ein Biest gekämpft, das hat ihn wohl beeindruckt. }
+
+Plh_27 { Dann kam er und wollte auch gegen mich kämpfen. Konnte er haben. Als er dann wieder laufen konnte, hat er begonnen, da oben pausenlos zu trainieren. }
+
+Plh_28 { Klingt, als würde er eine Revanche erwarten ... }
+
+Plh_30 { Kann er bekommen. Ich verprügele ihn nach Strich und Faden, so oft er will. Vielleicht mag er das irgendwie ... Aber immerhin hat er eine Entschlossenheit, die vielen Jammerlappen in Drova abgeht. }
+
+Plh_31 { Ich brauche seine Stimme. Aber er ignoriert mich. }
+
+Plh_32 { Hast du eine Idee, wie ich ihn von mir überzeugen kann? }
+
+Plh_33 { Hm, vielleicht kannst du mit ihm trainieren. Dann könnte er auftauen. Aber du musst auch was können. Vielleicht nicht so viel wie ich, aber wenigstens ein bisschen. }
+
+Plh_34 { Woher soll ich das wissen? }
+
+Plh_35 { Wie kann ich so stark werden wie du? }
+
+Plh_37 { *seufzt* $GVAR:EVars_Liandra.AttributeCosts$ Münzen. }
+
+Plh_40 { So viele Münzen?! }
+
+Plh_41 { Ich hoffe, das ist es wert. Hier. }
+
+Plh_42 { So viele Münzen habe ich nicht. }
+
+Plh_43 { Ich kann nicht jeden Hauer einfach so trainieren. Du musst mich auch dafür bezahlen. }
+
+Plh_44 { Verarsch mich nicht. Das reicht nicht. }
+
+Plh_45 { Sehr gut. Ich halte mein Wort. }
+
+Plh_46 { Dann komm halt wieder, wenn du die Münzen hast. Ich muss trainieren. }
+
+Plh_48 { Sag mal, schickt Boris dich? }
+
+Plh_50 { Nemeton-Abschaum ... dir zeige ich's! }
+
+Plh_51 { Heute kämpfen wir beide in der Arena. }
+
+Plh_52 { Wir sehen uns in der Arena! }
+
+Plh_53 { Ich freue mich auf den Kampf. Bereite dich gut vor, und unterhalte mich. }
+
+Plh_54 { Kilian kümmert sich gut um seine Leute. Zeig mal, was du drauf hast. }
+
+Plh_56 { Ich hab noch Rostmoos für dich. }
+
+Plh_57 { Her damit! }
+
+Plh_58 { Ganz ruhig. }
+
+Plh_59 { Ich denke, damit wird der Kampf jetzt interessanter. }
+
+Plh_60 { Ich werd's dir zeigen. }
+
+Plh_62 { Du hast gewonnen. Gut gekämpft. }
+
+Plh_63 { Gut gekämpft. Ihr hängt in Nemeton also wohl doch nicht nur faul rum. }
+
+Plh_64 { Dass Ada nicht mehr die Arenameisterin ist, freut mich. Wurde Zeit. Gute Arbeit. }
+
+Plh_65 { Dass jemand von Nemeton Arenameister ist, gefällt mir zwar nicht, aber es wird ja auch nicht für lange sein. }
+
+Plh_66 { Mist, dachte du kommst von ihm. Boris findest du am Eingang des Lagers. }
+
+Plh_67 { Wer ist Boris? }
+

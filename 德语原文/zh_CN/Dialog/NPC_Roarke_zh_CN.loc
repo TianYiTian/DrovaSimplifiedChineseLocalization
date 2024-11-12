@@ -1,0 +1,586 @@
+Plh_4 { _ToDo_ }
+
+Plh_0 { Ich soll von dir was zu essen für die Frischlinge abholen. }
+
+Plh_1 { Dann muss Taron dich geschickt haben. Ich habe etwas Futter mit Pilzen angereichert, durch die der Wurf wieder zu Kräften kommen sollte. }
+
+Plh_2 { Gib jedem eine Portion! Nicht mehr und nicht weniger! }
+
+Plh_3 { Vier Portionen? Taron hatte nur drei Frischlinge erwähnt. }
+
+Plh_5 { Alles klar, danke. }
+
+Plh_6 { Hm? Mir hat er gesagt, er braucht was Stärkendes für einen Wurf von vier Frischlingen. Frag am besten bei Taron nach. }
+
+Plh_7 { Die Frischlinge werden dich dafür lieben. *grinst* }
+
+Plh_8 { Ach, Bertine. Sie hat's in letzter Zeit nicht leicht. Anatoli war wie ein Vater für sie. Sie muss sich sehr einsam fühlen. }
+
+Plh_10 { Was willst du mir damit sagen? }
+
+Plh_11 { Dein Kopf ist ECHT daneben. }
+
+Plh_13 { Ist mit Bertine alles in Ordnung? }
+
+Plh_14 { Da ist ja die verirrte Seele, die doch nicht verirrt war! }
+
+Plh_15 { *grinst dich an und wirkt stolz* }
+
+Plh_16 { Hey, Roarke, ich hab's geschafft! }
+
+Plh_17 { Weißt du, warum ich schon meinen Funken erhalten habe? }
+
+Plh_18 { So etwas haben wir hier noch nie erlebt. Gerade angekommen, schon mit Funken. }
+
+Plh_19 { Wir sehen uns dann im Lager. }
+
+Plh_20 { Weil der Göttliche so entschieden hat. Mehr muss ich nicht wissen. Und du auch nicht. }
+
+Plh_21 { Klar. Komm zu mir, wenn du mit mir kochen willst! }
+
+Plh_22 { Wir reden später. }
+
+Plh_23 { *bemerkt dich* Hey, jemand neues hier im Lager?! }
+
+Plh_28 { Du willst wirklich helfen? Sehr schön! }
+
+Plh_29 { Ach, da fällt mir ein, dass ich mich noch gar nicht vorgestellt habe. Roarke, der Name. Ich kümmere mich um das leibliche Wohl in der Zuflucht. }
+
+Plh_33 { Das haben wir alle. Aber falls du dem Verirrten doch über den Weg laufen solltest ... }
+
+Plh_34 { Dein Verirrter ist kein Problem mehr. }
+
+Plh_35 { Beim Großen Keiler! Es war sicher ein Bär, nicht wahr? Diese verdammten Biester werden immer frecher ... }
+
+Plh_36 { Im Namen des Großen Keilers ... du hast dem Düsterwald einen großen Dienst erwiesen. Wir müssen Sorge tragen, dass die Verirrten nicht das Gleichgewicht des Waldes stören. }
+
+Plh_37 { Wir geben dir gern ein Dach über dem Kopf, warmes Essen und eine Aufgabe. Sei Teil des Waldes und lebe in Einklang mit dem Göttlichen. }
+
+Plh_38 { Harmonie ist der Grundpfeiler des Zusammenlebens mit den Göttlichen. Wird diese gestört, durch was auch immer, müssen wir selbst handeln ... und dafür brauchen wir die Tugend der Mut. }
+
+Plh_42 { Vergiss es. Da könnte ja alles drin sein. }
+
+Plh_43 { Na gut, ich probier's mal. (Herantreten) }
+
+Plh_44 { Dann verpasst du eben was! Meine Köstlichkeiten gibt es nur hier! Sie sorgen für dichte Haare und frohes Gemüt! }
+
+Plh_45 { So gefällt mir das! Hier, und sag mir sofort, was du davon hältst. Der Ersteindruck ist wichtig! }
+
+Plh_46 { Als ich vor ein paar Tagen im Wald Pilze für Tarons Wurf gesammelt habe, habe ich lautes Kratzen und ein furchteinflößendes Brüllen gehört. Das muss ein Verirrter sein ... }
+
+Plh_48 { Kann sich niemand anders um den Verirrten kümmern? }
+
+Plh_50 { Was ist ein Verirrter? }
+
+Plh_51 { Du bist auch ein Verirrter. Jemand, der nicht zum Düsterwald gehört, aber hier ist. In der Regel sind das nicht Menschen, sondern Monster oder Tiere. }
+
+Plh_52 { Niemand hier kann wirklich gut kämpfen. Höchstens Bertine, aber die ist in letzter Zeit wie gesagt nicht wirklich ... hilfsbereit. }
+
+Plh_54 { *mustert dich* Was ist mit dir? Du siehst aus, als könntest du kämpfen. }
+
+Plh_55 { Ein paar Monster habe ich schon in die nächste Welt geschickt. }
+
+Plh_56 { Kommt drauf, was ich damit verdiene. }
+
+Plh_57 { Vielleicht hat dich der Große Keiler zu uns geleitet, damit du uns hilfst. *schaut zum Himmel* }
+
+Plh_58 { Wir haben hier keine Münzen, aber der Große Keiler wird dich sicher belohnen. }
+
+Plh_59 { Was ist der Große Keiler? }
+
+Plh_60 { Der Große Keiler wacht über den Düsterwald. Ohne seinen Schutz und seinen Segen hätten wir hier nicht so lange überlebt. }
+
+Plh_69 { Ich habe gern geholfen. }
+
+Plh_70 { Und was ist mit einer richtigen Belohnung? }
+
+Plh_71 { Komm zur Sache, alter Mann. }
+
+Plh_72 { *grinst* Ich bin mir sicher, dass der Große Keiler deine Tat bereits bemerkt hat. }
+
+Plh_73 { *schaut dich irritiert an und zieht eine Augenbraue hoch* Münzen haben wir keine. }
+
+Plh_75 { Geh mit dem Segen des Keilers und behalte diese Tugend in deinem Herzen. }
+
+Plh_77 { *murmelt vor sich hin* Diemo weiß schon, was er tut ... }
+
+Plh_78 { Sehr salzig ... }
+
+Plh_79 { Das ist wirklich gut! }
+
+Plh_80 { Hm. Dann sollte ich weniger Schweiß reinmischen. Aber die Richtung stimmt ... }
+
+Plh_81 { Tatsächlich? Wer hätte gedacht, dass der Schweiß ein so guter Salzersatz ist! }
+
+Plh_82 { Ich sag's nur ungern, aber die Gestalt ist immer noch im Wald, Diemo. }
+
+Plh_83 { Weiß ich doch, Roarke. Bertine muss das übernehmen, wo Anatoli jetzt ... }
+
+Plh_84 { Bertine schafft das! Ich glaube an sie. }
+
+Plh_85 { Der Große Keiler wird uns beistehen, daran glaube ich. }
+
+Plh_87 { Sag mal ... du kannst doch kämpfen, oder? }
+
+Plh_88 { Diemo? }
+
+Plh_89 { Der, mit dem ich gerade gesprochen habe. Er und ich haben uns damals hier im Düsterwald niedergelassen. Wir haben all das hier zusammen aufgebaut. Die Zuflucht. }
+
+Plh_24 { Ein Kohl ist auch nur ein Mensch ... }
+
+Plh_25 { Und was hast du mit dem einsamen Kohl gemacht? }
+
+Plh_26 { Kann's sein, dass in deinem Kopf was nicht stimmt? }
+
+Plh_27 { Na, ich bin losgegangen und habe noch einen zweiten Kohl besorgt. Ein schlecht gelaunter Kohl schmeckt doch nicht! }
+
+Plh_30 { Alles fühlt und alles lebt. Das wirst du auch noch lernen. Spätestens, wenn du allein gekocht wirst. }
+
+Plh_32 { Und wenn in meinem Kopf was nicht stimmt, hole ich mir halt einen anderen! }
+
+Plh_61 { Das erinnert mich daran, als ich einen Kohl für meinen Eintopf schneiden wollte. Der Kohl war sehr einsam und wollte nicht allein verkocht werden. Er hat sich geweigert, von mir geschnitten zu werden. }
+
+Plh_90 { Jedenfalls war das Essen mit dem Doppelkohl besonders lecker. *grinst schief* }
+
+Plh_91 { Jedenfalls ... geh zu Bertine und sei ihr anderer Kohl! Alleine kann sie den Eintopf nicht retten, aber mit deiner Hilfe könntet ihr es zusammen schaffen! }
+
+Plh_92 { Ein Kohl ist auch ein Kohlkopf. Schon mal darüber nachgedacht? }
+
+Plh_94 { Ihr habt keine Münzen? }
+
+Plh_95 { Wofür braucht man Münzen, wenn man den Segen des Großen Keilers hat? Wir helfen unseren Verbundenen, ohne eine Gegenleistung zu erwarten. }
+
+Plh_96 { Worüber hast du gerade mit dem anderen gesprochen? }
+
+Plh_97 { Hm? Ach, es liegt im Moment leider einiges im Argen mit unserem Wald ... }
+
+Plh_98 { Ich kümmere mich für euch um den Verirrten. }
+
+Plh_99 { Meld dich am besten bei Diemo. }
+
+Plh_100 { Wie kann ich einer von euch werden? }
+
+Plh_101 { Ich bin froh, wenn ich von euch und diesem komischen Ort wieder abhauen kann. }
+
+Plh_102 { *grinst* Es ist schön, dass du offen für unsere Wege bist. }
+
+Plh_103 { Du bist ein freier Mensch. Natürlich kannst du jederzeit weggehen, wenn es dir hier nicht gefällt. }
+
+Plh_104 { Wir leben hier im Düsterwald nach drei Tugenden. Der Göttliche soll uns als Teil des Waldes und seiner Welt annehmen. Lausche und lerne eine der Tugenden. }
+
+Plh_106 { Aber ich sagte dir doch schon, dass wir hier keine Münzen haben. *schaut verwundert* }
+
+Plh_107 { Wie genau könnt ihr in den Schwarzen Flammen überleben? }
+
+Plh_108 { Wo bin ich hier gelandet? }
+
+Plh_109 { Im Düsterwald. Sollte dir nicht entgangen sein. Wir verehren den Großen Keiler des Waldes. Dass du ohne einen Funken überhaupt bis hierher gekommen bist ... erstaunlich. }
+
+Plh_110 { *schaut dich verdutzt an* Schau her, ich habe einen Funken. Der Funke schützt uns vor den Schwarzen Flammen. Der Große Keiler hat uns allen einen Funken gegeben, damit er uns schützen kann. }
+
+Plh_112 { *Du probierst die Suppe. Sie schmeckt intensiv nach Salz und Hitze. Kurz nach dem Runterschlucken bleibt ein wohliger Geschmack zurück, den du noch nie erlebt hast.* }
+
+Plh_113 { Moment. Schweiß? }
+
+Plh_114 { Danke für die Kostprobe. }
+
+Plh_115 { Gern geschehen, Verirrter. }
+
+Plh_116 { Na ja, Salz ist selten im Düsterwald. Der Händler Tristan hat lange keins mehr mitgebracht. Und der Schweiß der Frischlinge ist ja auch salzig. }
+
+Plh_118 { Das hätte ich gern vorher gewusst! }
+
+Plh_119 { Ich sollte dir mit der Kelle die Scheiße aus dem Leib prügeln! }
+
+Plh_120 { Warum denn? }
+
+Plh_121 { Jetzt beruhige dich. Das liegt nur an dem Salz, dass du so aufgekratzt bist. Lässt gleich wieder nach. }
+
+Plh_123 { Du gehörst zu den Verbundenen. Mein Glückwunsch! }
+
+Plh_126 { Cay und ich haben die Pilze gesammelt. }
+
+Plh_129 { Lass uns essen! }
+
+Plh_130 { Vielleicht später. }
+
+Plh_131 { *klatscht mehrmals in die Hände und ruft* ES IST SO WEIT! ES GIBT ESSEN! }
+
+Plh_132 { Kein Problem. Bring Hunger mit! }
+
+Plh_137 { Meine Verbundenen! Zu Ehren von unserem geschätzten Anatoli habe ich seine Leibspeise zubereitet. Ich hatte gute Hilfe. Ich würde jetzt jeden darum bitten, ein oder zwei Worte zu sagen. }
+
+Plh_138 { Anatoli war immer sehr nett zu mir. Wenn ich mir bei etwas unsicher war, dann hat Anatoli mich ermutigt und mir Sicherheit gegeben. Mögest du Ruhe in deiner Reise finden. }
+
+Plh_139 { *mustert alle* Ohne Anatoli fehlt uns ein wichtiger Mensch in unseren Reihen. Niemand kann ihn ersetzen. Er war mein drittes Auge im Düsterwald. Mögest du Ruhe in deiner Reise finden. }
+
+Plh_140 { *meidet die Blicke der anderen und guckt zu Boden* Ich ... }
+
+Plh_141 { Bertine! Warte! }
+
+Plh_143 { Lass mal sehen ... *er mustert die Pilze in seiner Hand* }
+
+Plh_144 { Sieht gut aus. Dicke Stängel und Wucherungen auf dem Hut. Wie es sich gehört! So, ich bereite den Sud und die Zwiebeln vor. Währenddessen verarbeitest du die Pilze. }
+
+Plh_145 { Ich soll mitkochen? }
+
+Plh_146 { Wie verarbeite ich denn die Pilze? }
+
+Plh_147 { Das Kochen überlasse ich lieber dir. }
+
+Plh_148 { Na klar! Kochen schweißt zusammen. Und ich mag Schweiß! *leckt sich über seine klebrige Hand* }
+
+Plh_149 { Hör gut zu! Jetzt kommt ein sehr wichtiger Schritt. }
+
+Plh_150 { Ach komm schon, mach mit. Das wird großartig, vertrau mir. }
+
+Plh_151 { Also, du nimmst die Pilze und schneidest den Stängel von unten bis zur Hälfte nach oben an. Dann trennst du die untere Hälfte des Stängels ab. }
+
+Plh_152 { Danach schneidest du den Rest vom Stängel auch ab, zerteilst den gesamten Stängel in kleine Würfel und schneidest dann den Hut des Pilzes an. }
+
+Plh_153 { Jetzt guck nicht so. Ist ganz einfach! Na los, versuch's! }
+
+Plh_154 { Ja, ganz einfach. Stängel halbieren, andrücken und würfeln. }
+
+Plh_155 { ... noch mal von vorne, bitte? }
+
+Plh_156 { Genau, so gefällt mir das, aber nicht den Hut vergessen! Setzt dich rüber an den Tisch. Ich bereite alles hier vor. }
+
+Plh_157 { *schaut irritiert drein* Nun gut. }
+
+Plh_158 { (Stängel komplett abschneiden) }
+
+Plh_159 { (Messer unten mittig ansetzen, bis zur Hälfte des Stängels hochschneiden) }
+
+Plh_160 { (Ein schneller Schnitt und schon hast du den gesamten Stängel vom Pilz getrennt) }
+
+Plh_161 { (Du setzt das Messer am unteren Ende des Stängels mittig an und schneidest bis zur Hälfte hoch) }
+
+Plh_162 { (Offenen Stängel gegen beide Seiten des Messers drücken) }
+
+Plh_163 { (Ganzen Stängel gegen eine Seite der Klinge drücken) }
+
+Plh_164 { (Stängel über dem Hut zusammendrücken) }
+
+Plh_165 { (Du drückst beide Seiten des Stängels gegen beide Seiten des Messer) }
+
+Plh_166 { (Langsam drückst du den Stängel gegen eine Seite der Klinge) }
+
+Plh_167 { (Du hältst den Stängel über den Hut und drückst ihn etwas in deiner Hand zusammen, bis ein wenig Saft auf den Hut tropft) }
+
+Plh_168 { (Stängel wegwerfen, Hut in Würfel schneiden) }
+
+Plh_169 { (Stängel würfeln, Hut in acht gleichgroße Stücke teilen) }
+
+Plh_170 { (Du wirfst den Stängel vom Tisch und fängst an, den Hut in kleine Würfel zu schneiden) }
+
+Plh_171 { (Akribisch schneidest du den Stängel in kleine Würfel. Danach halbierst du den Hut solange, bis du acht etwa gleich große Stücke hast) }
+
+Plh_172 { (Geschnittenen Pilz Roarke geben) }
+
+Plh_173 { (Flache Seite der Klinge gegen die Stücke vom Hut drücken, dann Roarke geben) }
+
+Plh_174 { (Mit der flachen Seite des Messers drückst du gegen die Stücke, bis die Haut vom Pilz oben abperlt. Anschließend gibst du Roarke deine geschnittenen Pilze) }
+
+Plh_175 { (Das war alles, oder? Du gibst Roarke deine geschnittenen Pilze) }
+
+Plh_176 { Kommst du zurecht? }
+
+Plh_177 { Eine Kleinigkeit! }
+
+Plh_178 { Ganz so sicher bin ich mir nicht. }
+
+Plh_179 { Dann ist ja gut. Bin auch gleich fertig. }
+
+Plh_180 { Ach, nur zu, das wird großartig, ich vertraue dir! }
+
+Plh_181 { Als hättest du dein Leben lang nichts anderes gemacht. Gute Arbeit! Damit können die Pilze ihr volles Aroma entfalten. }
+
+Plh_182 { Das sieht nicht ganz richtig aus. So wird das Gericht einen leicht bitteren Nachgeschmack bekommen. Aber mach dir nichts draus, das wird auch so lecker! }
+
+Plh_183 { So, jetzt geben wir das alles hier in meinen Kessel und lassen die Pilze ganz kurz heiß werden. Man sollte sie nicht einkochen, da sie sonst zu süß werden. Komm mit. }
+
+Plh_184 { *Roarke rührt noch ein paar Mal um und schmeckt die Suppe ab. Er wirft einzelne Gewürze nach. Danach füllt er zwei Schüsseln mit einem Löffel der Suppe auf und schenkt dir ein.* }
+
+Plh_185 { Probieren! }
+
+Plh_186 { Hm, das schmeckt echt gut. }
+
+Plh_187 { Also für mich ist das nichts. }
+
+Plh_188 { Das würde ich nicht mal essen, wenn ich am Verhungern wäre. }
+
+Plh_189 { Nicht wahr? Der gute Roarke kann so einige Köstlichkeit herbeizaubern. }
+
+Plh_190 { Ach, du musst nur auf den Geschmack kommen. Oder genug Hunger haben! }
+
+Plh_191 { Das wäre so ein Scherz, den auch Anatoli gemacht hätte. Nicht schlecht! }
+
+Plh_192 { Das Rezept hab ich hier aufgeschrieben. Hier, nimm es, dann kannst du das selbst zubereiten und denkst an deinen alten Kumpel Roarke. }
+
+Plh_193 { Hoffentlich kannst du meine Schrift entziffern. }
+
+Plh_194 { Sobald du Hunger hast, können wir alle zusammenrufen und gemeinsam essen. }
+
+Plh_195 { *hält sich mit der Handfläche den Nacken* Äh. Also, ihr wisst ja, dass ich und Anatoli nicht gerade die besten Freunde waren. Aber was ihm passiert ist, hat er nicht verdient. Mögest du Ruhe in deiner Reise finden. }
+
+Plh_196 { Wie könnt ihr alle hier rumsitzen und was essen?! Das Ding ist IMMER NOCH da draußen! Das Ding, das ihn zerrissen hat! Ihr beschmutzt Anatolis Namen! }
+
+Plh_197 { *schaut irritiert in die Runde* Sie ist einfach abgehauen ... }
+
+Plh_198 { Sie kommt bestimmt bald wieder. Sobald sie sich beruhigt hat. Fahren wir fort. Es hilft ja nichts. *er schaut dich erwartungsvoll an* }
+
+Plh_199 { (aufstehen) }
+
+Plh_200 { (sitzenbleiben) }
+
+Plh_201 { (Du stehst auf und alle schauen dich erwartungsvoll an) }
+
+Plh_202 { (Du bleibst sitzen. Einige gucken dich irritiert an, aber erwarten auch etwas von dir.) }
+
+Plh_203 { Mögest du Ruhe in deiner Reise finden. }
+
+Plh_205 { *rot werden und sitzen bleiben* }
+
+Plh_207 { *Roarke blickt enttäuscht drein, aber wendet sich wieder ab* }
+
+Plh_208 { Anatoli war Teil unserer Gemeinschaft. Sein Tod hat uns alle schockiert und erschüttert. Mögest du Ruhe in deiner Reise finden, alter Freund. Auf Anatoli! }
+
+Plh_209 { Und damit essen wir! }
+
+Plh_210 { Du hast dich selbst übertroffen, Roarke! Wenn Anatoli noch hier wäre, hätte er den halben Kessel allein aufgegessen. }
+
+Plh_211 { Den leicht bitteren Geschmack hätte Anatoli mit Sicherheit kommentiert. Aber der Wille zählt! }
+
+Plh_212 { Ich hatte fähige Hilfe! Da kann jemand schnell lernen. *grinst* }
+
+Plh_213 { Ich denke, an deinen Kochkünsten müssen wir wohl noch etwas feilen. }
+
+Plh_214 { *zu dir* Anatoli hätte sich gut mit dir verstanden! }
+
+Plh_215 { *zu dir* Nur ein Spaß! }
+
+Plh_216 { Danke, dass ihr alle gekommen seid. Ich freue mich, dass wir ihm alle gemeinsam unseren Respekt erweisen konnten. Auf viele weitere Sommer im Düsterwald! }
+
+Plh_217 { Ich habe Hunger. Lass uns essen. }
+
+Plh_218 { Danke für deinen Glückwunsch. }
+
+Plh_220 { *grinst* Gern. }
+
+Plh_221 { Sind schon alle Zutaten drin. Also, außer Pilze. Deswegen ... }
+
+Plh_222 { Pilzsuppe? }
+
+Plh_223 { Du wirst sie lieben, glaub mir! }
+
+Plh_224 { Schon klar: ich soll die Pilze besorgen. }
+
+Plh_225 { Ich will jetzt keine Pilze sammeln. }
+
+Plh_226 { Ich weiß, damit hast du jetzt so gar nicht gerechnet! }
+
+Plh_227 { Komm schon, du gehörst zu den Verbundenen. Tu es zu Ehren von Anatoli! }
+
+Plh_228 { Es gibt dabei ein Problem. Die Pilze sind im Erdboden. Man muss sie erspüren. Und dafür brauchst du Cay. }
+
+Plh_229 { Wie soll Cay mir denn damit helfen? }
+
+Plh_231 { Geht das nicht anders? }
+
+Plh_232 { Der Kleine kann mehr, als du denkst. }
+
+Plh_233 { Cay versteht sich schon so gut mit dir. Du wirst es nicht bereuen! }
+
+Plh_234 { Cay hat ein unglaubliches Gespür dafür, die besten Pilze zu finden. Wenn du ihn fütterst, flitzt er oft direkt los, um welche zu holen. Könntest du mit ihm welche besorgen? }
+
+Plh_235 { Gut, ich bringe dir die Pilze. }
+
+Plh_236 { Ich schaue mal, ob ich Zeit dafür finde ... }
+
+Plh_237 { Ich wusste, dass ich mich auf dich verlassen kann! Wenn du mir drei Pilze holst, können wir direkt loslegen. }
+
+Plh_238 { Du würdest den Leuten hier eine große Freude machen. Seit Anatoli gestorben ist, sind alle etwas angespannt, besonders Bertine. }
+
+Plh_241 { Sei beglückwünscht zu deinem Funken. Nicht schlecht! }
+
+Plh_242 { Ich bereite gerade Anatolis ehemalige Leibspeise vor. Leckere Pilzsuppe! }
+
+Plh_244 { Der Düsterwald ... unser Zuhause ... alles weg. }
+
+Plh_246 { Und Diemo ... das kann doch alles nicht wahr sein. }
+
+Plh_247 { Ist Diemo nicht mit euch hierher gekommen? Ich sehe ihn nirgendwo. }
+
+Plh_248 { Diemo ... ist ... }
+
+Plh_249 { Ich erkenne ihn nicht wieder. Er scheint völlig wahnsinnig geworden zu sein. }
+
+Plh_250 { Er muss noch beim Düsterwald sein. Hat irgendwas von den Funken erzählt. }
+
+Plh_251 { Überall waren Schattenreißer und andere Monster! Sie haben uns gejagt! Wir sind geflüchtet und dabei haben wir Diemo verloren. }
+
+Plh_252 { Niemand von uns hat genug Kraft, um ihn wieder im Düsterwald zu suchen ... }
+
+Plh_253 { Diemo ... bitte halte durch. }
+
+Plh_254 { Was ...? }
+
+Plh_255 { Was? Bring ihn zur Vernunft! Wir brauchen ihn hier. }
+
+Plh_256 { Sei vorsichtig. Wer weiß, was er in diesem Zustand anrichtet ... }
+
+Plh_257 { Diemo ist ... tot? }
+
+Plh_258 { Er hat mir an allem die Schuld gegeben und mich nicht angehört. }
+
+Plh_259 { Er hat mich angegriffen und ich musste mich verteidigen. }
+
+Plh_260 { Verstehe ... }
+
+Plh_262 { Das hat Diemo nicht verdient. Er hatte immer ein gutes Herz. Doch das Schicksal hat es ihm nie zurückgezahlt ... }
+
+Plh_264 { Diemo hat immer davon gesprochen, dass man verzeihen muss. Also werde ich das auch tun ... }
+
+Plh_265 { Immerhin weiß ich nun, was passiert ist ... }
+
+Plh_267 { Diemo hat mich angegriffen. }
+
+Plh_268 { Diemo ... ist tot. }
+
+Plh_270 { *mustert dich* Außerdem hat er dich verflucht. Er meinte, dass du daran schuld bist. Dass ohne deine Ankunft in der Zuflucht nichts von alledem passiert wäre. }
+
+Plh_271 { Ja. Wir haben den Großen Keiler bekämpft. }
+
+Plh_272 { Nein, ich hab damit nichts zu tun. }
+
+Plh_273 { Stimmt das? Ist es deine Schuld? }
+
+Plh_274 { Dann hatte Diemo also wirklich recht ... }
+
+Plh_275 { Wieso? Was haben wir dir getan? Haben wir dich nicht aufgenommen?! Als einen von uns behandelt? Sag es mir! }
+
+Plh_276 { Ich wusste nicht, was meine Leute damit vorhatten. }
+
+Plh_277 { Vor dir muss ich mich nicht rechtfertigen. }
+
+Plh_278 { Hast du auch nur einen Moment an uns gedacht? An die Frischlinge? Die Mutter? Bist du so ruchlos? }
+
+Plh_279 { Du solltest uns nicht mehr in die Augen blicken können. Wir haben dir die Hand gereicht, und du hast sie nicht weggeschlagen, sondern gewaltsam abgehackt! }
+
+Plh_280 { Geh mir aus den Augen! Du hast uns verraten. }
+
+Plh_281 { Ich hoffe, unsere Wege kreuzen sich nie wieder ... }
+
+Plh_282 { Das soll ich dir glauben? Hältst du mich für dämlich? NATÜRLICH hast du etwas damit zu tun! }
+
+Plh_284 { Ich habe mich in dir getäuscht. Auf deinem Weg folgt nur Verderben. Du kennst keine Gnade, kein Mitleid. }
+
+Plh_285 { Komm schon, alter Mann. Lass mich noch ein Lied für dich singen! Das wird deine Laune heben. }
+
+Plh_286 { Dein Gejaule ist das Letzte, was ich jetzt brauche. Selbst wenn ich Münzen hätte, würde ich sie eher Olaf für ein kühles Bier geben als dir! }
+
+Plh_287 { Niemand schätzt mein Können hier! }
+
+Plh_288 { ... ich hab gerade andere Probleme. }
+
+Plh_289 { Diemo ist verschwunden, seit der Düsterwald zerstört wurde ... }
+
+Plh_291 { Ich habe ein paar Sachen aus dem Wald, und manchmal hat Anatoli was gefunden. Ich tausche aber nur gegen andere Waren, wir wollen hier keine Münzen von anderen Leuten haben. }
+
+Plh_294 { Gern geschehen, Verirrte. }
+
+Plh_296 { Es muss sich dringend jemand um diesen Verirrten kümmern. Diemo wollte eigentlich Bertine damit beauftragen, aber sie lässt im Moment niemanden an sich ran. }
+
+Plh_297 { Als ich die Pilze gesammelt habe, war ich in der Nähe der Lichtung östlich von hier, auf der Taron normalerweise die Frischlinge freilässt. Das Gebrüll kam tief aus dem Wald. Es klang wie ein Bär. Pass bloß auf dich auf, wenn du da bist! }
+
+Plh_298 { Den abgetrennten Stängel drückst du nun von beiden Seiten gegen dein Messer, sodass dein Messer im Saft des Pilzes getränkt wird. }
+
+Plh_299 { Halbiere, bis du acht einzelne Stücke hast. Jetzt zerdrückst du die Stücke mit der flachen Seite deines Messers, bis die äußerste Pilzschicht abfällt. }
+
+Plh_300 { DU! Warum, bei den Göttlichen, ausgerechnet du! }
+
+Plh_301 { Verkaufst du was? }
+
+Plh_302 { Und ich meine keine Verirrten wie dich. Die würde man nicht kratzen und brüllen hören. Sondern ein gefährliches Tier, das den Frieden des Waldes stört. Ein Bär, wenn mich meine Ohren nicht getäuscht haben. }
+
+Plh_307 { (Probieren) }
+
+Plh_308 { (Leicht angewidert gucken, trotzdem probieren) }
+
+Plh_310 { Nur zu. Ich würde zwar gerne noch mehr mit dir quatschen ... }
+
+Plh_311 { Warte mal, ihr handelt nicht mit Münzen? }
+
+Plh_312 { Was sollen wir mit solchen Münzen? Wir haben den Großen Keiler und die Frischlinge. Mehr brauchen wir nicht. }
+
+Plh_313 { Eine Sache noch: Wenn du die Schwarzen Flammen wie hier neben dem Lager siehst, dann halt dich lieber davon fern! Schau ... da drüben. }
+
+Plh_314 { Und wer mein Essen nicht mag, bekommt was hinten drauf! }
+
+Plh_315 { Eine belebende Pilzart, die nur hier im Düsterwald wächst. Wenn das nicht hilft, dann weiß ich auch nicht weiter. }
+
+Plh_319 { Natürlich nur, wenn du unsere Tugenden kennst und achtest. }
+
+Plh_320 { Tristan hat erzählt, ihr habt einen Weg durch die Schwarzen Flammen. }
+
+Plh_321 { Ja das stimmt, unsere Funken schützen uns vor ihm. Aber weißt du, ich bin meistens sowieso hier ... }
+
+Plh_322 { Was schwirrt da die ganze Zeit um dich rum? }
+
+Plh_323 { Oh, du meinst meinen Funken? Das ist so was wie mein Vertrauter. Jeder von uns Verbundenen hat einen. Er vertreibt die Schwarzen Flammen und spendet Licht. }
+
+Plh_325 { Hey, $GVAR:EVars_Player.Name$! }
+
+Plh_326 { Schön, dich zu sehen. Und schön, dass du zu den Verbundenen zählst! }
+
+Plh_328 { Ohne einen Funken bringt dich das um, bevor du "Großer Keiler" sagen kannst. }
+
+Plh_329 { Birka ist seit einer Ewigkeit hier und bekommt ihren erst jetzt. Nicht schlecht! }
+
+Plh_330 { Ein absoluter Genuss! }
+
+Plh_331 { Pass gut auf dich auf, wenn du in den Wald gehst. }
+
+Plh_334 { Drei Pilze genügen schon, und ich zaubere uns ein Essen, wie du es noch nie gegessen hast! }
+
+Plh_335 { Passiert selten, dass es jemand an den Schwarzen Flammen vorbei hierher schafft. Aber sag, wo du schon hier bist ... }
+
+Plh_336 { Willst du mein neues Gericht probieren? Du kennst mein anderes Zeug noch nicht und kannst es neutral beurteilen. }
+
+Plh_339 { ... jetzt noch ein verirrtes Biest. Das sind ZWEI Wesen, die hier nicht hingehören. }
+
+Plh_340 { Ist das dein einziges Problem?! Bleib mir gestohlen mit deinem Quatsch. }
+
+Plh_341 { Ich will nichts von dir wissen, lass mich in Ruhe. }
+
+Plh_342 { Ich verzeihe dir, $GVAR:EVars_Player.Name$. Der alte Diemo würde nicht wollen, dass ich dir nicht verzeihe. }
+
+Plh_343 { Aber deine Fehler und Sünde kann ich dir nicht vergeben. Das können nur die Göttlichen. Sie werden über dich entscheiden, wenn du in die Erde gehst. So wie bei uns allen. Bis dahin musst du mit deinen Entscheidungen leben. }
+
+Plh_345 { Ich hab alles mitgenommen, was ich konnte, als wir geflüchtet sind. Sieh es dir ruhig an. }
+
+Plh_346 { Ich hoffe, dass wir eine neue Heimat finden ... }
+
+Plh_347 { Mut, sich einer Gefahr zu stellen. Mut, unsere eigenen Wege zu hinterfragen. Mut ist die Kraft aus unserem Herzen, die uns zeigt, was getan werden muss. }
+
+Plh_348 { Ich habe noch was für dich. Du gehörst jetzt zu uns. Ich war im Wald und habe einen Kopfschmuck für dich gebastelt. }
+
+Plh_349 { Es soll allen zeigen, dass du verbunden bist mit uns und dem Großen Keiler. }
+
+Plh_350 { Danke, Roarke. (Kopfschmuck anziehen) }
+
+Plh_351 { So was brauche ich nicht. }
+
+Plh_352 { Ähm, ich möchte keinen Kopfschmuck haben. }
+
+Plh_353 { *grinst* Ich gebe es dir einfach. Du kannst damit machen, was du willst. }
+
+Plh_354 { Wir sind verbunden, du gehörst zu uns. }
+
+aboutOtherQuests { Wegen Diemo ... }
+
+Plh_356 { Niemand kann dem Großen Keiler Schaden zufügen. Er ist dieser Wald und wir spüren keine Angst oder Sorge von ihm. Mach dir keine Sorgen. }
+
+Plh_357 { Ich will euch warnen, mein Lager will den Großen Keiler einfangen! }
+

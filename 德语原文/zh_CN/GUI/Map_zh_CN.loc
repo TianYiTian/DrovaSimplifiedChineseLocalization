@@ -1,0 +1,29 @@
+Title_Maps { Karten }
+
+MapName_World_Rough { Grobe Weltkarte }
+
+MapName_World_Detailed { Weltkarte }
+
+MapName_World_Shrines { Schreine }
+
+MapName_Nemeton { Nemeton }
+
+MapName_Ruincamp { Ruinenlager }
+
+MapName_Leuchtwald { Düsterwald }
+
+MapName_Tristan { Tristans Karte }
+
+MarkerPlaced { Auf Karte markiert }
+
+NoInk { Benötigt Tinte }
+
+Title_Markers { Stempel }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { Stempel plazieren }
+
+DeleteMarker { Stempel löschen }
+
+Hint_Ink { Kaufe Tinte, um Orte auf der Karte zu markieren. }

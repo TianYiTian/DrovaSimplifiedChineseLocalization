@@ -1,0 +1,2764 @@
+weapon_sword { Schwert }
+
+weapon_spear { Speer }
+
+weapon_axe { Axt }
+
+weapon_dagger { Dolche }
+
+weapon_shield { Schild }
+
+weapon_bow { Bogen }
+
+weapon_slingshot { Schleuder }
+
+item_honeyMead_name { Honigmet }
+
+item_honeyMead_description {  }
+
+item_redHerb_name { Rostkraut }
+
+item_redHerb_description { Wächst im Moor. }
+
+item_meat_raw_name { Saftiges Fleisch }
+
+item_meat_raw_description { Das ist noch roh. Verzehr ist nicht empfohlen. }
+
+item_farmersFood_name { Bauernmahlzeit }
+
+item_farmersFood_description {  }
+
+item_bogIron_name { Raseneisenstein }
+
+item_bogIron_description {  }
+
+armor_feet_shoe_lost_name { Einzelner Lederschuh }
+
+armor_feet_shoe_lost_description { Ein einzelner, stinkender Schuh. }
+
+item_letterToAsmus_open_name { Geöffneter Brief für Asmus }
+
+item_letterToAsmus_open_description { Dieser Brief ist an Asmus adressiert. Das Siegel wurde gebrochen. }
+
+item_honey_name { Honig }
+
+item_honey_description {  }
+
+item_packageToMoorlager_name { Warenpaket }
+
+item_packageToMoorlager_description { Waren von Georg für Angus in Nemeton. }
+
+item_letterToAsmus_sealed_name { Brief für Asmus }
+
+item_letterToAsmus_sealed_description { Dieser Brief ist an Asmus adressiert. }
+
+item_healthPlant_0_name { Heilpflanze }
+
+item_healthPlant_0_description {  }
+
+item_healthPlant_1_name { Große Heilpflanze }
+
+item_healthPlant_1_description {  }
+
+item_lanternFruit_name { Laternenfrucht }
+
+item_lanternFruit_description { Wird an Bäumen im Düsterwald gefunden. }
+
+item_lyra_name { Lyra }
+
+misc_lockpick_simple_name { Einfacher Dietrich }
+
+misc_lockpick_simple_description {  }
+
+misc_worldmap_name { Grobe Karte von Drova }
+
+misc_worldmap_description {  }
+
+misc_mapink_name { Tinte }
+
+misc_mapink_description { Wird benötigt, um Orte auf der Karte zu markieren. }
+
+key_chest_delani_name { Delanis Schlüssel }
+
+key_chest_delani_description { Schlüssel für Delanis Truhe. }
+
+note_evidence_boris_name { Geplanter Überfall }
+
+note_evidence_boris_description { Habe ich Banditen vor dem Ruinenlager abgenommen. }
+
+item_stolenPackage_name { Gestohlenes Paket }
+
+item_stolenPackage_description { Dieses Paket habe ich im Apfelhain gefunden. Es müffelt. }
+
+item_alraune_name { Alraune }
+
+item_alraune_description { Eine schreiende Wurzel. Wofür man sie wohl braucht? }
+
+item_callashroom_name { Callapilz }
+
+item_callashroom_description { Pilz aus dem Moor. }
+
+item_egg_name { Ei }
+
+item_egg_description { Ein Ei aus einem Nest }
+
+item_beer_name { Bier }
+
+item_beer_description { Einfaches Bier. Schmeckt besser, je mehr man trinkt. }
+
+item_apple_name { Apfel }
+
+item_apple_description {  }
+
+item_callashroom_extract_name { Callapilz-Extrakt }
+
+item_callashroom_extract_description { Extrakt, das für Helmas Talisman benötigt wird. }
+
+item_ironbar_name { Eisenbarren }
+
+item_ironbar_description {  }
+
+note_debtorlist_name { Schuldnerliste von Friedel }
+
+note_debtorlist_description { Viele Leute haben Schulden. Bin ich jetzt ein Schuldeneintreiber? }
+
+key_ratcellar_name { Schlüssel zum Keller }
+
+key_ratcellar_description { Schlüssel zum Keller der Taverne im Ruinenlager. }
+
+weapon_axe_bady_dull_name { Badys stumpfe Axt }
+
+weapon_axe_bady_dull_description {  }
+
+weapon_axe_bady_sharp_name { Badys scharfe Axt }
+
+weapon_axe_bady_sharp_description {  }
+
+item_letterMehlunaToBady_name { Liebesbrief von Meluna }
+
+item_letterMehlunaToBady_description {  }
+
+item_earthroot_name { Erdwurzel }
+
+item_earthroot_description { Wächst an Flüssen im Auwald. }
+
+item_wine_name { Wein }
+
+item_wine_description { Muss man genießen. }
+
+note_mineInformation_name { Gesuch für Hauer }
+
+note_mineInformation_description {  }
+
+item_entryMine_name { Zettel von Levin }
+
+item_entryMine_description {  }
+
+item_silverore_name { Silbererz }
+
+item_silverore_description { Muss an einem Rennofen verarbeitet werden. }
+
+tool_pickaxe_silberhauer_name { Silberbrecher }
+
+tool_pickaxe_silberhauer_description { Eine verdammt schöne Spitzhacke, die mir Merik verkauft hat. }
+
+item_logwood_name { Rundholz }
+
+item_logwood_description {  }
+
+item_salve_healing_name { Heilsalbe }
+
+item_salve_healing_description {  }
+
+item_pigglet_food_name { Stärkendes Futter }
+
+item_pigglet_food_description { Das wird den Frischlingen Kraft geben. }
+
+item_brokenwings_name { Mückenflügel }
+
+item_brokenwings_description {  }
+
+item_furtuft_name { Lederfetzen }
+
+item_furtuft_description {  }
+
+item_resin_name { Harz }
+
+item_resin_description { Von Baumwesen erhalten. }
+
+weapon_axe_largeBranch_name { Steinaxt }
+
+weapon_axe_largeBranch_description {  }
+
+weapon_axe_woodSplitter_name { Holzspalter }
+
+weapon_axe_woodSplitter_description {  }
+
+weapon_axe_bronzeTusk_name { Bronzehauer }
+
+weapon_axe_bronzeTusk_description { Ermöglicht den Abbau von Erzen. }
+
+weapon_axe_jawboneAxe_name { Kieferknochenaxt }
+
+weapon_axe_jawboneAxe_description {  }
+
+weapon_axe_heavyNailClub_name { Schartige Bronzeaxt }
+
+weapon_axe_heavyNailClub_description {  }
+
+weapon_axe_deformedAxe_name { Provisorische Axt }
+
+weapon_axe_deformedAxe_description {  }
+
+weapon_axe_lightAxe_name { Leichte Axt }
+
+weapon_axe_lightAxe_description {  }
+
+weapon_axe_coarseBronzeAxe_name { Grobe Bronzeaxt }
+
+weapon_axe_coarseBronzeAxe_description {  }
+
+weapon_axe_oldAxe_name { Alte Axt }
+
+weapon_axe_oldAxe_description {  }
+
+weapon_axe_splittingAxe_name { Spaltaxt }
+
+weapon_axe_splittingAxe_description {  }
+
+weapon_axe_beardedAxe_name { Verformte Bartaxt }
+
+weapon_axe_beardedAxe_description {  }
+
+weapon_axe_broadAxe_name { Breitaxt }
+
+weapon_axe_broadAxe_description {  }
+
+weapon_axe_highlandAxe_name { Hochlandaxt }
+
+weapon_axe_highlandAxe_description {  }
+
+weapon_axe_coarseDoubleAxe_name { Schädelspalter }
+
+weapon_axe_coarseDoubleAxe_description {  }
+
+weapon_axe_doubleAxe_name { Grobe Eisenaxt }
+
+weapon_axe_doubleAxe_description {  }
+
+weapon_axe_rustyAxe_name { Kriegsaxt }
+
+weapon_axe_rustyAxe_description {  }
+
+weapon_axe_coarseWarAxe_name { Eisenaxt }
+
+weapon_axe_coarseWarAxe_description {  }
+
+weapon_axe_warAxe_name { Rostige Axt }
+
+weapon_axe_warAxe_description {  }
+
+weapon_axe_bearSlaughtererAxe_name { Bärenschlächteraxt }
+
+weapon_axe_bearSlaughtererAxe_description {  }
+
+weapon_axe_greatAxe_name { Großaxt }
+
+weapon_axe_greatAxe_description {  }
+
+weapon_axe_barbarianBattleAxe_name { Barbarenstreitaxt }
+
+weapon_axe_barbarianBattleAxe_description {  }
+
+weapon_axe_iron-BoundGreatAxe_name { Stumpfe Großaxt }
+
+weapon_axe_iron-BoundGreatAxe_description {  }
+
+weapon_axe_bloodReaper_name { Obsidianschnitter }
+
+weapon_axe_bloodReaper_description {  }
+
+weapon_axe_berserkAxe_name { Scharfrichter }
+
+weapon_axe_berserkAxe_description { Niemand entkommt seinem Urteil. }
+
+weapon_sword_gildedSickle_name { Vergoldete Sichel }
+
+weapon_sword_gildedSickle_description {  }
+
+weapon_sword_nailClub_name { Angelaufenes Bronzeschwert }
+
+weapon_sword_nailClub_description {  }
+
+weapon_sword_heavyNailClub_name { Stumpfe Bronzeklinge }
+
+weapon_sword_heavyNailClub_description {  }
+
+weapon_sword_bronzeShortSword_name { Abgenutztes Kurzschwert }
+
+weapon_sword_bronzeShortSword_description {  }
+
+weapon_sword_warClub_name { Provisorisches Bronzeschwert }
+
+weapon_sword_warClub_description {  }
+
+weapon_sword_oldBronzeGladius_name { Alter Bronzegladius }
+
+weapon_sword_oldBronzeGladius_description {  }
+
+weapon_sword_roughSword_name { Verformtes Schwert }
+
+weapon_sword_roughSword_description {  }
+
+weapon_sword_sword_name { Kurzschwert }
+
+weapon_sword_sword_description {  }
+
+weapon_sword_scavengingScimitar_name { Plünderkrummschwert }
+
+weapon_sword_scavengingScimitar_description {  }
+
+weapon_sword_hawk'SClaw_name { Falkenkralle }
+
+weapon_sword_hawk'SClaw_description {  }
+
+weapon_sword_crudeIronBlade_name { Rohe Eisenklinge }
+
+weapon_sword_crudeIronBlade_description {  }
+
+weapon_sword_coarseBroadsword_name { Breitschwert }
+
+weapon_sword_coarseBroadsword_description {  }
+
+weapon_sword_broadsword_name { Rostiges Breitschwert }
+
+weapon_sword_broadsword_description {  }
+
+weapon_sword_longsword_name { Langschwert }
+
+weapon_sword_longsword_description {  }
+
+weapon_sword_battleBlade_name { Schlachtklinge }
+
+weapon_sword_battleBlade_description {  }
+
+weapon_sword_berserkBlade_name { Berserkerklinge }
+
+weapon_sword_berserkBlade_description {  }
+
+weapon_sword_swordOfNemeton_name { Stumpfes Kriegerschwert }
+
+weapon_sword_swordOfNemeton_description {  }
+
+weapon_sword_swordOfTheFaithful_name { Schwert der Getreuen }
+
+weapon_sword_swordOfTheFaithful_description {  }
+
+weapon_sword_runeSword_name { Runenschwert }
+
+weapon_sword_runeSword_description {  }
+
+weapon_sword_moonSword_name { Mondschwert }
+
+weapon_sword_moonSword_description { Wer Lunas Angebot ablehnt, wird ihre dunkle Seite spüren. }
+
+weapon_dagger_tombstick_name { Abgenutzte Bronzedolche }
+
+weapon_dagger_tombstick_description {  }
+
+weapon_dagger_pineDagger_name { Schartige Bronzemesser }
+
+weapon_dagger_pineDagger_description {  }
+
+weapon_dagger_breadKnife_name { Brotmesser }
+
+weapon_dagger_breadKnife_description {  }
+
+weapon_dagger_fang_name { Stumpfer Stachel }
+
+weapon_dagger_fang_description {  }
+
+weapon_dagger_boneKnife_name { Knochenmesser }
+
+weapon_dagger_boneKnife_description {  }
+
+weapon_dagger_wornBronzeDagger_name { Bronzedolche }
+
+weapon_dagger_wornBronzeDagger_description {  }
+
+weapon_dagger_bronzeDagger_name { Ausbalancierte Dolche }
+
+weapon_dagger_bronzeDagger_description {  }
+
+weapon_dagger_pointedDagger_name { Verformte Bronzedolche }
+
+weapon_dagger_pointedDagger_description {  }
+
+weapon_dagger_ceremonialDagger_name { Zeremoniedolche }
+
+weapon_dagger_ceremonialDagger_description {  }
+
+weapon_dagger_sacrificialDagger_name { Kurzklingen }
+
+weapon_dagger_sacrificialDagger_description {  }
+
+weapon_dagger_shortBlade_name { Reißzahndolche }
+
+weapon_dagger_shortBlade_description {  }
+
+weapon_dagger_coarseDagger_name { Moskitostachel }
+
+weapon_dagger_coarseDagger_description {  }
+
+weapon_dagger_ironSpike_name { Eisenstachel }
+
+weapon_dagger_ironSpike_description {  }
+
+weapon_dagger_mosquitoSting_name { Rostige Dolche }
+
+weapon_dagger_mosquitoSting_description {  }
+
+weapon_dagger_ironDagger_name { Nebelstachel }
+
+weapon_dagger_ironDagger_description {  }
+
+weapon_dagger_blackKnife_name { Schwarze Messer }
+
+weapon_dagger_blackKnife_description {  }
+
+weapon_dagger_eviscerator_name { Ausweider }
+
+weapon_dagger_eviscerator_description {  }
+
+weapon_dagger_silence_name { Stumpfe Eisendolche }
+
+weapon_dagger_silence_description {  }
+
+weapon_dagger_heartSeeker_name { Herzsucher }
+
+weapon_dagger_heartSeeker_description {  }
+
+weapon_dagger_theKingslayer_name { Blutdolch }
+
+weapon_dagger_theKingslayer_description {  }
+
+weapon_dagger_bloodDagger_name { Königsmörder }
+
+weapon_dagger_bloodDagger_description { Wenn sich das Volk erhebt, fällt der König. }
+
+weapon_sling_coarseSling_name { Grobe Schlinge }
+
+weapon_sling_coarseSling_description {  }
+
+weapon_sling_simpleSlingshot_name { Einfache Schleuder }
+
+weapon_sling_simpleSlingshot_description {  }
+
+weapon_sling_heavySlingshot_name { Schwere Schleuder }
+
+weapon_sling_heavySlingshot_description {  }
+
+weapon_sling_headSlingshot_name { Kopfschleuder }
+
+weapon_sling_headSlingshot_description {  }
+
+weapon_sling_battleSlingshot_name { Kampfschleuder }
+
+weapon_sling_battleSlingshot_description {  }
+
+weapon_bow_simpleBow_name { Einfacher Bogen }
+
+weapon_bow_simpleBow_description {  }
+
+weapon_bow_shortBow_name { Kurzbogen }
+
+weapon_bow_shortBow_description {  }
+
+weapon_bow_huntingBow_name { Provisorischer Bogen }
+
+weapon_bow_huntingBow_description {  }
+
+weapon_bow_longBow_name { Langbogen }
+
+weapon_bow_longBow_description {  }
+
+weapon_bow_reinforcedBow_name { Verzogener Bogen }
+
+weapon_bow_reinforcedBow_description {  }
+
+weapon_bow_battleBow_name { Kampfbogen }
+
+weapon_bow_battleBow_description {  }
+
+item_bloodquitostinger_name { Mückenstachel }
+
+item_bloodquitostinger_description {  }
+
+item_boartusk_name { Eberstoßzahn }
+
+item_boartusk_description {  }
+
+weapon_sword_shortSword_name { Bronzekurzschwert }
+
+weapon_sword_shortSword_description {  }
+
+weapon_sword_gladius_name { Gladius }
+
+weapon_sword_gladius_description {  }
+
+weapon_spear_woodenSpear_name { Alter Speer }
+
+weapon_spear_woodenSpear_description {  }
+
+weapon_spear_stoneSpear_name { Stumpfer Speer }
+
+weapon_spear_stoneSpear_description {  }
+
+weapon_spear_pitchfork_name { Provisorischer Speer }
+
+weapon_spear_pitchfork_description {  }
+
+weapon_spear_fishSpear_name { Verbogener Bronzespeer }
+
+weapon_spear_fishSpear_description {  }
+
+weapon_spear_wolfToothSpear_name { Wolfzahnspeer }
+
+weapon_spear_wolfToothSpear_description {  }
+
+weapon_spear_shortSpear_name { Kurzspeer }
+
+weapon_spear_shortSpear_description {  }
+
+weapon_spear_simpleBronzeSpear_name { Einfacher Bronzespeer }
+
+weapon_spear_simpleBronzeSpear_description {  }
+
+weapon_spear_huntingSpear_name { Verformter Jagdspeer }
+
+weapon_spear_huntingSpear_description {  }
+
+weapon_spear_ango_name { Ango }
+
+weapon_spear_ango_description {  }
+
+weapon_spear_framea_name { Framea }
+
+weapon_spear_framea_description {  }
+
+weapon_spear_ger_name { Ger }
+
+weapon_spear_ger_description {  }
+
+weapon_spear_bronzeSpear_name { Eisenspeer }
+
+weapon_spear_bronzeSpear_description {  }
+
+weapon_spear_spear_name { Saufeder }
+
+weapon_spear_spear_description {  }
+
+weapon_spear_deathRitualSpear_name { Rostiger Speer }
+
+weapon_spear_deathRitualSpear_description {  }
+
+weapon_spear_partisan_name { Partisane }
+
+weapon_spear_partisan_description {  }
+
+weapon_spear_pilum_name { Pilum }
+
+weapon_spear_pilum_description {  }
+
+weapon_spear_wingSpear_name { Flügelspeer }
+
+weapon_spear_wingSpear_description {  }
+
+weapon_spear_silverSpear_name { Stumpfer Eisenspeer }
+
+weapon_spear_silverSpear_description {  }
+
+weapon_spear_bloodBlade_name { Blutklinge }
+
+weapon_spear_bloodBlade_description {  }
+
+weapon_spear_tipOfDeath_name { Speer der Roten Schlange }
+
+weapon_spear_tipOfDeath_description {  }
+
+weapon_spear_messengerOfTheDivine_name { Hydras Zahn }
+
+weapon_spear_messengerOfTheDivine_description { Auge um Auge, Zahn um Zahn, gemeinsam nehmen wir es auch mit der Hydra auf. }
+
+weapon_shield_adornedWoodenShield_name { Verzierter Schild }
+
+weapon_shield_adornedWoodenShield_description {  }
+
+weapon_shield_smallRoundShield_name { Kleiner Rundschild }
+
+weapon_shield_smallRoundShield_description {  }
+
+weapon_shield_smallBronzeShield_name { Kleiner Bronzeschild }
+
+weapon_shield_smallBronzeShield_description {  }
+
+weapon_shield_bronzeShield_name { Verformter Bronzeschild }
+
+weapon_shield_bronzeShield_description {  }
+
+weapon_shield_sigilShield_name { Wappenschild }
+
+weapon_shield_sigilShield_description {  }
+
+weapon_shield_roundShield_name { Rostiger Rundschild }
+
+weapon_shield_roundShield_description {  }
+
+weapon_shield_theWall_name { Die Mauer }
+
+weapon_shield_theWall_description {  }
+
+weapon_shield_protection_name { Eisenschild }
+
+weapon_shield_protection_description {  }
+
+weapon_axe_snaga_name { Snaga }
+
+weapon_axe_snaga_description {  }
+
+weapon_sword_branch_name { Ast }
+
+weapon_sword_branch_description {  }
+
+weapon_sword_baton_name { Schlagstock }
+
+weapon_sword_baton_description {  }
+
+weapon_shield_woodenBoard_name { Holzbrett }
+
+weapon_shield_woodenBoard_description {  }
+
+weapon_shield_smallWoodenShield_name { Kleiner Holzschild }
+
+weapon_shield_smallWoodenShield_description {  }
+
+item_roastedMeat_name { Gebratenes sehniges Fleisch }
+
+item_roastedMeat_description { Nicht besonders lecker, aber du weißt wenigstens, wo es herkommt. }
+
+item_signOfAtonement_name { Zeichen der Sühne }
+
+item_signOfAtonement_description { Meine Verbrechen in der Zuflucht werden mir damit verziehen. }
+
+item_luminousTruffle_name { Trüffel }
+
+item_luminousTruffle_description {  }
+
+item_slingermunition_name { Schleuderstein }
+
+item_slingermunition_description { Munition für die Schleuder. Kann in Flüssen gefunden werden. }
+
+item_ironore_name { Eisenerz }
+
+item_ironore_description { Muss an einem Rennofen verarbeitet werden. }
+
+item_ironlump_name { Eisenklumpen }
+
+item_ironlump_description {  }
+
+item_frogleg_name { Froschbein }
+
+item_frogleg_description {  }
+
+item_acidsecretion_name { Säuresekret }
+
+item_acidsecretion_description { Kann mit dem Talent "Sekret extrahieren" von Tieren erhalten werden. }
+
+item_forestessence_name { Waldessenz }
+
+item_forestessence_description { Diese Essenz kann man nur von einem mächtigen Wesen des Waldes erhalten. }
+
+item_teeth_name { Zähne }
+
+item_leather_name { Leder }
+
+item_leather_description { Kann mit dem Talent "Fell abziehen" von Tieren erhalten werden. }
+
+item_feather_name { Feder }
+
+item_feather_description { Kann in Nestern gefunden werden. }
+
+item_stalkerfeather_name { Schnapperfeder }
+
+item_stalkerfeather_description {  }
+
+item_meat_stringy_name { Sehniges Fleisch }
+
+item_flowPlant_0_name { Quellwurz }
+
+item_flowPlant_0_description { Bei alten Strukturen zu finden. }
+
+item_flowPlant_1_name { Quellblüte }
+
+item_flowPlant_1_description { Bei alten Strukturen zu finden. }
+
+item_healthPlant_2_name { Lebensblüte }
+
+item_healthPlant_2_description {  }
+
+item_potion_health_0_name { Heiltrank }
+
+item_potion_health_0_description {  }
+
+item_potion_health_1_name { Starker Heiltrank }
+
+item_potion_health_1_description {  }
+
+item_permapotion_life_name { Elixier des Lebens }
+
+item_permapotion_life_description {  }
+
+item_permapotion_strength_name { Elixier der Stärke }
+
+item_permapotion_strength_description {  }
+
+item_permapotion_mind_name { Elixier der Geistes }
+
+item_permapotion_mind_description {  }
+
+item_permapotion_skill_name { Elixier des Geschicks }
+
+item_permapotion_skill_description {  }
+
+item_permaherb_strength_name { Basaltwurzel }
+
+item_permaherb_strength_description {  }
+
+item_permaherb_mind_name { Leerenpflanze }
+
+item_permaherb_mind_description {  }
+
+item_permaherb_life_name { Weißdorn }
+
+item_permaherb_life_description {  }
+
+item_permaherb_skill_name { Klippenflechte }
+
+item_permaherb_skill_description {  }
+
+item_shadowmushroom_name { Schattenpilz }
+
+item_shadowmushroom_description { Wächst überall, wo es dunkel ist. }
+
+item_redmushroomtincture_name { Rotpilz-Tinktur }
+
+item_redmushroomtincture_description {  }
+
+item_beartrap_name { Bärenfallen }
+
+item_beartrap_description { Betäubt das Ziel für [TimeAbs] Sekunden und verursachte starke Blutung. }
+
+item_cavemushroom_name { Höhlenpilz }
+
+item_cavemushroom_description { Wächst überall, wo es dunkel ist. }
+
+item_ruinherb_name { Ruinengewächs }
+
+item_ruinherb_description {  }
+
+item_tarnishedSilverCup_name { Angelaufener Silberbecher }
+
+item_mudLotus_name { Schlammlotus }
+
+item_mudLotus_description { Wächst in schlammigen Mooren. }
+
+item_shinyStone_name { Mysteriöser Kristall }
+
+item_shinyStone_description { Von einem Druiden erhalten. Ich soll ihn nach Nemeton bringen. }
+
+cons_flow_energyProjectile_name { Magisches Geschoss }
+
+cons_flow_energyProjectile_description { Schießt ein magisches Geschoss in Blickrichtung, das bei einem Treffer explodiert und [DamageFlexAbs] magischen Schaden verursacht. }
+
+cons_flow_conflagration_name { Feuersbrunst }
+
+cons_flow_conflagration_description { Beschwört eine Flammenexplosion um dich herum, die [DamageFlexAbs] magischen Schaden verursacht. }
+
+cons_flow_wound_name { Verwunden }
+
+cons_flow_wound_description { Verursacht [WeaponDamagePercent] Waffenschaden und fügt Gegnern Blutung zu. }
+
+key_harvey_name { Alter Schlüssel }
+
+key_harvey_description { In Nemeton gefunden. Sieht sehr alt und abgenutzt aus. }
+
+misc_currency_name { Münzen }
+
+misc_currency_description { Die Währung in Drova. }
+
+weapon_barehands_name { Fäuste }
+
+weapon_barehands_description { Angriffsschaden von waffenlosen Angriffen skalieren mit Stärke. }
+
+item_stew_tiaa_manipulated_name { Manipuliertes Essen }
+
+item_stew_tiaa_manipulated_description { Badys Darm wird sich freuen. }
+
+item_mushroom_name { Gewöhnlicher Pilz }
+
+item_mushroom_description {  }
+
+item_berry_name { Beere }
+
+item_berry_description { Wächst im Auwald. }
+
+item_fish_bass_name { Barsch }
+
+item_bottlePost_name { Flaschenpost }
+
+item_bottlePost_description {  }
+
+item_auwaldDungeon_name { Der Kristalldieb }
+
+item_auwaldDungeon_description {  }
+
+misc_riddle_sundial_name { Widderfigur }
+
+misc_riddle_sundial_description {  }
+
+misc_riddle_mirror_name { Spiegel }
+
+misc_riddle_mirror_description {  }
+
+misc_riddle_incense_name { Weihrauchgefäß }
+
+misc_riddle_incense_description {  }
+
+misc_riddle_horn_name { Horn }
+
+misc_riddle_horn_description { In vielen Situation nutzbar und immer angebracht. }
+
+misc_riddle_conch_name { Muschel }
+
+misc_riddle_conch_description {  }
+
+misc_riddle_club_name { Zeremonielles Schwert }
+
+misc_riddle_club_description {  }
+
+item_yellowGlyphStone_name { Gelber, glänzender Stein }
+
+item_yellowGlyphStone_description { Ein gelber, verzierter Stein. Auf ihm kreuzen sich zwei Hände unter einem Rabensymbol. }
+
+tool_pickaxe_improvisedpickaxebroken_name { Zerstörter Hauer }
+
+tool_pickaxe_improvisedpickaxebroken_description { So ein Mist! Was hat mir Merik für einen Scheiß verkauft? }
+
+throwing_knife_name { Wurfmesser }
+
+throwing_knife_description { Wirft ein Messer, das [DamageFlexAbs] Schaden verursacht. Ignoriert die Rüstung des Ziels. }
+
+item_lyra_description { Spricht eine Sprache, die alle verstehen. }
+
+tool_torch_name { Fackel }
+
+tool_torch_description { Spendet Licht in dunklen Gebieten und Höhlen. Das Ziehen einer Waffe lässt die Fackel fallen. }
+
+item_claw_name { Klaue }
+
+misc_bagOfCurrency_name { Klimpernder Beutel }
+
+item_diaryKora_name { Koras Tagebuch }
+
+item_treasureMap_auwald_name { Schatz: Auwald }
+
+misc_map_tristan_name { Tristans Karte }
+
+item_claw_description { Kann mit dem Talent "Krallen ziehen" von Tieren erhalten werden. }
+
+misc_bagOfCurrency_description { Ein Sack der klimpert, wenn du ihn schüttelst. Sind es nur ein paar Münzen oder verbirgt sich mehr dahinter? }
+
+key_chest_mineBanditMainKey_name { Rostiger Schlüssel }
+
+key_chest_mineBanditMainKey_description { Hab ich ein paar Banditen abgenommen. }
+
+item_mineRelic_name { Merkwürdiges Relikt }
+
+item_mineRelic_description { Ein altes Relikt der Vergangenen. }
+
+item_rubble_name { Geröll }
+
+item_rubble_description {  }
+
+Note_BanditMine_name { Das Relikt der Vergangenen }
+
+Note_BanditMine_description {  }
+
+item_spiritVessel_greatTusk_name { Geistergefäß }
+
+item_spiritVessel_greatTusk_description {  }
+
+item_atlanterRune_name { Merkwürdige Rune }
+
+item_atlanterRune_description {  }
+
+item_runestone_name { Runenstein }
+
+item_runestone_empty_name { Leerer Runenstein }
+
+item_packageBrutusMineWeapons_name { Waffenpaket }
+
+item_packageBrutusMineWeapons_description { Genügend Waffen für alle. Es ist Zeit, hier auszubrechen. }
+
+key_chest_mineBanditEntry_name { Rostiger Schlüssel }
+
+key_chest_mineBanditEntry_description { An einem Banditen gefunden. }
+
+item_runestone_description { Der Runenstein ist eine direkte Verbindung zur magischen Kraft des Großen Keilers. Durch ihn kann ich jederzeit Zauber wirken. }
+
+item_runestone_empty_description {  }
+
+item_diaryKora_description {  }
+
+misc_map_tristan_description {  }
+
+cons_Familiar_Firefly_name { Funke }
+
+key_tavernKey_name { Tavernenschlüssel }
+
+key_tavernKey_description { Schlüssel für den Hinterausgang aus der Taverne. }
+
+weapon_bow_atlanterBow_name { Bote der Götter }
+
+weapon_bow_atlanterBow_description { Ihre Nachricht mag dir nicht gefallen, sag es ihnen selbst. }
+
+weapon_shield_atlanterShield_name { Schutz der Götter }
+
+weapon_shield_atlanterShield_description { Lang lebe der Held der Götter. }
+
+misc_writing_importantdocument_name { Der Verbleib der Machtkristalle }
+
+misc_writing_importantdocument_description {  }
+
+item_energycrystal_cityDungeon_empty_name { Leerer Machtkristall vom Düsterwald }
+
+item_energycrystal_cityDungeon_charged_name { Aufgeladener Machtkristall vom Düsterwald }
+
+item_energycrystal_aufwald_charged_name { Aufgeladener Machtkristall vom Auwald }
+
+item_energycrystal_aufwald_charged_description { Der Machtkristall pulsiert voller magischer Kraft. }
+
+item_treasureMap_auwald_description {  }
+
+item_energycrystal_brutus_empty_name { Leerer Machtkristall }
+
+item_energycrystal_brutus_charged_name { Aufgeladener Machtkristall }
+
+item_secret_foglets_name { Neblingssekret }
+
+item_ripper_head_name { Gewaltige Reißerklaue }
+
+item_essence_atlanter_name { Uralte Essenz }
+
+item_essence_atlanter_description { Diese Essenz kann man nur von einem uralten Wesen erhalten. }
+
+item_heart_name { Bärenherz }
+
+item_heart_description {  }
+
+item_beak_name { Schnabel }
+
+item_essence_stone_name { Erdessenz }
+
+item_essence_stone_description { Diese Essenz kann man nur von einem mächtigen, steinernen Wesen erhalten. }
+
+item_spider_thread_name { Spinnenfaden }
+
+item_spider_thread_description {  }
+
+item_essence_void_name { Schattenfragment }
+
+item_essence_void_description { Ein dunkles Fragment, welches dich für eine Zeit schattenhaft werden lässt. Erhöht die Schadensresistenz für [TimeAbs] Sekunden um [DamageResPercent]. }
+
+consumable_potion_darkbrew_healing_name { Dunkles Gebräu }
+
+consumable_potion_darkbrew_healing_description {  }
+
+key_mursel_mine_name { Silberminenschlüssel }
+
+key_mursel_mine_description { Schlüssel für das Bettenhaus in der Mine des Ruinenlagers. }
+
+key_tristanBillKey_name { Obere-Taverne-Schlüssel }
+
+key_tristanBillKey_description { Schlüssel zur Tür im zweiten Stockwerk von Olafs Taverne. }
+
+key_ruinenexplorer_name { Schlüssel von den Ruinensuchern }
+
+key_ruinenexplorer_description { Öffnet die Tür zu den Ruinenräubern. }
+
+cons_Familiar_Firefly_description { Mein lebhafter, kleiner Funke. Folgt mir überall hin. }
+
+item_bear_claw_name { Bärenkralle }
+
+item_energycrystal_aufwald_empty_name { Leerer Machtkristall vom Auwald }
+
+item_energycrystal_aufwald_empty_description { Der Machtkristall fühlt sich leer an. }
+
+common { Gewöhnlich }
+
+uncommon { Ungewöhnlich }
+
+rare { Selten }
+
+epic { Episch }
+
+legendary { Legendär }
+
+cons_flow_heavyBlow_name { Heftiger Hieb }
+
+cons_flow_heavyBlow_description { Ein starker Angriff der [WeaponDamagePercent] Waffenschaden und [PoiseDamageAbs] Haltungsschaden verursacht. }
+
+cons_flow_shockingBlow_name { Erschütternder Schlag }
+
+cons_flow_shockingBlow_description { Verursacht [WeaponDamagePercent] Waffenschaden und betäubt Gegner für [StunTime] Sekunden. }
+
+cons_flow_spartanKick_name { Tritt }
+
+cons_flow_spartanKick_description { Verursacht [DamageFlexAbs] Schaden und schleudert Gegner zurück. }
+
+cons_flow_execute_name { Hinrichten }
+
+cons_flow_execute_description { Verursacht [WeaponDamagePercent] Waffenschaden und zusätzlich [WeaponDamagePercent2] Waffenschaden pro aktiver Blutung auf dem Gegner. }
+
+cons_flow_pierce_name { Durchbohren }
+
+cons_flow_pierce_description { Springt nach vorne und führt mehrere schnelle Speerstöße aus, die Gegnern in einem Bereich vor dir pro Treffer [WeaponDamagePercent] Waffenschaden zufügen. }
+
+cons_flow_infection_name { Infektion }
+
+cons_flow_infection_description { Verursacht [WeaponDamagePercent] Waffenschaden und vergiftet Gegner, wenn eine aktive Blutung vorhanden ist. }
+
+cons_flow_bloodRage_name { Blutrausch }
+
+cons_flow_bloodRage_description { Starker Angriff, der [WeaponDamagePercent] Waffenschaden verursacht. Wenn ein Gegner mit Blutrausch getötet wird, erhältst du die Fokuskosten zurück. }
+
+item_rubin_name { Rubin }
+
+item_rubin_description {  }
+
+item_atlanterAcademyText_name { Reise der Vergangenen nach Drova }
+
+item_atlanterAcademyText_description {  }
+
+cons_flow_blink_name { Nebelschritt }
+
+cons_flow_blink_description { Teleportiert dich eine kurze Distanz in Blickrichtung. }
+
+item_kiepe_name { Kiepe }
+
+item_kiepe_description {  }
+
+cons_flow_fogForm_name { Nebelform }
+
+cons_flow_fogForm_description { Erhöht dein Bewegungstempo um [MovementPercent] und macht dich für [TimeAbs] Sekunden immun gegen physischen Schaden. }
+
+cons_flow_fireCry_name { Feuerschrei }
+
+cons_flow_fireCry_description { Verursacht [DamageFlexAbs] magischen Schaden in einem Kegel vor dir. }
+
+cons_flow_root_cone_name { Wurzelkegel }
+
+cons_flow_root_cone_description { Beschwört Wurzeln, die Gegner in einem Kegel vor dir für [TimeAbs] Sekunden festhalten. }
+
+cons_flow_conjure_pack_name { Beschwörung: Rudel }
+
+cons_flow_conjure_pack_description { Beschwört ein Rudel Reißer, die deine Gegner zerfleischen. }
+
+cons_flow_conjure_insects_name { Beschwörung: Insekten }
+
+cons_flow_conjure_insects_description { Beschwört Insekten, die Gegner vergiften können. }
+
+cons_flow_conjure_rats_name { Beschwörung: Ratten }
+
+cons_flow_conjure_rats_description { Beschwört Ratten, die Gegner zum Bluten bringen können. }
+
+cons_flow_venomCry_name { Giftschrei }
+
+cons_flow_venomCry_description { Verursacht eine Wolke vor dir, die Gegner vergiftet und [DamageFlexAbs] magischen Schaden pro Sekunde verursacht. }
+
+cons_flow_thunderstorm_name { Gewitter }
+
+cons_flow_thunderstorm_description { Erschafft ein gewaltiges Gewitter, aus dem Blitze auf deine Feinde niederschlagen. Hält [TimeAbs] Sekunden lang an. }
+
+misc_traderBag_name { Dreckiger Sack }
+
+misc_traderBag_description { Ein gefüllter Sack, auf dem ein Symbol mit zwei kreuzenden Händen unter einem Raben draufgestickt ist. }
+
+misc_emptyTraderBag_name { Leerer dreckiger Sack }
+
+misc_emptyTraderBag_description { Ein leerer Sack, auf dem ein Symbol mit zwei kreuzenden Händen unter einem Raben draufgestickt ist. }
+
+item_redGlyphStone_name { Roter, verzierter Stein }
+
+item_redGlyphStone_description { Ein roter, verzierter Stein. Auf ihm kreuzen sich zwei Hände unter einem Rabensymbol. }
+
+misc_riddle_butterfly_name { Berührter Schmetterling }
+
+misc_riddle_butterfly_description {  }
+
+item_searchingForArenaFighter_name { Aushang: Arena }
+
+item_searchingForArenaFighter_description {  }
+
+item_letterFromEtzel_name { Zettel vom Überfall }
+
+item_letterFromEtzel_description {  }
+
+cons_flow_root_aoe_name { Wurzelkreis }
+
+cons_flow_root_aoe_description { Beschwört Wurzeln, die Gegner um dich herum für [TimeAbs] Sekunden festhalten. }
+
+item_escortLetter_name { Aushang: Eskorte zum Ruinenlager }
+
+item_escortLetter_description {  }
+
+item_blackboard_woodcamp_name { Aushang: Holzfällerlager }
+
+item_blackboard_woodcamp_description {  }
+
+cons_flow_flowForm_name { Fokusform }
+
+cons_flow_flowForm_description { Erhöht den verursachten physischen Schaden um [DamagePercent], Bewegungs- und Angriffstempo um [MovePercent] und verringert die Ausdauerkosten aller Aktionen um [StaminaValuePercent].<br><br>Die Fokuskosten werden über Zeit verbraucht. Effekt hält an, bis kein Fokus mehr vorhanden ist. }
+
+cons_flow_whirlingEnergy_name { Wirbelnde Energie }
+
+cons_flow_whirlingEnergy_description { Beschwört einen magischen Wirbel um dich herum, der pro Sekunde [DamageFlexAbs] magischen Schaden verursacht. Hält [TimeAbs] Sekunden lang an. }
+
+cons_flow_magicVision_name { Magischer Blick }
+
+cons_flow_magicVision_description { Du siehst für [TimeAbs] Sekunden in der Nacht so gut wie eine Katze. }
+
+item_searchingGraffiti_name { Aushang: Wandschmiererei }
+
+item_searchingGraffiti_description {  }
+
+item_traps_name { Aushang: Wir brauchen mehr Fallen }
+
+item_traps_description {  }
+
+cons_flow_obsidianSpear_name { Obsidian-Speer beschwören }
+
+cons_flow_obsidianSpear_description { Beschwört einen Speer der Vergangenen, der in seinem Umkreis Fokus generiert. }
+
+item_playWithKids_name { Aushang: Spiele mit den Kindern }
+
+item_playWithKids_description {  }
+
+item_mikeschLetter_name { Ein offener Gefallen }
+
+item_mikeschLetter_description {  }
+
+item_BanditsOnTheBridge_name { Aushang: Befreie die Brücke }
+
+item_BanditsOnTheBridge_description {  }
+
+cons_flow_dash_name { Spurt }
+
+cons_flow_dash_description { Stürmt schnell in Blickrichtung. }
+
+cons_flow_aggressiveCry_name { Aggressiver Schrei }
+
+cons_flow_aggressiveCry_description { Brüllt in einem Kegel nach vorne und verursacht [PoiseDamageAbs] Haltungsschaden. }
+
+cons_flow_battleCry_name { Kampfschrei }
+
+cons_flow_battleCry_description { Erhöht den verursachten Schaden um [DamagePercent], Bewegungs- und Angriffstempo um [MovePercent], aber auch deinen erhaltenen Schaden um [ReceiveDamagePercent]. Hält [TimeAbs] Sekunden lang an. }
+
+cons_flow_bullRush_name { Sturmangriff }
+
+cons_flow_bullRush_description { Stürmt nach vorne und verursacht [DamageFlexAbs] physischen Schaden. }
+
+cons_flow_ferventCry_name { Inbrünstiger Schrei }
+
+cons_flow_ferventCry_description { Erhöht die physische Schadensresistenz für [TimeAbs] Sekunden um [DamageResPercent]. }
+
+item_crowtrap_name { Krähenfüße }
+
+item_crowtrap_description { Fügt Gegnern beim Betreten Blutung zu und verlangsamt ihre Bewegungsgeschwindigkeit. }
+
+throwing_ensnare_name { Wurfnetz }
+
+throwing_ensnare_description { Wirft ein Netz, das Gegner [TimeAbs] Sekunden bewegungsunfähig macht. }
+
+item_permapotion_flow_name { Elixier der Konzentration }
+
+item_permapotion_flow_description {  }
+
+item_permaherb_flow_name { Leuchtbarsch }
+
+item_permaherb_flow_description {  }
+
+item_potion_flow_0_name { Quelltrank }
+
+item_potion_flow_0_description {  }
+
+item_potion_flow_1_name { Starker Quelltrank }
+
+item_potion_flow_1_description {  }
+
+item_fishing_name { Aushang: Fische für die Suppe }
+
+item_fishing_description {  }
+
+item_butterfliesAllAround_name { Schmetterlinge }
+
+item_rootTrap_name { Wurzelfalle }
+
+item_rootTrap_description { Beim Betreten wird jeder Gegner im Umkreis für [TimeAbs] Sekunden bewegungsunfähig gemacht. }
+
+item_poisonedThrowingKnife_name { Vergiftetes Wurfmesser }
+
+item_poisonedThrowingKnife_description { Wirft ein Messer, das [DamageFlexAbs] Schaden verursacht und vergiftet. Ignoriert die Rüstung des Ziels. }
+
+item_thornyRanke_name { Dornenranke }
+
+item_thornyRanke_description { Wirft eine Ranke, die das Ziel vergiftet und zu dir zieht. }
+
+item_bomb_name { Splitterbombe }
+
+item_bomb_description { Wirft eine Bombe, die allen Gegnern im Umkreis [DamageFlexAbs] Schaden zufügt. Ignoriert die Rüstung des Ziels. }
+
+item_woodArrow_name { Steinpfeil }
+
+item_woodArrow_description {  }
+
+item_ironArrow_name { Eisenpfeil }
+
+item_ironArrow_description {  }
+
+item_silverArrow_name { Silberpfeil }
+
+item_silverArrow_description {  }
+
+item_ironStone_name { Eisenkugeln }
+
+item_ironStone_description {  }
+
+item_silverStone_name { Silberkugeln }
+
+item_silverStone_description {  }
+
+item_diamond_name { Diamant }
+
+item_diamond_description {  }
+
+item_ripperfur_name { Reißerfell }
+
+item_pigfur_name { Eberfell }
+
+item_bearfur_name { Bärenfell }
+
+item_shiningfur_name { Leuchtendes Fell }
+
+item_gnarlyroot_name { Knorrige Wurzeln }
+
+item_silverlump_name { Silberklumpen }
+
+item_silverlump_description {  }
+
+item_blanktrap_name { Fallenrohling }
+
+item_blanktrap_description { Wird für Fallen benötigt. }
+
+item_splittertrap_name { Splitterfalle }
+
+item_splittertrap_description { Beim Betreten löst es eine Explosion aus, die allen Gegnern im Umkreis [DamageFlexAbs] Schaden zufügt. Ignoriert die Rüstung des Ziels. }
+
+item_acidtrap_name { Säurefalle }
+
+item_acidtrap_description { Beim Betreten löst es eine Giftexplosion aus, die Gegner im Umkreis verlangsamt. }
+
+item_jaggedthrowingknife_name { Gezacktes Ritualmesser }
+
+item_jaggedthrowingknife_description { Wirft ein Messer, das [DamageFlexAbs] Schaden verursacht und das Ziel zum Bluten bringt. Ignoriert die Rüstung des Ziels. }
+
+item_acidbomb_name { Säurebombe }
+
+item_acidbomb_description { Wirft eine Bombe, die eine Giftexplosion auslöst und alle Gegner im Umkreis verlangsamt. }
+
+item_bogwheat_name { Moorweizen }
+
+item_bogwheat_description { Wächst beim Hof im Moor. }
+
+item_glauglocke_name { Glauglocken }
+
+item_glauglocke_description { Wächst im Düsterwald. }
+
+item_riverbedmoss_name { Flussbettmoos }
+
+item_riverbedmoss_description {  }
+
+item_needlelichen_name { Nadelflechte }
+
+item_needlelichen_description { Wächst an Bäumen im Nadelwald. }
+
+item_povage_name { Hiebstöckel }
+
+item_povage_description { Wächst bei der Taverne. }
+
+item_skulldew_name { Schädeltau }
+
+item_skulldew_description { Selten in den tiefsten Tiefen der Moore zu finden. }
+
+item_rustymosspipe_name { Rostmoos }
+
+item_rustymosspipe_description { Macht dich entspannt und hilft dir, deinen Alltag zu vergessen. }
+
+item_potion_windwalker_name { Trank der wandernden Feder }
+
+item_potion_windwalker_description { Erhöht deine Bewegungsgeschwindigkeit für [TimeAbs] Sekunden um [MovePercent]. }
+
+item_harpybrew_name { Harpyiengebräu }
+
+item_harpybrew_description { Tauscht deinen Fokus mit deinem Leben. Hat bestimmt irgendeinen Sinn, oder? }
+
+item_golemsalve_name { Golemsalbe }
+
+item_golemsalve_description { Reduziert den erhaltenen physischen Schaden um [DamageResPhysPercent], aber erhöht den erhaltenen magischen Schaden kurzzeitig um [DamageResMagicPercent]. Hält [TimeAbs] Sekunden lang an. }
+
+item_agilostew_name { Agilos seltsamer Eintopf }
+
+item_agilostew_description {  }
+
+item_foodpile_name { Fischomelett }
+
+item_foodpile_description {  }
+
+item_fishpan_name { Fischpfanne }
+
+item_fishpan_description {  }
+
+item_roastedcallamushroom_name { Gebratene Callapilze }
+
+item_roastedcallamushroom_description {  }
+
+item_roastofthepast_name { Braten der Vergangenen }
+
+item_roastofthepast_description {  }
+
+item_mudmash_name { Olafs Gulasch }
+
+item_mudmash_description {  }
+
+item_fogstew_name { Düstertopf }
+
+item_fogstew_description {  }
+
+item_rootstew_name { Nebeltopf }
+
+item_rootstew_description {  }
+
+item_troutskewersbombus_name { Todesspieß Bombus Art }
+
+item_troutskewersbombus_description {  }
+
+item_aditroast_name { Höhleneintopf }
+
+item_aditroast_description {  }
+
+armor_chest_leather_name_name { Lederrüstung }
+
+armor_chest_leather_name_description { Meine erste richtige Rüstung. }
+
+armor_chest_miner_name_name { Hauerklamotten }
+
+armor_chest_miner_name_description { Schützt wenig vor Krallen, aber man kann damit gut arbeiten. }
+
+armor_chest_nemeton_guardian_druid_name_name { Druidische Kampfrüstung von Nemeton }
+
+armor_chest_nemeton_guardian_druid_name_description { Nur Hüter Nemetons dürfen diese Rüstung tragen. }
+
+armor_chest_nemeton_guardian_heavy_name_name { Schwere Kampfrüstung von Nemeton }
+
+armor_chest_nemeton_guardian_light_name_name { Leichte Kampfrüstung von Nemeton }
+
+armor_chest_lendha_heavy_name_name { Schwere Rüstung von Nemeton }
+
+armor_chest_lendha_heavy_name_description { Diese Rüstung ist Mitgliedern von Nemeton vorbehalten. Zeigt meine Loyalität gegenüber Nemeton. }
+
+armor_chest_lendha_name_name { Leichte Rüstung von Nemeton }
+
+armor_chest_shirt_ragged_name_name { Lumpen }
+
+armor_chest_shirt_ragged_name_description { Wohl besser als nichts ... }
+
+armor_chest_ruinenlager_fighter_druid_name_name { Druidische Ruinenkämpferrüstung }
+
+armor_chest_ruinenlager_fighter_druid_name_description { Nur die Stärksten im Ruinenlager dürfen diese Rüstung tragen. }
+
+armor_chest_ruinenlager_fighter_fight_name_name { Leichte Ruinenkämpferrüstung }
+
+armor_chest_ruinenlager_fighter_heavy_name_name { Schwere Ruinenkämpferrüstung }
+
+armor_chest_ruinenlager_heavy_name_name { Schwere Ruinenlagerrüstung }
+
+armor_chest_ruinenlager_heavy_name_description { Diese Rüstung ist Mitgliedern vom Ruinenlager vorbehalten. Zeigt meine Loyalität gegenüber Jero. }
+
+armor_chest_ruinenlager_name_name { Leichte Ruinenlagerrüstung }
+
+armor_chest_tunic_name_name { Arbeiterkleidung }
+
+armor_chest_tunic_name_description { Arbeiterkleidung. Gibt wenig Schutz, aber besser als nichts. }
+
+helmet_antlers_name_name { Helm des Hirsches }
+
+helmet_antlers_name_description {  }
+
+helmet_draugr_silver_name_name { Helm eines Vergangenen }
+
+helmet_draugr_silver_name_description {  }
+
+helmet_earprotection_name_name { Gehörschutz }
+
+helmet_earprotection_name_description { Es gibt Geräusche die ganz schön weh tun. Diese Wachsklumpen helfen dagegen. }
+
+helmet_ironwings_name_name { Eisenflügelhelm }
+
+helmet_ironwings_name_description {  }
+
+helmet_legionare_name_name { Legionärshelm }
+
+helmet_legionare_name_description {  }
+
+Raven Mask_name { Rabenmaske }
+
+Raven Mask_description {  }
+
+quiver_simple_name_name { Einfacher Köcher }
+
+quiver_simple_name_description { Ein einfacher Köcher mit Platz für drei Pfeile. }
+
+ring_aldo_name_name { Aldos Ring }
+
+ring_aldo_name_description { Ein kleiner Ring, in dem ein A eingraviert ist. }
+
+item_mediumquiver_name { Mittlerer Köcher }
+
+item_mediumquiver_description { In diesen Köcher passen fünf Pfeile. }
+
+item_bigquiver_name { Großer Köcher }
+
+item_bigquiver_description { In diesen Köcher passen sieben Pfeile. }
+
+item_rivercharm_name { Amulett des Flusses }
+
+item_rivercharm_description { Angriffe generieren [FocusValueAbsolut] mehr Fokus pro Treffer. }
+
+item_thornfetish_name { Dornenfetisch }
+
+item_thornfetish_description { Jeder Zauber und Fähigkeit kostet zusätzlich [HealValuePercent] Leben, aber verursacht [DamageValuePercent] mehr Schaden. }
+
+item_riptoothchain_name { Reißzahnkette }
+
+item_riptoothchain_description { Blutungseffekte verursachen ihren Schaden schneller. }
+
+item_vipertooth_name { Zahn der Viper }
+
+item_vipertooth_description { Die Verlangsamung von Gift ist um [SlowPercent] verstärkt. }
+
+item_mastersmemory_name { Gürtel des Meisters }
+
+item_mastersmemory_description { Der letzte Schlag einer Kombo mit Schwert oder Axt verursacht [DamageValuePercent] mehr Schaden und generiert [FocusValuePercent] mehr Fokus. }
+
+item_cleavageskull_name { Spaltschädel }
+
+item_cleavageskull_description { Du verursachst [PoiseValuePercent] mehr Haltungsschaden bei Gegnern. }
+
+item_bloodthirstamulet_name { Blutrünstiges Amulett }
+
+item_bloodthirstamulet_description { Hat der Gegner eine aktive Blutung, besteht eine [TriggerPercent] Chance, dass deine Nahkampfangriffe [TriggerChance] deiner Leben wiederherstellen. }
+
+item_berserkerring_name { Berserkerring }
+
+item_berserkerring_description { Heilt [HealValueAbsolut] Leben pro getötetem Gegner. }
+
+item_berserkerring_2_name { Opulenter Berserkerring }
+
+item_berserkerring_2_description { Heilt [HealValuePercent] Leben pro getötetem Gegner. }
+
+item_sprigganheart_name { Getrocknetes Spriggaherz }
+
+item_sprigganheart_description { Jeder Nahkampftreffer auf dich hat eine Chance von [TriggerPercent], dass der Angreifer für [StunTime] Sekunden festgewurzelt wird. }
+
+item_hunterquiver_name { Horn des Jägers }
+
+item_hunterquiver_description { Erhöht die Kapazität deines Köchers um 1 und beschleunigt das Nachladen. }
+
+item_boartooth_name { Eberschädel }
+
+item_boartooth_description { Schwere Angriffe kosten [StaminaValuePercent] weniger Ausdauer. }
+
+item_tendonofglory_name { Bolzen der Herrlichkeit }
+
+item_tendonofglory_description { Fernkampfangriffe durchschlagen das erste getroffene Ziel. }
+
+item_shaftofpurefury_name { Schaft der reinen Wut }
+
+item_shaftofpurefury_description { Für jede [HealthPercent] fehlende Leben, verursachst du [DamagePercent] mehr Schaden. }
+
+item_bloodbornering_name { Ring des Blutes }
+
+item_bloodbornering_description { Wenn du getroffen wirst, hast du ein kleines Zeitfenster, um dein verlorenes Leben mit Schaden an einem Gegner zu regenerieren. Fürchte das alte Blut. }
+
+item_whispersilkbag_name { Beutel aus Flüsterseide }
+
+item_whispersilkbag_description { Du regenerierst [StaminaValueAbsolut] Ausdauer mehr pro Sekunde. }
+
+item_rubintalisman_name { Rubin-Talisman }
+
+item_rubintalisman_description { Verstärkt die Effekte aller Schreie. }
+
+item_flowcatchertalisman_name { Fokusfänger-Talisman }
+
+item_flowcatchertalisman_description { Das Wirken einer Fokusfähigkeit erhöht kurzzeitig den verursachten Schaden des nächsten Nahkampftreffers um [DamageValuePercent]. }
+
+item_windtalisman_name { Wind-Talisman }
+
+item_windtalisman_description { Nachdem du ausweichst, verursachst du mit dem nächsten physischen Angriff [DamageValuePercent] mehr Schaden. }
+
+item_lifering_name { Ring der Nornen }
+
+item_lifering_description {  }
+
+item_spiritamulet_0_name { Amulett des Geistes }
+
+item_spiritamulet_0_description {  }
+
+item_spiritamulet_1_name { Amulett des erweiterten Geistes }
+
+item_spiritamulet_1_description {  }
+
+item_silverringstrength_0_name { Ring der Gewalt }
+
+item_silverringstrength_0_description {  }
+
+item_silverringstrength_1_name { Großer Ring der Gewalt }
+
+item_silverringstrength_1_description {  }
+
+item_silverringstrength_2_name { Ring mit Daraknoten }
+
+item_silverringstrength_2_description {  }
+
+item_silberringskill_0_name { Silberring des Banditen }
+
+item_silberringskill_0_description {  }
+
+item_silberringskill_1_name { Silberring des Mörders }
+
+item_silberringskill_1_description {  }
+
+item_silberringskill_2_name { Silberring des Auftragsmörders }
+
+item_silberringskill_2_description {  }
+
+item_silberringmind_0_name { Ring der Naturgeister }
+
+item_silberringmind_0_description {  }
+
+item_silberringmind_1_name { Feiner Ring der Naturgeister }
+
+item_silberringmind_1_description {  }
+
+item_silberringmind_2_name { Meisterhafter Ring der Naturgeister }
+
+item_silberringmind_2_description {  }
+
+item_armorring_0_name { Eiserne Triskele }
+
+item_armorring_0_description {  }
+
+item_armorring_1_name { Silberne Triskele }
+
+item_armorring_1_description {  }
+
+item_magicresring_0_name { Triqueta }
+
+item_magicresring_0_description {  }
+
+item_magicresring_1_name { Leuchtendes Triqueta }
+
+item_magicresring_1_description {  }
+
+item_harpyiefeather_name { Harpyienfeder }
+
+item_harpyiefeather_description { Von alten Flügelwesen in Ruinen erhalten. }
+
+item_hunterstrophy_name { Trophäe des Jägers }
+
+item_hunterstrophy_description { Fernkampfangriffe haben eine Chance von [TriggerPercent], dass sie kein Projektil verbrauchen. }
+
+item_talismanJourneyToTheRoots_name { Blutiger Talisman }
+
+item_talismanJourneyToTheRoots_description { Talisman von Diemo. Ich soll einen davon zu jeder Mutterwurzel bringen. }
+
+armor_chest_leather_strong_name_name { Starke Lederrüstung }
+
+armor_chest_leather_strong_name_description {  }
+
+armor_chest_leather_magielager_name_name { Kleidung der Verbundenen }
+
+armor_chest_leather_magielager_name_description { Jetzt bin ich eins mit dem Düsterwald. }
+
+armor_chest_nemeton_merchant_name_name { Händlergewand von Nemeton }
+
+armor_chest_nemeton_merchant_name_description {  }
+
+armor_chest_nemeton_craftsman_name_name { Handwerkerkleidung von Nemeton }
+
+armor_chest_nemeton_craftsman_name_description {  }
+
+armor_chest_nemeton_chief_name_name { Anführerrüstung von Nemeton }
+
+armor_chest_nemeton_chief_name_description {  }
+
+armor_chest_ruinenlager_chief_name_name { Anführerrüstung vom Ruinenlager }
+
+armor_chest_ruinenlager_chief_name_description {  }
+
+item_mumbertDiarrhoea_name { Manipuliertes Bier }
+
+item_mumbertDiarrhoea_description { Von Humbert für Asmus. }
+
+item_marinatedmeatleg_name { Tiaas marinierte Fleischkeule }
+
+item_marinatedmeatleg_description {  }
+
+item_letterCityDungeon_0_name { Unruhen in Drova IV }
+
+item_letterCityDungeon_0_description {  }
+
+item_letterCityDungeon_1_name { Unruhen in Drova V }
+
+item_letterCityDungeon_1_description {  }
+
+item_letterCityDungeon_2_name { Unruhen in Drova VI }
+
+item_letterCityDungeon_2_description {  }
+
+item_letterCityDungeon_3_name { Alter Notenzettel }
+
+item_letterCityDungeon_3_description {  }
+
+item_letterCityDungeon_Underground_0_name { Das Ende naht I }
+
+item_letterCityDungeon_Underground_0_description {  }
+
+item_letterCityDungeon_Underground_1_name { Das Ende naht II }
+
+item_letterCityDungeon_Underground_1_description {  }
+
+item_letterCityDungeon_Underground_2_name { Verschlossener Raum }
+
+item_letterCityDungeon_Underground_2_description {  }
+
+item_letterAuwaldDungeon_0_name { Anfang der Naturmanipulation }
+
+item_letterAuwaldDungeon_0_description {  }
+
+item_letterAuwaldDungeon_1_name { Ungeplante Nebeneffekte }
+
+item_letterAuwaldDungeon_1_description {  }
+
+item_letterAuwaldDungeon_2_name { Spinnenhöhlen }
+
+item_letterAuwaldDungeon_2_description {  }
+
+item_letterAuwaldDungeon_3_name { Erfolge der Naturmanipulation }
+
+item_letterAuwaldDungeon_3_description {  }
+
+item_letterAuwaldDungeon_4_name { Spinnenbeobachtungen }
+
+item_letterAuwaldDungeon_4_description {  }
+
+item_letterAuwaldDungeon_5_name { Einer der letzten Überlebenden }
+
+item_letterAuwaldDungeon_5_description {  }
+
+key_ShadyDistrict_name { Schlüssel zum dunklen Viertel }
+
+item_rustmoss_BadFromGera_name { Gestrecktes Rostmoos }
+
+item_rustmoss_BadFromGera_description { Gera möchte, dass ich dieses Rostmoos in Leynas Vorräten "verliere". }
+
+item_kiepe_rubble_name { Kiepe }
+
+item_kiepe_rubble_description {  }
+
+item_paperchasestone_cleansed_name { Gereinigter Talisman }
+
+item_paperchasestone_cleansed_description { Die Pottasche hat alles Böse aus dem Talisman gereinigt. Aber es fehlt eine Rune. }
+
+item_paperchasestone_band_name { Talisman mit Band }
+
+item_paperchasestone_band_description { Der unverarbeitete Talisman hängt jetzt an einem Band. Aber so ganz sauber sieht der nicht aus.. }
+
+item_paperchasestone_raw_name { Roher Talisman }
+
+item_paperchasestone_rune_name { Verzierter Talisman }
+
+item_paperchasestone_rune_description { Dank meiner künstlerischen Fähigkeiten verziert nun eine Rune den Talisman. Vielleicht sollte ich das mal den Kindern zeigen? }
+
+misc_riddle_deer_name { Silbernes Geweih }
+
+misc_riddle_deer_description { Ein magisches Artefakt der Vergangenen. Angelehnt an einen Göttlichen. }
+
+misc_riddle_fox_name { Silberne Pfote }
+
+misc_riddle_fox_description {  }
+
+misc_riddle_eagle_name { Silberne Feder }
+
+misc_riddle_eagle_description {  }
+
+weapon_sword_karottegladius_name { Karottes Waffe }
+
+weapon_sword_karottegladius_description { Eine handliche Waffe, auf die eine breite Karotte eingeritzt ist. }
+
+key_ShadyDistrict_description {  }
+
+item_karottegladius_broken_name { Karottes beschädigte Waffe }
+
+item_karottegladius_broken_description { Chunnaic sollte die Waffe reparieren können. }
+
+item_letterboard_fragment_name { Schrifttafelfragment }
+
+item_atlanter_coin_name { Uralte Münzen }
+
+item_engraving_stones_name { Gravierte Steine }
+
+item_sealstone_past_name { Siegelstein der Vergangenen }
+
+item_sealstone_past_description { Ein aufwendig verzierter Stein mit einem eingelassenen Kristall. }
+
+item_brutus_seal_inactive_name { Inaktives Siegel von Drivanius }
+
+item_brutus_seal_inactive_description { Die eingelassenen Kristalle in den sieben Siegelsteinen sind noch nicht alle aktiv. }
+
+item_shell_01_name { Muschel }
+
+item_shell_01_description {  }
+
+item_shell_02_name { Muschel }
+
+item_shell_02_description {  }
+
+item_atlanter_wine_name { Wein der Vergangenen }
+
+item_atlanter_wine_description { Jahrgang unbekannt. }
+
+item_herb_past_name { Heilkräuter der Vergangenen }
+
+item_herb_past_description { Uralt, aber besitzen noch leicht heilende Eigenschaften. }
+
+item_headdress_magicamp_name { Kopfschmuck der Verbundenen }
+
+item_headdress_magicamp_description { Ein Kopfschmuck, der die Verbundenheit mit dem Düsterwald ausdrückt. }
+
+item_brutus_seal_active_name { Aktives Siegel von Drivanius }
+
+item_brutus_seal_active_description { Alle sieben eingelassene Kristalle leuchten. }
+
+item_letterTableBrutus_0_name { Drivanius' letzte Forschung Il }
+
+item_letterTableBrutus_0_description {  }
+
+item_letterTableBrutus_1_name { Drivanius' letzte Forschung IIl }
+
+item_letterTableBrutus_1_description {  }
+
+item_letterTableBrutus_2_name { Drivanius' letzte Forschung IV }
+
+item_letterTableBrutus_2_description {  }
+
+item_atlanteanarmorparts_name { Rüstungsteile der Vergangenen }
+
+item_atlanteanarmorparts_description { Sieht wertvoll aus, vielleicht kann ein Schmied damit was anfangen? }
+
+recipe_flow_aggressiveCry_name { Fähigkeit: Aggressiver Schrei }
+
+recipe_flow_battleCry_name { Fähigkeit: Kampfschrei }
+
+recipe_flow_blink_name { Zauber: Nebelschritt }
+
+recipe_flow_bloodRage_name { Fähigkeit: Blutrausch }
+
+recipe_flow_bullRush_name { Fähigkeit: Sturmangriff }
+
+recipe_flow_conflagration_name { Zauber: Feuersbrunst }
+
+recipe_flow_dash_name { Fähigkeit: Spurt }
+
+recipe_flow_energyProjectile_name { Zauber: Energiegeschoss }
+
+recipe_flow_execute_name { Fähigkeit: Hinrichten }
+
+recipe_flow_ferventCry_name { Fähigkeit: Inbrünstiger Schrei }
+
+recipe_flow_fireCry_name { Zauber: Feuerschrei }
+
+recipe_flow_flowForm_name { Zauber: Fokusform }
+
+recipe_flow_fogForm_name { Zauber: Nebelform }
+
+recipe_flow_heavyBlow_name { Fähigkeit: Heftiger Hieb }
+
+recipe_flow_infection_name { Fähigkeit: Infektion }
+
+recipe_flow_magicVision_name { Zauber: Magischer Blick }
+
+recipe_flow_obsidianSpear_name { Zauber: Obsidian-Speer beschwören }
+
+recipe_flow_pierce_name { Fähigkeit: Durchbohren }
+
+recipe_flow_root_aoe_name { Zauber: Wurzelkreis }
+
+recipe_flow_root_cone_name { Zauber: Wurzelkegel }
+
+recipe_flow_shockingBlow_name { Fähigkeit: Erschütternder Schlag }
+
+recipe_flow_spartanKick_name { Fähigkeit: Tritt }
+
+recipe_flow_thunderstorm_name { Zauber: Gewitter }
+
+recipe_flow_venomCry_name { Zauber: Giftschrei }
+
+recipe_flow_whirlingEnergy_name { Zauber: Wirbelnde Energie }
+
+recipe_flow_wound_name { Fähigkeit: Verwunden }
+
+recipe_acidbomb_name { Rezept: Säurebombe }
+
+recipe_acidtrap_name { Rezept: Säurefalle }
+
+recipe_aditroast_name { Rezept: Höhleneintopf }
+
+recipe_agilostew_name { Rezept: Agilos seltsamer Eintopf }
+
+recipe_beartrap_name { Rezept: Bärenfalle }
+
+recipe_bigquiver_name { Rezept: Großer Köcher }
+
+recipe_blanktrap_name { Rezept: Fallenrohling }
+
+recipe_bomb_name { Rezept: Splitterbombe }
+
+recipe_crowfeettrap_name { Rezept: Krähenfüße }
+
+recipe_elixier_concentration_name { Rezept: Elixier der Konzentration }
+
+recipe_elixier_life_name { Rezept: Elixier des Lebens }
+
+recipe_elixier_skill_name { Rezept: Elixier des Geschicks }
+
+recipe_elixier_spirit_name { Rezept: Elixier des Geistes }
+
+recipe_elixier_strength_name { Rezept: Elixier der Stärke }
+
+recipe_farmersmeal_name { Rezept: Bauernmahlzeit }
+
+recipe_fishpan_name { Rezept: Fischpfanne }
+
+recipe_flowpotion_0_name { Rezept: Quelltrank }
+
+recipe_flowpotion_1_name { Rezept: Starker Quelltrank }
+
+recipe_fogstew_name { Rezept: Düstertopf }
+
+recipe_foodpile_name { Rezept: Fischomelett }
+
+recipe_golemsalve_name { Rezept: Golemsalbe }
+
+recipe_harpybrew_name { Rezept: Harpyiengebräu }
+
+recipe_healingsalve_name { Rezept: Heilsalbe }
+
+recipe_healingsalve_2_name { Rezept: Rotpilz-Tinktur }
+
+recipe_healingsalve_3_name { Rezept: Dunkles Gebräu }
+
+recipe_honeybeer_name { Rezept: Honigmet }
+
+recipe_hunterstrophy_name { Rezept: Trophäe des Jägers }
+
+recipe_ironarrow_name { Rezept: Eisenpfeile }
+
+recipe_ironbar_name { Rezept: Eisenbarren }
+
+recipe_ironlump_name { Rezept: Eisenklumpen }
+
+recipe_ironstone_name { Rezept: Eisenkugeln }
+
+recipe_jaggedthrowingknife_name { Rezept: Gezacktes Ritualmesser }
+
+recipe_leather_name { Rezept: Leder }
+
+recipe_lockpick_name { Rezept: Dietrich }
+
+recipe_marinatedmeatleg_name { Rezept: Tiaas marinierte Fleischkeule }
+
+recipe_mediumquiver_name { Rezept: Mittlerer Köcher }
+
+recipe_mudmash_name { Rezept: Olafs Gulasch }
+
+recipe_poisonedthrowingknife_name { Rezept: Vergiftetes Wurfmesser }
+
+recipe_potion_health_0_name { Rezept: Heiltrank }
+
+recipe_potion_health_1_name { Rezept: Starker Heiltrank }
+
+recipe_potion_windwalker_name { Rezept: Trank der wandernden Feder }
+
+recipe_rivercharm_name { Rezept: Amulett des Flusses }
+
+recipe_roastedcallamushroom_name { Rezept: Gebratene Callapilze }
+
+recipe_roastofthepast_name { Rezept: Braten der Vergangenen }
+
+recipe_rootstew_name { Rezept: Nebeltopf }
+
+recipe_rustymosspipe_name { Rezept: Rostmoos }
+
+recipe_silberringmind_0_name { Rezept: Ring der Naturgeister }
+
+recipe_silberringmind_1_name { Rezept: Feiner Ring der Naturgeister }
+
+recipe_silberringskill_0_name { Rezept: Silberring des Banditen }
+
+recipe_silberringskill_1_name { Rezept: Silberring des Mörders }
+
+recipe_silverarrow_name { Rezept: Silberpfeile }
+
+recipe_silverlump_name { Rezept: Silberklumpen }
+
+recipe_silverringstrength_0_name { Rezept: Ring der Gewalt }
+
+recipe_silverringstrength_1_name { Rezept: Großer Ring der Gewalt }
+
+recipe_silverstone_name { Rezept: Silberkugeln }
+
+recipe_smashironbar_name { Rezept: Eisenklumpen }
+
+recipe_spiritamulet_0_name { Rezept: Amulett des Geistes }
+
+recipe_spiritamulet_1_name { Rezept: Amulett des erweiterten Geistes }
+
+recipe_splittertrap_name { Rezept: Splitterfalle }
+
+recipe_thronyvine_name { Rezept: Dornenranke }
+
+recipe_thrownet_name { Rezept: Wurfnetz }
+
+recipe_troutskewersbombus_name { Rezept: Todesspieß Bombus Art }
+
+recipe_whispersilkbag_name { Rezept: Beutel aus Flüsterseide }
+
+recipe_woodenarrow_name { Rezept: Steinpfeil }
+
+ring_tuz_name_name { Dreckiger Ring }
+
+ring_tuz_name_description { Stinkt noch ein bisschen. In der Heide gefunden. }
+
+item_letterfromolafaboutBrutus_name { Brief von Drivanius }
+
+item_letterfromolafaboutBrutus_description {  }
+
+item_ruinenlager_bandit_name { Wer überfällt wen }
+
+item_ruinenlager_bandit_description {  }
+
+speed_slow { langsam }
+
+speed_medium { mittelschnell }
+
+speed_fast { schnell }
+
+speed_veryfast { sehr schnell }
+
+category_all { Alle Gegenstände }
+
+category_armor { Rüstungen, Helme und Schmuck }
+
+category_weapons { Waffen, Schilde und Munition }
+
+category_consumables { Tränke, Heilung und Nahrung }
+
+item_ripper_head_huntTheRipper_name { Kopf des Reißeranführers }
+
+item_ripper_head_huntTheRipper_description { Keine Sekunde länger wird dieser Reißer die Gegend um Olafs Taverne tyrannisieren. }
+
+item_letter_sick_siser_name { Druiden Notiz }
+
+item_letter_sick_siser_description {  }
+
+SickSiser { Banditenlager-Zettel }
+
+armor_chest_light_atlanter_name { Runenrüstung der Vergangenen }
+
+armor_chest_heavy_atlanter_name { Runenpanzer der Vergangenen }
+
+armor_chest_druid_atlanter_name { Runengewand der Vergangenen }
+
+armor_chest_druid_atlanter_description { Eine uralte Rüstung, neu geschmiedet. Allein ihr Aussehen zeugt von ihrer Kraft. }
+
+item_letter_library_0_name { Geschichte der Runenmagie I }
+
+item_letter_library_0_description {  }
+
+item_letter_library_1_name { Geschichte der Runenmagie II }
+
+item_letter_library_1_description {  }
+
+item_letter_library_2_name { Geschichte der Runenmagie III }
+
+item_letter_library_2_description {  }
+
+item_letter_library_3_name { Geschichte der Runenmagie IV }
+
+item_letter_library_3_description {  }
+
+item_letter_library_circleRoom_note1_name { Teleportationszirkel }
+
+item_letter_library_circleRoom_note1_description {  }
+
+item_letter_library_circleRoom_note2_name { Dunkles Silber }
+
+item_letter_library_circleRoom_note2_description {  }
+
+item_letter_library_energyRoom_note_name { Runensteine }
+
+item_letter_library_energyRoom_note_description {  }
+
+item_letter_library_golemRoom_note1_name { Naturzauber-Forschung }
+
+item_letter_library_golemRoom_note1_description {  }
+
+item_letter_library_golemRoom_note2_name { Kraftzauber-Forschung }
+
+item_letter_library_golemRoom_note2_description {  }
+
+item_letter_library_golemRoom_note3_name { Feuerrunen-Unfall }
+
+item_letter_library_golemRoom_note3_description {  }
+
+item_letter_library_golemRoom_note4_name { Der erste Runengolem }
+
+item_letter_library_golemRoom_note4_description {  }
+
+item_letter_library_natureRoom_note_name { Herz der Sprigga }
+
+item_letter_library_natureRoom_note_description {  }
+
+item_letter_library_soundRoom_note_name { Probleme mit dem Schall }
+
+item_letter_library_soundRoom_note_description {  }
+
+item_letter_library_spearRoom_note1_name { Der Extraktor I }
+
+item_letter_library_spearRoom_note1_description {  }
+
+item_letter_library_spearRoom_note2_name { Runenspeere I }
+
+item_letter_library_spearRoom_note2_description {  }
+
+item_letter_library_spearRoom_note3_name { Runenspeere II }
+
+item_letter_library_spearRoom_note3_description {  }
+
+item_letter_shrine_apus_circinus_name { Schrein des Apus }
+
+item_letter_shrine_apus_circinus_description {  }
+
+item_letter_shrine_bootes_auriga_name { Schrein des Boötes }
+
+item_letter_shrine_bootes_auriga_description {  }
+
+item_letter_shrine_cygnus_name { Schrein der Cygnus }
+
+item_letter_shrine_cygnus_description {  }
+
+item_letter_shrine_luna_name { Schrein der Luna }
+
+item_letter_shrine_luna_description {  }
+
+item_letter_shrine_sol_name { Schrein der Sol }
+
+item_letter_shrine_sol_description {  }
+
+item_letter_shrine_terra_borealis_name { Schrein der Terra }
+
+item_letter_shrine_terra_borealis_description {  }
+
+item_letter_shrine_vela_name { Schrein des Vorago }
+
+item_letter_shrine_vela_description {  }
+
+key_sleepingTavernKey_name { Zimmerschlüssel }
+
+key_sleepingTavernKey_description { Ich hab Olafs Zimmer oben für eine Nacht gemietet. }
+
+item_strangeFossil_name { Seltsames Fossil }
+
+item_strangeFossil_description {  }
+
+letter_leru_hint01_name { Lorthiz' erste Traumzeichnung }
+
+letter_leru_hint01_description {  }
+
+letter_leru_hint02_name { Lorthiz' zweite Traumzeichnung }
+
+letter_leru_hint02_description {  }
+
+armor_chest_nemeton_social_name_name { Kleidung von Nemeton }
+
+armor_chest_nemeton_social_name_description {  }
+
+armor_chest_tunic_ragged_2_name { Ruinierte Rüstung }
+
+armor_chest_tunic_ragged_2_description { Wenn man nichts anderes hat, geht das als Rüstung durch. }
+
+armor_chest_tunic_noble_name_name { Feine Kleidung }
+
+armor_chest_tunic_noble_name_description { Kleider machen Leute. Hiermit sehe ich ganz fein aus. }
+
+armor_chest_bandit_T1_name { Leichte Banditenrüstung }
+
+armor_chest_bandit_T2_name { Mittlere Banditenrüstung }
+
+armor_chest_bandit_T2_description { Dient mehr zur Einschüchterung als zum Schutz. }
+
+armor_chest_bandit_T4_name { Schwere Banditenrüstung }
+
+armor_chest_bandit_T4_description { Statussymbol und Schutz in einem. }
+
+helmet_crown_name_name { Antiker Kopfschmuck }
+
+helmet_crown_name_description { Wem hat das wohl gehört? }
+
+helmet_mask_empathetic_name_name { Maske der Empathie }
+
+helmet_mask_empathetic_name_description { Nur wer seinen Mitmenschen aktiv zuhört, wird den Wert dieser Maske erkennen. }
+
+helmet_mask_arrogant_name_name { Maske der Überlegenheit }
+
+helmet_mask_arrogant_name_description { Nur wer sehr von sich selbst überzeugt ist, wird den Wert dieser Maske erkennen. }
+
+helmet_mask_rational_name_name { Maske des Scharfsinns }
+
+helmet_mask_rational_name_description { Nur wer kritisch und analytisch denkt, wird den Wert dieser Maske erkennen. }
+
+helmet_nemeton_guard1_name_name { Leichter Helm von Nemeton }
+
+helmet_nemeton_guard1_name_description {  }
+
+helmet_nemeton_guard2_name_name { Schwerer Helm von Nemeton }
+
+helmet_nemeton_guard2_name_description {  }
+
+helmet_ruinenlager_guard1_name_name { Einfacher Helm vom Ruinenlager }
+
+helmet_ruinenlager_guard1_name_description {  }
+
+helmet_ruinenlager_guard2_name_name { Schwerer Helm vom Ruinenlager }
+
+helmet_ruinenlager_guard2_name_description {  }
+
+helmet_cauldron_name_name { Kessel }
+
+helmet_cauldron_name_description { Pass auf deine Sachen auf, wenn du ihn trägst. }
+
+helmet_leathercap_name_name { Lederkappe }
+
+helmet_leathercap_name_description { Sieht modisch aus. Steht dir. }
+
+helmet_gladiator_name_name { Gladiatorenhelm }
+
+helmet_gladiator_name_description { Durch einen kleinen Schlitz kannst du deine künftigen Opfer beobachten. }
+
+helmet_blindfold_dark_name_name { Dunkle Augenbinde }
+
+helmet_blindfold_dark_name_description { Durch einen kleinen Schlitz kann man noch alles sehen. Du wirkst mysteriöser! }
+
+helmet_blindfold_light_name_name { Helle Augenbinde }
+
+helmet_atlanter_name_name { Helm der Vergangenen }
+
+helmet_atlanter_name_description { Ein uralter Helm, den wohl vor dir seit Jahrhunderten niemand mehr getragen hat. }
+
+helmet_straw_name_name { Strohhut }
+
+helmet_straw_name_description { Der Hut wurde häufig geflickt, und sieht dafür noch sehr gepflegt aus. Irgendwer hat verdammt gut auf den Zustand des Strohhuts aufgepasst. }
+
+helmet_hood_bandit_name_name { Banditenhaube }
+
+helmet_hood_bandit_name_description { Verdeckt Gesicht und Intention. }
+
+helmet_hood_bandit_t4_name_name { Schwere Banditenhaube }
+
+helmet_hood_bandit_t4_name_description {  }
+
+helmet_barbarian_name_name { Barbarenhelm }
+
+helmet_barbarian_name_description { Ein Helm für Haudraufs. Auf der Innenseite ist ein "C" eingraviert. }
+
+helmet_mask_sheep_name_name { Schafsmaske }
+
+helmet_mask_sheep_name_description { Mähhh! }
+
+helmet_onion_name_name { Zwiebelhelm }
+
+helmet_onion_name_description { Unverwechselbar geformter Helm. }
+
+helmet_mask_vodoo_name_name { Voodoo-Maske }
+
+helmet_mask_vodoo_name_description { Es heißt, dass diese Maske magische Kräfte besitzt. }
+
+helmet_mask_frog_name_name { Froschmaske }
+
+helmet_mask_frog_name_description { Quak! }
+
+helmet_mask_death_name_name { Totenmaske }
+
+helmet_mask_death_name_description { Gruselig. Angsteinflößend. Aber dafür sehr gut verarbeitet. }
+
+helmet_mask_obito_name_name { Strudelmaske }
+
+helmet_mask_obito_name_description { Der Mittelpunkt der Spirale ist im Auge. }
+
+helmet_mushroom_name_name { Pilzmütze }
+
+helmet_mushroom_name_description { Wenn ich mich damit einbuddle und nur mit dem Kopf rausgucke, sammelt mich dann jemand ein? }
+
+helmet_draugr_dark_name_name { Dunkler Vergangenenhelm }
+
+helmet_draugr_dark_name_description {  }
+
+helmet_draugr_mage_name_name { Dunkler Vergangenenmagierhelm }
+
+helmet_draugr_mage_name_description {  }
+
+item_sheepfur_name { Schafsfell }
+
+item_sheepfur_description {  }
+
+note_naughty_male_name { Nackte Tatsachen }
+
+note_naughty_male_description { Die Zeichnung eines schönen, attraktiven Mannes. Kommt er dir nicht irgendwie bekannt vor? }
+
+note_naughty_female_name { Die Blüte des Lebens }
+
+note_naughty_female_description { Die Zeichnung einer nackten, attraktiven Frau. Wahnsinn. }
+
+misc_map_nemeton_name { Karte von Nemeton }
+
+misc_map_nemeton_description {  }
+
+misc_map_ruincamp_name { Karte vom Ruinenlager }
+
+misc_map_ruincamp_description {  }
+
+misc_map_leuchtwald_name { Karte vom Düsterwald }
+
+misc_map_leuchtwald_description {  }
+
+misc_worldmap_detailed_name { Karte von Drova }
+
+misc_worldmap_detailed_description { Gezeichnet von einem gewissen "Lorthiz". }
+
+misc_worldmap_shrines_name { Karte der Schreine }
+
+misc_worldmap_shrines_description {  }
+
+armor_chest_ruinenlager_gladiator_name { Gladiatorenrüstung }
+
+armor_chest_ruinenlager_gladiator_description { Für jeden % verlorenen Lebens bekommt man 1 % weniger Schaden. Maximal bis 90%<br><br>Eine Rüstung, getränkt im Blut meiner Konkurrenten. Der Sieg ist mein. }
+
+armor_chest_lendha_dylara_name { Dylaras Rüstung mit Schuhen }
+
+armor_chest_lendha_dylara_description {  }
+
+misc_bagOfCurrency_big_name { Großer Sack mit Münzen }
+
+item_letterRedTower_0_name { Der Nebel ist da }
+
+item_letterRedTower_0_description {  }
+
+item_letterRedTower_1_name { Der Untergang II }
+
+item_letterRedTower_1_description {  }
+
+item_letterRedTower_2_name { Wütende Göttliche }
+
+item_letterRedTower_2_description {  }
+
+item_letterRedTower_3_name { Kryptische Notiz }
+
+item_letterRedTower_3_description {  }
+
+item_letterRedTower_5_name { Der Untergang I }
+
+item_letterRedTower_5_description {  }
+
+item_AldriksNote_name { Aldriks Notiz }
+
+item_AldriksNote_description {  }
+
+item_letterAtlanter_AtlanterCreation_name { Schöpfung der Vergangenen }
+
+item_letterAtlanter_AtlanterCreation_description {  }
+
+item_letterAtlanter_AtlanterProblems_name { Probleme der Vergangenen }
+
+item_letterAtlanter_AtlanterProblems_description {  }
+
+item_letterAtlanter_AtlanterRevolt_name { Ein Vergangenenaufstand }
+
+item_letterAtlanter_AtlanterRevolt_description {  }
+
+item_letterAtlanter_CancelledResearch_name { Abbruch der Forschungen }
+
+item_letterAtlanter_CancelledResearch_description {  }
+
+item_letterAtlanter_DangerousRunes_name { Gefahren der Runenmagie }
+
+item_letterAtlanter_DangerousRunes_description {  }
+
+item_letterAtlanter_DangerousTravels_name { Gefahr auf der Reise I }
+
+item_letterAtlanter_DangerousTravels_description {  }
+
+item_letterAtlanter_DangerousTravels2_name { Gefahr auf der Reise II }
+
+item_letterAtlanter_DangerousTravels2_description {  }
+
+item_letterAtlanter_DrivaniusAttitude_name { Drivanius' Gesinnung }
+
+item_letterAtlanter_DrivaniusAttitude_description {  }
+
+item_letterAtlanter_EmergingFog_name { Ein Nebel zieht auf }
+
+item_letterAtlanter_EmergingFog_description {  }
+
+item_letterAtlanter_Extractor2_name { Der Extraktor II }
+
+item_letterAtlanter_Extractor2_description {  }
+
+item_letterAtlanter_Eye_name { Imperianisches Auge }
+
+item_letterAtlanter_Eye_description {  }
+
+item_letterAtlanter_FirstDownfall_name { Der erste Fall der Göttlichen }
+
+item_letterAtlanter_FirstDownfall_description {  }
+
+item_letterAtlanter_ItsMoreDangerous_name { Drova wird gefährlicher I }
+
+item_letterAtlanter_ItsMoreDangerous_description {  }
+
+item_letterAtlanter_ItsMoreDangerous2_name { Drova wird gefährlicher II }
+
+item_letterAtlanter_ItsMoreDangerous2_description {  }
+
+item_letterAtlanter_LightAndDarkness_name { Licht und Dunkelheit }
+
+item_letterAtlanter_LightAndDarkness_description {  }
+
+item_letterAtlanter_NewsRedTower_name { Rundschreiben des Roten Turms }
+
+item_letterAtlanter_NewsRedTower_description {  }
+
+item_letterAtlanter_OlafDiary_name { Altes Tagebuch von Olaf }
+
+item_letterAtlanter_OlafDiary_description {  }
+
+item_letterAtlanter_ReijaAndMonko_name { Reija und Monkos großer Fund }
+
+item_letterAtlanter_ReijaAndMonko_description {  }
+
+item_letterAtlanter_Revolt1_name { Unruhen in Drova I }
+
+item_letterAtlanter_Revolt1_description {  }
+
+item_letterAtlanter_Revolt2_name { Unruhen in Drova II }
+
+item_letterAtlanter_Revolt2_description {  }
+
+item_letterAtlanter_Revolt3_name { Unruhen in Drova III }
+
+item_letterAtlanter_Revolt3_description {  }
+
+item_letterAtlanter_RuneVessel_Nemeton_name { Leitfaden für Runengefäße }
+
+item_letterAtlanter_RuneVessel_Nemeton_description {  }
+
+item_letterAtlanter_RuneVessel_Ruinenlager_name { Leitfaden für Runengefäße }
+
+item_letterAtlanter_RuneVessel_Ruinenlager_description {  }
+
+item_letterAtlanter_Senat_name { Brief des Senats }
+
+item_letterAtlanter_Senat_description {  }
+
+item_letterAtlanter_ShiftingPriorities_name { Prioritätenwechsel }
+
+item_letterAtlanter_ShiftingPriorities_description {  }
+
+item_letterAtlanter_SpreadingDanger_name { Gefahr breitet sich aus }
+
+item_letterAtlanter_SpreadingDanger_description {  }
+
+item_letterAtlanter_Stars_name { Was steht in den Sternen? }
+
+item_letterAtlanter_Stars_description {  }
+
+item_letterAtlanter_ThirdDownfall_name { Der Fall des dritten Göttlichen }
+
+item_letterAtlanter_ThirdDownfall_description {  }
+
+item_letterAtlanter_ToTheRuinRaiders_name { An die Ruinenräuber }
+
+item_letterAtlanter_ToTheRuinRaiders_description {  }
+
+item_letterAtlanter_WhereIsDrivanius_name { Wo ist Drivanius? I }
+
+item_letterAtlanter_WhereIsDrivanius_description {  }
+
+item_letterAtlanter_WhereIsDrivanius2_name { Wo ist Drivanius? II }
+
+item_letterAtlanter_WhereIsDrivanius2_description {  }
+
+item_letterAtlanter_Workerletter_name { Brief eines Arbeiters }
+
+item_letterAtlanter_Workerletter_description {  }
+
+item_letterCelts_Anatoli_name { Anatolis Bedenken }
+
+item_letterCelts_Anatoli_description {  }
+
+item_letterCelts_BoundaryStone_name { Grenzsteine und Nemeton }
+
+item_letterCelts_BoundaryStone_description {  }
+
+item_letterCelts_Diemo_name { Diemos Meinung zu Nemeton }
+
+item_letterCelts_Diemo_description {  }
+
+item_letterCelts_Jero_name { Jeros Ansicht zu Göttlichen }
+
+item_letterCelts_Jero_description {  }
+
+item_letterCelts_Nemeton_name { Gründung Nemetons }
+
+item_letterCelts_Nemeton_description {  }
+
+item_letterCelts_Roarke_name { Roarkes komische Ideen }
+
+item_letterCelts_Roarke_description {  }
+
+item_letterCelts_SafeHaven_name { Sinn der Zuflucht }
+
+item_letterCelts_SafeHaven_description {  }
+
+item_letterCelts_Treason_name { Sinn der Zuflucht }
+
+item_letterCelts_Treason_description {  }
+
+item_HiddenTreasure_name { Versteckter Schatz }
+
+item_HiddenTreasure_description {  }
+
+item_blackboard_Butterflies_name { Aushang: Hilf dem Hain }
+
+item_blackboard_Butterflies_description {  }
+
+item_letterAtlanter_Arrival_name { Ankunft der Vergangenen }
+
+item_letterAtlanter_Arrival_description {  }
+
+weapon_axe_improvisedpickaxe_name { Id: weapon_axe_improvisedpickaxe }
+
+weapon_axe_improvisedpickaxe_description {  }
+
+item_stalker_egg_name { Schnapperei }
+
+item_stalker_egg_description {  }
+
+item_headleshen_name { Kopf eines Leshen }
+
+item_headleshen_description {  }
+
+item_shadowfur_name { Schattenfell }
+
+item_shadowfur_description {  }
+
+item_fogears_name { Neblingohren }
+
+item_fogears_description {  }
+
+item_foxpaw_name { Fuchspfote }
+
+item_foxpaw_description {  }
+
+item_foodpile_strong_name { Springender Barsch }
+
+item_foodpile_strong_description {  }
+
+item_fish_trout_name { Forelle }
+
+item_fish_trout_description { Das ist noch roh. Verzehr ist nicht empfohlen. }
+
+item_fish_dead_name { Todesfisch }
+
+item_fish_dead_description { Das ist noch roh. Verzehr ist nicht empfohlen. }
+
+recipe_foodpile_strong_name { Rezept: Springender Barsch }
+
+weapon_sword_draugrIronBlade_name { Draugr Schwert }
+
+weapon_sword_draugrIronBlade_description {  }
+
+weapon_shield_draugr_name { Draugr Schild }
+
+weapon_shield_draugr_description {  }
+
+letter_leru_hint03_name { Lorthiz' dritte Traumzeichnung }
+
+letter_leru_hint03_description {  }
+
+weapon_spear_draugr_name { Draugr Speer }
+
+weapon_spear_draugr_description {  }
+
+recipe_leather_description {  }
+
+key_chest_BanditCamp_name { Schwerer Schlüssel }
+
+key_chest_BanditCamp_description { Ein großer Schlüssel den ich einer Gruppe Banditen abgenommen habe }
+
+item_chunnaic_diamond_name { Chunnaics Diamant }
+
+item_chunnaic_diamond_description {  }
+
+item_roastedMeat_t2_name { Saftiges gebratenes Fleisch }
+
+item_roastedMeat_t2_description {  }
+
+item_roastedTrout_name { Gebratene Forelle }
+
+item_roastedTrout_description {  }
+
+recipe_meat_cooked_name { Rezept: Gebratenes sehniges Fleisch }
+
+recipe_meat_2_name { Rezept: Saftiges gebratenes Fleisch }
+
+item_ring_god_name { Segen der Göttlichen }
+
+item_ring_god_description { Mein eigener Talisman }
+
+key_harald_name { Schlüssel zur Mine }
+
+key_harald_description { Damit komme ich in Haralds Mine und kann dort Silber abbauen }
+
+item_letterTableBrutus_3_name { Drivanius' letzte Forschung I }
+
+item_letterTableBrutus_3_description {  }
+
+helmet_brutus_name_name { Nexushelm }
+
+helmet_brutus_name_description { Ein seltsamer Helm, der mit vielen Runen verziert ist. }
+
+item_letter_foresttavern_chapter1_name { Reißerjagd 1 }
+
+item_letter_foresttavern_chapter1_description {  }
+
+item_letter_foresttavern_chapter3_name { Reißerjagd 2 }
+
+item_letter_foresttavern_chapter3_description {  }
+
+category_traps { Einsetzbare Gegenstände }
+
+item_MeriksBusiness_name { Brief an Merik }
+
+item_MeriksBusiness_description {  }
+
+item_KendrickThreat_name { Bedrohlicher Brief }
+
+item_KendrickThreat_description {  }
+
+item_KendrickHideout_name { Versteckter Brief }
+
+item_KendrickHideout_description {  }
+
+item_KendrickGoodsBook_name { Warenliste }
+
+item_KendrickGoodsBook_description {  }
+
+category_crafting { Handwerksmaterialien }
+
+category_saleitems { Sonstiges und Verkaufsgegenstände }
+
+item_letterAtlanter_Shrines_name { Die Schreine der Vergangenen }
+
+item_letterAtlanter_Shrines_description {  }
+
+item_letterCityDungeon_GodPaintings_name { Wandgemälde der Götter }
+
+item_letterCityDungeon_GodPaintings_description {  }
+
+item_letter_Reija_name { Drivanius' Mysteriöse Beobachtung }
+
+item_letter_Reija_description {  }
+
+category_keysAndQuestItems { Schlüssel und Questgegenstände }
+
+weapon_spear_georg_name { Georgs Speer }
+
+weapon_spear_georg_description {  }
+
+weapon_sword_jendra_name { Jendras Schwert }
+
+weapon_sword_jendra_description {  }
+
+flow_ricochet_name { Ricochet }
+
+flow_ricochet_description { Schießt ein Projektil, das [WeaponDamagePercent] Waffenschaden verursacht. Prallt vom Ziel ab und trifft weitere Gegner in der Nähe. }
+
+recipe_flow_ricochet_name { Fähigkeit: Ricochet }
+
+flow_bruntShot_name { Wuchtschuss }
+
+flow_bruntShot_description { Schießt einen Pfeil, der [WeaponDamagePercent] Waffenschaden verursacht und Gegner für [StunTime] Sekunden betäubt. }
+
+recipe_flow_bruntShot_name { Fähigkeit: Wuchtschuss }
+
+flow_poisonArrow_name { Giftpfeil }
+
+flow_poisonArrow_description { Schießt einen Pfeil, der [WeaponDamagePercent] Waffenschaden verursacht und Gegner vergiftet. }
+
+recipe_flow_poisonArrow_name { Fähigkeit: Giftpfeil }
+
+key_tavernKey_Cellar_name { Kellerschlüssel }
+
+key_tavernKey_Cellar_description { Schlüssel zum Keller der Taverne }
+
+recipe_silverringstrength_2_name { Rezept: Ring mit Daraknoten }
+
+recipe_silberringskill_2_name { Rezept: Silberring des Auftragsmörders }
+
+recipe_silberringmind_2_name { Rezept: Meisterhafter Ring der Naturgeister }
+
+misc_key_locked_door_name { [LOCA] Key not found: misc_key_locked_door_name. Path: Items }
+
+misc_key_locked_door_description { [LOCA] Key not found: misc_key_locked_door_description. Path: Items }
+
+cons_flow_conjure_ripper_name { Id: cons_flow_conjure_ripper }
+
+cons_flow_conjure_ripper_description {  }
+
+item_poisonedThrowingKnife_npc_fan_name { Id: item_poisonedThrowingKnife_npc_fan }
+
+item_poisonedThrowingKnife_npc_fan_description {  }
+
+item_poisonedThrowingKnife_npc_fast_name { Id: item_poisonedThrowingKnife_npc_fast }
+
+item_poisonedThrowingKnife_npc_fast_description {  }
+
+item_splittertrap_npc_ebru_all_arena_name { Id: item_splittertrap_npc_ebru_all_arena }
+
+item_splittertrap_npc_ebru_all_arena_description {  }
+
+item_splittertrap_npc_ebru_single_name { Id: item_splittertrap_npc_ebru_single }
+
+item_splittertrap_npc_ebru_single_description {  }
+
+item_Whiskey_StoneWall_name { Steinwall Whiskey }
+
+item_Whiskey_StoneWall_description { Eine alte Flasche auf der ein steinerner Wall abgebildet ist. }
+
+helmet_none_name { Id: helmet_none }
+
+helmet_none_description {  }
+
+item_trinket_boxer_name { Dornencestus }
+
+item_trinket_boxer_description { Deine Angriffe mit Fäusten treffen immer kritisch. }
+
+item_bigligering_name { Yggdrasils Ring }
+
+item_bigligering_description {  }
+
+recipe_yggdrasil_name { Rezept: Yggdrasils Ring }
+
+item_Map_Treasure_Forest_name { Schatz: Nadelwald }
+
+item_Map_Treasure_Forest_description {  }
+
+item_Map_Treasure_Garden_name { Schatz: Ruinen }
+
+item_Map_Treasure_Garden_description {  }
+
+item_Map_Treasure_GeorgsFarm_name { Schatz: Georgs Hof }
+
+item_Map_Treasure_GeorgsFarm_description {  }
+
+item_Map_Treasure_Heath_name { Schatz: Heide }
+
+item_Map_Treasure_Heath_description {  }
+
+item_Map_Treasure_PrimevalForest_name { Schatz: Düsterwald }
+
+item_Map_Treasure_PrimevalForest_description {  }
+
+item_Map_Treasure_Rotmoor_name { Schatz: Rotmoor }
+
+item_Map_Treasure_Rotmoor_description {  }
+
+item_Map_Treasure_WayToMine_name { Schatz: Weg zur Mine }
+
+item_Map_Treasure_WayToMine_description {  }
+
+item_trinket_doriansHeirloom_name { Dorians Erbe }
+
+item_trinket_doriansHeirloom_description { Reduziert den erlittenen Haltungsschaden und Fokusschaden um [PoiseValuePercent]. }
+
+weapon_axe_blaansoldsword_name { Blaans alte Axt }
+
+weapon_axe_blaansoldsword_description {  }
+
+weapon_sword_carimasoldsword_name { Carimas altes Schwert }
+
+weapon_sword_carimasoldsword_description {  }
+
+item_trinket_pureDmg_name { Rache des Tüftlers }
+
+item_trinket_pureDmg_description { Erhöht den Schaden von Fallen und Wurfgegenständen um 100%. }
+
+item_VoragoFragment_0_name { Fragment eines Emblems }
+
+item_VoragoFragment_0_description { Die andere Hälfte scheint zu fehlen. Das Symbol darauf ist nicht klar zu erkennen. Könnte es eine Muschel sein? }
+
+item_letterAtlanter_Excalibur_name { Das Schwert im Stein }
+
+item_letterAtlanter_Excalibur_description {  }
+
+item_KendrickSagar_name { Zerknüllter Brief }
+
+item_KendrickSagar_description {  }
+
+recipe_throwingknife_name { Rezept: Wurfmesser }
+
+item_letterAtlanter_Armor_name { Rüstung der Vergangenen }
+
+item_letterAtlanter_Armor_description {  }
+

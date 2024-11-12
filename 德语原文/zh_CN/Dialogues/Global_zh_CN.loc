@@ -1,0 +1,138 @@
+back { (Zurück) }
+
+end { Ich muss weiter. (Gespräch beenden) }
+
+end_dialog { (Gespräch beenden) }
+
+aboutQuests { Wegen Quests ... }
+
+aboutOtherQuests { Questhilfe ... }
+
+aboutGenericTopics { Ich möchte noch etwas anderes besprechen. }
+
+showMeWares { Zeig mir deine Ware. }
+
+ShowMeSkills { Ich will neue Fähigkeiten lernen. }
+
+End_VergissEs { Vergiss es wieder. }
+
+End_MussLos { Ich muss los. (Gespräch beenden) }
+
+End_IchGehDannMal { Ich geh dann mal. }
+
+End_(End) { (Gespräch verlassen) }
+
+End_ÜberlegeNoch { Ich überlege es mir noch. }
+
+End_KeineZeit { Dafür hab ich keine Zeit. }
+
+End_WirSehenUns { Wir sehen uns. }
+
+End_NichtsZuTun { Damit will ich nichts zu tun haben. }
+
+End_AnderesZuTun { Ich habe was anderes zu tun. }
+
+End_VlltSpäter { Vielleicht später. }
+
+Inf_HabeFrage { Ich hab eine Frage ... }
+
+Inf_DaWarNochWas { Da war noch was ... }
+
+Inf_IchSchauMichUm { Ich schau mich hier nur um. }
+
+Inf_WasMachstDuHier { Was machst du hier? }
+
+Inf_Crimes { Wegen meiner Missetaten ... }
+
+Run_IchBinNochDabei { Ich bin noch dabei ... }
+
+Acc_KuemmereMichDrum { Ich kümmere mich darum. }
+
+Acc_HelfeDir { Gut, ich helfe dir. }
+
+Acc_BinDabei { Ich bin dabei! }
+
+SLP_Dunkel { Komm wieder, wenn die Sonne über Drova steht! }
+
+SLP_Müde { Ich könnte drei Nächte lang durchschlafen ... aber es gibt zu viel zu tun. IMMER gibt es zu viel zu tun ... }
+
+SLP_Zeit { *gähnt* Jetzt nicht ... }
+
+SLP_GoaWay { Verschwinde. }
+
+Teach_General { Bring mir was bei. }
+
+Teach_Power { Zeig mir, wie ich stärker werde. }
+
+Teach_Mind { Zeig mir, wie ich meine magische Kraft besser aufbauen kann. }
+
+Teach_Sword { Kannst du mich im Schwertkampf unterrichten? }
+
+Teach_Sword_! { Zeig mir, wie ich besser mit dem Schwert kämpfen kann. }
+
+Teach_Axe { Kannst du mir zeigen, wie ich besser mit der Axt kämpfen kann? }
+
+Teach_Axe_! { Zeig mir, wie ich besser mit der Axt kämpfen kann. }
+
+Teach_SpearSling { Kannst du mir zeigen, wie ich besser mit dem Speer und der Schleuder kämpfen kann? }
+
+Teach_SpearSling_! { Zeig mir, wie ich besser mit dem Speer und Schlinge kämpfen kann. }
+
+Teach_Dagger { Kannst du mir zeigen, wie ich mit dem Dolch kämpfen kann? }
+
+Teach_Dagger_! { Zeig mir, wie ich besser mit dem Dolch kämpfen kann. }
+
+Teach_Training { Trainiere mit mir. }
+
+Teach_Lockpicking { Bring mir Schlösserknacken bei. }
+
+Teach_Smith { Bring mir was über dein Handwerk bei. }
+
+Teach_Animals { Kannst du mir zeigen, wie ich Tiere ausnehme? }
+
+Busy_NotNow { Nicht jetzt. }
+
+Silence { (schweigen) }
+
+LetsTraining { Bereit für einen Kampf? }
+
+LetsRevance { Bereit für eine Revanche? }
+
+LetsTraining_fromMorvin { Proximus meinte, wir sollen trainieren. }
+
+BloodSteel { Blut und Stahl! }
+
+NotEnoughMoney { Das sind nicht genug Münzen. Komm wieder, wenn du genug davon hast. }
+
+NotEnoughMoney1 { Die paar Münzen reichen nicht. Komm erst wieder, wenn du genug davon hast. }
+
+NotEnoughMoney2 { Verarsch mich nicht, das sind nicht genug Münzen. }
+
+NoTime_TrainingTime { Wenn die Sonne am Himmel steht, bin ich am Trainingsplatz. Dann können wir kämpfen. }
+
+MeldDichBeiMir { Meld dich einfach bei mir. }
+
+HereIsMyMoney { Hier sind die Münzen. }
+
+FightingArena { Heute kämpfen wir beide in der Arena. }
+
+PlayCatch { Willst du Fangen spielen? }
+
+Armor? { Kannst du mit diesen Rüstungsteilen etwas anfangen? }
+
+Armor { Ich habe drei von den Rüstungsteilen - kannst du mir daraus eine Rüstung machen? }
+
+ArmorLight { Eine möglichst leichte, in der ich mich gut bewegen kann. }
+
+ArmorDruid { Eine Rüstung, die viele der Runen auf sich trägt. }
+
+ArmorHeavy { Eine, die maximalen Schutz bietet. }
+
+PlayerSaysTheyDontHaveMoney { Ich habe nicht genug Münzen ... }
+
+Leave { (weggehen) }
+
+OnlyNemetonTeaching { Ich bringe nur Kämpfern aus Nemeton was bei.  }
+
+HaveRostmoos { Ich hab Rostmoos dabei. Brauchst du was? }
+

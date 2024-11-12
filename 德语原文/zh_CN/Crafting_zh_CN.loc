@@ -1,0 +1,34 @@
+Workbench { Werkbank }
+
+Furnace { Rennofen }
+
+Fireplace { Feuerstelle }
+
+Personal { Persönlich }
+
+Recipes { Rezepte }
+
+Title_Panel { Handwerk }
+
+Toggle_CraftableOnly { Nur herstellbare Rezepte anzeigen }
+
+Foldout_Throw { Geräte }
+
+Foldout_Ammo { Munition }
+
+Foldout_Trinkets { Schmuck }
+
+Foldout_Food { Essen }
+
+Foldout_Heal { Heilung }
+
+Foldout_Unsorted { Unsortiert }
+
+Title_CraftingStation { Arbeitsbereich }
+
+Prefix_RequiredWorkbench { Benötigt: }
+
+Foldout_Potion { Tränke }
+
+Foldout_Crafting { Verarbeitung }
+

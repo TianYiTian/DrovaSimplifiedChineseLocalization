@@ -1,0 +1,9 @@
+Desc 
+{ 
+	Versuche, mit der oberen Nadel auf der blauen Fläche zu bleiben.
+	$INPUT:Lockpick_Left$: Nadel nach links bewegen.
+	$INPUT:Lockpick_Right$: Nadel nach rechts bewegen.
+	Sobald der grüne Balken voll ist, hast du das Schloss geknackt. 
+	Füllt sich der rote Balken, ist die Chance hoch, dass dein Dietrich abbricht.
+}
+

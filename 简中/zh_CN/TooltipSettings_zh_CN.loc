@@ -1,0 +1,125 @@
+healingText { 在[StackTime]秒内治疗[MaxStack] }
+
+damage { 伤害 }
+
+attack { 攻击伤害 }
+
+flowgain { 专注值 }
+
+physicalblock { 物理格挡 }
+
+magicalblock { 魔法格挡 }
+
+physicalresistance { 物理抗性 }
+
+magicalresistance { 魔法抗性 }
+
+flowcosts { 专注消耗 }
+
+strength { 力量 }
+
+dexterity { 技巧 }
+
+mind { 鬼魂 }
+
+health { 生命 }
+
+healing { 恢复[VALUE]最大生命值 }
+
+learningpoints { LP }
+
+talentlearned { 学习 }
+
+talentcannotlearned { 尚未可学 }
+
+talentcanbelearned { 可学习 }
+
+unknownteacher { 未知 }
+
+talentnotknown { 天赋尚未被发现 }
+
+foodText { 缓慢恢复你的生命值，直到达到[MaxStack]。当生命值满时，恢复暂停。 }
+
+recipe_requirements { 需要： }
+
+buffAdditionalDescription { (新食物取代饱食效果) }
+
+maxHealth { 最大生命值 [VALUE] }
+
+flowGain { 焦点 [VALUE] }
+
+magicDamage { 魔法伤害 [VALUE] }
+
+bleedingChance { 出血几率 [VALUE] }
+
+weaponDamage { 武器伤害 [VALUE] }
+
+weaponDamage_single { 武器伤害 }
+
+movementSpeed { 奔跑速度 [VALUE] }
+
+poiseDamage { 姿态伤害 [VALUE] }
+
+magicResistance { 魔法抗性 [VALUE] }
+
+staminaReg { 耐力恢复 [VALUE] }
+
+flowReg { 专注力回复 [VALUE] }
+
+armor { 护甲 [VALUE] }
+
+healAdditionalDescription { (相同物品替换增益效果) }
+
+flowPhysical { [能力] }
+
+flowMagical { 魔法 }
+
+flowOneTime { 卷轴 }
+
+learnspell { 使用该物品来学习技能 }
+
+learnrecipe { 使用该物品学习配方 }
+
+alreadylearned { 已学习 }
+
+trashtotrade { 添加垃圾到商品价值 }
+
+craftingItem { 手工材料 }
+
+saleitem { 出售对象 }
+
+critchance { 暴击率 }
+
+critchance_Value { 暴击率 [VALUE] }
+
+orientationpoint { 基本专注值 [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ 物理伤害 }
+
+stat_change_dex { +$STATCHANGE:CritChance$ 暴击 }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ 魔法伤害, +$STATCHANGE:Focus$ 专注力 }
+
+helmet_cosmetics { (头盔纯粹是装饰性的，对角色没有影响。) }
+
+mainHandWeapon { 单手武器 }
+
+offHandWeapon { 副手 }
+
+twoHandedWeapon { 双手武器 }
+
+munition { 弹药 }
+
+drug_description { 磨练你的感官 }
+
+LearnSpell { 教授武器技能 }
+
+flowText { 在[StackTime]秒内生成[HealValue]点专注值。 }
+
+needrunestone { 需要符石 }
+
+strength_value { 力量 [VALUE] }
+
+dex_value { 技能 [VALUE] }
+
+mind_value { 幽灵 [VALUE] }

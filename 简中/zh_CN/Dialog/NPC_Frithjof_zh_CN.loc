@@ -1,0 +1,15 @@
+Plh_5 { 啊，新面孔。我是弗里斯乔夫。我这里有些有趣的东西，你可以买。随便看看吧。*咧嘴笑* }
+
+Plh_7 { 嘿，你想买点什么吗？ }
+
+Plh_9 { 如果你需要什么...你知道在哪里可以找到我。 }
+
+Plh_11 { 你是从哪里弄来这么多东西的？ }
+
+Plh_12 { 啊，我有我的办法。有时候，东西就那么随意地散落着，或者灵巧的手指能帮你打开箱子。我可以教你如何打开箱子，只需$GVAR:EVars_Frithjof.MoneyForLearning$金币。 }
+
+Plh_14 { 如果你有$GVAR:EVars_Frithjof.MoneyForLearning$硬币 *咧嘴笑* }
+
+Plh_15 { 这里是硬币（$GVAR:EVars_Frithjof.MoneyForLearning$ 个硬币给予） }
+
+Plh_17 { *咧嘴笑* 我会遵守我的诺言。 }

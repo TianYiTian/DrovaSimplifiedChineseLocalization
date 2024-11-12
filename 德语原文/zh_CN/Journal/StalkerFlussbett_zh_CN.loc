@@ -1,0 +1,6 @@
+Title { Holz schützt vor Schnappern }
+
+Entry_01 { Harald hat eine Silbermine gefunden, aber er hat Angst vor den Schnappern draußen. Wenn ich ihm $GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$ Stück Holz besorge, lässt er mich so viel Silber schürfen, wie ich will. Er meinte, in den Schiffswracks lässt sich Holz finden. }
+
+Entry_02 { Ich darf in die Silbermine. }
+

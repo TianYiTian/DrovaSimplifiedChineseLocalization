@@ -1,0 +1,162 @@
+Key_Shift { Shift }
+
+control_mousebutton_left { Linksklick }
+
+control_mousebutton_right { Rechtsklick }
+
+control_keycode_space { Leertaste }
+
+control_keycode_control { Strg }
+
+control_keycode_tab { Tab }
+
+control_keycode_return { Enter }
+
+control_keycode_alt { Alt }
+
+control_keycode_up { Oben }
+
+control_keycode_down { Unten }
+
+control_keycode_left { Links }
+
+control_keycode_right { Rechts }
+
+action_MoveX_Pos { Bewegung rechts }
+
+action_MoveX_Neg { Bewegung links }
+
+action_MoveY_Pos { Bewegung oben }
+
+action_MoveY_Neg { Bewegung unten }
+
+action_LookX_Pos { Umschauen rechts }
+
+action_LookX_Neg { Umschauen links }
+
+action_LookY_Pos { Umschauen oben }
+
+action_LookY_Neg { Umschauen unten }
+
+action_Attack_And_Interaction { Interaktion (Normalhaltung) / <br>Angreifen (Kampfhaltung) }
+
+action_Attack_Primary { Angreifen }
+
+action_Block_And_Perception { Untersuchungsmodus (Normalhaltung) / <br>Nebenaktion (Kampfhaltung) }
+
+action_Block { Nebenaktion }
+
+action_Dodge { Ausweichen }
+
+action_DrawWeapon { Waffe ziehen/wegstecken }
+
+action_GameMenu { Spielermenü }
+
+action_PauseMenu { Pause }
+
+action_Interact { Interagieren }
+
+action_Inventory { Inventar }
+
+action_LootAll { Alles nehmen }
+
+action_Journal { Tagebuch }
+
+action_PerceptionMode { Untersuchungsmodus }
+
+action_QuickSave { Schnellspeichern }
+
+action_QuickLoad { Schnellladen }
+
+action_SwapWeaponSet { Waffenset wechseln }
+
+action_Walk { Gehen }
+
+action_Trade_All { Alles handeln }
+
+action_Trade_Ten { Zehn handeln }
+
+action_Screenshot { Screenshot }
+
+action_ReportBug { Fehler melden }
+
+action_UseSpell { Fähigkeit verwenden }
+
+action_RingMenu { Ringmenü }
+
+action_OpenMap { Karte }
+
+action_MarkObject { Objekt markieren }
+
+action_TalentMenu { Talente }
+
+action_Abilities { Fähigkeiten }
+
+action_MarkAsGarbage { Als Müll markieren }
+
+action_Flow_1 { Fähigkeit 1 }
+
+action_Flow_2 { Fähigkeit 2 }
+
+action_Flow_3 { Fähigkeit 3 }
+
+action_Flow_4 { Fähigkeit 4 }
+
+action_Flow_5 { Fähigkeit 5 }
+
+action_Flow_6 { Fähigkeit 6 }
+
+action_Flow_7 { Fähigkeit 7 }
+
+action_Flow_8 { Fähigkeit 8 }
+
+action_Quickbar_1 { Schnellleiste 1 }
+
+action_Quickbar_2 { Schnellleiste 2 }
+
+action_Quickbar_3 { Schnellleiste 3 }
+
+action_Quickbar_4 { Schnellleiste 4 }
+
+action_QuickslotAssignment { Schnellleiste zuweisen }
+
+action_DeleteQuickbarItem { Schnellleiste leeren }
+
+action_PrevPanel { Vorheriger Reiter }
+
+action_NextPanel { Nächster Reiter }
+
+action_Lockpick_Left { Minigame links }
+
+action_Lockpick_Right { Minigame rechts }
+
+action_GuiScrollY { Interface scrollen }
+
+action_PlayNote_1 { Note 1 }
+
+action_PlayNote_2 { Note 2 }
+
+action_PlayNote_3 { Note 3 }
+
+action_PlayNote_4 { Note 4 }
+
+action_CraftingMenu { Handwerksmenü }
+
+action_Squat { Hocke }
+
+action_DialogSkip { Dialog überspringen }
+
+action_MoveX { Bewegung }
+
+action_MoveY { Bewegung }
+
+action_LookX { Umschauen }
+
+action_lookY { Umschauen }
+
+action_HelpUp { Aufhelfen }
+
+action_ToggleGarbageVisibility { Müll ein- und ausblenden }
+
+action_UIDelete { Löschen }
+

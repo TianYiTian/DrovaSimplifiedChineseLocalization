@@ -1,0 +1,194 @@
+Plh_0 { *kramt in den Sachen rum* Hat man dir keine Manieren beigebracht? Läufst du immer einfach in fremden Häusern durch die Gegend? }
+
+Plh_1 { Georg schickt mich. Ich soll dir bei der Arbeit helfen. }
+
+Plh_2 { Georg? Sag das doch gleich! Hm ... Kannst du zufällig kochen? }
+
+Plh_3 { Kochen? Kann ich nicht. }
+
+Plh_4 { Ja, ein wenig. }
+
+Plh_5 { Die Arbeiter hier brauchen deftiges Essen ... *kramt in ihrer Tasche rum* }
+
+Plh_6 { Ah, hier ist es ja ...! }
+
+Plh_7 { Kein Problem. Ist nicht schwer, ich erklär's dir. }
+
+Plh_8 { Wie beschaffe ich alle Zutaten? }
+
+Plh_9 { Für wen genau sind die Portionen? }
+
+Plh_10 { Wie mache ich den Eintopf noch mal? }
+
+Plh_12 { Hol dir was du brauchst aus der Truhe dort hinten. Es sollte noch genügend da sein. }
+
+Plh_13 { Sechs Portionen für die Arbeiter und eine für dich selbst, also sieben insgesamt. Aber keine mehr! }
+
+Plh_15 { Sechs Leute. Jurek und Jerzy. Die arbeiten auf den Feldern und streiten gerne, wenn sie hungrig sind. Wird besser mit Bauernmahlzeit im Magen. }
+
+Plh_16 { Mirron und Dylara müssten an der Brücke arbeiten. Geh von Georgs Hof aus, den Weg lang nach Norden. Dort findest du die beiden. }
+
+Plh_17 { Fleur und Raya sind bei der Scheune östlich vom Hof. Die hämmern sogar nachts, nervt tierisch, aber immerhin sind sie fleißig. }
+
+Plh_18 { Es geht um EINTOPF. Klingelt's? Einfach mischen, und fertig ist die Bauernmahlzeit. Schaffst sogar du. Und wenn du davon überfordert bist - schau einfach ins Rezept. }
+
+Plh_19 { Ich weiß genug. (Gespräch beenden) }
+
+Plh_20 { Melde dich erst wieder, wenn alle Mahlzeiten verteilt sind. Ich hab noch genug anderes zu tun. }
+
+Plh_25 { Ich habe allen was zu essen gebracht. Alle fanden es köstlich. }
+
+Plh_26 { Natürlich fanden sie es köstlich! }
+
+Plh_27 { Das freut mich, wir alle brauchen die Kraft. Wir werden immer weniger Leute auf dem Hof, und wer noch da ist, muss noch viel mehr tun als vorher. }
+
+Plh_28 { Ich ... also ... }
+
+Plh_29 { Behalt einfach das Zeug. Ich sage Georg, dass du mir geholfen hast, wie versprochen. Aber ich sage ihm auch, dass du deine Belohnung schon bekommen hast. Und jetzt scher dich weg. }
+
+Plh_30 { Warum verlassen so viele Leute den Hof? }
+
+Plh_31 { Was ist mit meiner Belohnung? }
+
+Plh_32 { *seufzt* Es wird hier immer gefährlicher. Ich weiß nicht, ob uns Nemeton noch lange schützen kann. Viele sind direkt nach Nemeton abgehauen, um hinter den Palisaden Schutz zu finden. }
+
+Plh_33 { Sollst du kriegen. Ich sag Georg Bescheid, dass du mir geholfen hast. Er wird dir einige Münzen geben. }
+
+Plh_49 { Lass mich arbeiten. }
+
+Plh_50 { Was willst du? }
+
+Plh_51 { Ich hab zu tun, was willst du? }
+
+Plh_52 { Hat sich erledigt. (Gespräch beenden) }
+
+Plh_54 { Ich habe Fleur gefunden. }
+
+Plh_56 { Endlich! Seit Tagen hab ich nichts von ihm gehört. Ist er bald zurück? }
+
+Plh_58 { Wegen des Rostkrauts ... }
+
+Plh_60 { Wenn du nach Nemeton gehst ... könntest du mir einen Gefallen tun? }
+
+Plh_61 { Natürlich. Aber nicht umsonst ... }
+
+Plh_63 { Ich habe gerade keine Zeit. }
+
+Plh_64 { Ich habe hier einen Brief für Asmus in Nemeton. Könntest du ihm den bringen? }
+
+Plh_65 { Den Brief lässt du aber verschlossen, klar? Wenn der offen ankommt, gibt es verdammt viel Ärger! }
+
+Plh_66 { Wo genau finde ich Asmus? }
+
+Plh_68 { Ich bringe Asmus den Brief. }
+
+Plh_69 { Seine Hütte in Nemeton steht in der Nähe des Osttors. Da findet man ihn meistens. }
+
+Plh_70 { Dann warte ich eben auf Muc. *dreht sich von dir weg* }
+
+Plh_72 { Verdammt ... das ist schlimm für Raya ... *mustert dich* Willst du dir ein paar Münzen verdienen? }
+
+Plh_73 { Nur wenn du seine Leiche herholst. }
+
+Plh_74 { Äh. Du hast jetzt schon verstanden, dass Fleur TOT ist? }
+
+Plh_75 { Münzen brauche ich. Was soll ich tun? }
+
+Plh_76 { Jaja, schon klar. Und jetzt muss ich umplanen. Sonst sind meine Geschäfte futsch. Jemand muss mir das Zeug besorgen ... }
+
+Plh_77 { Also, Fleur hat mir Rostkraut aus dem Moor besorgt, und ich hab ihn dafür bezahlt. Das könnten wir beide auch so machen. }
+
+Plh_78 { Worum geht's? }
+
+Plh_80 { Klingt nach einem guten Geschäft. }
+
+Plh_81 { Meine Geschäfte laufen weiter, du bekommst Münzen in die Tasche. Wir haben beide was davon. Na? }
+
+Plh_82 { Daran habe ich kein Interesse. }
+
+Plh_83 { Dann eben nicht. *dreht sich von dir weg* }
+
+Plh_85 { Ich habe hier fünf Mal Rostkraut für dich. }
+
+Plh_86 { Hast du Rostkraut für mich? }
+
+Plh_87 { Leider gerade nicht. }
+
+Plh_88 { Dann komm wieder, wenn du welches hast. }
+
+Plh_89 { Nehme ich. Hier sind deine Münzen. }
+
+Plh_91 { Ich habe hier ein Mal Rostkraut für dich. }
+
+Plh_95 { Den Schlüssel brauchst du ja jetzt nicht mehr. }
+
+Plh_96 { Gib mir den Schlüssel wieder! }
+
+Plh_97 { Hm. Schade. }
+
+Plh_98 { Ich kenne Asmus! }
+
+Plh_99 { Das überrascht mich nicht. Asmus kommt viel rum, und wahrscheinlich hat er schon alle Leute in Drova persönlich begrüßt ... }
+
+Plh_100 { Du hattest EINE Aufgabe. Essen verteilen. Und du schaffst es nicht einmal JEDEM etwas zu bringen. }
+
+Plh_101 { Deine Belohnung kannst du vergessen. }
+
+Plh_103 { Tut mir leid. }
+
+Plh_104 { Ich bin wegen deines Problems mit der Brücke hier. }
+
+Plh_105 { Wird aber auch Zeit! Es heißt, die Krieger von Nemeton wären vor allem für ihre Faulenzerei gefürchtet ... }
+
+Plh_106 { Bei der Brücke gibt es die ganze Zeit schon Probleme. Ein Läufer ist verschwunden. Die anderen trauen sich kaum noch hin. }
+
+Plh_107 { Langsam. Wie kann ich helfen? }
+
+Plh_108 { Sag einfach, was du von mir willst. }
+
+Plh_109 { *atmet durch* Endlich fragt mal jemand danach ... }
+
+Plh_110 { *hebt die Hände* Entschuldige. Lass mich erklären. }
+
+Plh_111 { Es sind schon zwei Lieferungen in der Nähe der Brücke verloren gegangen und der Läufer, den ich geschickt habe, ist auch verschwunden ... jetzt haben alle Schiss. }
+
+Plh_112 { Geh zur Brücke und finde raus, was da los ist. Und wenn du es rausgefunden hast ... beseitige das Problem. }
+
+Plh_113 { Ich kümmere mich darum. }
+
+Plh_114 { Bezahlung? }
+
+Plh_115 { Melde dich, wenn du mehr weißt. }
+
+Plh_116 { Ohne Umschweife, was? Angus wird dich bezahlen. Ist immerhin EURE Aufgabe, uns hier zu beschützen. }
+
+Plh_117 { Es waren Banditen an der Brücke. Sie sind tot. }
+
+Plh_119 { Sie sind ... tot? }
+
+Plh_120 { Da will ich mich gerne auch persönlich erkenntlich zeigen. Hier sind ein paar Münzen. }
+
+Plh_123 { Meld dich bei Angus, er wird dir dafür eine Belohnung geben. }
+
+Plh_124 { Was gibt's? }
+
+Plh_125 { GROSSARTIG! Endlich können meine Leute wieder Waren liefern. }
+
+Plh_126 { Hier ist das Rezept. }
+
+Plh_127 { *schaut dich finster an* Aber was fällt dir ein, mehr zu nehmen als du gebraucht hast? Hältst du mich vielleicht für bescheuert? }
+
+Plh_128 { Übrigens ... }
+
+Plh_129 { Bring den Arbeitern allen eine Portion Bauernmahlzeit. Das ist unser bewährter Eintopf. Der Kessel, in dem du alles kochst, steht in der Mitte. }
+
+Plh_130 { Wir haben gerade nicht mehr besonders viele Vorräte. Nimm bitte nur, was du auch brauchst. }
+
+Plh_133 { Wenn du mal was rauchen willst, komm zu mir. Verkaufe dir natürlich auch das gute Zeug. }
+
+Plh_134 { Ich hab Ida und Elgar getroffen. }
+
+Plh_135 { Ah, dann bist du bestimmt hier, um dein Rostkraut zu verkaufen. }
+
+Plh_136 { Ach übrings, wenn du irgendwas brauchst, ich verkaufe alles, was wir hier auf dem Hof herstellen. Auch einen Trank womit du schneller laufen kannst. }
+

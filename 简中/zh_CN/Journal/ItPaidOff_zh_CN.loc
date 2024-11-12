@@ -1,0 +1,11 @@
+Title { 深矿区 }
+
+Entry_01 { 穆塔格总是从阿尔玛在深矿中采掘到的大量银子中拿走很大一部分。如果我能阻止穆塔格，阿尔玛就会和我分享他在深矿中的位置。 }
+
+Entry_02A { 我照顾了Almar。如果他不能工作，那么Jendra就需要其他人来深矿。这是我的机会。 }
+
+Entry_02B { Murtagh不会再给Almar制造麻烦了。我应该告诉Almar这件事。 }
+
+Entry_02C { Jendra想要$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$银币来换取Almar的位置。我已经支付了，现在得到了他的位置。 }
+
+Entry_03 { 我现在和阿尔玛一起在深矿里共用一个空间。他先休息一下。现在简德拉应该带我走。 }

@@ -1,0 +1,10 @@
+Title { Holz für Adwin }
+
+Entry_01 { Adwin im Handwerkerviertel braucht dringend $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Scheite Holz. Ich soll sie bei Swenn am Marktplatz abholen. }
+
+Entry_02 { Ich habe das Holz, wegen dem sich Jennifer und Swenn fast gekloppt haben. Jetzt muss ich es zu Adwin bringen. }
+
+Entry_03 { Adwin hat das Holz und ich meine Münzen. }
+
+Entry_04 { Ich habe jetzt Wichtigeres zu tun. }
+

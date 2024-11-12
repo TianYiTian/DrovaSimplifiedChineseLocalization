@@ -1,0 +1,72 @@
+Plh_5 { Ich hab zu tun, such dir jemanden anderen zum Quatschen. }
+
+Plh_12 { Hast du gesehen, wie Waffen ins Lagerhaus gebracht wurden? }
+
+Plh_13 { Das höre ich gerne, endlich Pause ... }
+
+Plh_17 { Wie du willst. Du weißt, wo du mich findest. }
+
+Plh_18 { Hier sind deine Münzen, was steht nun in der Warenliste? }
+
+Plh_23 { Endlich mal Ruhe, keine Arbeit. Du hast das gut gemacht. *grinst* }
+
+Plh_25 { *runzelt die Stirn* Hätte nicht gedacht, dass du so viele Münzen hast. }
+
+Plh_27 { Hey, ich will keinen Stress. Ich sag dir alles. }
+
+Plh_30 { Nun ja, also ... in der Warenliste steht nichts. }
+
+Plh_31 { Wie, in der Warenliste steht nichts, was meinst du damit? }
+
+Plh_32 { Dafür habe ich dir die Münzen gegeben?! }
+
+Plh_33 { Hey, ganz ruhig, wenn nichts in der Warenliste steht, ist auch nichts angekommen. }
+
+Plh_34 { Wir haben nie irgendwelche Waffen bekommen, das bedeutet die Handwerker haben uns keine Waffen gebracht. Die müssen noch irgendwo bei denen rumliegen ... oder was weiß ich. }
+
+Plh_35 { Wenn du wissen willst, wo die Waffen sind, schau dich dort um. }
+
+Plh_36 { Ich habe meinen Teil erfüllt und muss weiterarbeiten. }
+
+Plh_38 { *seufzt* Schnüffelst du hier rum oder was? Geht dich nichts an. }
+
+Plh_39 { Fia meinte, es gibt eine Warenliste. Dort müsste es drinstehen. }
+
+Plh_40 { Ja, stimmt schon. Aber es geht dich nichts an. Bist du taub? }
+
+Plh_42 { Ich will nur wissen, was mit den Waffen ist. }
+
+Plh_43 { Ich will mich Nemeton anschließen und muss mich beweisen. }
+
+Plh_44 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ Münzen. }
+
+Plh_45 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ Münzen und ich kann dir einen Hinweis geben. Wird dir vielleicht helfen. }
+
+Plh_46 { Was $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ Münzen? }
+
+Plh_47 { Spinnst du? }
+
+Plh_48 { So viele Münzen habe ich nicht. }
+
+Plh_49 { Ich kann auch einfach den Hinweis aus dir rausprügeln. }
+
+Plh_50 { Wir sind hier nicht im Ruinenlager. Wenn du mich nur anfasst, werden dir die Wachen den Arsch aufreißen. Überleg es dir gut. }
+
+Plh_51 { Hier sind die Münzen ($GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ Münzen geben) }
+
+Plh_52 { *grummelt* Ich mache dir ein Angebot. Bin die ganze Zeit hier schon an der Arbeit, und Fia macht mir immer mehr Druck. Wenn du schon keine Münzen hast, kannst du mir wenigstens bei der Arbeit helfen. }
+
+Plh_53 { Du übernimmst meine Arbeit, lädst die ganzen Waren vom Wagen in die richtigen Kisten und ich ruhe mich aus. }
+
+Plh_54 { Nach getaner Arbeit halte ich auch mein Wort. *grinst* }
+
+Plh_55 { Ich helfe dir bei deiner Arbeit. }
+
+Plh_56 { Hol einfach das Silber vom Wagen runter und bring es in die Kisten. }
+
+Plh_57 { Was ist mit den Waffen? Sind die Waffen im Lager? }
+
+Plh_58 { Was ist nun mit der Warenliste? }
+
+Plh_59 { Wenn du mir direkt die $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ Münzen gibst, ersparste du dir 'ne Menge Ärger. }
+

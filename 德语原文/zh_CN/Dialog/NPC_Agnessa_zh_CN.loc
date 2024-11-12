@@ -1,0 +1,78 @@
+Plh_4 { Nicht jetzt. }
+
+Plh_0 { *Murmelt vor sich her, hält sich den rechten Arm, hat den Mund verzogen* Da hast du dir wieder was eingebrockt, Agnessa ... }
+
+Plh_1 { Brauchst du Hilfe? }
+
+Plh_3 { Nichts für ungut, aber ich kann dir sowieso kaum was für deine Hilfe geben. Und am Ende willst du dann auch noch Silber von mir ... }
+
+Plh_10 { Wegen deiner Verletzung ... }
+
+Plh_11 { Shona meinte, dass Schattenpilze helfen. ($GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ Schattenpilze geben) }
+
+Plh_12 { Mursel gibt dir ein paar Tage, dass du dich erholen kannst. Ich hatte sehr überzeugende Argumente. }
+
+Plh_14 { *kneift die Augen zusammen* Du machst das doch nicht einfach so. Spuck's aus, was willst du dafür? }
+
+Plh_18 { Hä? Was für Argumente? So wie ich Mursel kenne, hast du mit den Fäusten argumentiert? Muss man auch erst mal schaffen. }
+
+Plh_23 { Ich ... ich danke dir. Die Göttlichen müssen dich beseelt haben. }
+
+Plh_25 { Bist du schlimm verletzt? }
+
+Plh_26 { Wer bist du? }
+
+Plh_27 { Geht schon. Nur Mursel sollte mich so nicht sehen ... }
+
+Plh_28 { Wie genau ist das passiert? }
+
+Plh_29 { Mein Arm fühlt sich übel an. Ist hoffentlich nicht gebrochen oder so ... Ich weiß nur, dass ich fast ohnmächtig vor Schmerz werde, wenn ich versuche zu hauen. }
+
+Plh_31 { Ich hab mir gerade erst Silber von Mursel geliehen, um neue Ausrüstung zu kaufen. Und dann verletze ich mich ... wenn ich nicht bald meine Schulden bezahlen kann, wird er sauer ... }
+
+Plh_32 { Agnessa. War zu dämlich, geradeaus zu laufen, bin aufs Maul gefallen ... jetzt hocke ich hier doof rum und kann nicht hauen wie die anderen. Und ohne Silber geht hier unten gar nichts ... }
+
+Plh_34 { Vielleicht kannst du ja bald wieder hauen ... }
+
+Plh_36 { *grinst schmerzerfüllt, wischt Speichelfaden weg* Nur ein Kratzer. Noch eine kleine Pause, dann geht's sicher wieder ... }
+
+Plh_37 { Brauchst du Medizin oder so was? }
+
+Plh_40 { *stöhnt schmerzerfüllt* Hey, du. }
+
+Plh_41 { WAS?! Einfach so? Wo du mich kaum kennst? Das ist ... selbstlos. So was macht hier eigentlich keiner. }
+
+Plh_42 { Ich habe deine Schulden bei Mursel beglichen. }
+
+Plh_43 { Oh. Hey. Dich hab ich hier noch nicht gesehen ...? }
+
+Plh_44 { Ich verstehe was von Bergbau und könnte dir dazu ein paar Geheimnisse offenbaren ... }
+
+Plh_52 { *stöhnt leicht* Du auch. }
+
+Plh_53 { Ich will nichts. Hauer müssen zusammenhalten. }
+
+Plh_54 { Denkst du, niemand hilft ohne Gegenleistung? }
+
+Plh_55 { Ich habe hier eine Heilsalbe für dich. Die wird helfen. }
+
+Plh_57 { Ahhhhhh, das tut gut. Ich fühle schon, wie es besser wird. Bald kann ich wieder arbeiten. }
+
+Plh_58 { Sei bedankt. Viel kann ich dir nicht geben, aber ... }
+
+Plh_59 { *grinst* Wenn du einfach so draufschlägst, bekommst du nicht viel. Immer im Takt, dann bricht der Stein. Du verbrauchst so auch weniger Kraft. }
+
+Teach_General { Kannst du mir was über Bergbau beibringen? }
+
+Plh_60 { *hält ihren rechten Arm* So ein Dreck, der Schmerz wird jeden Tag schlimmer ... }
+
+Plh_61 { Eigentlich denke ich genau das. Zumindest ist das bei allen anderen so. }
+
+Plh_62 { Ich werd's mir merken. }
+
+Plh_63 { Ich hoffe, ich kann auch bald wieder arbeiten. Will nicht umsonst hier sein. }
+
+Plh_64 { Aber ich MUSS doch arbeiten! }
+
+Plh_65 { Glück auf! }
+

@@ -1,0 +1,39 @@
+Save { 保存 }
+
+Load { 加载 }
+
+PlayTime { 游戏时间 }
+
+GameSaved { 游戏已保存 }
+
+NotSaveable { 当前无法保存 }
+
+Title_HeroSelect { 角色 }
+
+SlotType_Quick { 快速存储槽 }
+
+SlotType_Auto { 自动存档位置 $SAVE:存档类型$ }
+
+SlotType_Normal { 存储空间 $SAVE:SlotType$ }
+
+deleteSavegamePopUp { 你确定要删除你的游戏存档吗？ }
+
+overwriteHeroPopUp { 你已达到最大角色数量。请选择一个要覆盖的角色。 }
+
+Title_OverwriteHero { 要覆盖哪个角色？ }
+
+Button_Overwrite { 覆盖 }
+
+NotLoadable { 当前无法加载 }
+
+Corrupted_00 { 游戏存档损坏 }
+
+Corrupted_PopUp_Desc { 此游戏存档已损坏，无法加载。 }
+
+ToMainMenuPopUp_Desc { 你真的想回到主菜单吗？ }
+
+ToMainMenuPopUp_Restricted_Desc { 游戏目前无法保存，你仍然希望返回主菜单吗？ }
+
+QuitPopUp_Desc { 你真的想结束游戏吗？ }
+
+QuitPopUp_Restricted_Desc { 游戏目前无法保存，你仍要退出游戏吗？ }

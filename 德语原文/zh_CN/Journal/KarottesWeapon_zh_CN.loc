@@ -1,0 +1,10 @@
+Title { Karottes Waffe }
+
+Entry_01 { Karotte hat schon wieder seine Waffe demoliert. Er schämt sich, damit Chunnaic unter die Augen zu treten. Ich habe ihm versprochen, mich darum zu kümmern. Dafür hat er mir $GVAR:QuestVars_KarottesWeapon_Config.AmountOfMoney$ Münzen gegeben. }
+
+Entry_02 { Chunnaic hat die Waffe repariert, aber sofort bemerkt, dass sie Karotte gehört. }
+
+Entry_03 { Karotte hat seine Waffe zurück. }
+
+Entry_04 { Karotte braucht seine Waffe nicht mehr. }
+

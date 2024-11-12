@@ -1,0 +1,8 @@
+Title { Irgendjemand muss es ja tun! }
+
+Entry_01 { Agilo kümmert sich notgedrungen um das Essen, und ich soll ihm Äpfel aus den Erdmieten holen, damit er weiterarbeiten kann. Die Erdmieten befinden sich auf dem Hügel nordöstlich von Agilo. }
+
+Entry_02 { Anscheinend hat sich jemand an den Erdmieten vergriffen, und Agilo ist deswegen ziemlich sauer. Gestern Abend waren wohl noch mehr Vorräte da drin. Er sagt, das Essen wird knapp und ich soll ihm $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ Beeren bringen. }
+
+Entry_03 { Agilo arbeitet jetzt an der Brücke. }
+

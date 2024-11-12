@@ -1,0 +1,102 @@
+Plh_6 { Schön, hier mal ein neues Gesicht zu sehen. Ich bin Adwin. }
+
+Plh_7 { Ich bin $GVAR:EVars_Player.Name$. Was machst du hier? }
+
+Plh_9 { Wir setzen einen Grenzstein, um den Einflussbereich des Göttlichen Raben zu vergrößern. Dir sind bestimmt schon diese Steine rund um Nemeton aufgefallen? }
+
+Plh_11 { Was hat es mit den Grenzsteinen auf sich? }
+
+Plh_12 { Wir leben hier mit dem Göttlichen Raben und bauen die Grenzsteine für ihn. Wir sichern sein Gebiet, dafür lässt er uns hier leben. }
+
+Plh_13 { Es ist etwas Besonderes, im Einklang mit einem Göttlichen zu leben. Ein Geben und Nehmen. Wir sind eins. }
+
+Plh_16 { Wo soll der Grenzstein dann hin? }
+
+Plh_17 { Im Apfelhain verrichtet ein Grenzstein nicht mehr seinen Dienst. Früher hat dort die Landschaft geblüht, nun breitet sich das Moor aus. So bestraft der Göttliche uns ... }
+
+Plh_19 { Die Grenzsteine des Göttlichen müssen errichtet werden. Ansonsten werden wir aus Drova nie das Land der Sagen erschaffen. }
+
+Plh_20 { *funkelt dich an* Was willst du? }
+
+Plh_21 { *erschrickt* Was willst du hier? }
+
+Plh_22 { Das wollte ich dich auch gerade fragen. }
+
+Plh_24 { Ich will nur ein bisschen entspannen. Viel zu tun, wenig Arbeit. Aber ... was interessiert dich das eigentlich? Verzieh dich. }
+
+Plh_26 { Bist du der Typ, der die Wände beschmiert? }
+
+Plh_27 { Typ? Ich bin derjenige, der die Wahrheit ausspricht, was Nemeton anrichtet! }
+
+Plh_28 { Schau zum Düsterwald! Sie haben den Göttlichen getötet. Der Rabe existiert nicht. Alles ist eine Lüge, und ich decke sie auf! }
+
+Plh_29 { Gerdwin meint, du sollst deine Strafe bekommen. }
+
+Plh_30 { Am besten hörst du damit auf, und ich berichte Gerdwin, dass sich alles erledigt hat. }
+
+Plh_31 { Erzähl das Gerdwin. Der sucht dich. }
+
+Plh_32 { Gerdwin, pah! Der versteht nicht, was Nemeton uns antut. Du warst bei der Expedition dabei und weißt, was passiert ist! Du solltest die Wahrheit auch rausbrüllen und an die Wände schreiben! }
+
+Plh_37 { Eigentlich hast du recht. Gib mir den Pinsel. }
+
+Plh_38 { Ich? Du hast einen Göttlichen ermordet, ich spreche es aus, und ICH soll dafür bestraft werden? }
+
+Plh_39 { Du gehst jetzt zu Gerdwin oder ich schaffe dich zu ihm. }
+
+Plh_40 { Die Wahrheit wird ans Licht kommen. }
+
+Plh_41 { Lass deine dreckigen Finger von mir! Ich gehe schon. }
+
+Plh_42 { Hmpf. Gerdwin hat bei Kendrick keine Gnade gezeigt. Gut. Ich füge mich. }
+
+Plh_43 { Das gefällt mir! }
+
+Plh_44 { Sieht interessant aus. Aber ... sucht Gerdwin mich wirklich? }
+
+Plh_46 { Es steht am Schwarzen Brett. }
+
+Plh_47 { Dann kann ich wohl froh sein, dass DU mich gefunden hast. Aber wer weiß, wie das alles ausgeht ... }
+
+Plh_51 { Hoffentlich wissen die Leute im Ruinenlager es zu schätzen, wenn man die Wahrheit sagt. Ich haue ab ... }
+
+Plh_52 { Hier ist dein Holz. ($GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Holzscheite geben) }
+
+Plh_53 { Endlich können wir weiterarbeiten. Das wird Junali auch etwas beruhigen. Sie war schon verdammt genervt, dass alles so lange gedauert hat. }
+
+Plh_54 { Und Swenn hat das Holz einfach so rausgerückt? }
+
+Plh_55 { Ja, er hat nur eine Person gebraucht, die es transportiert. }
+
+Plh_56 { Ich war nicht bei Swenn. Ich habe es selbst besorgt. }
+
+Plh_57 { Fauler Hund, lässt andere schleppen, während er am Stand rumsteht und Münzen zählt. }
+
+Plh_58 { Bist auf jeden Fall zuverlässiger als die Händler hier. Mit denen haben wir ständig Ärger ... }
+
+Plh_59 { Damit hast du uns echt aus der Patsche geholfen. Hier, für dich. }
+
+Plh_60 { Na los, nimm schon. Ehrliche Arbeit, fairer Lohn, ganz einfach. Wer mit anpackt, wird auch dafür bezahlt, so läuft das bei uns Handwerkern. }
+
+Plh_61 { Wie genau funktionieren diese Grenzsteine? }
+
+Plh_62 { Dem Göttlichen gefallen die Grenzsteine. Wir bauen sie, weil er gut auf sie reagiert. Nemeton versucht alles, um die Gunst des Göttlichen zu behalten. }
+
+Plh_63 { Deshalb haben wir auch einen Kreis aus diesen Grenzsteinen um ganz Nemeton gezogen. Nun blüht und gedeiht hier alles. Nichts ist so verkommen wie beim Ruinenlager. }
+
+Plh_64 { Der Göttliche dankt uns für unseren Dienst und beschenkt uns dafür mit diesem fruchtbaren Land. Er tut etwas für uns. Und wir tun etwas für ihn. }
+
+Plh_66 { Ich habe einen Streit gehört. Jennifer meinte, dass dir Holz fehlt? }
+
+Plh_67 { Stimmt. Und weiter? }
+
+Plh_68 { Wirklich? Du würdest mir den Arsch retten. Junali ist schon gewaltig angepisst, weil keines mehr da ist ... }
+
+Plh_69 { Eigentlich sollte Swenn uns $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Holzscheite bringen, aber wir warten schon ewig. }
+
+Plh_70 { Wenn du das Holz herbringst, bezahle ich dich natürlich dafür. }
+
+Plh_72 { Soll ich das Holz für dich holen? }
+
+Plh_73 { Ich könnte es für dich holen. }
+

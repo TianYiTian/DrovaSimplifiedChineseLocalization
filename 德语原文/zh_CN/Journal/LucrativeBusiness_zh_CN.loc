@@ -1,0 +1,20 @@
+Entry_01A { Ich soll das Paket, das ich von Afrin besorgt habe, nun zu Boris im Ruinenlager bringen und gegen Münzen eintauschen. }
+
+Entry_01B { Boris will, dass ich ein Paket von Asmus hole und zurück zu ihm bringe. Dafür hat er mir ein paar Münzen versprochen. }
+
+Entry_02 { Boris hat das Paket. Wenn ich Münzen sehen will, muss ich das Rostmoos, das darin war, für ihn verkaufen. }
+
+Entry_03 { So, das Paket wurde übergeben und die Münzen befinden sich in meinen Taschen. Jetzt nur noch alles zu Asmus bringen. }
+
+Entry_04 { Auf dem Rückweg wurde ich von Banditen überfallen. Sie haben anscheinend nach mir gesucht und kamen von Boris. Ich sollte mich mal mit ihm unterhalten. }
+
+Entry_05 { Ich hab Boris die Notiz für $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ Münzen verkauft. Jetzt muss ich nur noch zu Asmus. }
+
+Entry_06 { Asmus glaubt mir die Sache mit dem Überfall zwar, aber ohne Beweise bringt ihm das auch nichts. Er braucht die Münzen, und ich soll es nun anderweitig besorgen. }
+
+Entry_07 { Ich habe die Münzen Asmus gegeben. Als Belohnung habe ich einen Teil der Münzen zurückbekommen. }
+
+Title { Lukratives Geschäft }
+
+Entry_01C { Das Geschäft ist nicht zustande gekommen. }
+

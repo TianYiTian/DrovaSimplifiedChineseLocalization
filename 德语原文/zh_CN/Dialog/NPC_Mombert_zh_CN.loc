@@ -1,0 +1,896 @@
+Plh_5 { Ich bin bereit für die Expedition. }
+
+Plh_6 { Bist du sicher? Wenn wir aufbrechen, können wir nicht umkehren, bis wir unsere Mission erfüllt haben ... oder wir tot sind. }
+
+Plh_7 { Wir haben den Düsterwald erreicht. Da sind die Ruinen ... }
+
+Plh_8 { Der Düsterwald ... *atmet tief ein* Haltet eure Fackeln gut fest. Verglichen mit dem, was nun kommt, war es bislang ein Spaziergang ... }
+
+Plh_9 { Halt! *hebt den Arm* }
+
+Plh_10 { Die Schwarzen Flammen. Ich kann die Schreie meiner Leute fast noch hören ... $GVAR:EVars_Player.Name$! Jetzt brauchen wir deinen Funken. }
+
+Plh_13 { Noch mehr von den Schwarzen Flammen ... }
+
+Plh_22 { Es gibt gerade Wichtigeres. }
+
+Plh_25 { Dem werden wir's zeigen! }
+
+Plh_26 { Weiter. }
+
+Plh_28 { Sprich mit der Erbin des Moores. }
+
+Plh_29 { Erledige deinen Auftrag. }
+
+Plh_31 { Wir sind zurück, genieß jetzt das Fest des Feuers. Wir werden danach sprechen. }
+
+Plh_36 { Ich werde jetzt beginnen. }
+
+Plh_37 { Da kommt er ... wir haben ihn fast! }
+
+Plh_38 { Die Dunkelheit ... sie breitet sich aus! }
+
+Plh_39 { GRADAN, VORSICHT! }
+
+Plh_41 { Es ist soweit! }
+
+Plh_42 { Weiter! }
+
+Plh_85 { Ja, ich bin sicher. }
+
+Plh_86 { Einen Moment noch. }
+
+Plh_87 { Wir haben eine schwierige Aufgabe vor uns. Beginne sie erst, wenn du dir wirklich sicher bist. }
+
+Plh_88 { Ein wichtiger Schritt, das Land der Sagen zu formen. Eine Zeit des Friedens. Im Namen von Molvina - seid ihr bereit? }
+
+Plh_89 { Ja! Wir zeigen der Erbin des Moores, was wir alles können! Erzittert, Göttliche! }
+
+Plh_90 { *grummelt* Mach mal langsam, Karotte. Das wird alles andere als ein Spaziergang ... }
+
+Plh_91 { Wir passen aufeinander auf. Niemand bleibt zurück, wir alle kehren zurück zu den Menschen, die wir lieben ... ja? }
+
+Plh_94 { Ja, wir haben keine Zeit. Ich weiß ... }
+
+Plh_95 { Den Weg zu den Schwarzen Flammen finde ich wieder. Denkt daran - sie sind gefährlich. Seid vorsichtiger als meine Gefährten damals. }
+
+Plh_96 { Traut den Schatten nicht und achtet aufeinander! }
+
+Plh_98 { *flüstert* Da hinten - ein Wildschwein mit zwei Frischlingen. Macht kein Geräusch, wir lassen sie vorbeiziehen. }
+
+Plh_120 { Es gibt einen Weg hindurch. Da brauchen wir den Funken nicht. }
+
+Plh_121 { Es ist nicht mehr weit bis zu dem Göttlichen ... }
+
+Plh_123 { Endlich! Für Nemeton! }
+
+Plh_124 { Hier muss er sein ... der Kraftort des Göttlichen. }
+
+Plh_128 { Ihr wisst, was ihr zu tun habt. Zögert nicht, sonst wird das unser aller Tod sein. }
+
+Plh_130 { GRADAAAAN! }
+
+Plh_138 { Ich habe den Machtkristall. (Molvina geben) }
+
+Plh_156 { Holt eure Fackeln raus. Brauchst du auch eine, $GVAR:EVars_Player.Name$? }
+
+Plh_159 { Ich könnte etwas essen. }
+
+Plh_160 { Ich gehe schlafen. }
+
+Plh_163 { Sicher? Sobald du dich ausgeruhst hast, treten wir dem Göttlichen entgegen. Dann müssen wir es durchziehen ... }
+
+Plh_164 { Gute Nacht. }
+
+Plh_165 { Gute Nacht. }
+
+Plh_166 { Hey, wach auf! Mombert will weiter. }
+
+Plh_169 { Ich habe Proviant dabei. Wir sollten gestärkt in die Schlacht gegen den Keiler gehen. }
+
+Plh_201 { Die Zeit ist gekommen. Der Göttliche ist nah. }
+
+Plh_202 { Na endlich! Das Warten macht mich und meine Axt schon verrückt. }
+
+Plh_209 { Tut das. Ihr wollt nicht erleben, was euch widerfährt, wenn die Schwarzen Flammen euch berühren ... }
+
+Plh_212 { Bleibt in meiner Nähe! (losgehen) }
+
+Plh_213 { Passt alle auf. $GVAR:EVars_Player.Name$, kannst du uns zeigen, was der Funke macht? }
+
+Plh_214 { Ja. (nach vorne gehen) }
+
+Plh_216 { Ich wusste es. Endlich können wir weiter ... }
+
+Plh_217 { Gut. Der Göttliche wird sich nicht vor uns verstecken können. }
+
+Plh_219 { Siehst du? Halb so schlimm. }
+
+Plh_220 { Also gut, $GVAR:EVars_Player.Name$. Wir sind direkt hinter dir. }
+
+Plh_221 { *atmet tief durch* Ich schaffe das! }
+
+Plh_223 { Keine Zeit verlieren. $GVAR:EVars_Player.Name$! }
+
+Plh_224 { Kommt mit. (Weitergehen) }
+
+Plh_226 { Dicht zusammen bleiben. Los! }
+
+Plh_227 { Weiter! }
+
+Plh_235 { *flüstern* Wir sind ruhig. }
+
+Plh_236 { Ich finde auch, wir sollten sie aus dem Weg räumen. }
+
+Plh_237 { *flüstert* Noch etwas warten ... }
+
+Plh_238 { Hm. Wir würden dann zumindest keine Zeit verschwenden ... }
+
+Plh_239 { Eben! Und wir haben leichtes Spiel. }
+
+Plh_240 { Gut. Machen wir es schnell. Gradan, halt dich dabei zurück! }
+
+Plh_241 { Jetzt! Schnell! }
+
+Plh_248 { Wir halten zusammen. Ja. Genug Leute sind gestorben. Aber wir dürfen nicht zaudern, wenn wir dem Göttlichen gegenüberstehen. Weicht nicht zurück, wenn es ernst wird. }
+
+Plh_249 { *packt ihn an der Schulter* Karotte. Dies wird deine erste Expedition. Du hast Talent. Du hast den Willen. Aber nun wird sich zeigen, was du wirklich wert bist. }
+
+Plh_250 { Ich tue alles für die Familie, Mombert! Ich will die Erbin des Moores stolz machen! Sag, was ich tun soll - ich tue es! FÜR NEMETON! }
+
+Plh_251 { Das will ich hören. Aber du wirst auch einen kühlen Kopf behalten müssen, wenn das Blut fließt. Deine Brüder und Schwestern in Nemeton verlassen sich auf dich. }
+
+Plh_252 { Henik. Ich bin froh, dich auch in dieser Expedition an meiner Seite zu wissen. Du wirst in der Hitze der Schlacht den Überblick behalten. Sei unser Fels in der Brandung. }
+
+Plh_253 { Ich bin bereit. }
+
+Plh_254 { FÜR NEMETON! }
+
+Plh_255 { Das Land der Sagen ist nah ... ich kann es fühlen. }
+
+Plh_256 { Gradan. Zusammen haben wir viele Expeditionen erlebt. Deine Kraft hat uns aus so manch aussichtsloser Situation befreit. Deine Axt soll uns auch diesmal stärken. }
+
+Plh_257 { Schwert, Schild, Fäuste ... was ich habe, erwartet deine Befehle. }
+
+Plh_258 { Wir werden mit dieser Expedition ein neues Kapitel in Drova aufschlagen. Für Nemeton. }
+
+Plh_259 { Für alle. }
+
+Plh_260 { Und dann bist da noch du, $GVAR:EVars_Player.Name$ ... Du warst bereits im Düsterwald und hast herausgefunden, wie wir durch die Schwarzen Flammen kommen können. }
+
+Plh_261 { $GVAR:EVars_Player.Name$ gehört zu dieser Expedition. Ohne Einschränkungen. Verhaltet euch entsprechend. Als Einheit. }
+
+Plh_262 { Und ich bin auch überzeugt, dass $GVAR:EVars_Player.Name$ eine Hilfe sein wird. }
+
+Plh_263 { Gemeinschaft von Nemeton. Folgt mir. Vielleicht formen wir schon heute aus Drova das Land der Sagen ... }
+
+Plh_271 { *legt seine Hand an eine Wand* Ich würde so gern wissen, wie sie hier gelebt haben. Wer die Vergangenen waren ... wie sie gedacht haben ... warum sie verschwunden sind. }
+
+Plh_272 { Und so viele ... die Vergangenen müssen ganz Drova besiedelt haben. }
+
+Plh_274 { Man sagt, dass sie eins mit den Göttlichen waren. Im Einklang mit ihnen gelebt haben. Doch ... wie? }
+
+Plh_275 { Das ist also der Düsterwald. Der "Große Keiler", wie sie ihn nennen, verändert diesen Wald. Macht ihn zu etwas anderem. }
+
+Plh_276 { Die Macht der Göttlichen ist groß. Sie können ... }
+
+Plh_282 { Die Flammen verlöschen ... }
+
+Plh_290 { Holen wir ihn uns! }
+
+Plh_295 { Konzentriert euch. Sobald ich mit dem Ritual begonnen habe, gibt es kein Zurück mehr. }
+
+Plh_296 { Brauchst nicht so zu flüstern. Ich bin bereit. Der Kratzer hier wird mich nicht aufhalten. }
+
+Plh_308 { Mein Funke leuchtet mir den Weg. }
+
+Plh_309 { Ja. Danke. }
+
+Plh_310 { Später brauchen wir ihn. }
+
+Plh_313 { Mombert ... }
+
+Plh_314 { Eine letzte Warnung: Wir müssen aufeinander aufpassen. Der Düsterwald hat schon viele gute Krieger verschlungen. Und wir wissen nicht, was inzwischen alles darin lauert. }
+
+Plh_315 { Ich werde alles in den Boden rammen, was sich uns nähert. }
+
+Plh_317 { Ich werde aufpassen, dass uns nichts in den Rücken fällt. }
+
+Plh_318 { ... habt ihr das gehört? }
+
+Plh_325 { Gradan ... ich ... es tut mir leid. }
+
+Plh_326 { Wir haben einen Bären besiegt! War doch gar nicht so schwer! }
+
+Plh_327 { *seufzt* Gut. Wir ziehen weiter. Gradan, halt dich beim nächsten Kampf im Hintergrund. Nichts riskieren. }
+
+Plh_328 { W-was? Ich geh da nicht rein! Mombert, du hast doch gesagt, wie viele da gestorben sind! }
+
+Plh_329 { Karotte, $GVAR:EVars_Player.Name$ ist unversehrt. Wir können da durch. }
+
+Plh_330 { Aber wenn der Funke auf einmal wegfliegt ... }
+
+Plh_331 { Es gibt keine andere Möglichkeit. $GVAR:EVars_Player.Name$ hat bewiesen, dass es funktioniert. Bitten wir den Göttlichen des Raben um seinen Schutz. }
+
+Plh_332 { Aber ... ich weiß nicht ... die Flammen ... }
+
+Plh_333 { Karotte! Schau mich an. }
+
+Plh_334 { Ja. Gemeinsam. Für Nemeton. }
+
+Plh_335 { *blinzelt* Ich ... ich ... }
+
+Plh_336 { Das ist deine Prüfung, Karotte. Ich habe es dir gesagt. Du hast Talent, aber deinen Mut musst du nun beweisen. }
+
+Plh_337 { Komm, Karotte. Wir gehen zusammen. }
+
+Plh_338 { *atmet durch* Ich ... ich bin bereit. }
+
+Plh_340 { Wir sind fast durch. Weiter, solange die Flammen erloschen sind. }
+
+Plh_345 { Genug! Henik hat recht. Wir schlagen ein Lager auf. }
+
+Plh_350 { Ich schau mich noch etwas um. }
+
+Plh_351 { Gut, ich lege mich schlafen. }
+
+Plh_352 { Das kannst du da hinten. }
+
+Plh_353 { Ruh dich aus. Morgen früh brechen wir auf. }
+
+Plh_355 { Gradan! }
+
+Plh_356 { Nein, Karotte ...er ist tot. *presst die Augenlider zusammen* }
+
+Plh_357 { Wartet ... irgendwas stimmt hier nicht ... fühlt ihr es auch? Wir müssen hier weg. Sofort! }
+
+Plh_358 { Und Gradans Körper willst du hier liegen lassen? Einfach so? }
+
+Plh_359 { Henik, ich trauere um Gradan, wie ihr. Aber wir haben keine Zeit, ihn mitzunehmen. }
+
+Plh_361 { Henik, er hat recht. Wir müssen hier sofort weg. }
+
+Plh_362 { Gradan hat sich geopfert! Wir müssen ihn mitnehmen oder beerdigen! }
+
+Plh_363 { Du willst Gradan auch so ehrlos aufgeben? }
+
+Plh_364 { Ja! Er war ein Teil von uns! Was ist mit der Gemeinschaft, Mombert? }
+
+Plh_365 { Henik, es geht nicht anders! }
+
+Plh_366 { Wenn wir hierbleiben und den Göttlichen nicht zurückbringen, war dieses Opfer umsonst. Tief im Inneren wisst ihr es. Und ihr fühlt auch, wie der Wald sich verändert. Schaut euch doch einfach mal um. }
+
+Plh_367 { *knirscht mit den Zähnen* Gib uns wenigstens einen Moment. }
+
+Plh_368 { Ruhe in Frieden, alter Freund. Du warst oft so stur ... es wird mir fehlen. }
+
+Plh_370 { Mombert hat recht, wir müssen los ... }
+
+Plh_374 { *stöhnt* Ich ... es ist ... geschafft. }
+
+Plh_376 { Ein Göttlicher ... wir haben es endlich geschafft ... }
+
+Plh_377 { Moment! Da ist was vor uns! }
+
+Plh_379 { Die Taverne! Geschafft. Wir müssen jetzt nur noch nach ... }
+
+Plh_396 { ARGH! *hält sich am Fußgelenk fest* }
+
+Plh_397 { Der hat mich erwischt. Tut ... etwas weh. Aber was soll's, hab ich halt eine Narbe mehr. *zieht zischend die Luft ein* Ist nicht so schlimm ... }
+
+Plh_398 { Ich kenne dich, Gradan. Du hast schlimme Schmerzen. Sollten wir dich besser hierlassen? }
+
+Plh_399 { Blödsinn. *wischt Schweiß von der Stirn* }
+
+Plh_400 { So, verbunden ... aber ich bin mir nicht sicher, ob du- }
+
+Plh_401 { Jetzt hör auf. Ich kann kämpfen, ich will kämpfen! }
+
+Plh_405 { Wir müssen auf unsere Kräfte aufpassen, und einen Verletzten haben wir schon. Bald treten wir dem Großen Keiler gegenüber ... }
+
+Plh_406 { Ein Verletzter? Meinst du mich? }
+
+Plh_407 { *zischt* Ruhe! }
+
+Plh_408 { Sicher doch ... }
+
+Plh_409 { Wir können nicht mehr weit vom Göttlichen entfernt sein. Ich kann seine wachsende Präsenz fühlen. Es ist wie ... ein Kribbeln. }
+
+Plh_410 { Dann beginnt unsere eigentliche Aufgabe. Wir werden- }
+
+Plh_411 { ARGH! ... verdammt ... }
+
+Plh_412 { Gradan! }
+
+Plh_413 { Ist es die Wunde? }
+
+Plh_414 { Hat nur ein bisschen gezwickt. Geht schon wieder. }
+
+Plh_415 { Dieser Drecksbär. Immerhin haben wir ihn erledigt ... }
+
+Plh_416 { Mombert, wir müssen ein Lager aufschlagen und Gradans Wunde behandeln. Sonst wird sie immer schlimmer. Wir müssen dem Göttlichen geeint gegenübertreten. }
+
+Plh_417 { Ist das wirklich nötig? }
+
+Plh_418 { Hör nicht auf ihn, Mombert. *stöhnt, wischt sich Schweiß von der Stirn* }
+
+Plh_419 { Jetzt schau dich an, Gradan! Du musst dich ausruhen, wir müssen die Wunde pflegen. Was soll es bringen, wenn du geschwächt bist? Das gefährdet uns alle! }
+
+Plh_421 { Wir können ja einfach etwas langsamer- }
+
+Plh_422 { *stöhnt* Wenn's sein muss ... }
+
+Plh_425 { Du kannst dich auf mich verlassen. }
+
+Plh_426 { Karotte, du wirst das Runengefäß platzieren. }
+
+Plh_427 { Lass mich das übernehmen, Mombert. Wir müssen schnell reagieren und dürfen nicht zögern ... }
+
+Plh_429 { Das stimmt. Auf deine Erfahrung und deinen Mut war bisher immer Verlass. Karotte, du wirst uns stattdessen im Kampf beistehen. }
+
+Plh_431 { *senkt den Blick* }
+
+Plh_432 { *flüstert* Gradan ... deine Verletzung ... traust du dir das wirklich zu? }
+
+Plh_439 { Die Tiere ... sie flüchten aus dem Düsterwald. }
+
+Plh_440 { Der Göttliche ist nicht mehr da ... der Wald ... er verändert sich ... }
+
+Plh_442 { Sind ... wir daran schuld? }
+
+Plh_443 { Der Einfluss des Große Keilers ist weg, die Schwarzen Flammen verschwunden ... }
+
+Plh_444 { Aber wohin fliehen die Tiere dann? }
+
+Plh_445 { Keine Ahnung. Selbst wenn sie versuchen würden, Nemeton zu überrennen ... wir haben Palisaden und Schwerter. }
+
+Plh_446 { Beeilung. Sonst kommt es direkt zur nächsten Konfrontation ... }
+
+Plh_447 { *stößt erleichtert den Atem aus* Wir haben den Düsterwald hinter uns gelassen! Jetzt ist es nicht mehr weit! }
+
+Plh_448 { *mustert das Runengefäß* Molvina wird zufrieden sein. Und wir werden Gradans Namen nicht vergessen. }
+
+Plh_449 { Mit der Macht des Göttlichen werden wir das Ruinenlager endgültig vernichten ... }
+
+Plh_450 { *flüstert* Der Wald ... was ist das ... was haben wir getan ... }
+
+Plh_451 { Alles hier ist tot, als hätten Monster gewütet ... }
+
+Plh_452 { War das richtig, Mombert ...? }
+
+Plh_453 { Nemeton und die Erbin des Moores erwarten das Runengefäß. Nur das zählt. }
+
+Plh_454 { Vergesst, was hinter uns liegt. }
+
+Plh_455 { Wir werden noch einen Moment hier bleiben. Wir müssen was trinken! Ich zumindest ... auf Gradan. }
+
+Plh_456 { Ja. Ein Bier auf Gradan. Oder mehr. }
+
+Plh_457 { Ich verstehe euch. Wirklich. Aber das Runengefäß muss zu Molvina, sonst war sein Tod umsonst. }
+
+Plh_458 { Ich kümmere mich darum. Trinkt auf Gradan, auf sein Opfer. Wir werden ihn gemeinsam in Nemeton beim Fest des Feuers verabschieden. }
+
+Plh_459 { Das werden wir. $GVAR:EVars_Player.Name$, kommst du mit in die Taverne? }
+
+Plh_462 { Ja. Ich brauche eine Pause ... }
+
+Plh_464 { Ihr habt alle etwas Ruhe verdient. }
+
+Plh_465 { Wir sehen uns in Nemeton. Geht mit dem Raben. }
+
+Plh_470 { *ruft* Leute, holt euch was zu essen! }
+
+Plh_471 { Wir brauchen Kraft für das, was vor uns steht. }
+
+Plh_472 { Die Macht eines Göttlichen ... stellt euch vor, was wir damit tun können ... }
+
+Plh_526 { Ich sehe keinen Funken. Hol ihn endlich raus, wir werden ihn brauchen, um hier durchzukommen. }
+
+Plh_527 { Ja. Was war das?! }
+
+Plh_528 { Klingt wie ein Bär ... ein großer Bär. Augen auf! }
+
+Plh_529 { Vorsicht! Dort! }
+
+Plh_530 { Das ... sieht ziemlich böse aus. Kannst du weitergehen? }
+
+Plh_532 { Was denn, sind doch nur Schweine. Machen wir sie platt. }
+
+Plh_533 { HALT! }
+
+Plh_535 { Bleibt in meiner Nähe. Mein Funke vertreibt die Flammen. }
+
+Plh_539 { Ich glaube, das will ich wirklich nicht ... }
+
+Plh_540 { *laut* Schau mich an, Karotte! }
+
+Plh_541 { *zuckt zusammen* Was? WAS? }
+
+Plh_542 { Vertrau mir. Und vertrau $GVAR:EVars_Player.Name$. Wir kommen da durch. Alle. }
+
+Plh_543 { Geschafft! Sind alle dabei? Unverletzt? }
+
+Plh_544 { *tastet sich ab* Ist noch alles dran. }
+
+Plh_545 { Hier alles in Ordnung. Aber Karotte ... hey! }
+
+Plh_546 { *schluck* Ja ... schon gut ... Ich ... Wir haben es geschafft? Ich will da nie wieder durch ... }
+
+Plh_547 { Vielleicht müssen wir. Von hier an schreiten wir ins Unbekannte. Ich kann die Anwesenheit des Göttlichen spüren. Er ist nicht mehr weit. }
+
+Plh_563 { Jetzt ist die Zeit. Wir haben den Göttlichen und dürfen nicht warten - wir müssen in den Roten Turm! }
+
+Plh_564 { Die Zeit drängt! Und sie ist nicht auf unserer Seite! }
+
+Plh_565 { Aber die magische Kraft, die wir haben, reicht nicht. Jero ist in der Überzahl und schon dort. Wir könnten alles verlieren ... und dann war alles umsonst. }
+
+Plh_567 { Wir dürfen nichts überstürzen. Lio sagt, dass die magische Kraft nicht ausreicht. Also warten wir. }
+
+Plh_568 { Ich war mit Reija in der Bibliothek und habe eine Schriftrolle gefunden. }
+
+Plh_571 { *seufzt* Wir brauchen dringend gute Nachrichten. Zeig. }
+
+Plh_572 { *liest die Schriftrolle* Hier werden Machtkristalle erwähnt ... }
+
+Plh_574 { Was ist so lustig? }
+
+Plh_575 { Das kann kein Zufall sein ... Hier ist beschrieben, wo die Vergangenen die Machtkristalle verwendet haben. Auf dem Plateau im Auwald, nördlich von den Holzfällern. }
+
+Plh_576 { *runzelt die Stirn* Verfluchter Jero ... deswegen hat er Späher und Krieger dorthin geschickt. Immer einen Schritt voraus ... }
+
+Plh_578 { Aber wir brauchen noch die weiteren Machtkristalle, um in den Roten Turm zu kommen. }
+
+Plh_579 { Ich kann keine Krieger entbehren. Was ist, wenn Jero uns angreift, um den Großen Keiler zu holen? }
+
+Plh_580 { Krieger des Ruinenlagers sind im Auwald? }
+
+Plh_581 { Was ist passiert, während ich weg war? }
+
+Plh_583 { Einige unserer Späher haben einen Trupp Krieger vom Ruinenlager gesehen, die zum Auwald unterwegs waren. }
+
+Plh_584 { Jero hat die Gunst der Stunde genutzt. Wir haben es selbst erst jetzt erfahren ... }
+
+Plh_586 { Wenn wir den Auwald betreten, werden Jeros Krieger uns angreifen. Und es wird nicht bei einem Scharmützel bleiben ... dann wird Krieg zwischen den Lagern ausbrechen. }
+
+Plh_588 { Ich muss darüber nachdenken. Lasst mich im Heiligen Hain darüber meditieren. }
+
+Plh_589 { Was gibt es denn da zu meditieren?! Sollen wir einfach abwarten, bis wir noch tiefer in der Scheiße stecken? }
+
+Plh_590 { Ich habe nichts mehr zu sagen. }
+
+Plh_592 { Sag doch einfach, dass ich das tun soll. }
+
+Plh_593 { Wer wäre dafür wohl geeignet ... }
+
+Plh_596 { Ich muss ja einsehen ... Molvina hat recht. Eine Expedition in den besetzten Auwald zu schicken, könnte einen direkten Angriff provozieren. }
+
+Plh_599 { Wir könnten höchstens eine Person schicken, die sich an den Truppen des Ruinenlagers vorbei zu dem Kristall schleicht und ihn holt ... }
+
+Plh_600 { Du gehörst nun zu uns, aber du bist noch kein Teil unserer eingespielten Kampftruppe. Und wenn du weg wärst, würde es nicht direkt auffallen. Wir brauchen unbedingt diesen Kristall! }
+
+Plh_601 { Lässt Molvina mich losziehen? }
+
+Plh_602 { Molvina muss das nicht wissen. }
+
+Plh_603 { Wenn es gut läuft, bist du schon mit dem Machtkristall auf dem Rückweg, bis es ihr auffällt. }
+
+Plh_605 { Ich werde den Kristall holen. }
+
+Plh_607 { Mir missfällt der Gedanke, Molvina zu hintergehen ... }
+
+Plh_608 { Du hintergehst sie nicht. Du tust das einzig Richtige. Ich bin sicher, sie weiß das auch, und sie wird dir keine Vorwürfe machen, wenn es dir gelingt. }
+
+Plh_609 { Und ich muss mich noch erkenntlich zeigen für das, was du in der Bibliothek getan hast ... }
+
+Plh_610 { Verwende die Münzen, um bei Lio neue Zauber zu lernen oder Waffen bei Chunnaic zu kaufen. Für die nächste Aufgabe musst du vorbereitet sein. }
+
+Plh_612 { Geh den Kriegern des Ruinenlagers so gut wie möglich aus dem Weg. Die guten Kämpfer sind damals noch von Angus ausgebildet worden, und das bedeutet, dass sie ihr Handwerk verstehen und keine Gnade kennen. }
+
+Plh_613 { Ich werde mit Molvina sprechen ... beeil dich. }
+
+Plh_614 { *grml* Bist du sicher, Angus? }
+
+Plh_615 { Karotte ist ein Krieger. Er muss Blut schwitzen, und die Hitze des Kampfes wird aus ihm einen Krieger machen. }
+
+Plh_616 { Aber die Mission ... }
+
+Plh_617 { Ich bürge für Karotte. Er hat Loyalität und Kraft bewiesen. Nun muss er den Mut zeigen, alles für Nemeton zu geben. }
+
+Plh_618 { Nun gut. Du bürgst für ihn. Ich nehme ihn mit. }
+
+Plh_619 { Ah, da bist du ja. Wir werden mit Henik, Gradan und Karotte in den Düsterwald aufbrechen. }
+
+Plh_620 { Nun dann ... Krieger, versammelt euch! }
+
+Plh_621 { Eine Expedition steht uns bevor. Die Erbin des Moores schickt uns, den Großen Keiler des Düsterwaldes zu finden. }
+
+Plh_622 { $GVAR:EVars_Player.Name$ hat auch Rura geholfen! }
+
+Plh_623 { Dann bin ich gespannt, mitzuerleben, was $GVAR:EVars_Player.Name$ auf dem Kasten hat. }
+
+Plh_624 { Mit $GVAR:EVars_Player.Name$ habe ich ein paar Viecher am Osttor beseitigt. }
+
+Plh_625 { $GVAR:EVars_Player.Name$ hat pflichtbewusst Junalis Aufgaben übernommen. Wie es sich in einer Gemeinschaft gehört. }
+
+Plh_626 { Natürlich! Ich war mit $GVAR:EVars_Player.Name$ im Moor, und wir haben eine Alraune gefangen. Das will was heißen! }
+
+Plh_630 { (dazukommen) }
+
+Plh_631 { Zu den Waffen! }
+
+Plh_632 { Klar kann ich! Meinst du vielleicht, ich lasse euch den ganzen Spaß allein haben? }
+
+Plh_634 { Komm an meine Seite. (Funken herbeirufen) }
+
+Plh_635 { Dies ist der Ort, an dem wir letztes Mal nicht weitergekommen sind. Niemals hätte ich gedacht, dass ich hierher zurückkehre ... und es ein weiteres Mal versuche. }
+
+Plh_636 { I-ich? }
+
+Plh_639 { Ich bin bereit! Für Nemeton! }
+
+Plh_640 { (schweigen und nicken) }
+
+Plh_645 { Ich werde euch nicht enttäuschen. }
+
+Plh_646 { Wir werden den Göttlichen finden. }
+
+Plh_647 { Die sehen aus, als wären sie ... nicht von dieser Welt. }
+
+Plh_648 { Was ist mit dem Göttlichen passiert? }
+
+Plh_649 { Gradan ist ... tot? Das kann nicht sein! }
+
+Plh_650 { Wir sollten ihn mit nach Nemeton nehmen ... }
+
+Plh_651 { Wir haben versagt. Es tut mir so leid, Gradan ... }
+
+Plh_652 { Wir haben den Göttlichen gefangen genommen. Endlich haben wir ihn. }
+
+Plh_655 { Ist er ... Henik ... bitte ... sag, dass er noch lebt ... }
+
+Plh_658 { Ich dachte, wir suchen den Göttlichen nur auf? }
+
+Plh_659 { Wir werden ihn bekämpfen, schwächen und nach Nemeton bringen! }
+
+Plh_660 { Was? Bekämpfen und ... einfangen? Das ist doch unmöglich! }
+
+Plh_661 { Es ist möglich. Mit dem Runengefäß. Sobald er schwach genug ist. }
+
+Plh_662 { Was passiert dann mit den Menschen im Wald, die im Einklang mit dem Großen Keiler leben? }
+
+Plh_663 { Der Göttliche soll vor uns zittern! }
+
+Plh_664 { Auf die können wir keine Rücksicht nehmen. Sie müssen sich anpassen. Es geht hier schließlich darum, das Land der Sagen zu formen. }
+
+Plh_665 { Davon haben doch alle was, ja? }
+
+Plh_666 { Dafür kämpfen wir schon lange. }
+
+Plh_667 { Die Leute in der Zuflucht leben im Einklang mit dem Wald ... was passiert mit ihnen? }
+
+Plh_668 { Dieser Einklang musste erst gefunden werden. Wenn wir den Großen Keiler haben, wird ein neues Gleichgewicht entstehen. }
+
+Plh_671 { Alles für Nemeton, für das Land der Sagen! }
+
+Plh_673 { Das gefällt mir! Ich kann den Kampf kaum abwarten! }
+
+Plh_674 { Geduld. Er wird früh genug aufs uns zukommen. }
+
+Plh_675 { Wir tun das alles nicht nur für uns. Wir tun es für ganz Drova! }
+
+Plh_676 { Und wenn es nicht funktioniert? }
+
+Plh_677 { Warum soll es nicht funktionieren? }
+
+Plh_678 { $GVAR:EVars_Player.Name$, ich verstehe deine Bedenken. Aber wenn wir uns nur von Angst leiten lassen, wird Drova sich niemals verändern. Wir müssen etwas tun. }
+
+Plh_679 { Und zwar wir alle. Als Gemeinschaft. }
+
+Plh_680 { Wir haben genug geredet. Morgen wird ein großer Tag. }
+
+Plh_681 { Stimmt, Gradan. Ruht euch aus. Ich halte die erste Wache. }
+
+Plh_682 { Aber ... }
+
+Plh_683 { Das wird er. }
+
+Plh_684 { Hey, Karotte, soll ich dir noch ein paar Kampftricks zeigen? }
+
+Plh_685 { Immer! }
+
+Plh_686 { Genug für heute. }
+
+Plh_687 { Ich bin mir nicht sicher, ob das ein guter Plan ist ... }
+
+Plh_688 { Es ist weniger die Frage, wie er aussieht, sondern wie dir seine Anwesenheit den Atem raubt ... ich habe es schon erlebt. }
+
+Plh_689 { Ja. Ich dachte, gleich scheiße ich meine Hose voll. }
+
+Plh_690 { Aber wir haben es überlebt, Henik. Wir wissen jetzt, was auf uns zukommt! Und wenn wir das schaffen, dann schafft ihr das auch, Karotte und $GVAR:EVars_Player.Name$. }
+
+Plh_691 { Wir haben überlebt. Aber nicht alle. Wenn wir unser Ziel erreichen, wird alles anders sein ... }
+
+Plh_692 { Ich weiß gar nicht, wie so ein Göttlicher aussieht ... }
+
+Plh_693 { Alle werden vom Land der Sagen etwas haben. }
+
+Plh_694 { Dann holen wir uns den Göttlichen. }
+
+Plh_696 { Ich sehe Zweifel in deinen Augen. Und ich bitte dich um Vertrauen. }
+
+Plh_698 { Henik spricht wahr. }
+
+Plh_699 { Sammelt eure Kraft. }
+
+Plh_700 { Wahrscheinlich stimmt das ... }
+
+Plh_701 { Was wir morgen riskieren ... wir tun es für unsere Zukunft, aber auch, um unsere Toten zu ehren. }
+
+Plh_702 { Haut euch aufs Ohr und sammelt Kraft für morgen. }
+
+Plh_710 { Ich brauche jetzt etwas Ruhe ... }
+
+Plh_711 { Ist das wirklich eine gute Idee ...? }
+
+Plh_712 { Natürlich ist es das. Wir brauchen die Macht des Großen Keilers. Nur mit seiner Macht wird Drova das Land der Sagen werden, für das wir alle kämpfen. }
+
+Plh_713 { Der Düsterwald ... wir haben ihn zerstört. }
+
+Plh_715 { Wir müssen das Runengefäß nach Nemeton bringen. }
+
+Plh_716 { So ist es, $GVAR:EVars_Player.Name$. Deswegen sind wir gekommen, und wir werden es erledigen. }
+
+Plh_717 { Dafür haben wir die Macht des Großen Keilers! Wir brauchen sie, das wisst ihr alle. Es gab keinen anderen Weg. }
+
+Plh_719 { Und Gradan hat sich dafür geopfert ... }
+
+Plh_720 { Der Wald ist tot ... ich weiß nicht ... }
+
+Plh_721 { Egal. Hauptsache, wir sind hier raus. }
+
+Plh_722 { Wir haben die Dunkelheit aus dem Wald vertrieben. }
+
+Plh_723 { Ich weiß nicht, was hier geschehen ist, aber wir müssen Molvina davon berichten ... }
+
+Plh_727 { Dann soll er ruhig kommen! }
+
+Plh_728 { Ruhe! Wenn das wirklich ein Bär ist, werden deine Sprüche nicht helfen! }
+
+Plh_729 { Können wir weiter? Ja? }
+
+Plh_730 { Wir werden sehen ... }
+
+Plh_731 { Blödsinn. Geht schon wieder. Kann noch ewig laufen. }
+
+Plh_732 { Gut. Ich hoffe, du überschätzt dich nicht. Hier, nimm das Runengefäß. }
+
+Plh_738 { Soll ich besser mit dir gehen, Mombert? }
+
+Plh_739 { Nicht nötig. Ich kann das Runengefäß allein zu Molvina bringen. Hier droht mir keine Gefahr. }
+
+Plh_740 { Es gibt nichts, womit du deinen Verrat rechtfertigen kannst, Mombert! Du hast mich hintergangen. }
+
+Plh_741 { *stöhnt schmerzvoll* }
+
+Plh_742 { Was soll das alles? Seid ihr verrückt geworden? }
+
+Plh_743 { Wir brechen bald auf, bereite dich gut vor. }
+
+Plh_744 { Wir erledigen unseren Teil, du den deinen. Finde den nächsten Machtkristall im Düsterwald westlich vom Ruinenlager! }
+
+Plh_745 { Molvina, wir müssen den einen Vorteil nutzen, den wir haben - den Göttlichen ... }
+
+Plh_746 { Vielleicht kannst du schneller zum Plateau mit dem Machtkristall kommen, wenn dir jemand hilft. Frag die Holzfäller - die kennen die Gegend am besten. }
+
+Plh_747 { Alles für Nemeton! }
+
+Plh_748 { Molvina, hör mich bitte an ... }
+
+Plh_749 { Und DU, $GVAR:EVars_Player.Name$! Du hast dich auf der Seite der Verschwörer gestellt. Ihr seid festgenommen. Schafft sie mir aus den Augen! }
+
+Plh_750 { Molvina ... wir sind so nah dran. Hör mich an. }
+
+Plh_751 { GENUG! Du hast mich verraten. Du hast ganz Nemeton verraten. }
+
+Plh_752 { HALT! }
+
+Plh_753 { Wir dürfen es nicht so weit kommen lassen. Du musst $GVAR:EVars_Player.Name$ anhören. Der Machtkristall ... du hast ihn? }
+
+Plh_754 { Wir befolgen das Gesetz von Nemeton. Und das gilt auch für dich! }
+
+Plh_756 { Ja, Molvina. Die Aufzeichnungen in der Bibliothek waren echt. Wir wissen, wo sie sind. }
+
+Plh_757 { Sie sind unser Schlüssel für den Roten Turm. Wir müssen das Ritual vorbereiten ... }
+
+Plh_758 { GENUG! }
+
+Plh_759 { Das ändert nichts an deinem Verrat. }
+
+Plh_760 { Molvina, ich habe es getan für- }
+
+Plh_761 { Schweig! Ich weiß, warum du es getan hast. Weil du glaubst, im Recht zu sein. Ihr alle denkt, dass es so einfach ist! Du denkst aber nicht an die Menschen, die hier leben. Ihre Familien. Die Kinder. }
+
+Plh_762 { Molvina, wir wissen, wo der letzte Machtkristall ist. Wir wussten aus dem Brief, dass einer im Auwald sein soll, und wir haben ihn gefunden. Nun heißt es, dass der andere im Düsterwald ist ... }
+
+Plh_763 { Gib mir ein paar Krieger, und wir gehen in den Düsterwald. Wenn wir den Machtkristall finden und herbringen, haben wir einen Weg in den Roten Turm. Nach all der Zeit! }
+
+Plh_764 { Wenn ich eine Expedition in den Düsterwald schicke, wird das Ruinenlager es wie eine Kriegserklärung verstehen. }
+
+Plh_765 { Du kannst sagen, dass du auf eigene Faust handelst, falls sie dich erwischen. }
+
+Plh_766 { Ich werde losziehen und den Göttlichen im Moor ausfindig machen. Im Brief stand, dass dort die Kristalle aufgeladen werden können, und wenn wir alle Machtkristalle haben, können wir sie dort gleich mit magischer Kraft aufladen. }
+
+Plh_767 { Nimm dir Henik und Karotte mit. Wir waren noch nie so tief im toten Moor und wissen nicht, was uns dort erwartet. }
+
+Plh_768 { Ich gewähre euch diese Chance. Wenn es euch wirklich gelingt, sei euer Name reingewaschen. Ansonsten gibt es ... Konsequenzen. }
+
+Plh_769 { Du hast mich hintergangen. Ich weiß nicht, ob ich dir das jemals vergeben kann. Aber wenn das stimmt ... }
+
+Plh_770 { Wir können gleich reden. }
+
+Plh_771 { Dass es so weit kommen musste ... nie hätte ich gedacht, dass Molvina so reagiert. Aber so eine Gelegenheit kommt nicht wieder ... }
+
+Plh_773 { Ich weiß nicht, ob das eine gute Idee ist ... }
+
+Plh_774 { Wie komme ich in die Düsterwald-Ruine? }
+
+Plh_775 { Warum hast du mich da mit reingezogen? }
+
+Plh_776 { Wir hatten keine Wahl. Wir mussten den Machtkristall vor dem Ruinenlager bekommen. Sonst hätten wir gegen sie keine Chance mehr. }
+
+Plh_778 { Westlich vom Ruinenlager, der Weg wurde bereits freigeräumt. Du wirst die Ruinen im Düsterwald leicht finden, wo die Schwarzen Flammen nun weg sind. }
+
+Plh_779 { Wir werden mit einer Expedition ins Moor aufbrechen. Und wir werden für dich einen Weg durch das tote Moor freimachen. Hoffentlich finden wir den Göttlichen und können die Machtkristalle aufladen. }
+
+Plh_781 { Also los. Das Moor erwartet uns. Henik, Karotte - macht euch bereit. }
+
+Plh_782 { Bin bereit! }
+
+Plh_783 { Wir haben einen gefährlichen Weg vor uns. Er führt uns tief in den Nebel ... ins Fleischmoor. }
+
+Plh_784 { Wir haben es noch nicht erforscht, aber nun ist es nötig, sein Geheimnis zu lüften. Wir werden die Vorhut sein, und $GVAR:EVars_Player.Name$ wird sich uns anschließen. Wir werden alles sichern. }
+
+Plh_786 { Henik? Was ist mit dir? }
+
+Plh_787 { Mombert, du weißt ganz genau, dass du Molvina verraten hast, und trotzdem stehst du hier. }
+
+Plh_788 { Ich schätze deine ehrlichen Worte ... Wir tun es für Molvina und für Nemeton. }
+
+Plh_790 { Der Rote Turm ist nah. Ich bin bereit. }
+
+Plh_791 { Hast du die Kraft, die wir nun brauchen, Mombert? }
+
+Plh_792 { Ich habe mein ganzes Leben auf diesen Moment gewartet. Wir haben es fast geschafft, Molvina. Ich bin bereit. }
+
+Plh_793 { Wir werden mit $GVAR:EVars_Player.Name$, Asmus und Henik reingehen. Haltet euch bereit. Es wird kein Zurück mehr geben. Melde dich bei mir, wenn du bereit bist. }
+
+Plh_796 { Es ist also wahr ... }
+
+Plh_797 { Das wollte ich gerade ... }
+
+Plh_798 { Ich hoffe, diese Aufgabe wirst du erfüllen können, bevor das Ruinenlager den Machtkristall findet. }
+
+Plh_799 { *ignoriert dich* }
+
+Plh_800 { $GVAR:EVars_Player.Name$ wollte mir dabei helfen, meine Waffe bei Chunnaic schleifen zu lassen. Mittlerweile brauche ich sie nicht mehr, aber ich hab mich trotzdem gefreut! }
+
+Plh_802 { Ach, komm schon! Wir machen das FÜR Nemeton. }
+
+Plh_803 { Was machen wir eigentlich im Moor? }
+
+Plh_804 { Ich folge Molvina. Sie weiß, was das Beste für uns ist. Sie hat befohlen, dir zu folgen. Also werde ich dir auch folgen und für dich kämpfen. Solange es Molvina will. }
+
+Plh_805 { Wir werden bald aufbrechen, macht euch bereit. Verabschiedet euch, holt eure Waffen, dann geht es los. }
+
+Plh_806 { Hol den Machtkristall aus dem Düsterwald, wenn er dort wirklich noch ist. Du findest den Wald westlich vom Ruinenlager. Dort sind alte Ruinen, die damals komplett von den Schwarzen Flammen verschluckt waren. Sie müssten jetzt frei sein. }
+
+Plh_807 { Ich werde dich nicht enttäuschen. }
+
+Plh_808 { $GVAR:EVars_Player.Name$ das ist deine Chance, deinen Verrat wiedergutzumachen. Ihr beide seid so überzeugt, bringt mir den anderen Machtkristall. }
+
+Plh_809 { Molvina, die Idee ist genau richtig. }
+
+Plh_811 { Du hast dir deinen Runenstein verdient. Ohne dich hätten wir den Machtkristall nicht. Finde raus, ob es noch mehr davon gibt. }
+
+Plh_812 { (aufstehen) Ich bin bereit! }
+
+Plh_813 { (aufstehen) ... was? Hab ich verschlafen? }
+
+Plh_814 { Schnell, komm mit. }
+
+Plh_815 { *grinst* Nicht, solange du mich hast. }
+
+Plh_816 { Für Nemeton! }
+
+Plh_817 { Hier sind wir letztes Mal durchgegangen ... Ich versuche, den Eingang wieder zu öffnen. }
+
+Plh_818 { Das ist es. Jetzt beginnt die richtige Expedition. }
+
+Plh_819 { Ja, ohne Zweifel. Das ist er. *atmet tief durch* }
+
+Plh_820 { Wie können wir den Großen Keiler jetzt fangen? }
+
+Plh_821 { Ich muss ihn dazu bringen, sich zu manifestieren. Dafür müsst ihr mir den Rücken freihalten. }
+
+Plh_822 { Ich werde meine ganze Konzentration dafür brauchen. Es wird anstrengend und gefährlich ... aber ich bin überzeugt, dass wir es schaffen werden. }
+
+Plh_823 { Und wenn er dann meni- ... manni- ... also, wenn er dann da ist ... wie fangen wir ihn? }
+
+Plh_824 { Wir müssen ihn schwächen, ihn angreifen. Wenn er stark genug geschwächt ist, wird er sich zurückziehen wollen und das Runengefäß für seinen Kraftort halten. Dann haben wir ihn. }
+
+Plh_826 { Du übernimmst während des Rituals die Führung, Henik. }
+
+Plh_827 { Pass auf dich auf, $GVAR:EVars_Player.Name$. Trink das, wenn's eng wird. }
+
+Plh_828 { Und dass mir keiner von euch draufgeht, klar?! }
+
+Plh_830 { Für Nemeton! }
+
+Plh_833 { Es liegt an uns allen, ob wir überleben und mit dem Großen Keiler nach Nemeton zurückkehren oder nicht. Wir beschützen Mombert mit unserem Leben und schwächen den Großen Keiler, bis wir ihn fangen können. }
+
+Plh_834 { Das Gefäß, Jetzt! }
+
+Plh_835 { Dann los, auf eure Posten! }
+
+Plh_836 { NEEEEIN! }
+
+Plh_839 { Waffen hoch! }
+
+Plh_841 { Bleibt dicht bei mir! }
+
+Plh_842 { Der Runenzirkel hat all seine magische Kraft verloren. Wir hatten Glück, dass noch genug davon da war. }
+
+Plh_844 { Ich hab hier noch etwas für euch. }
+
+Plh_845 { Wir haben einen guten Mann verloren. Er hat sein Leben gelassen, damit wir den Göttlichen fangen konnten ... Er hat sich geopfert - für uns alle - für Nemeton. }
+
+Plh_848 { Seht euch das nur an. Welch Erhabenheit ... }
+
+Plh_849 { Alles sehr beeindruckend, Mombert, aber ... deswegen sind wir nicht hier. }
+
+Plh_850 { Wir haben ihn! }
+
+Plh_852 { Jetzt können wir unseren Traum endlich erfüllen. }
+
+Plh_853 { Ich mach das! }
+
+Plh_855 { Verteidigt Mombert mit eurem Leben! }
+
+Plh_857 { (Gradan die letzte Ehre erweisen) }
+
+Plh_856 { Wir werden dich nie vergessen ... }
+
+Plh_860 { Karotte, Gradan würde wollen, dass du weiterlebst. }
+
+Plh_861 { Wir müssen los, Karotte. Dafür haben wir keine Zeit. }
+
+Plh_862 { Ich weiß ... }
+
+Plh_863 { Oh ... mein Kopf ... }
+
+Plh_865 { Sobald wir die Taverne erreichen, sollten wir in Sicherheit sein. }
+
+Plh_866 { Folgt mir. }
+
+Plh_867 { Wir sind endlich da. Mein ganzes Leben lang haben wir versucht, in den Roten Turm zu kommen. Schau dich um ... unglaublich ... }
+
+Plh_868 { Wir sind nah dran, ich spüre es. Bald werden wir Nemeton zum Land der Sagen machen können. }
+
+Plh_872 { Wir ... wir haben sie getötet ... sie alle ... so viel Blut ... }
+
+Plh_873 { Und ich bin dein erfahrenster Mann! }
+
+Plh_874 { Auf eure Positionen! }
+
+Plh_875 { Wir haben es wirklich geschafft, wir ... }
+
+Plh_876 { Was zum ... }
+
+Plh_877 { ... lasst uns sofort gehen! }
+
+Plh_878 { Ich muss mich noch kurz vorbereiten. }
+
+Plh_879 { Beeil dich und komm zu mir, wenn du bereit bist. }
+
+Plh_880 { Es gibt kein zurück mehr. Bist du bereit? }
+

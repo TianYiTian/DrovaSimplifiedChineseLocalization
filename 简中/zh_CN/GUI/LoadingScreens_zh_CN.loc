@@ -1,0 +1,81 @@
+LoadingScreen_01 { 如果你想与人类或物体互动，你必须先收起你的武器。 }
+
+LoadingScreen_02 { 按下 $INPUT:DrawWeapon$ 来拔出或收起你的武器。 }
+
+LoadingScreen_05 { 你可以使用$INPUT:PerceptionMode$来更仔细地观察周围。有些东西只有这样才能发现！ }
+
+LoadingScreen_06 { 你只能使用已拔出的武器进行攻击。为此，请按下$INPUT:DrawWeapon$，然后按下$INPUT:Attack_Primary$。 }
+
+LoadingScreen_07 { 在床上睡觉以恢复体力。如果你睡在更好的床上，你的恢复效果也会更好。 }
+
+LoadingScreen_08 { 收集所有你找到的东西。你可以用一些东西制作新东西。 }
+
+LoadingScreen_09 { 你可以在篝火旁烤肉或烹饪菜肴。 }
+
+LoadingScreen_11 { 你可以帮助躺在地上的人。 }
+
+LoadingScreen_12 { 不同的商人出售不同的商品。时刻留意好货！ }
+
+LoadingScreen_14 { 如果你有鱼叉，你可以在特定的地方钓鱼。你可以通过鱼儿的盘旋来辨认钓鱼地点。 }
+
+LoadingScreen_15 { 如果你有开锁工具，你就能开锁。但千万别被抓到！ }
+
+LoadingScreen_16 { 收集物品时要小心！带有红色边框的物品已经属于某个人，而小偷是不受欢迎的。 }
+
+LoadingScreen_17 { 在战斗中，你可以使用$INPUT:Dodge$来躲避攻击。注意你的耐力条！ }
+
+LoadingScreen_18 { 如果你犯了罪，人们就不想再和你有任何关系。在内梅顿，只有格德温能原谅你的罪行。在废墟营地，必须与生你气的人解决这件事。 }
+
+LoadingScreen_19 { 你的角色会记录下所有发生的重要事情。如果你不知道下一步该做什么，可以查看你的日志。 }
+
+LoadingScreen_20 { 如果你遇到对你来说还太强的敌人，最好先去别处练练。 }
+
+LoadingScreen_21 { 战斗力由你的属性值总和决定。武器有特定的战斗力作为要求。 }
+
+LoadingScreen_22 { 人们不喜欢看到你拿着拔出的武器四处走动。当你在人群附近时，请使用$INPUT:DrawWeapon$将武器收起来。 }
+
+LoadingScreen_23 { 有些人想和你一起去一些地方。当你离他们不够近时，他们通常会在原地等你。 }
+
+LoadingScreen_24 { 仔细考虑你要加入哪个阵营。一旦决定，就无法回头了。 }
+
+LoadingScreen_25 { 你可以从动物身上拔下利爪或剥下毛皮。不过，你还需要学习这方面的技能。 }
+
+LoadingScreen_26 { 如果你想学习技能或提升属性，那么你需要找到一位能教你这些的导师。 }
+
+LoadingScreen_28 { 按住 $INPUT:RingMenu$ 以调出你的轮盘菜单。在那里，你可以选择一项主动技能。 }
+
+LoadingScreen_29 { 卷轴技能你只能施放一次。但它们能帮助你，明智地使用它们。 }
+
+LoadingScreen_30 { 使用技能会消耗专注值。你可以通过攻击来产生专注值，但如果被击中或长时间不攻击，你会失去专注值。 }
+
+LoadingScreen_32 { 你可以使用$INPUT:SwapWeaponSet$在战斗中切换两套武器。按下$INPUT:MENU-Inventory$来配置你的两套武器。 }
+
+LoadingScreen_34 { 你也可以与某些动物进行交流。试试看，跟它们打个招呼吧！ }
+
+LoadingScreen_35 { 你需要合适的工作站来制作一些物品。 }
+
+LoadingScreen_36 { 不想战斗？留在道路上，这样你相对安全。 }
+
+LoadingScreen_37 { 随着你的专注值越高，匕首的次要攻击伤害会成倍增加。 }
+
+LoadingScreen_38 { 你可以在所有地图上放置标记。不过，首先你需要找到墨水。 }
+
+LoadingScreen_39 { 你可以使用$INPUTANIM:MarkAsGarbage$将对你无用的物品标记为垃圾。你可以在背包中隐藏或显示垃圾，并在交易菜单中只需一次点击即可将其添加到交易中。 }
+
+LoadingScreen_40 { 暴击造成流血（流血会在一段时间内造成伤害，伤害等同于攻击伤害）。 }
+
+LoadingScreen_41 { 毒药会减慢受影响目标的移动速度。 }
+
+LoadingScreen_42 { 食物会随着时间的推移对你进行治疗，但只要你的生命值满了，再生就会暂停。只要你吃饱了，许多菜肴就会给你带来被动效果。如果你已经吃饱了，再吃点东西，主动的饱腹效果就会被覆盖。 }
+
+LoadingScreen_43 { 当你使用一个治疗物品时，你会获得治疗状态效果，并定期恢复生命值。你也可以同时拥有多个治疗效果，但每个治疗物品只能激活一个效果。 }
+
+LoadingScreen_44 { 查看选项菜单。我们添加了一些额外的功能和设置，可能对你的游戏方式有帮助。 }
+
+LoadingScreen_45 { 敌人对物理和魔法伤害有不同的抗性。因此，法术对盔甲坚固的生物特别有效！ }
+
+LoadingScreen_46 { 每种武器都有一个次要攻击，你可以用$INPUTANIM:Block$来执行。使用单手武器时，只有当你的副手空闲时，你才能使用这个攻击。 }
+
+LoadingScreen_47 { 如果你有反馈意见或想与我们联系，请来我们的Discord。在那里你可以亲自与我们交谈。我们很期待。 }
+
+LoadingScreen_48 { 消耗品如陷阱、炸弹和飞刀可以穿透敌人的护甲。 }

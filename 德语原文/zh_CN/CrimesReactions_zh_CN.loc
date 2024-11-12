@@ -1,0 +1,279 @@
+Stealing { Gib das sofort wieder her! }
+
+HoldingWeapon_01 { Steck die Waffe weg! }
+
+HoldingWeapon_02 { Steck die scheiß Waffe weg! }
+
+HoldingWeapon_03 { Hörst du schlecht?! Weg mit der Waffe! }
+
+Trespassing_01 { Hey! Was schleichst du da rum? }
+
+Trespassing_02 { Du hast hier nichts verloren. Verschwinde! }
+
+Trespassing_03 { Wenn du jetzt nicht abhaust, setzt es was! }
+
+Noise_01 { ... was ist hier los? }
+
+Noise_02 { Ruhe, verdammt! Ich will schlafen! }
+
+Noise_03 { Sei endlich ruhig oder wir kriegen Stress! }
+
+BlockingWay_01 { Platz da, ich will hier durch! }
+
+BlockingWay_02 { Geh jetzt endlich weg da! }
+
+BlockingWay_03 { Verpiss dich oder es gibt aufs Maul! }
+
+Lockpicking { Finger weg von meinen Sachen! }
+
+StandingInWay_01 { Mach den Weg frei! }
+
+StandingInWay_02 { Jetzt mach Platz! }
+
+StandingInWay_03 { Hau ab, sonst setzt es was! }
+
+WakingUp { Was willst du? Ich versuche zu schlafen. }
+
+WakingUp_End { Endlich kann ich weiterschlafen. }
+
+SuspiciousPlace { Ey, du hast da nichts zu suchen! }
+
+SuspiciousPlace_OnEnd { Ja, bleib da weg! }
+
+BrawlBeforeFlee { Bleib hier und stell dich! }
+
+BrawlEndWinner { Pass lieber auf, mit wem du dich anlegst. }
+
+Plh_2 { Das klingt schön. }
+
+Plh_3 { Das ist schief! }
+
+Plh_4 { Das ist für dich! }
+
+Plh_13 { Verschwinde von hier! }
+
+Plh_22 { Du wirst beim Fest des Feuers erwartet. }
+
+Plh_23 { Du kommst hier nur während des Festes des Feuers rein. }
+
+Plh_48 { Verschwinde. Du hast nichts bei dem Druiden verloren. }
+
+Plh_49 { Nur ausgewählte Hauer dürfen hier hoch. }
+
+Plh_50 { Schisser! Hör auf, wegzulaufen! }
+
+Plh_51 { Ich hoffe, das war dir eine Lektion! }
+
+Plh_52 { Noch einmal und ich bin nicht so nett. }
+
+Plh_62 { Hiergeblieben! }
+
+Plh_63 { Wenn du in die Mine willst, dann meld dich bei Levin. }
+
+Plh_64 { Du bist nicht mit dem Kämpfen dran. }
+
+Plh_65 { Aber Boris stimmt für mich. Er hat gesagt, ich soll mich bei Kilian melden. }
+
+Plh_66 { Interessiert mich 'nen Scheißdreck. Wenn Levin nicht sagt, dass du hier hoch darfst, dann brauchst du es nicht zu versuchen. }
+
+Plh_68 { Lauf wieder zurück nach Nemeton. Ihr Spinner habt hier nichts verloren. }
+
+Plh_69 { Verschwinde von hier, Nemeton-Abschaum! }
+
+Plh_70 { Für Jero! }
+
+Plh_71 { Auf Levins Befehl soll ich keine weiteren Krieger in die Mine lassen. Wenn du Arbeit suchst, melde dich bei Jeros Klinge, die für dich zuständig ist. }
+
+Plh_73 { Vielleicht solltest du lieber Hauer werden. }
+
+Plh_74 { Los geht's! }
+
+Plh_75 { Leute aus dem Ruinenlager haben hier nichts verloren! }
+
+Plh_76 { Leute aus dem Ruinenlager dürfen nicht nach Nemeton! }
+
+Plh_82 { Hey, du hast da nichts zu suchen. Verschwinde. }
+
+Plh_84 { Ich hab dir gesagt ... verschwinde von hier! }
+
+Plh_85 { Du hörst wohl nur auf eine ordentliche Tracht Prügel! }
+
+Plh_86 { Ich sehe den Schutt doch von hier. Wer soll denn da durchlaufen? Räum das noch weg, dann lass ich dich gehen. }
+
+Plh_87 { Mein Bauchgefühl sagt, dass du für heute noch nicht genug Steine gekloppt hast. }
+
+Plh_88 { Hol dir erst dein Essen. Wirst es brauchen. }
+
+Plh_89 { Uh, ein neues Gesicht. Ich bin Haron, und ich passe auf, dass ihr gut arbeitet. Du bist ... mal sehen ... im nördlichen Gang. Hopp hopp! }
+
+Plh_90 { Und? Bisschen Arbeit ist gar nicht schlecht, was? *zwinkert* }
+
+Plh_92 { Teil dir deine Kräfte ein und ruh dich aus, denn morgen geht's weiter. }
+
+Plh_93 { Los, los, los. Macht mal langsam den nördlichen Durchgang frei! }
+
+Plh_94 { Deine Schicht ist noch nicht vorbei. }
+
+Plh_96 { Zeig mal her, was hast du gefunden? }
+
+Plh_100 { Hier. (zeigen) }
+
+Plh_101 { Ich habe noch nicht genug. }
+
+Plh_103 { Das passt ... }
+
+Plh_104 { Du hast hier nichts zu suchen. }
+
+Plh_105 { Hä, du musst doch heute keine Steine kloppen. Mach dich ab und hilf Bruna. }
+
+Plh_107 { Mit Essen im Bauch arbeitet sich's besser. Gut gemacht. Hol dir auch was, dann geht's ran an den Stein. Heute schaffen wir den Durchbruch! }
+
+Plh_109 { Rein mit dir, einfach gerade durch Richtung Osten und dann nach Norden. Heute wieder alles geben, bald ist es geschafft! }
+
+Plh_110 { Zurück an die Arbeit, sonst setzt's was. }
+
+Plh_113 { Du sollst dort helfen. }
+
+Plh_114 { Stimmt schon. }
+
+Plh_115 { Hmpf. }
+
+Plh_116 { Morgen gehts weiter. }
+
+Plh_117 { Freust du dich schon? }
+
+Plh_118 { Steine kloppen, juhu! }
+
+Plh_119 { Kann auch was anderes kloppen? }
+
+Plh_120 { Haha, lustig. Aber jetzt los, ab in den Gang und gehackt. }
+
+Plh_121 { *grinst dich zufrieden an* }
+
+Plh_122 { Meld dich bei Lothar mit deinem Zettel, wenn du in die Mine willst! }
+
+Plh_124 { Hey, ganz ruhig. Ich will keinen Stress. }
+
+Plh_129 { Nimm es, ich will nur keinen Stress. }
+
+Plh_130 { Und ein weiterer Sieg für die Legende. }
+
+Plh_131 { Gut gekämpft, das können wir gerne wiederholen. }
+
+Plh_132 { Schaut mich an! Wer will es mit mir aufnehmen?! }
+
+Plh_133 { UNTERHALTE ICH EUCH NICHT?! }
+
+Plh_134 { Ein weiterer Sieg für den zukünftigen Meister! }
+
+Plh_135 { War das wirklich alles? }
+
+Plh_136 { Wann darf ich gegen die richtigen Kämpfer antreten?! }
+
+Plh_137 { Wer ist der Nächste?! }
+
+Plh_138 { Das nächste Mal solltest du dich etwas mehr anstrengen. }
+
+Plh_139 { Dann zeig mal, was du drauf hast. }
+
+Plh_140 { Ich mach dich fertig! }
+
+Plh_141 { Halte dich nicht zurück! }
+
+Plh_142 { Was glaubst du, wer du bist? }
+
+Plh_143 { Na, hat da jemand Angst bekommen? }
+
+Plh_144 { Wir sind noch nicht fertig! }
+
+Plh_145 { GEFÄLLT EUCH DAS?! }
+
+Plh_146 { Niemand kommt an mich heran. }
+
+Plh_147 { Nichts für ungut, aber das war nichts. }
+
+Plh_148 { Streng dich doch mal an, du Niete. }
+
+Plh_149 { Wenn du so weitermachst, wirst du niemals ganz oben ankommen. }
+
+Plh_150 { Jetzt lassen wir Taten sprechen. }
+
+Plh_151 { Friss Dreck! }
+
+Plh_152 { Jetzt bist du dran! }
+
+Plh_153 { Du wirst bald viel bereuen. }
+
+Plh_154 { Du gehörst mir! }
+
+Plh_155 { Bleib stehen, du Lump! }
+
+Plh_156 { Ja, mach, dass du wegkommst! }
+
+Plh_157 { Münzen! Die sind schon mal mein ... }
+
+Plh_158 { Renn nur, du Schisser! }
+
+Plh_159 { Was ein Schwächling ... }
+
+Plh_160 { Da musst du schon früher aufstehen. }
+
+Plh_161 { Versuch das nicht noch mal! }
+
+Plh_162 { Ja, lauf nur! }
+
+Plh_163 { Wenn ich dich in die Finger kriege ...! }
+
+Plh_165 { Das Geklimpere kann sich keiner anhören ... }
+
+Plh_166 { Gute Nacht. }
+
+Plh_167 { Der hat gesessen! }
+
+Plh_168 { Das war's schon, oder was? }
+
+Plh_169 { Das war lächerlich. }
+
+Plh_170 { Armselige Vorführung. }
+
+Plh_171 { Wer fällt denn bei sowas schon um? }
+
+Plh_172 { Und nun beginnt der Tanz. }
+
+Plh_173 { Ha, das wird lustig. }
+
+Plh_174 { Jetzt gibt's Stress! }
+
+Plh_175 { Schlagen statt quatschen! }
+
+Plh_176 { Meine Ohren bluten ... }
+
+Plh_177 { Da musst du noch etwas üben ... }
+
+Plh_178 { So schlecht kann jeder spielen ... }
+
+Plh_179 { Töne kann man auch TREFFEN ... }
+
+Plh_180 { Was für eine Melodie ... }
+
+Plh_181 { Du solltest Münzen dafür nehmen. }
+
+Plh_182 { Ich könnte den ganzen Tag zuhören. }
+
+Plh_183 { Bitte, spiel weiter. }
+
+Plh_184 { So was Schönes hab ich lange nicht gehört. }
+
+Plh_185 { Hier, hast du dir verdient. }
+
+Plh_186 { Das ist mir ein paar Münzen wert. }
+
+Plh_187 { Für dich. Du kannst echt gut spielen. }
+
+Plh_188 { Das war ... unglaublich. }
+
+Plh_189 { Hey, du, wo willst du hin? }
+
+Plh_191 { Nur ausgewählte Hauer dürfen hier rein. Und auswählen tut nur Levin. }
+
+Plh_192 { Bring dein Eisen weg. }

@@ -1,0 +1,100 @@
+Plh_5 { *beobachtet einen Schmetterling auf seiner Hand* Na, mein Kleiner? Wenn du nur auch so schöne Flügel hättest. }
+
+Plh_6 { Was ist denn falsch mit den Flügeln von dem Schmetterling? }
+
+Plh_7 { Ich hab die $GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$ Schmetterlinge. }
+
+Plh_8 { Nichts. Es sind feine Wesen. Aber ich interessiere mich besonders für die Schmetterlinge mit schimmernden Flügeln. }
+
+Plh_9 { Du hast sie? Zeig her! }
+
+Plh_10 { Der Heilige Hain hat diese Schmetterlinge berührt. Daher schimmern ihre Flügel. Sieht man aber nur, wenn man ihnen ganz nah ist. }
+
+Plh_11 { Vom Heiligen Hain berührt? Was? }
+
+Plh_12 { Ich besorge sie dir. }
+
+Plh_14 { Ich habe da eine Theorie. Je länger ein Schmetterling sich in den Heiligen Hain verirrt, desto stärker wird sein Bund mit dem Göttlichen des Raben. }
+
+Plh_15 { Und was willst du dann mit diesen Schmetterlingen? }
+
+Plh_16 { Ich will sie untersuchen. Keine Sorge, ich esse sie nicht. Das ist alles so interessant, also ... }
+
+Plh_17 { Früher haben Menschen traditionelle Magie praktiziert. Das heißt, sie haben sich an die Göttlichen angepasst. }
+
+Plh_18 { Tiere oder Insekten tun das indirekt. Sie verlassen ihre Gebiete und passen sich dann anderswo an. }
+
+Plh_19 { Aber nicht diese Schmetterlinge ... Sie verändern ihr Aussehen, wenn sie eine gewisse Zeit nah an einem Göttlichen waren. Als segne der Göttliche sie ... Das muss ich unbedingt erforschen! }
+
+Plh_20 { Sehr gut, sehr gut! }
+
+Plh_21 { Wenn du welche von ihnen fangen solltest, bring sie bitte schnell hierher! }
+
+Plh_22 { Aber nur die aus dem Heiligen Hain, die mit den schimmernden Flügeln. Nur mit ihnen kann ich etwas anfangen! }
+
+Plh_24 { Tatsache! Du hast so viele von ihnen gefangen! }
+
+Plh_25 { Jetzt muss ich sie untersuchen. Ich bin so gespannt, welche Geheimnisse diese Schmetterlinge mir zuflüstern können! Also, dann wollen wir mal ... }
+
+Plh_26 { Du tust ihnen aber nichts, klar? }
+
+Plh_27 { Hoffentlich helfen sie dir. }
+
+Plh_28 { Niemals! Sie sind von den Göttlichen berührt worden! Ich würde mir seinen Zorn zuziehen! }
+
+Plh_29 { Hm, was? Ach so, ja, kannst mich ja später fragen ... }
+
+Plh_30 { Hast du schon was über die Schmetterlinge herausgefunden? }
+
+Plh_31 { Nicht direkt, aber ich habe eine unglaubliche Beobachtung gemacht! }
+
+Plh_32 { Bisher nicht. Ich brauche noch mehr Zeit. }
+
+Plh_33 { Seit der Göttliche des Düsterwaldes auch hier im Heiligen Hain ist, hat sich die Farbe der Schmetterlinge wieder verändert. }
+
+Plh_34 { Ein Flügel ist pechschwarz, wie der Rabe, aber der andere ist eher braun, mit Flecken drauf, wie beim Keiler. }
+
+Plh_35 { Das hat meine Theorie bestätigt, dass die Schmetterlinge tatsächlich auf die Göttlichen reagieren! }
+
+Plh_36 { Und das heißt? }
+
+Plh_37 { Wie auch immer. Schön, dass meine Hilfe was gebracht hat. }
+
+Plh_38 { Bisher haben wir geglaubt, dass Tiere und Insekten sich anpassen. Sie verlassen eher ihre Gebiete und wandern woanders hin. }
+
+Plh_39 { Ja, vielen Dank! }
+
+Plh_41 { Wir dachten, dass eine Anpassung, wie die Leute im Düsterwald sie vorgenommen haben, ein ganz bewusster Vorgang ist. }
+
+Plh_42 { Aber die Schmetterlingen ... }
+
+Plh_43 { Wenn Tiere sich anpassen können ... sie tun es ja nicht bewusst, es passiert mit ihnen. }
+
+Plh_44 { Aber ist das dann bei allen Tieren so? Auch bei Monstern? Oder nur bei den Schmetterlingen? }
+
+Plh_45 { Ich werde allen Fragen auf den Grund gehen. Dank dir bin ich so viel weitergekommen! }
+
+Plh_46 { Du hast einen wichtigen Teil geleistet. Hier, nimm. }
+
+Plh_47 { *reibt sich die Hände* So viel zu lernen! Die Flamme des Wissens, kannst du fühlen, wie ihre Wärme in mir lodert? }
+
+Plh_48 { Meinst du diese Schmetterlinge hier? (Geben) }
+
+Plh_49 { Danke für deine Hilfe bei meiner Forschung. }
+
+Plh_54 { Hast du das Gesuch ans Schwarze Brett gehängt? }
+
+Plh_55 { Das war ich! Siehst du die Schmetterlinge mit schimmernden Flügeln im Hain? Die muss ich haben! ... also wir! }
+
+Plh_56 { Ist das ein Witz? }
+
+Plh_57 { Ich soll ... Schmetterlinge fangen? }
+
+Plh_58 { Du musst keine Angst haben, die Schmetterlinge beißen nicht. Also, zumindest weiß ich davon nichts. Ich brauche die für meine Forschung, aber die sind so flink. }
+
+Plh_59 { Ich bin Druide! Ich scherze nie! }
+
+Plh_60 { Wir Druiden lernen unser Leben lang, die magischen Kräfte in uns zu wecken. Wenn du willst, kann ich dir zeigen, wie du deine magische Kraft verbesserst. }
+
+Plh_62 { Kenne mich auch gut mit Kräutern aus, lindern deine Schmerzen. Verkaufe welche. }
+

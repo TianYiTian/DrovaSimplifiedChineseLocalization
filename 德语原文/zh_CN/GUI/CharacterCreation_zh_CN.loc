@@ -1,0 +1,84 @@
+EnterName { Namen eingeben ... }
+
+Body { Körper }
+
+Visual { Aussehen }
+
+Souvenir { Andenken }
+
+SaveMode { Spielmodus }
+
+DefaultMode { Klassisch }
+
+ImmersiveMode { Eisern }
+
+StoryMode { Entdecker }
+
+SkipIntro { Intro überspringen }
+
+Option_BodyType { Körperbau }
+
+Option_SkinColor { Hautfarbe }
+
+Option_Voice { Stimme }
+
+Option_Hair { Frisur }
+
+Option_HairColor { Haarfarbe }
+
+Option_Deco { Verzierung }
+
+Option_Beard { Bart }
+
+Option_BeardColor { Bartfarbe }
+
+Souvenir_Empty { Kein Andenken }
+
+Souvenir_Empty_Tooltip { Nur du und deine Fähigkeiten. Du benötigst keine zusätzliche Hilfe. }
+
+Souvenir_Alchemy { Heilmittel }
+
+Souvenir_Alchemy_Tooltip { Du bist stets vorbereitet und hast einen kleinen Bestand von Heilmitteln bei dir. }
+
+Souvenir_Money { Münzbeutel }
+
+Souvenir_Money_Tooltip { Du verlässt dein Haus nie ohne deinen Münzbeutel. }
+
+Souvenir_Health { Ring des Lebens }
+
+Souvenir_Health_Tooltip { Die Essenz des Lebens durchströmt diesen Ring. Du hältst etwas mehr aus. }
+
+Souvenir_Thief { Dietriche }
+
+Souvenir_Thief_Tooltip { Gelegenheit macht ... Reichtümer. Und manchmal muss man sich selbst Gelegenheiten schaffen. }
+
+Souvenir_Strength { Ring der Stärke }
+
+Souvenir_Strength_Tooltip { Du schätzt körperliche Stärke. Dieser Ring unterstützt dich dabei. }
+
+GameMode_Normal_Tooltip { Empfohlene Einstellung. Drova ist gefährlich. Pass auf, mit wem du dich anlegst! }
+
+GameMode_Immersive_Tooltip { Lebe mit deinen Entscheidungen. Du hast nur einen Spielstand und das Spiel speichert automatisch. }
+
+InvalidName { Der Name ist nicht verfügbar! }
+
+HardcoreMode { Hardcore }
+
+GameMode_Hardcore_Tooltip { Die ultimative Herausforderung. Du hast nur ein Leben und einen Spielstand. }
+
+UseKeyboard { Namen bitte mit Tastatur eingeben! }
+
+GameMode_Story_Tooltip { Du verursachst mehr Schaden und hältst mehr aus. }
+
+Story_PopUp { Bist du dir sicher, dass du Drova im Modus Entdecker spielen möchtest?<br><br>Du verursachst mehr Schaden und hältst mehr aus. In den Optionen kannst du die Schadenswerte individuell konfigurieren und zwischen dem Modus Entdecker und klassisch frei wechseln.<br><br>Du kannst jederzeit Speichern und Laden. }
+
+Immersive_PopUp { Bist du dir sicher, dass du Drova im Modus Eisern spielen möchtest?<br><br>Du hast nur einen Spielstand und das Spiel speichert automatisch regelmäßig nach Dialogen, Kämpfen, Questfortschritten und bei wichtigen Entscheidungen.<br><br>Nach Beginn des Spiels kannst du diesen Modus nicht mehr ändern. }
+
+Hardcore_PopUp { Bist du dir sicher, dass du Drova im Modus Hardcore spielen möchtest?<br><br>Du hast nur einen Spielstand und das Spiel speichert automatisch. Bei Tod deines Charakters wird dein Spielstand gelöscht.<br><br>Nach Beginn des Spiels kannst du diesen Modus nicht mehr ändern.<br><br>Die ultimative Herausforderung. Nur die härtesten Kämpfer Drovas meistern diesen Modus. }
+
+SaveModePopUp_Title { Wähle deinen Speichermodus }
+
+SaveModePopUp_Text_Default { In Drova hast du mehrere Möglichkeiten deinen Spielstand zu speichern.<br><br>Im klassischen Modus kannst du jederzeit auf verschiedene Spielstände speichern.<br><br>Wählst du den Modus Eisern, speichert das Spiel automatisch. Manuelles Speichern ist in diesem Modus nicht möglich. }
+
+ChangeGameModeWarning { Bist du sicher, dass du den Eisenmodus verlassen möchtest? Wenn du das tust, kann der Modus im Spielverlauf nicht mehr aktiviert werden. }
+

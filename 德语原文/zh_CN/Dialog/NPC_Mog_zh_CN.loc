@@ -1,0 +1,218 @@
+Plh_0 { Hey, bin Mog. Nimm's mir nicht übel, aber gerade bin ich echt fertig. Will einfach nur meine Ruhe. }
+
+Plh_1 { Es ist Zeit, deine Schulden bei Friedel zu begleichen. }
+
+Plh_2 { Was? Diese habgierige, verdammte ... wer bist du überhaupt? Warum treibst du für sie ein? }
+
+Plh_3 { Sie hat gesagt, dass sie die Münzen sofort bekommen will. }
+
+Plh_5 { Ach, vergiss es. Behalt deine Münzen. }
+
+Plh_6 { Ich kann gerade noch Essen kaufen. Wenn ich es dir gebe, bin ich blank, dann habe ich nichts mehr, dann komme ich hier nie raus ... }
+
+Plh_7 { Ich ... puh ... *wischt einen Schweißtropfen von der Stirn* Das ist ... ich kann mein Glück kaum fassen ... }
+
+Plh_8 { Wieso "hier raus"? }
+
+Plh_9 { Wie ist es so als Hauer hier? }
+
+Plh_10 { Na gut ... behalte für den Augenblick deine Münzen. }
+
+Plh_11 { Ich streiche dich von der Schuldnerliste. }
+
+Plh_12 { Nicht mein Problem. Rück die Münzen raus oder ich hole sie mir! }
+
+Plh_13 { Hier raus ... zu ... meinen beiden Kindern. Sebi und Kimmi. Ich weiß gar nicht, ob sie sich noch an mich erinnern ... }
+
+Plh_14 { Könnte schlimmer sein. Könnte auch besser sein. Aber was bleibt mir sonst übrig? Ich bin kein Krieger. Und auch kein Druide. Hauen kann ich. }
+
+Plh_15 { Wirklich? Danke! In drei Tagen habe ich alles. Sag ihr das. Versprochen! }
+
+Plh_16 { Ich bin neu hier. }
+
+Plh_17 { Es geht nicht um mich. Ich soll nur die Münzen holen. }
+
+Plh_18 { Dann kannst du auch nicht wissen, dass ich noch drei Tage Frist habe! }
+
+Plh_19 { Meine Schulden sind aber erst in drei Tagen fällig! }
+
+Plh_20 { Einfach so? Nicht, dass wir beide dann Ärger bekommen ... }
+
+Plh_21 { Friedel wird mir glauben. }
+
+Plh_22 { Ich lasse mir was einfallen. }
+
+Plh_23 { Sag es nicht weiter ... ich habe die Liste von ihr geklaut. }
+
+Plh_24 { Wenn du das sagst ... ich hoffe, es stimmt. Dann kann ich noch etwas mehr zurücklegen und im Lager bleiben ... vielleicht irgendwann zurückkehren ... zu den beiden. }
+
+Plh_25 { Du meinst ... du greifst die Schulden ab, die du eintreibst. Das ist ... ich weiß gar nicht, was ich zu so einer Dreistigkeit sagen soll. }
+
+Plh_26 { Aber danke für deine Hilfe. Dann kann ich noch etwas mehr zurücklegen und im Lager bleiben ... vielleicht irgendwann zurückkehren ... zu den beiden. }
+
+Plh_27 { *hebt die Hände* Schon gut, schon gut ... hier ist es ... du Halsabschneider ... mögen die Göttlichen dich verfluchen ... und Friedel ... }
+
+Plh_28 { Sie sind nicht in Drova. Ich habe sie zurückgelassen, als ich eines Tages unvermittelt in Drova aufgewacht bin. Das Ruinenlager will hier ausbrechen, zurück in meine Heimat. }
+
+Plh_29 { Ich bin deswegen hier Hauer geworden und schlage den Stein blutig. Bloß, um die Möglichkeit zu haben, zu ihnen zurückzukehren. }
+
+Plh_32 { Willst du nicht etwas Rostmoos? Das Zeug könnte dir gefallen. }
+
+Plh_33 { Hm? Nee, lass mal. }
+
+Plh_34 { Wie ich schon sagte ... }
+
+Plh_35 { Ich haue für das Ruinenlager, um nach Hause zu kommen. Zu meinen Kindern. Nur das ist mir wichtig. }
+
+Plh_36 { *etwas Rostmoos unter seine Nase halten* Probier mal. Nimm eine Nase voll. Das ist pure Entspannung. }
+
+Plh_37 { Kann ich verstehen. Dann vergiss es einfach. }
+
+Plh_38 { *atmet tief ein* Mmmmmh. Das riecht wirklich gut. Aber ich weiß gar nicht, was ich damit tun soll. }
+
+Plh_39 { Pack dir was in dein Pfeifchen, und der Abend gehört dir. Vertrau mir. }
+
+Plh_40 { Lass besser die Finger davon. Ich werd's schon los. }
+
+Plh_41 { Ich kann mir das sowieso nicht leisten. Nichts für mich. }
+
+Plh_42 { Du machst mich schon neugierig ... }
+
+Plh_43 { Ach, ich könnt's ja probieren ... sind nur ein paar Münzen. Wie viel willst du dafür? }
+
+Plh_44 { Für $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen bist du dabei. }
+
+Plh_45 { Ich mache dir einen Freundschaftspreis. $GVAR:QuestVars_JobForBoris_Config.ReducedPricePerJoint$ Münzen zum Ausprobieren. }
+
+Plh_46 { Hmmm. Das ist echt 'ne Menge. Aber gut, gib mir was. }
+
+Plh_47 { Echt? Dann MUSS ich ja quasi zuschlagen. }
+
+Plh_50 { Proximus hat dich noch nicht aufgenommen? Du bist doch keiner von uns. }
+
+Plh_51 { Er will mich auf die Probe stellen. }
+
+Plh_52 { Hm? Proximus sagt, wir beide sollen kämpfen. Also los! }
+
+Plh_53 { Gut, dann los. }
+
+Plh_54 { Ah, ich bin also ein ... Test! Ich strenge mich an! }
+
+Plh_55 { Du warst doch gerade erst da, und ich habe meine letzten Münzen für dieses scheiß Rostkraut ausgegeben. }
+
+Plh_56 { Aber ... ich habe fast keine Münzen mehr. }
+
+Plh_57 { Warst du nicht Hauer im Ruinenlager? }
+
+Plh_58 { Ich war Hauer. Jetzt bin ich Kämpfer in der Arena. Also noch nicht, ich trainiere noch. }
+
+Plh_59 { Ja, und du hast mir dieses verschissene Rostkraut angeboten oder wie das heißt! }
+
+Plh_62 { Du verstehst was vom Kämpfen. Melde dich bei Proximus. Leute wie dich nimmt er garantiert. Dann könnte ich außerdem auch von dir lernen. }
+
+Plh_64 { Es soll einen besonderen Kampf in der Arena geben. }
+
+Plh_65 { Endlich mal Abwechslung! }
+
+Plh_67 { Angeblich hat unser Lager einen neuen Krieger. }
+
+Plh_68 { Ja, die Person ist aus dem Schlund gekommen. }
+
+Plh_69 { Angeblich soll im Düsterwald ein Göttlicher sein. }
+
+Plh_70 { Wenn's nur das wäre ... }
+
+Plh_71 { Geh nicht zum Düsterwald, Kora. Da ist alles ... }
+
+Plh_72 { ... tot. Ich hab es schon gesehen. }
+
+Plh_73 { Proximus meinte, dass Bady kämpft. }
+
+Plh_74 { Gra macht Kleinholz aus dem. }
+
+Plh_75 { Kommt gerade erst hier an, aber schon ganz oben ... }
+
+Plh_76 { Manche Leute haben's eben drauf. }
+
+Plh_77 { Angeblich hat Nemeton ein neues Mitglied. }
+
+Plh_78 { Ich hab gehört, dass da Leute leben. In der Dunkelheit. }
+
+Plh_79 { Und sie sollen traditionelle Magie ausüben. }
+
+Plh_80 { Sie ordnen sich den Göttlichen unter? }
+
+Plh_81 { Ich find's auch verrückt ... }
+
+Plh_82 { Glaub mir, das willst du nicht auch sehen. }
+
+Plh_83 { Dass du da wieder in die Nähe gehst, ist typisch ... }
+
+Plh_84 { Mich kriegt da keiner hin! }
+
+Plh_85 { Es soll eine Expedition dort gewesen sein. }
+
+Plh_86 { Anscheinend haben sie den Göttlichen gefangen. }
+
+Plh_87 { Dein Kampf mit Ada war absolut unglaublich. }
+
+Plh_91 { Was soll denn diese Scheiße? Das ist MEIN Bett! Ich hab es bezahlt! }
+
+Plh_93 { Verpiss dich, ich hab keine Lust auf dieses Geschwätz. }
+
+Plh_94 { Schon gut, ich will keinen Ärger. Nimm du das Bett. }
+
+Plh_96 { Das ist kein Geschwätz! Ich will wirklich keinen Ärger, aber ich hab dafür bezahlt, verdammt noch mal! }
+
+Plh_97 { Das Bett gehört mir! (Handgemenge) }
+
+Plh_98 { Nichts da, das gehört mir! }
+
+Plh_99 { Recht so. Und jetzt verzieh dich. }
+
+Plh_100 { Ist gut, das Bett gehört dir. Du hast gewonnen. }
+
+Plh_101 { Das Bett gehört mir, verzieh dich! }
+
+Plh_102 { Ich habe Blanda $GVAR:EVars_Blanda.PriceBed$ Münzen für das Bett bezahlt! }
+
+Plh_103 { Was?! Ich hab Blanda auch $GVAR:EVars_Blanda.PriceBed$ Münzen bezahlt! }
+
+Plh_104 { Was? Das sollten wir mit Blanda klären ... }
+
+Plh_108 { Moment, die hat uns beide verarscht? Die nehme ich mir vor ... }
+
+Plh_110 { Blanda! Du hast uns beschissen! Hast du geglaubt, wir merken das nicht? }
+
+Plh_111 { Hey, das war einfach nur ein Missverständnis! }
+
+Plh_112 { Jetzt bist du fällig! }
+
+Plh_113 { Mir ist der Quatsch völlig egal. }
+
+Plh_114 { Gib uns unsere Münzen zurück. }
+
+Plh_115 { He, langsam, langsam. Wir können das sicher anders klären. Moment ... }
+
+Plh_116 { Ach, mach doch was du willst ... }
+
+Plh_117 { Alles in Ordnung, ja? Und jetzt lasst mich in Ruhe ... }
+
+Plh_118 { Ihr wolltet es nicht anders! }
+
+Plh_119 { Ein Missverständnis? EIN ... MISSVERSTÄNDNIS?! Du hast uns beschissen, alle beide! }
+
+Plh_120 { Puh, das brennt aber. }
+
+Plh_121 { Du kommst schon auf deinen Geschmack. }
+
+Plh_122 { Es dauert, aber dann wird es gut. }
+
+Plh_123 { Hmm, wenn du das sagst. Ich versuche es heute Abend noch mal. }
+
+Plh_124 { Wenn du das noch mal machst, dann! }
+
+Plh_125 { Ganz ruhig! Nie wieder! }
+
+Plh_126 { Aber ICH hole mir jetzt meine Münzen zurück! }
+

@@ -1,0 +1,16 @@
+Entry_01 { Olga und Luten benötigen Callapilz-Extrakt für ihren Talisman, den sie Helma schenken wollen. Humbert kann mir sagen, wie ich so etwas bekomme. Ich finde ihn östlich von Nemeton, dort wo viele Pflanzen sind. }
+
+Entry_03 { Wenn ich das Extrakt haben möchte, muss ich Humbert $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ Callapilze bringen. Diese sollte ich außerhalb von Nemeton im Moor finden. }
+
+Entry_04_Wait { Ich habe Mombert die Callapilze gegeben. Er braucht einen Moment, sollte nicht zu lange dauern.}
+
+Entry_04 { Ich habe das Extrakt. Jetzt muss ich es nur noch zu Olga und Luten bringen. }
+
+Entry_05 { Olga und Luten haben das Callapilz-Extrakt und konnten den Talisman anfertigen. Sie warten vor dem Ausschank auf mich, damit wir es gemeinsam Helma schenken können. }
+
+Entry_06 { Das Geschenk von Olga und Luten kam gut an. }
+
+Title { Ein Talisman für Helma }
+
+Entry_07 { Das Fest des Feuers ist vorbei. }
+

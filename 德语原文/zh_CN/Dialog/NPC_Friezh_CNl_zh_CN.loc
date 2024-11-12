@@ -1,0 +1,167 @@
+Plh_4 { *ignoriert dich und läuft auf und ab* }
+
+Plh_5 { ... wovon redest du? }
+
+Plh_6 { Viel. }
+
+Plh_7 { *mustert dich und verzieht das Gesicht* Brauchst nix zu sagen. Ich seh's dir an. Viel oder wenig? }
+
+Plh_8 { Wenig. }
+
+Plh_9 { Ich bin Friedel, die Münzenverleiherin. Du bist hier, also brauchst du wahrscheinlich auch Münzen. }
+
+Plh_10 { Ich will mich nur mal umsehen. }
+
+Plh_11 { Wie viele Münzen kannst du mir leihen? }
+
+Plh_12 { Du kriegst von mir $GVAR:QuestVars_Debt_Config.LowAmount$ Münzen. Nicht mehr und nicht weniger. }
+
+Plh_13 { Hier, ich gebe dir $GVAR:QuestVars_Debt_Config.HighAmount$ Münzen. Das sollte reichen. }
+
+Plh_14 { In spätestens drei Tagen will ich meine Münzen wiederhaben. Und ich rate dir, rechtzeitig zu bezahlen. }
+
+Plh_16 { Kommt drauf an, wie viel du der guten Friedel schulden willst. }
+
+Plh_17 { Ich brauche viele Münzen. }
+
+Plh_18 { Ich brauche nur ein paar Münzen. }
+
+Plh_19 { Hast du schon. Brauchst du jetzt Münzen oder nicht? }
+
+Plh_22 { Wie viel brauchst du? }
+
+Plh_23 { *Friedel öffnet eine der Schubladen an ihrem Tisch. Sie holt dort eine Liste raus und legt sie vor dich* Hier, unterschreiben. }
+
+Plh_24 { Ich will mir Münzen leihen. }
+
+Plh_25 { Wie viel? }
+
+Plh_26 { Ich brauche richtig viel. }
+
+Plh_27 { Nur ein wenig. }
+
+Plh_28 { Eigentlich brauche ich gerade nichts. }
+
+Plh_29 { Denk dran - du schuldest mir noch was. }
+
+Plh_30 { So, damit ist unser Geschäft besiegelt. *lässt die Liste schnell wieder in ihrer Schublade verschwinden* }
+
+Plh_54 { (unterschreiben) }
+
+Plh_55 { Ich hab's mir anders überlegt und will noch nichts leihen. }
+
+Plh_56 { Wenn du nichts leihen willst, dann hör auf, meine Zeit zu verschwenden. }
+
+Plh_57 { Ich will meine Schulden begleichen. }
+
+Plh_58 { Dann rück die $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ Münzen mal raus. }
+
+Plh_59 { Dann rück die $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ Münzen mal raus. }
+
+Plh_61 { Hier, nimm. ($GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ Münzen geben) }
+
+Plh_62 { Oh, gerade habe ich es nicht. Ich bringe es dir später. }
+
+Plh_63 { Sehr gut. Es ist eine Freude, mit dir Geschäfte zu machen. *grinst* }
+
+Plh_64 { Dann sieh zu. Und zwar zackig. Du willst keinen Ärger mit mir haben, glaub mir. }
+
+Plh_66 { Hier, nimm. ($GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ Münzen geben) }
+
+Plh_68 { Im Moment brauche ich keine Münzen. }
+
+Plh_69 { Dann verschwende nicht meine Zeit. }
+
+Plh_70 { Hoffentlich bringt Eugen auch diesmal alle sicher zurück. Lindon ist einer meiner besten Kunden. }
+
+Plh_71 { Wenn Lindon nicht wiederkommt, bleib ich auf seinen Schulden sitzen. }
+
+Plh_72 { Ich schwöre dir, ich mach den fertig, wenn er verreckt. }
+
+Plh_73 { Verdammt! Wo ist Lindon? }
+
+Plh_74 { So ein Scheiß. Lindon ... du Mistkerl. }
+
+Plh_75 { Er ... er hat's nicht geschafft. }
+
+Plh_76 { Lindon ist tot. Der Göttliche hat ihn erwischt. }
+
+Plh_77 { Nein!? Das ... darf nicht wahr sein! Er darf noch nicht sterben! }
+
+Plh_78 { Er hat sich so viele Münzen von mir geliehen. Und auch FAST immer alles zurückgezahlt. Jetzt muss ich 'nen anderen Deppen finden ... }
+
+Plh_79 { Der Typ schuldet mir noch einen BATZEN Münzen. Die werde ich jetzt nie wiedersehen. }
+
+Plh_80 { Dieser verdammte Göttliche. }
+
+Plh_81 { *Du siehst einen penibel geordneten Tisch, auf dem nichts zufällig rumzuliegen scheint. Ein paar Zettel liegen offen auf dem Tisch, andere sind zusammengerollt.* }
+
+Plh_82 { (Zettel auf dem Tisch untersuchen) }
+
+Plh_83 { (oberste Schublade öffnen) }
+
+Plh_84 { *Die Zettel sehen aus wie ein Vertrag. Unten ist eine Linie, auf der man wohl unterschreiben soll. Oben sind mehrere Linien, um festzuhalten, worum es in dem Vertrag geht.* }
+
+Plh_85 { *In der Schublade siehst du eine abgenutzte Pfeife, eine kleine Menge Rostmoos und eine Handvoll Münzen.* }
+
+Plh_86 { (Rostmoos und Münzen nehmen) }
+
+Plh_87 { (Schublade schließen) }
+
+Plh_89 { *Schnell lässt du das Zeug in deinen Taschen verschwinden.* }
+
+Plh_90 { (unterste Schublade öffnen) }
+
+Plh_91 { *Dir springt direkt ein Zettel mit einer Liste ins Auge. Darauf stehen mehrere Namen und Münzbeträge.* }
+
+Plh_92 { (Liste nehmen) }
+
+Plh_95 { Hey, Finger weg von meinem Tisch! }
+
+Plh_97 { *Du unterschreibst, Friedel gibt dir die Münzen und deutet ein Grinsen an* }
+
+Plh_98 { So viel?! }
+
+Plh_99 { Hättest ja nicht unterschreiben müssen, wenn es dir nicht passt. Und jetzt genug Geschwätz. Rück schon die Münzen raus! }
+
+Plh_100 { Das ist ja fast das Doppelte! Wucher! }
+
+Plh_101 { Ach ja? Wenn's dir nicht passt, dann hättest du dir nichts leihen müssen! Glaub mir, du willst es dir nicht mit mir verscherzen. }
+
+Plh_103 { Meine verdammte Schuldnerliste! So ein Mist ... }
+
+Plh_104 { Ich schulde dir nichts mehr. *grinsen* }
+
+Plh_105 { Was? Dein Name steht doch dick und fett auf meiner Liste ... *kramt in ihrem Tisch* }
+
+Plh_106 { Die Liste ... sie war doch hier! Wo ist sie?! }
+
+Plh_108 { Sag ich ja. Keine Beweise, keine Schulden. }
+
+Plh_109 { *knirscht mit den Zähnen* Wenn ich rauskriege, dass du IRGENDWAS damit zu tun hast, dann mach ich dich sowas von rund, Freundchen. Dann wirst du dir wünschen, ein Reißer hätte dich zerfetzt! }
+
+Plh_111 { Du hast Schlange umgehauen. Von mir kriegst du keine einzige Münze mehr! Hau ab! }
+
+Plh_112 { Kilian meinte, du bist zuständig für den Ausbau der Ruinen. }
+
+Plh_113 { Bezahl deine Schulden, dann reden wir weiter. }
+
+Plh_114 { Ich möchte gerne ein besseres Bett. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ Münzen geben) }
+
+Plh_115 { Ich möchte gerne eine Werkbank. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ Münzen geben) }
+
+Plh_116 { Ich würde gerne einen Rennofen haben. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ Münzen geben) }
+
+Plh_118 { Aha, meint das Kilian? Kaum bist du hier und bekommst schon ne eigene Bleibe. Aber wenn Kilian das sagt, dann muss das wohl richtig sein. }
+
+Plh_119 { Wenn du die Münzen hast, kann ich dir helfen. }
+
+Plh_120 { Das sieht gut aus, ich kümmere mich drum. Morgen sollte es da sein. }
+
+Plh_121 { Meine Liste, das kann doch nicht wahr sein. Jemand muss sie gestohlen haben. }
+
+Plh_122 { Was ist jetzt mit den Münzen? Kann ich hier nun was leihen? }
+
+Plh_123 { Ohne meine Liste kann ich dir nichts leihen. So ein Mist. }
+
+

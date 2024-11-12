@@ -1,0 +1,20 @@
+Title { Der Weg zum Düsterwald }
+
+Entry_01_A { Im Düsterwald lebt der Große Keiler, umgeben von einem Meer aus Schwarzen Flammen. Die Menschen im Düsterwald haben es geschafft, zwischen ihnen zu überleben. Ich muss herausfinden, wie sie dort unbeschadet durch die Schwarzen Flammen kommen. Ein Händler namens Tristan in der Taverne "Zum Kopflosen Reißer" weiß wohl mehr darüber. }
+
+Entry_02 { Tristan war länger nicht mehr in der Taverne und hat seine Zeche nicht gezahlt. Olaf bietet mir an, dass ich in sein Zimmer kann, wenn ich die $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ Münzen auftreibe. }
+
+Entry_04 { In Tristans Zimmer habe ich eine Karte gefunden, die zeigt, wie ich sicher in den Düsterwald komme. Dort ist ein Lager eingezeichnet. Ich sollte zum Düsterwald gehen. }
+
+Entry_05 { Ich habe die Zuflucht gefunden. Die Menschen hier leben mit einem Funken, der sie schützt und der ihnen ermöglicht, durch die Schwarzen Flammen zu kommen. Ich brauche auch so einen Funken. }
+
+Entry_06 { Tristan meinte, dass nur Mitglieder der Zuflucht so einen Funken bekommen. Ich soll mich mit Diemo unterhalten. }
+
+Entry_07 { Anscheinend kann dieser Funke, den ich bekommen habe, mich vor den Schwarzen Flammen schützen. Ich sollte zurückgehen zu meiner Fraktion und Bericht erstatten. }
+
+Entry_08 { Nachdem ich die Information über die Schwarzen Flammen und den Funken geteilt habe, soll ich an einer Expedition in den Düsterwald teilnehmen. }
+
+Entry_02_A { Ich habe den Schlüssel bekommen und kann jetzt in das Zimmer gehen. }
+
+Entry_09 { Ich habe eine Karte vom Düsterwald. Ich denke, sie kann mir weiterhelfen. }
+

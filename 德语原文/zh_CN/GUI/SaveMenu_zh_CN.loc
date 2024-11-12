@@ -1,0 +1,39 @@
+Save { Speichern }
+
+Load { Laden }
+
+PlayTime { Spielzeit }
+
+GameSaved { Das Spiel wurde gespeichert }
+
+NotSaveable { Speichern gerade nicht möglich }
+
+Title_HeroSelect { Charakter }
+
+SlotType_Quick { Schnellspeicherplatz }
+
+SlotType_Auto { Auto-Speicherplatz $SAVE:SlotType$ }
+
+SlotType_Normal { Speicherplatz $SAVE:SlotType$ }
+
+deleteSavegamePopUp { Bist du sicher, dass du deinen Spielstand löschen möchtest? }
+
+overwriteHeroPopUp { Du hast die maximale Anzahl an Charakteren erreicht. Wähle einen Charakter aus, der überschrieben werden soll. }
+
+Title_OverwriteHero { Welchen Charakter überschreiben? }
+
+Button_Overwrite { Überschreiben }
+
+NotLoadable { Laden gerade nicht möglich }
+
+Corrupted_00 { Spielstand fehlerhaft }
+
+Corrupted_PopUp_Desc { Dieser Spielstand ist fehlerhaft und kann nicht geladen werden. }
+
+ToMainMenuPopUp_Desc { Möchtest du wirklich zurück ins Hauptmenü? }
+
+ToMainMenuPopUp_Restricted_Desc { Das Spiel kann gerade nicht gespeichert werden, möchtest du trotzdem zurück ins Hauptmenü? }
+
+QuitPopUp_Desc { Möchtest du das Spiel wirklich beenden? }
+
+QuitPopUp_Restricted_Desc { Das Spiel kann gerade nicht gespeichert werden, möchtest du das Spiel trotzdem beenden? }

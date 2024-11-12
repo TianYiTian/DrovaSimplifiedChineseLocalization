@@ -1,0 +1,123 @@
+D_P1_00 { 欢迎。 }
+
+D_P2_00 { 你好！ }
+
+D_talk1_00 { 我昨晚没睡好。 }
+
+D_talk1_01 { 我也是。 }
+
+D_talk1_02 { 肯定没我这么糟糕。 }
+
+D_talk1_03 { 肯定不是。 }
+
+D_talk2_00 { 五年了，你就给我上这个？ }
+
+D_talk2_01 { 好的，大师，您可以根据自己的食谱来做，味道一样好！ }
+
+D_talk2_02 { 我得教教你什么叫礼貌！ }
+
+D_talk2_03 { 我可没跟你学过这个。 }
+
+S1_questCake_init_talk_00 { #e=悲伤# 我给你#t=l#一个机会#t=r#来洗清你的#p=s#良心！ }
+
+S1_questCake_init_talk_01 { 你这是[#p=l#]什么鬼东西？ }
+
+S1_questCake_init_talk_02 { 别装了。我明明看到你嘴角有巧克力！ }
+
+S1_questCake_init_talk_03 { *擦了擦嘴* 什么巧克力？ }
+
+S1_questCake_init_talk_04 { 我现在可是受够你了！*转身离开* }
+
+S1_questCake_init_P1_00 { 别来烦我，我已经有够多麻烦了。 }
+
+S1_questCake_init_P2_00 { 先生，我需要您的帮助。 }
+
+S1_questCake_init_Choice_00 { 是的，这看起来真的很糟糕。 }
+
+S1_questCake_init_Choice_01 { 是的，你需要这个，但我现在没时间理你。 }
+
+S1_questCake_init_P2_01 { 我让我的导师失望了，而且我把测试蛋糕完全吃光了。他已经开始怀疑是我做的。但我必须向他澄清，这不是我的错。否则他会把我赶出去。 }
+
+S1_questCake_init_P2_02 { 我需要一个替罪羊和一种缺失的配料来做新蛋糕，你们能帮我做吗？ }
+
+S1_questCake_init_Choice_02 { 好吧。 }
+
+S1_questCake_init_Choice_05 { 不，再见。 }
+
+S1_questCake_init_P2_05 { 谢谢大人，我需要[FlowerAmount] [Flower]。等你回来时，我们会用巧克力涂满你的嘴。这是我的勺子作为抵押。 }
+
+S1_questCake_init_Choice_07 { ... }
+
+X_1 { 谢谢你的帮助，我会给你一些东西。 }
+
+Plh_4 { Plh_4 }
+
+Plh_16 { 苏巴丹巴 }
+
+Plh_29 { 起来！ }
+
+Plh_35 { 我现在要揍你脸了。 }
+
+Plh_68 { [Plh_68] }
+
+Plh_69 { Plh_69 }
+
+Plh_71 { 我想学点东西！ }
+
+Plh_72 { 再见！ }
+
+Plh_73 { (执行秘密手势) }
+
+Plh_74 { 学习手势 }
+
+Plh_75 { （向他展示完全保密的秘密手势） }
+
+Plh_76 { 索索，接下来我要给你看看我的秘密[Shit] }
+
+Plh_82 { 一个双胞胎兄弟。他来看望他了。阿尔多告诉我，他们当时形影不离，他因为人们总是把他们当成同一个人而感到恼火。但当他们到达德洛瓦后不久，他们就走上了不同的道路。 }
+
+Plh_83 { （笑声与喜悦） }
+
+Plh_84 { 东西A }
+
+Plh_87 { 物品C }
+
+Plh_88 { 物品B }
+
+Plh_89 { Plh_89 }
+
+Plh_92 { 笑一笑 }
+
+Plh_93 { 笑声中间 }
+
+Plh_94 { [Lachen Lang] 长笑 }
+
+Plh_95 { 欢呼 }
+
+Plh_96 { 欢乐 }
+
+Plh_97 { 冷静下来 }
+
+Plh_98 { 交叉双臂 }
+
+Plh_99 { 哭 }
+
+Plh_100 { Flex }
+
+Plh_101 { 抬起肩膀 }
+
+Plh_103 { 四处看看 }
+
+Plh_104 { NodShort }
+
+Plh_105 { Nod }
+
+Plh_106 { 放松 }
+
+Plh_109 { 挠头 }
+
+Plh_110 { [Scratch Chin] }
+
+Plh_111 { 摇头 }
+
+Plh_112 { Plh_112 }

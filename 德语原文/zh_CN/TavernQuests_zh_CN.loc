@@ -1,0 +1,8 @@
+RipperHuntTitle { An alle, die sich ein paar Münzen verdienen wollen! }
+
+Text { <br>Aktuell treibt ein größeres Rudel Reißer sein Unwesen und tötet meine Schafe. Ich habe schon mehrere von ihnen verloren und bin auf der Suche nach jemandem, der sich um das Problem kümmert. <br><br>Die Belohnung für das Töten des Rudelanführers beträgt $GVAR:QuestVars_HuntTheRippers_Config.Reward$ Münzen. Bring mir den Kopf des Biestes, um zu beweisen, dass du es geschafft hast.<br><br>Melde dich bei mir am Tresen für weitere Informationen. <br><br> Olaf, Gastwirt der Taverne }
+
+HuntChapter3Title { An alle, die sich ein paar Münzen verdienen wollen!<br> }
+
+Chapter3Text { <br>Das Reißerproblem wird immer schlimmer! Ich brauche dringend irgendeinen Kämpfer, der sich um die Viecher kümmert. <br><br>Wer den Anführer des Rudels für mich aus der Welt schafft, kann sich $GVAR:QuestVars_HuntTheRippers_Config.Reward$ Münzen verdienen. Bring mir den Kopf des Biests als Beweis!<br><br>Melde dich bei mir am Tresen für weitere Informationen. <br><br>Olaf, Gastwirt der Taverne }
+

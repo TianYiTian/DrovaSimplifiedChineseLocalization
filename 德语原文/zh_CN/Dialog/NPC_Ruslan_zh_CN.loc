@@ -1,0 +1,226 @@
+Plh_4 { Hm ... }
+
+Plh_0 { Gefährlich hier, was? Am besten hältst du dich an Leute, die dich beschützen können. Also an mich. }
+
+Plh_2 { Na gut. ($GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ Silber geben) }
+
+Plh_3 { So viel Silber habe ich nicht. }
+
+Plh_5 { Sieht so aus, als müsste ich dir Manieren beibringen. (Rauferei starten) }
+
+Plh_6 { Brav. Du kannst jetzt ganz in Ruhe arbeiten. Murtagh passt auf dich auf. *grinst breit* }
+
+Plh_7 { Ach ja? Wirklich? *er packt dich am Arm* Dann schauen wir mal ... }
+
+Plh_8 { Das werden wir ja sehen. }
+
+Plh_9 { Hm. Du hast wirklich leere Taschen. Was für ein Würstchen. Zieh Leine. Hoffe, deine Taschen sind nächstes Mal mit Silber gefüllt. }
+
+Plh_10 { Hmm. Das ist mehr als $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ Silber. Dann kostet es dich das Doppelte. }
+
+Plh_13 { Nächstes Mal zahlst du lieber gleich, verstanden? }
+
+Plh_14 { Mmh. Gut gekämpft. Nicht schlecht. }
+
+Plh_15 { Shona hat da wieder was Leckeres gezaubert ... }
+
+Plh_17 { Hm? Was gekocht? }
+
+Plh_19 { Hör damit auf, Almar Silber abzunehmen. }
+
+Plh_20 { Hmpf. Ist ja gut! Ich lasse ihn in Ruhe. Und du lässt mich mit deiner Rangelei in Ruhe! }
+
+Plh_21 { Sonst was? }
+
+Plh_22 { Vielleicht änderst du deine Meinung, wenn ich dir eine verpasse. }
+
+Plh_23 { Ach, vergiss es. }
+
+Plh_24 { Wir können uns sicher irgendwie einigen. }
+
+Plh_25 { Klar. Gib mir einfach $GVAR:QuestVars_ItPaidOff_Config.AmountOfSilverToBribeRuslan$ Silber und ich drücke für ein paar Tage ein Auge zu. Und vielleicht das andere auch! }
+
+Plh_26 { Du hast es so gewollt! }
+
+Plh_28 { Schon getan. }
+
+Plh_30 { Questhilfe.. }
+
+Plh_31 { Sogar mit Fleisch. }
+
+Plh_32 { Riecht echt lecker. }
+
+Plh_33 { Sie hat bei ihrem Stand ein paar Portionen zubereitet. }
+
+Plh_34 { Mit FLEISCH? Ich habe seit Wochen nichts außer Brot und Gemüse gegessen. }
+
+Plh_35 { *leckt sich über die Lippen* Bin gespannt ... }
+
+Plh_37 { Was Essen angeht ... }
+
+Plh_38 { Und, wie schmeckt dir das neue Gericht von Shona? }
+
+Plh_39 { Mmmmmh ... geht das gut runter. Shona hat sich mal wieder selbst übertroffen. }
+
+Plh_40 { Ich hab ihr das Fleisch besorgt. }
+
+Plh_42 { Ohne mich hätte sie nichts zum Kochen gehabt! }
+
+Plh_44 { *kneift die Augen zusammen* Soll heißen? Du hättest nie so ein köstliches Essen daraus machen können! }
+
+Plh_45 { Stimmt, aber ohne das Fleisch wäre es auch nur halb so gut geworden. }
+
+Plh_46 { Hätte ich wohl nicht ... }
+
+Plh_47 { Ich muss zugeben ... mit dem Fleisch, das du besorgt hast, ist es köstlich. *leckt sich über die Lippen* }
+
+Plh_48 { Sag ich doch! }
+
+Plh_49 { Schätze, ich kann als kleinen Dank darauf verzichten, dass du mir was bezahlst. Eine Hand wäscht die andere. }
+
+Plh_50 { Wieso lässt du dich überhaupt bezahlen? }
+
+Plh_51 { Danke. Dann kann ich mich freier in der Mine bewegen. }
+
+Plh_52 { So gehört sich das auch! }
+
+Plh_53 { Damit wir schneller aus Drova rauskommen. Die Wachen profitieren davon, die Hauer sind motivierter. Und alles geht schneller. }
+
+Plh_54 { Ganz genau. }
+
+Plh_55 { Nicht frech werden. Sonst überlege ich es mir anders. }
+
+Plh_56 { Das Silber, das du den Hauern abnimmst, fehlt Levin. Du hältst alles auf. }
+
+Plh_57 { Wenn es hilft, hier schneller wegzukommen, ist es das Richtige. }
+
+Plh_58 { Ach komm schon, das bisschen Silber tut niemandem weh ... }
+
+Plh_59 { Ganz genau. Und wenn du weiter so dumme Fragen stellst, überlege ich es mir vielleicht anders. Kapiert? }
+
+Plh_60 { Du hast mehr als nur ein bisschen Silber abgegriffen ... }
+
+Plh_61 { Vielleicht willst du aus einem anderen Grund hier weg? }
+
+Plh_63 { Ja und? Neidisch? Ich geb das ja wieder aus. Aber macht auch Spaß, diesen Hauerpimpfen was wegzunehmen. }
+
+Plh_64 { Warum willst du so dringend aus Drova ausbrechen? }
+
+Plh_65 { Ich kann es hier nicht mehr sehen. Ich meine, ich hab ALLES gesehen. Und jede Ecke ist gefährlich! }
+
+Plh_66 { Ich muss hier einfach raus. Ich muss es herausfinden ... wenn ich das niemals erfahre ... das geht dich alles nichts an! }
+
+Plh_67 { Aber vielleicht ... na ja, wenn bei Levin mehr ankäme, könnte das helfen. Oder? }
+
+Plh_68 { Auf jeden Fall. Jedes Stück hilft. }
+
+Plh_69 { Bestimmt. Aber vor allem Katsa macht die Sache schlimmer. }
+
+Plh_71 { Hm, ja, Katsa. Die Hälfte ist schon 'ne Menge. Sollte irgendwann mit ihr reden ... }
+
+Plh_72 { Was musst du herausfinden? }
+
+Plh_74 { ALLES! Ich bin in der irdischen Welt geboren und jetzt stecke ich hier fest! Ich vergesse bald alles aus meiner Heimat! }
+
+Plh_76 { Wäre das schlimm? }
+
+Plh_77 { Es geht dir gar nicht darum, frei zu sein? }
+
+Plh_78 { Willst du mich verarschen? Natürlich wäre das schlimm! Ich muss einfach wissen, was mein echtes Leben war! }
+
+Plh_79 { Doch, schon. Aber meine Erinnerungen sind mir wichtiger. Sie sind ... ich ... und werden immer blasser. Als werde ich zu Nebel ... }
+
+Plh_80 { Vergessen alle, die nach Drova kommen, ihre Erinnerungen? }
+
+Plh_81 { Deine Erinnerungen wirst du bestimmt wiederfinden. }
+
+Plh_82 { Weiß nicht. Fast alle, die ich kenne, sind hier geboren worden. Durch den Schlund ist schon lange niemand mehr rübergekommen. }
+
+Plh_83 { Und wenn es das letzte ist, was ich tue. Sonst bin ich nicht Murtagh, der Eiserne. Nichts kann mich aufhalten. }
+
+Plh_84 { *deutet ein Lächeln an, das ihm fast Schmerzen zu bereiten scheint* Hmpf. Das bleibt gefälligst unter uns, klar! }
+
+Plh_86 { Kostet dich nur $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ Silber. Ich halte dir den Rücken frei, du kannst in Ruhe arbeiten ... hast viel davon. }
+
+Plh_88 { Ich dachte, ihr Wachen beschützt uns sowieso? }
+
+Plh_89 { Weil wir euch Hauer so mögen vielleicht? }
+
+Plh_90 { Levin hat mir nichts von so einer Abgabe erzählt. }
+
+Plh_91 { Levin ist nicht hier, und hier gelten nur unsere Regeln. Also. Silber? }
+
+Plh_92 { $GVAR:QuestVars_ItPaidOff_Config.AmountOfSilverToBribeRuslan$ Silber?! Ernsthaft? }
+
+Plh_93 { Denkst du, ich nehme Almar auch nur $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ Silber ab? Der Typ verdient sich 'ne silberne Nase in der tiefen Mine. Aber wenn du meine Verluste ausgleichst ... *grinst* }
+
+Plh_94 { Nimm schon. ($GVAR:QuestVars_ItPaidOff_Config.AmountOfSilverToBribeRuslan$ geben) }
+
+Plh_95 { So gefällt mir das. Du kannst Almar sagen, dass ich ihn in Ruhe lassen werde. Zumindest für den Augenblick. }
+
+Plh_96 { Hm. Vielleicht hast du recht. }
+
+Plh_98 { Hey, Murtagh. Almar wirkt völlig fertig. Hat gesagt, du nimmst ihn jeden Tag aus, obwohl er so hart arbeitet. Stimmt das? }
+
+Plh_99 { Ausnehmen ist jetzt vielleicht etwas übertrieben ... }
+
+Plh_100 { Übertrieben?! Jeden Silberkrümel hast du ihm abgeknöpft! }
+
+Plh_101 { Na ja, also ... schätze schon ... }
+
+Plh_102 { Ganz genau! Schön, dass du das einsiehst. Wir müssen hier unten doch zusammenhalten. *lächelt* }
+
+Plh_103 { Zusammenhalten, ja ... hast wohl recht ... }
+
+Plh_104 { Ist leider nicht mehr viel da ... aber schön, wenn es dir schmeckt. *lächelt* }
+
+Plh_106 { Ich lasse euch besser allein ... }
+
+Plh_108 { Was?! Nein, nein, schon in Ordnung! }
+
+Plh_110 { Geh lieber wieder an die Arbeit! }
+
+Plh_112 { Nur zu. }
+
+Plh_113 { Nimm deine dreckigen Pfoten da weg, wenn du sie behalten willst. }
+
+Plh_114 { Du wolltest es nicht anders. }
+
+Plh_115 { Lüg mich nicht noch mal an. Das wird dir nicht gut bekommen. }
+
+Plh_117 { Hey, da bist du ja wieder. }
+
+Plh_118 { Du bekommst von mir nichts mehr. }
+
+Plh_119 { Almar und mich lässt du jetzt in Ruhe. Haben wir uns verstanden? }
+
+Plh_120 { Schon klar, schon klar. Kein Grund zur Aufregung. Verdammt, die anderen haben sich nie beschwert ... }
+
+Plh_121 { Du machst jetzt niemand mehr die Taschen leer. }
+
+Plh_123 { Du hast gewonnen. Nimm es dir. }
+
+Plh_124 { Ich gebe dir gar nichts! }
+
+Plh_125 { Diesmal entkommst du mir nicht! }
+
+Plh_126 { Shona hat wieder was gekocht. Willst du dir das entgehen lassen? }
+
+Plh_127 { Hey, ich bin Murtagh. Hab dich vorhin ankommen sehen. DU hast doch sicher schon dein erstes Silber verdient ... }
+
+Plh_128 { Freches Maul hast du. Vielleicht nehme ich mir einfach dein Silber ... }
+
+Plh_129 { Verdammt ... wenn Mursel davon was mitbekommt, frisst er alles weg! }
+
+NewName { Murtagh }
+
+Plh_130 { Ich soll ihn wohl in Ruhe lassen ...? }
+
+Plh_131 { Also ... bekomme ich noch etwas von deinem tollen Essen ...? }
+
+Plh_133 { Nächstes Mal warte ich auf dich, damit ich mich gleich über dich hermachen kann. *wird rot* Äh, über das Essen, meine ich. }
+
+Plh_134 { Ach, und sag Almar, dass er nichts mehr bezahlen muss. }
+
+Plh_135 { Lass es dir schmecken. }
+

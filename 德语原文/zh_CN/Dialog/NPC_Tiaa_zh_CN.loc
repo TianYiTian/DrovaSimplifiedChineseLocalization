@@ -1,0 +1,80 @@
+Plh_0 { Bady braucht seine Mahlzeit, bevor er kämpfen kann. }
+
+Plh_1 { Ah. Du holst das für ihn ab. Der muss immer bis zur letzten Sekunde trainieren ... }
+
+Plh_2 { Hier ist die Mahlzeit. Ich hoffe, er gewinnt. Vielleicht kann ich mir den Kampf anschauen. Müsste bald losgehen. }
+
+Plh_3 { Wo habe ich den ... *schaut zu dir* Was gibt's? }
+
+Plh_5 { Noch ein Maul, das ich stopfen soll? Du brauchst gar nicht erst fragen! }
+
+Plh_7 { Ich weiß nicht, wovon du redest. }
+
+Plh_8 { Tiaa, Tiaa! Hast du Essen für mich? }
+
+Plh_9 { Alle wollen essen, aber keiner will Fleisch bringen, mit dem ich kochen kann! Aber dann motzen alle, wenn es nur Gemüse gibt! }
+
+Plh_10 { *Kopf wird rot* Du fängst dir gleich eine! Oder zwei! }
+
+Plh_11 { Brauchst du jemanden, der für dich jagen geht? }
+
+Plh_12 { Für mich klingt das nach deinem Problem, nicht meinem. }
+
+Plh_13 { Bei den Göttlichen, wie hast du DAS nur erraten können! *verdreht die Augen* }
+
+Plh_14 { *knirscht mit den Zähnen* Typisch. }
+
+Plh_19 { Hier, ich habe $GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$ Fleisch für dich. }
+
+Plh_25 { Wenn du Hunger hast, kannst du dir jetzt jeden Tag eine Mahlzeit abholen. Aber nur eine pro Tag! Die anderen Münder muss ich auch noch voll bekommen. }
+
+Plh_27 { Ich möchte meine tägliche Mahlzeit abholen. }
+
+Plh_28 { Na klar. Hier, lass es dir schmecken. *grinst* }
+
+Plh_29 { (Essen manipulieren - Erdwurzel hinzugeben) }
+
+Plh_30 { (Nichts tun) }
+
+Plh_32 { "Tiaa, Tiaa! Hast du Essen für mich?" - Ich kann's nicht mehr hören! }
+
+Plh_33 { Was macht die Jagd? *grinst* }
+
+Plh_34 { Ein Gericht ohne Fleisch brauchst du Bady gar nicht erst hinzustellen. Der will nur Fleisch. }
+
+Plh_35 { Ich muss weiterarbeiten, hab leider keine Zeit. Meld dich bei Bernold, wenn du was brauchst. }
+
+Plh_36 { Du bist echt für 'ne Überraschung gut. }
+
+Plh_37 { Mach dich nützlich und bring mir $GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$ Stück Fleisch. Dann kannst du auch was zu essen haben. }
+
+Plh_38 { Aber nicht so 'ne sehnige Scheiße! Das kommt mir nicht in den Topf. RICHTIGES, saftiges Fleisch. Gebraten oder roh, ist mir egal. }
+
+Plh_40 { Bringt ordentlich Fleisch mit! }
+
+Plh_41 { Endlich! Die Expedition ist zurück! }
+
+Plh_42 { Wenn ihr wieder hier seid, hab ich für euch schon was Warmes im Topf. *grinst* }
+
+Plh_43 { Ist der Düsterwald ... wirklich ... tot? }
+
+Plh_44 { Du hattest heute schon was. Komm morgen wieder. }
+
+Plh_45 { Eine Taverne ohne Fleisch? }
+
+Plh_46 { Wir haben Fleisch. Aber Bernold rückt es nicht raus. Er will es nicht für die Arena verschwenden. Dafür ist es zu gut, meint er. }
+
+Plh_47 { Ich hab Fleisch in Bernolds Keller ... gefunden. }
+
+Plh_49 { Hey, nicht so laut! }
+
+Plh_50 { Ich wusste doch, dass der alte Sack noch Fleisch hat! Mir soll's recht sein. }
+
+Plh_51 { Damit kann ich was Schönes zaubern. Glaub mir, sowas wie meine Mahlzeiten hast du noch nie gegessen. *grinst* }
+
+Plh_52 { Bady wird sich freuen, der hat bald seinen großen Kampf. }
+
+Plh_53 { Bring mir das Fleisch, und ich mache ihm das Essen. Kann mir das Fleisch auch nicht einfach her wünschen. }
+
+Plh_54 { Der muss immer bis zur letzten Sekunde trainieren ... }
+

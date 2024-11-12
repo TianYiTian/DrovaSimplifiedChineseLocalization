@@ -1,0 +1,120 @@
+IronForFarmers_Start { Immer muss ich diesen Mist hier für Georg machen. Mir steht's bis oben! }
+
+IronForFamers_Question02 { Worüber streitet ihr? }
+
+FoodForFarmers_JurekJerzyFood { Ich habe euch beiden Essen mitgebracht. }
+
+TalkAboutAndrick { Immer versprechen sie das Land der Sagen im Einklang mit den Göttlichen. Aber mach einen Schritt ins Moor, und die Blutfliegen stechen dich ab. }
+
+End { (Gespräch beenden) }
+
+Plh_2 { Jetzt übertreib nicht immer so. Manchmal muss man auch unangenehme Dinge tun, aber das Ziel zählt. }
+
+Plh_3 { Du hast gut reden, du bist Teil von Nemeton. Unangenehme Dinge ... wir arbeiten uns hier den Arsch ab, für nix! }
+
+Plh_4 { Ich kann in Nemeton für dich ein gutes Wort einlegen ... }
+
+Plh_5 { Die können mich alle mal. Da gehe ich lieber ins Ruinenlager ... }
+
+Plh_6 { Streit? Wir reden doch ganz normal. Ich bin Jerzy. Das Hohlbrot da ist Jurek. }
+
+Plh_7 { Uff, verdammt hab ich einen Hunger ... }
+
+Plh_9 { Dieses Hohlbrot sieht die Dinge wenigstens, wie sie sind. Seit der Spaltung ging es mit Nemeton nur bergab. Die sollten alles dichtmachen. }
+
+Plh_11 { Wie soll man da Nemeton vertrauen? Red es dir ruhig schön, wo sie dich aufgenommen haben, aber ein friedliches Leben sehe ich nicht am Horizont! }
+
+Plh_12 { Essen! Was Besseres gibt es nicht! }
+
+Plh_13 { Was ist das Problem mit Nemeton? }
+
+Plh_14 { Warum hast du dich nicht auch Nemeton angeschlossen? }
+
+Plh_15 { Nemeton ist die größte Fraktion in Drova, und Georgs Hof gehört zu ihnen. Die Viecher im Moor werden immer aggressiver, aber Nemeton schickt immer weniger Kämpfer her. }
+
+Plh_16 { Reden nur davon, was für ein friedliches Leben wir einmal haben werden, aber ich traue mich kaum noch, draußen zu kacken. Mit Nemeton geht's abwärts ... }
+
+Plh_17 { Die nehmen nicht jeden, und ich will jetzt auch nicht mehr. Hab's satt von denen geschnitten zu werden. Die lassen einen hier im Moor verrecken ... }
+
+Plh_18 { Es wird auch wieder besser, Jurek. }
+
+Plh_19 { Für dich vielleicht, du kannst dich hinter ihren dicken Palisaden verkriechen ... }
+
+Plh_22 { Nicht jetzt. Jurek und ich müssen was klären. }
+
+Plh_23 { Zurecht? Wir? So'n Quatsch. Wenn der alte Sack dich geschickt hat, sollst du ruhig arbeiten. Sammle einfach ein paar Raseneisensteine von den Feldern da vorne. }
+
+Plh_24 { Hast du Arbeit für mich? Georg schickt mich. }
+
+Plh_25 { Denke nicht. Wir kommen gut alleine zurecht. }
+
+Plh_26 { Ha, gute Idee. Muc holt immer Raseneisensteine für die Schmiedin Chunnaic bei uns ab. Sammle was davon und bring es zu mir. }
+
+Plh_27 { Wie sehen denn Raseneisensteine aus? }
+
+Plh_28 { Ich bringe dir die Raseneisensteine. (Gespräch beenden) }
+
+Plh_29 { So braune, kleine Klumpen. Werden beim Pflügen immer mit nach oben geschaufelt. }
+
+Plh_30 { Was Raseneisensteine? }
+
+Plh_31 { Aus dem Erz macht Chunnaic Eisen. Ist zwar nicht so gut wie das Zeug aus den Minen, aber brauchbar. }
+
+Plh_32 { Bring mir $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ Stück davon. Ich gebe es bei nächster Gelegenheit Muc. }
+
+Plh_33 { Hast du genug Raseneisenstein gesammelt? }
+
+Plh_34 { Ich bin noch dabei. (Gespräch beenden) }
+
+Plh_35 { Das sollte reichen. (Raseneisenstein geben) }
+
+Plh_36 { Da wird sich Chunnaic freuen. Ich gebe es Muc, wenn er wieder hier ist, und sage Georg Bescheid, wenn er nach dir fragt. }
+
+Plh_37 { Hast du noch Arbeit für mich? }
+
+Plh_38 { Nein. Aber du kannst Dylara fragen. Die braucht bestimmt Hilfe bei der Brücke. }
+
+Plh_40 { Bis bald. (Gespräch beenden) }
+
+Plh_41 { Wo finde ich Dylara? }
+
+Plh_42 { Den Weg nach Westen lang und dann Richtung Norden. Sie überwacht die Reparatur der Brücke. }
+
+Plh_43 { Vor ein paar Nächten gab's ein Beben. Jetzt ist die Brücke hinüber. So kommen wir nicht mehr zu den Holzfällern. Blöd für uns und für Nemeton ... }
+
+Plh_44 { Warum ist die Brücke kaputt? }
+
+Plh_49 { Ich brauche 'ne Pause ... }
+
+Plh_51 { Warum gehst du nicht einfach nach Nemeton!? }
+
+Plh_52 { Du weißt gar nicht, was ich meine! }
+
+Plh_53 { Jetzt stell dich doch mal nicht so an! }
+
+Plh_54 { Ach komm, lass mich einfach in Ruhe! }
+
+Plh_57 { Ah, schön. Da mussten die Raseneisensteine sowieso hin. Dann muss Muc sich nicht kaputt schleppen. }
+
+Plh_58 { Ich hab es Rura gebracht. }
+
+Plh_60 { Moment, das ist doch gar nicht genug ... Wir brauchen 2 Portionen ... }
+
+Plh_61 { Komm, Jurek. Lass uns in Ruhe zusammen essen. }
+
+Plh_63 { *grummelt* Unser Gespräch verschieben wir auf wann anders ... }
+
+Plh_64 { Das Beste am Tag ist das Essen. So was Leckeres gibt's in Nemeton sicher nicht. }
+
+Plh_65 { Danke, dass du uns das Essen gebracht hast. }
+
+Plh_68 { Jurek, was soll Nemeton denn tun? Es hauen immer mehr Leute zum Ruinenlager ab. }
+
+Plh_69 { Ja, und wessen Schuld ist das? Nemetons! Die Leute wissen, dass sie anderswo besser dran sind. Ich glaub's langsam selbst ... }
+
+Plh_70 { Wer ist Chunnaic? }
+
+Plh_71 { Die beste Schmiedin weit und breit. Es gibt keine Klinge, die sie nicht schmieden kann. }
+
+Plh_72 { Solltest du dich in Nemeton aufhalten, schau bei ihr vorbei. }
+

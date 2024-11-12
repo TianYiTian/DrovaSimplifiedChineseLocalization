@@ -1,0 +1,8 @@
+Title { Fallen für Chunnaic }
+
+Entry_01 { Chunnaic hat aktuell niemanden, der Fallen herstellen kann, deswegen bezahlt sie gut für Bärenfallen. Wenn ich ihr drei Bärenfallen bringe, bekomme ich $GVAR:QuestVars_Traps_Config.Reward$ Münzen. }
+
+Entry_02 { Ich habe mit Caspara gesprochen, und sie kennt sich gut mit Fallen aus. Chunnaic freut sich sicherlich über ihre Hilfe. }
+
+Entry_03 { Chunnaic hat mir meine Belohnung gegeben. }
+

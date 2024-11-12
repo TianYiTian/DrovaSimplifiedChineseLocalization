@@ -1,0 +1,6 @@
+
+DescText_NotLoggedIn { 游戏无法找到你的Xbox账号登录信息。请确保你已登录，否则游戏无法保存和加载！ }
+
+ButtonText_Login { 登录 }
+
+PleaseWait { 请稍候... }

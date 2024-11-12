@@ -1,0 +1,33 @@
+Level { 等级： }
+
+LearningPoints { 学习点数: }
+
+Category_Sword { 剑 }
+
+Category_Unknown { ??? }
+
+Category_Spear { 长矛 }
+
+Category_Axe { 斧头 }
+
+Category_Daggers { 匕首 }
+
+Category_Bow { 弓 }
+
+Category_Crafting { 手工艺 }
+
+Category_Hunting { 实用的 }
+
+CombatStrength { 战斗力 }
+
+Category_Slingshot { 弹弓 }
+
+Category_Shield { 盾牌 }
+
+fighting_strength { 战斗力 }
+
+requirement { 要求： }
+
+Category_Preparation { 准备 }
+
+Category_Mining { 采矿 }

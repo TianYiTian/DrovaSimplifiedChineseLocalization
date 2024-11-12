@@ -1,0 +1,374 @@
+Plh_4 { Verdammte Buddlerschweine, diese Mistviecher kommen immer wieder zurück. }
+
+Plh_8 { Merk dir meinen Namen: Jendra! Die Steigerin hier unter den Tagen. Hier habe ICH das Sagen. Levin vertraut mir. *reckt das Kinn vor* }
+
+Plh_9 { Heißt das nicht "unter Tage"? }
+
+Plh_10 { *ihre Wangen röten sich* Hab ich doch gesagt! Wasch dir die Ohren! Ich bin nicht umsonst Steigerin, also zeig mir den Respekt, der mir zusteht, klar? }
+
+Plh_11 { Ich bin neu hier. }
+
+Plh_12 { Im Moment gucke ich mich ein wenig um. }
+
+Plh_13 { Ich will in die tiefe Mine. }
+
+Plh_14 { Offensichtlich. Pass auf, dass du keinen Mist baust. Viele Wachen in der Mine verstehen keinen Spaß. }
+
+Plh_15 { Dann guck dich in den Gängen um. Da ist noch Silber, das abgebaut werden muss. }
+
+Plh_17 { Außerdem hab ich eine Abmachung mit zwei Hauern. Die zahlen mir gutes Silber, dann nehme ich sie mit. }
+
+Plh_18 { Levin hat nichts davon erwähnt, dass Hauer zahlen müssen, um zu arbeiten. }
+
+Plh_19 { Dann weißt du es jetzt. Wer das meiste bietet, kommt mit. Ganz einfach. }
+
+Plh_20 { Und Levin hat kein Problem damit? }
+
+Plh_21 { Du bereicherst dich also an den Hauern ... }
+
+Plh_23 { Nimm mich mit in die tiefe Mine. }
+
+Plh_24 { Almar und Ella zahlen mir jeweils $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$ Silber. Sehe doch, dass du das nicht hast. }
+
+Plh_25 { Die zahlen dir $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$ Silber?! }
+
+Plh_26 { Klar. Und trotzdem gehen sie mit fettem Gewinn aus der tiefen Mine. Deswegen sind ja alle so heiß drauf. }
+
+Plh_27 { Wenn du das sagst ... }
+
+Plh_28 { Das ist Halsabschneiderei! }
+
+Plh_29 { Du musst erst noch lernen, dass hier die Dinge etwas anders laufen ... }
+
+Plh_30 { Hier, $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ sollten reichen. (geben) }
+
+Plh_31 { Mhh. Tja, ich sag mal, schade für Almar. Du hast einen Platz! Ich nehme dich nächstes Mal mit. Melde dich, sobald du bereit bist. }
+
+Plh_32 { Was, wenn ich dir $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ Silber biete? }
+
+Plh_33 { Ich hab eigentlich eine Abmachung mit denen. Ella kommt auf alle Fälle mit - sonst kann sie Laric nicht bezahlen, und dann kommt der zu mir. }
+
+Plh_35 { Was? Es geht doch gleich los! Wo soll ich denn noch einen Hauer auftreiben ... }
+
+Plh_36 { Almar kommt heute nicht. }
+
+Plh_39 { Wir warten jetzt, bis Ella da ist. }
+
+Plh_42 { So, wir sind so weit. Packt eure Spitzhacken und ran ans Gestein. }
+
+Plh_45 { *hechelt* Hey ... Jendra ... bin da ... kann mit in die Mine ... }
+
+Plh_46 { Heute kommst du nicht mit, Almar. }
+
+Plh_47 { Können wir los? Ich bin bereit. }
+
+Plh_48 { Damit eins klar ist: ich will da unten keine Diskussionen. Es wird getan, was ich sage. Verstanden? }
+
+Plh_56 { Gut, $GVAR:EVars_Player.Name$. Wir ziehen los. }
+
+Plh_59 { Was? Und was ist mit dem Silber, das ich dir bezahlt habe? }
+
+Plh_60 { Solange genug Silber zu ihm ins Ruinenlager fließt, ist er zufrieden. Und in der tiefen Mine ist genug davon. }
+
+Plh_61 { Wer aus der tiefen Mine wieder hochkommt, hat an einem Tag mehr Silber in der Tasche als nach vielen Tagen in den anderen Schollen. Das ist mehr als fair. }
+
+Plh_62 { $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ Silber. Haben oder nicht haben. }
+
+Plh_63 { Du willst dir so viel Silber einfach entgehen lassen? }
+
+Plh_64 { *runzelt die Stirn* Hmm. Das ist einiges. Könnte Almars Platz wert sein ... }
+
+Plh_66 { Also ... }
+
+Plh_67 { Nun ... }
+
+Plh_68 { *knirscht mit den Zähnen* Na gut. DIESMAL kommst du mit. Wenn Almar wieder da ist, ist er wieder dran. Meld dich, sobald du los kannst. }
+
+Plh_69 { Für dich gilt auch: du kommst nicht mit in die tiefe Mine! }
+
+Plh_71 { Was ist die tiefe Mine? }
+
+Plh_72 { Ich bin nur hier, um mich umzuschauen. }
+
+Plh_73 { *seufzt* Da wollen alle hin, denn da gibt es das meiste Silber. Aber dort ist es auch gefährlich, weswegen ich nicht mehr als zwei Hauer mitnehme. }
+
+Plh_74 { Hä? Ein Hauer, der mich NICHT wegen der tiefen Mine nervt? }
+
+Plh_75 { Na gut, wenn du das Silber auftreiben kannst, geht's in die Tiefe. Äh, ich meine "Teufe". So nennen wir Bergleute das. }
+
+Plh_76 { Legt schon los. }
+
+Plh_77 { Keine Zeit. }
+
+Plh_78 { Bau das Silber hier oben ab. Ich passe auf, dass uns nichts von weiter unten überrascht. }
+
+Plh_79 { Wir haben alles hier abgebaut. }
+
+Plh_80 { Ich bin dabei. }
+
+Plh_81 { Was?! Ihr habt doch kaum was dabei. Das reicht nicht! }
+
+Plh_82 { Was war das? }
+
+Plh_83 { Verdammt ... }
+
+Plh_86 { *mustert die Wand* Das Gestein hier wirkt instabil. Ist da nicht auch ein Luftzug? Vielleicht können wir die Steine lockern ... }
+
+Plh_87 { Geschafft, endlich! Du hast uns gerettet! }
+
+Plh_89 { Wir können in die tiefe Mine. }
+
+Plh_90 { Ich brauche noch etwas Zeit. }
+
+Plh_91 { Aber nicht zu lang! }
+
+Plh_94 { Ich hab keine Kraft mehr. }
+
+Plh_95 { Hier, nimm. Das sollte dir helfen. Und jetzt wieder an die Arbeit. }
+
+Plh_96 { Also los. }
+
+Plh_97 { Glaub mir, das willst du nicht. Oder bist du scharf auf Monster, einstürzende Schächte und Dunkelheit? Das ist nur was für Leute, die Bergbau LEBEN. }
+
+Plh_98 { Vergiss es. }
+
+Plh_99 { Was macht der Kanarienvogel da drüben im Käfig? }
+
+Plh_100 { Hm? Du meinst Falco? }
+
+Plh_101 { Der reagiert empfindlich auf schlechte Luft hier unten. Wenn der tot auf dem Käfigboden liegt, wissen wir, dass wir schnell raus müssen. }
+
+Plh_102 { Der Vogel sieht ziemlich fertig aus. }
+
+Plh_103 { Findest du das nicht ein bisschen gemein? }
+
+Plh_104 { Wenigstens hat der Vogel so einen Nutzen. }
+
+Plh_105 { Na ja, er hockt in einer Mine in einem Käfig. Was erwartest du? Shona bringt ihm gelegentlich was. Hab sie aber länger nicht bei ihm gesehen. }
+
+Plh_106 { Wir können nicht aus Drova abhauen und er nicht aus dem Käfig. So ist das Leben. }
+
+Plh_107 { Ja, bevor wir hier verrecken, verreckt er. }
+
+Plh_108 { Ich hab Falco ein Stück von dem Fisch in den Käfig geworfen, den ich auf dem Weg zur Mine gefangen habe. Interessiert ihn aber nicht. }
+
+Plh_109 { Du weißt schon, dass Kanarienvögel keine Fleischfresser sind? }
+
+Plh_110 { Nee. Aber das ist doch Fisch! }
+
+Plh_111 { Hier gibt's nichts mehr zu holen, wir müssen tiefer. Kommt! }
+
+Plh_112 { Da sind die Silberadern. $GVAR:EVars_Player.Name$ nimmt die linke Seite, Ella die rechte. }
+
+Plh_114 { Ein ... Erdbeben? }
+
+Plh_115 { W-was! Nein! Unser Rückweg! }
+
+Plh_116 { Die Decke bricht zusammen! }
+
+Plh_117 { Du musst dringend zu einem Heiler! }
+
+Plh_118 { Wir haben keine Zeit und müssen los, Jendra. }
+
+Plh_119 { Jendra braucht eine Pause. }
+
+Plh_120 { Nur einen ... Moment noch ... }
+
+Plh_121 { W-was? Das geht nicht, verdammt! Du bist die Steigerin! Niemand von uns kennt sich hier aus! Wir sind doch nur Hauer! Wir brauchen dich! }
+
+Plh_124 { Sie hat recht. Du musst uns rausführen. }
+
+Plh_125 { In Ordnung ... Ich bringe uns hier irgendwie raus. }
+
+Plh_126 { Kann ich nicht. Und Ella kann das auch nicht. Du musst die Führung übernehmen. }
+
+Plh_127 { *fasst sich an die Brust* Wir haben keine Zeit dafür ... los, weiter! }
+
+Plh_128 { *stöhnt* Wir brauchen Licht. Denkt an eure Fackeln. }
+
+Plh_129 { Ich habe noch Spruchrollen. Hier, nimm. Denk dran - damit kannst du bei Gefahr einen Zauber wirken. Aber nur einen pro Rolle. }
+
+Plh_130 { Also ... wir sind hinter dir. Ich werde die Viecher mit meiner Schleuder von hinten bearbeiten. Ganz allein bist du nicht. }
+
+Plh_131 { Ohne dich wäre das schiefgegangen. Ich will nie wieder dorthin! }
+
+Plh_134 { Verstanden. }
+
+Plh_135 { Verstanden. }
+
+Plh_137 { Jaja, Glück drauf. }
+
+Plh_138 { Sei vorsichtig. Es gab vor ein paar Tagen Erdstöße. }
+
+Plh_139 { *verengt die Augen* Meinst du, das weiß ich nicht? }
+
+Plh_140 { Doch, natürlich. *verdreht die Augen* Glück auf. }
+
+Plh_141 { Ella! Bereitmachen zum Abstieg! }
+
+Plh_142 { Jetzt schon ...? Komme! }
+
+Plh_143 { Es ist einzig meine Entscheidung. Oder willst du meine Autorität infrage stellen? }
+
+Plh_144 { Natürlich nicht, aber- }
+
+Plh_145 { Dann tu es auch nicht, sonst kommst du nie wieder in die tiefe Mine. Verstanden? }
+
+Plh_147 { Hier ist nichts mehr. Können wir nicht ändern. }
+
+Plh_148 { Ist das wirklich eine gute Idee? }
+
+Plh_150 { Die tieferen Stollen sind nicht erschlossen und ungesichert. }
+
+Plh_151 { Wir haben keine andere Wahl. Levin macht mich rund, wenn ich nur mit dem Silberhäufchen komme. Folgt mir. }
+
+Plh_152 { Jendra ... }
+
+Plh_153 { Wenn die Steigerin sagt, dass es tiefer reingeht, dann haben die Hauer zu gehorchen! Also los! }
+
+Plh_154 { Jendra! Sie hat überlebt! }
+
+Plh_155 { Dir ist nichts passiert. Dank sei den Göttlichen! Wie geht es dir? }
+
+Plh_156 { *wankt* Gut genug. }
+
+Plh_158 { Was ist passiert? }
+
+Plh_159 { Wir haben überlebt, nur das zählt. Ich hab was von einem Stein abbekommen und konnte nicht mehr führen. Ohne $GVAR:EVars_Player.Name$ hätten wir es nicht geschafft. }
+
+Plh_160 { Wir haben so noch einen Zugang zur tiefen Mine gefunden. Vielleicht mit noch mehr Silber. }
+
+Plh_161 { Den hätten wir auch anders finden können. Du musst dich jetzt ausruhen. }
+
+Plh_162 { $GVAR:EVars_Player.Name$ ... gut gemacht }
+
+Plh_163 { Wir können Leute gebrauchen, die wissen was nötig ist, wenn es brenzlig wird. Melde dich bei Kilian im Ruinenlager. Sag ihm, dass ich dich geschickt habe und sag, dass du jetzt das obere Viertel betreten darfst. }
+
+Plh_164 { Jendra, wir kümmern uns um deine Wunden. }
+
+Plh_167 { Alles klar, aber wenn du unter mir arbeitest, bin ich für deine Sicherheit verantwortlich. Wie soll ich dich rufen? }
+
+Plh_168 { $GVAR:EVars_Player.Name$. }
+
+Plh_169 { Mir egal, brechen wir endlich auf. }
+
+Plh_170 { Vergiss es, wenn ich deinen Name nicht kenne, kommst du nicht mit. Also? }
+
+Plh_171 { Du hast uns gerettet. Melde dich bei Kilian und schließ dich uns an. Wir können Leute wie dich gebrauchen. }
+
+Plh_173 { Levin hat MICH beauftragt, mit ein paar Hauern in die tiefe Mine zu gehen. Also entscheide ICH, wer mitkommt. }
+
+Plh_174 { Verstanden. }
+
+Plh_175 { Jendra! Was ist? }
+
+Plh_176 { ARGH! }
+
+Plh_177 { Außerdem noch ein paar Heilsalben. Die könnten nützlich werden. }
+
+Plh_179 { Und? }
+
+Plh_180 { Vor dir steht einer. }
+
+Plh_181 { MACH DEINE VERDAMMTEN AUGEN AUF! }
+
+Plh_192 { Wir hatten eine Abmachung! Ich hab dir Silber für meinen Platz gegeben! }
+
+Plh_193 { Und jemand anders hat mir mehr Silber gegeben. Komm damit klar. }
+
+Plh_194 { *wirft dir kurz einen giftigen Blick zu* Dann gib mir wenigstens mein Silber zurück! }
+
+Plh_195 { Betrachte es als Vorschuss fürs nächste Mal. }
+
+Plh_196 { Ihr ... du ... ARGH! }
+
+Plh_197 { Ihr seid das Allerletzte! }
+
+Plh_198 { Der stellt sich aber an. }
+
+Plh_199 { Du hast ihn ja auch abgezogen. }
+
+Plh_200 { Was für eine Heulsuse. }
+
+Plh_201 { Jetzt stellst du dich auch noch an? Dann zahlt er nächstes Mal weniger Silber. Ich hab ihm nichts weggenommen. }
+
+Plh_202 { Der fängt sich schon wieder. Spätestens morgen braucht er wieder Silber und dann kommt er zu mir. }
+
+Plh_203 { Bring uns hier raus. Wir sind hinter dir. }
+
+Plh_204 { Und eine Waffe, damit du dich wehren kannst. }
+
+Plh_210 { Jaja, bin nicht zum ersten Mal hier. }
+
+Plh_211 { Dann weißt du ja, dass Levin das Silber von hier haben will. Je schneller ihr das Silber hier haut, desto schneller können wir wieder raus und desto mehr freut sich Levin. }
+
+Plh_212 { An die Arbeit! }
+
+Plh_213 { Dann müssen wir tiefer rein. Sonst gibt's Stress mit Levin. }
+
+Plh_214 { W-was? Tiefer rein? Du hast doch selbst gesagt, dass es da zu gefährlich ist! }
+
+Plh_215 { Reiß dich zusammen. Ich bin hier, um euch zu beschützen. Ihr müsst nur hauen. }
+
+Plh_216 { Hab ich euch nach eurer Meinung gefragt? }
+
+Plh_217 { Ich will in die tiefe Mine. }
+
+Plh_224 { Ich bin bereit, in die tiefe Mine zu gehen. }
+
+Plh_235 { Mein Arm ... Ich kann ihn nicht mehr bewegen. Und meine Brust ... *atmet schwer* }
+
+Plh_236 { Kann ... kaum atmen. }
+
+Plh_237 { Das war's! Jendra kann nicht mehr kämpfen, und wir werden in dieser elendigen Höhle verrecken. }
+
+Plh_238 { Jetzt heul nicht so rum! Ich kann immer noch ... }
+
+Plh_239 { B-bitte, bring uns hier raus. }
+
+Plh_240 { Wir können es hier rausschaffen! Die tiefe Mine ist dunkel und gefährlich, aber wir können nicht weit entfernt vom Rest der Mine sein. }
+
+Plh_241 { Wenn wir es nur in die Nähe der anderen Mine schaffen, dann hören uns die anderen vielleicht. }
+
+Plh_242 { Ich sag das nicht gerne, aber geh bitte vor, $GVAR:EVars_Player.Name$. Ich kann euch nicht beschützen ... du bist unsere letzte Hoffnung. }
+
+Plh_243 { Die Viecher haben uns gerade noch gefehlt ... }
+
+Plh_244 { Vielleicht finden wir einen Weg außen rum. Je weniger wir kämpfen müssen, desto besser. }
+
+Plh_245 { Hoffentlich sind das die letzten Viecher. }
+
+Plh_246 { Verdammt, ich will raus hier. }
+
+Plh_247 { Ich bin Hauerin, keine Kämpferin! }
+
+Plh_248 { $GVAR:EVars_Player.Name$ hat alles im Griff. }
+
+Plh_249 { Irgendwo hier entlang muss ein Weg nach draußen sein! Sonst würde hier keine Luft ziehen. }
+
+Plh_250 { W-was w-war das? N-noch ein Steinschlag? }
+
+Plh_251 { Ich fürchte ... das klang nicht wie ein Steinschlag. }
+
+Plh_252 { Eher wie etwas Großes, dem wir nicht begegnen wollen. }
+
+Plh_253 { $GVAR:EVars_Player.Name$, geh vor. Wir sind direkt hinter dir. }
+
+Plh_256 { Das verdammte Biest ist ... tot. }
+
+Plh_257 { Wir haben es geschafft! }
+
+Plh_258 { Der Ausgang kann nicht mehr weit sein! }
+
+Plh_259 { LAAAAAUFT! }
+
+Plh_260 { Ich spüre einen Luftzug. }
+
+Plh_261 { Der Ausgang muss in der Nähe sein! }
+
+Plh_262 { Moment. Was ist das da? }
+
+Plh_263 { Ist das etwa ...? VORSICHT! }
+
+Plh_267 { Ihr müsst die Führung übernehmen ... }
+

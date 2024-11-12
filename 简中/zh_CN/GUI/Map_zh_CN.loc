@@ -1,0 +1,29 @@
+Title_Maps { 地图 }
+
+MapName_World_Rough { 粗略世界地图 }
+
+MapName_World_Detailed { 世界地图 }
+
+MapName_World_Shrines { 神殿 }
+
+MapName_Nemeton { 内梅顿 }
+
+MapName_Ruincamp { 废墟营地 }
+
+MapName_Leuchtwald { 黑暗森林 }
+
+MapName_Tristan { 特里斯坦的地图 }
+
+MarkerPlaced { 在地图上标记 }
+
+NoInk { 需要墨水 }
+
+Title_Markers { 印章 }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { 放置标记 }
+
+DeleteMarker { 删除标记 }
+
+Hint_Ink { 购买墨水，以在地图上标记地点。 }

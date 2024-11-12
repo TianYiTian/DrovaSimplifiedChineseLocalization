@@ -1,0 +1,17 @@
+Plh_13 { $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ 对阵 $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ }
+
+Plh_14 { 血与钢的标志！ }
+
+Plh_17 { 只有一个人能获胜！ }
+
+Plh_18 { $GVAR:DAS_ArenaSystem.MainFight_WinnerName$ 获胜了。如果你押注正确，就去领取你的赌注吧。 }
+
+Plh_19 { 上吧！ }
+
+Plh_27 { 我下注给谁了来着？ }
+
+Plh_28 { 这是可以预见的……轻松赚到的钱。 }
+
+Plh_30 { 战斗开始！ }
+
+Plh_31 { 战士们已准备就绪。 }

@@ -1,0 +1,59 @@
+Woodcamp { 伐木营地 }
+
+Schlund { 深渊 }
+
+Mine { 矿井 }
+
+River { 河床 }
+
+Ruins { 废墟 }
+
+Ruincamp { 废墟营地 }
+
+Academy { 学院 }
+
+Forest { 森林 }
+
+Tavern { 酒馆 }
+
+Heide { 草原 }
+
+FriendlyMoor { 罗特沼泽 }
+
+Nemeton { 内梅顿 }
+
+EntryNemeton { 内梅顿入口 }
+
+NemetonHain { 神圣林地 }
+
+DeathMoor { 死亡沼泽 }
+
+RottenMoor { 肉沼泽 }
+
+Auwald { 河岸森林 }
+
+Leuchtwald { 黑暗森林 }
+
+Mutter { 母亲 }
+
+Magiecamp { 避难所 }
+
+RedTower { 红色塔楼 }
+
+Library { 图书馆 }
+
+CityDungeon { 黑暗森林-城镇 }
+
+SpiderDungeon { 河岸森林-高原 }
+
+Cave { 洞穴 }
+
+RuinExplorer { 废墟强盗藏身处 }
+
+RuinSchmuggler { 暗区 }
+
+RuinUnder { 洞穴 }
+
+Intro_Real { 旧世界 }
+
+Intro_Fog { 迷雾小径 }

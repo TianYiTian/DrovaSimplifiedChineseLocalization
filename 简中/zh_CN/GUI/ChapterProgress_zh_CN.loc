@@ -1,0 +1,11 @@
+Title { 第 $GVAR:WorldVars.CurrentChapter$ 章 }
+
+Chapter1 { 到达 }
+
+Chapter2 { 黑暗森林 }
+
+Chapter3 { 探险队 }
+
+Chapter4 { 通往红塔的路 }
+
+Chapter5 { 红塔 }

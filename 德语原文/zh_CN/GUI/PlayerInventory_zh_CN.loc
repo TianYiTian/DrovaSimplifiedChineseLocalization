@@ -1,0 +1,58 @@
+label_character_level { Stufe }
+
+tooltip_character_level { Zeigt deine aktuelle Stufe an. Dies dient als Indikator dafür, wie mächtig dein Charakter ist. }
+
+tooltip_character_faction { Zeigt deine aktuelle Fraktionszugehörigkeit an. }
+
+tooltip_character_skillpoints { Mit Lernpunkten kannst du bei einem Lehrer deine Attribute verbessern oder Talente lernen. Mit jedem neuen Level bekommst du sofort <color=#55BD55>vier</color> Lernpunkte und <color=#55BD55>fünf</color> Lebenspunkte. }
+
+label_character_skillpoints { Lernpunkte }
+
+tooltip_character_xp { Erfahrungspunkte bekommst du durch das Töten von Gegnern oder durch das Erfüllen von Aufgaben. }
+
+label_attributes_hitpoints { Lebenspunkte }
+
+tooltip_attributes_hitpoints { Wenn deine Lebenspunkte auf null fallen, stirbt dein Charakter. }
+
+tooltip_attributes_stamina { Ausdauer wird zum Blocken, Ausweichen und für schwere Angriffe verwendet. }
+
+label_attributes_stamina { Ausdauer }
+
+tooltip_attributes_flow { Fokus wird für Fähigkeiten verwendet. Fokus baut sich durch verursachten Schaden auf und nimmt mit der Zeit oder durch Schaden ab. }
+
+label_attributes_flow { Fokus }
+
+tooltip_attributes_power { Kampfkraft ist die Summe deiner Attribute und gilt als Waffenvoraussetzungen. }
+
+tooltip_attributes_strength { Stärke erhöht den verursachten physischen Schaden um [VALUE]. }
+
+tooltip_attributes_dexterity { Geschick erhöht die kritische Trefferchance um [VALUE]. Jeder kritische Treffer verursacht Blutung am Ziel und zusätzlichen Schaden, abhängig vom Waffentyp. }
+
+tooltip_attributes_mind { Geist erhöht den verursachten magischen Schaden um [VALUE1]. Zudem wird der Grundfokus um [VALUE2] erhöht. }
+
+label_attributes_armor { Rüstung }
+
+tooltip_attributes_armor { Reduziert den erlittenen physischen Schaden. }
+
+tooltip_attributes_magic_resistance { Reduziert den erlittenen magischen Schaden. }
+
+label_attributes_magic_resistance { Magieresistenz }
+
+title_equipment_segment { Ausrüstung }
+
+title_directquickbar_segment { Direkte Schnellleiste }
+
+faction_none { Fraktionslos }
+
+faction_nemeton { Nemeton }
+
+faction_ruincamp { Ruinenlager }
+
+title_ammo { Munition }
+
+baseFightingStrength { Grundkampfkraft }
+
+totalFIghtingStrength { Kampfkraft }
+
+baseFightingStrengthDesc { Die Grundkampfkraft ist die Summe deiner Attribute ohne zusätzliche Boni durch Ausrüstung und gilt als Talentvoraussetzung. }
+

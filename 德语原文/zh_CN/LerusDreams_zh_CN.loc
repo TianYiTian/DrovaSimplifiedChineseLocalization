@@ -1,0 +1,14 @@
+MadWoman_Name { Verrückte Frau }
+
+Percept_Skeleton_00 { Hier liegen zwei Skelette in einer Umarmung. Eine erwachsene Person und offenbar ein Kind. Wahrscheinlich ist das die Mutter. }
+
+Percept_Skeleton_01 { (Kinderknochen untersuchen) }
+
+Percept_Skeleton_02 { *Du schiebst die Knochen etwas zur Seite und entdeckst darunter einen Schalter.* }
+
+Percept_Skeleton_03 { (Schalter betätigen) }
+
+Percept_Grave_00 { Es tut mir leid. Ich hätte für euch da sein müssen. }
+
+Percept_Grave_01 { Die Schrifttafel ist stark zerkratzt und unlesbar. }
+

@@ -1,0 +1,68 @@
+Plh_4 { *gähnt und reibt sich die Augen* Was ist? }
+
+Plh_2 { *gähnt* Kannst rein. Mach nur keinen Mist! }
+
+Plh_3 { Du siehst müde aus. }
+
+Plh_5 { Wo bin ich hier? }
+
+Plh_6 { Ich komme von Jola und will in der Mine arbeiten. }
+
+Plh_8 { Nichtstun ist manchmal schwieriger als körperlich zu arbeiten. Ich wurde dazu verdonnert, hier Wache zu stehen. }
+
+Plh_11 { Warum wurdest du dazu verdonnert? }
+
+Plh_12 { Du bist hier im ewigen Apfelgarten. Die Göttlichen schenken dir hier ihre Macht und alle hier sind immer satt. Du musst nur mich, den Wächter Esdert, im noblen Kampf besiegen! }
+
+Plh_13 { Dann biste hier richtig. Ich bin Esdert und bewache den Eingang. Einfach dem Weg folgen und du kommst zu Levin. }
+
+Plh_15 { Ach, wie soll ich sagen ... Ich hab eventuell über Levin was gesagt, was nicht so nett war. Und vielleicht stand er hinter mir und hat es gehört. Jetzt muss ich hier Wache halten, und es passiert einfach nichts. }
+
+Plh_18 { Dann kämpfe! }
+
+Plh_19 { Du verarschst mich doch. }
+
+Plh_21 { *grinst* Das ist die Silbermine. Neue Hauer brauchen wir immer. Du kannst hier viele Münzen verdienen, bekommst Essen und ein Dach über dem Kopf. Wenn du anpacken kannst. }
+
+Plh_22 { Das war doch nur ein Witz! Meine Fresse, bist du leichtgläubig, wenn irgendwer geschwollen labert. }
+
+Plh_24 { Ich habe eine Frage ... }
+
+Plh_25 { Ich wurde auf dem Weg von Banditen überfallen. }
+
+Plh_26 { Ich könnte mich um die Banditen kümmern. }
+
+Plh_27 { Die Banditen werden dir keine Probleme mehr machen. }
+
+Plh_28 { Wer ist Levin? }
+
+Plh_29 { *kneift die Augen zusammen* Er ist hier der Chef. Pass auf, dass er dir nicht böse wird. Sonst geht's dir dreckig. Aber wenn er dich mag ... }
+
+Plh_30 { Ach, verflucht, ich dachte, die wären wir los. Haben die erst vor ein paar Tagen verjagt. Schlimmer als eine Rattenplage. Ich kümmere später mich darum, wenn ich wegkann. }
+
+Plh_31 { *mustert dich* Du? Ohne ordentliche Waffe und Ausrüstung? Allein? Weiß nicht, ob ich im Kampf neben dir stehen will, aber lustig bist du. }
+
+Plh_32 { Lass das meine Sorge sein. Was springt für mich raus, wenn ich sie vertreibe? }
+
+Plh_33 { Wenn du wirklich die Banditen vertreibst, gibt's von mir $GVAR:QuestVars_BanditMine_Config.Reward$ klingende Münzen. Gute Arbeit wird hier immer belohnt. }
+
+Plh_34 { Aber die $GVAR:QuestVars_BanditMine_Config.Reward$ sind dein Leben nicht wert. An dir ginge ein brauchbarer Hauer verloren. }
+
+Plh_35 { Stimmt schon, ich halte mich besser zurück. }
+
+Plh_36 { Immerhin hast du noch etwas Vernunft in dir. }
+
+Plh_37 { *mustert dich* DU hast sie fertig gemacht?! Wie hast du denn das geschafft? }
+
+Plh_38 { Langsam könntest du mit deinen Zweifeln aufhören. }
+
+Plh_39 { *runzelt die Stirn* Dann habe ich dich wohl unterschätzt. Hier sind die $GVAR:QuestVars_BanditMine_Config.Reward$ Münzen. Du hast mir Arbeit abgenommen. }
+
+Plh_40 { Meld dich bei Levin. Immer den Weg lang. Er kann dir alles erklären. }
+
+Plh_41 { Ich werde nie wieder über Levin reden. Bei den Göttlichen, das schwöre ich! }
+
+Plh_46 { Was wäre denn Mist? }
+
+Plh_47 { Das wirst du verdammt schnell merken, wenn du welchen baust. }
+

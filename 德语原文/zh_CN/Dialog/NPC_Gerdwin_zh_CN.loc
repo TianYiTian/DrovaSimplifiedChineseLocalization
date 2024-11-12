@@ -1,0 +1,162 @@
+Plh_4 { *schaut dich abschätzend an* Was willst du? }
+
+Plh_149 { Du suchst Krieger, die bei den Holzfällern helfen? }
+
+Plh_150 { Ich habe vor ein paar Tagen Colin und Niala zu den Holzfällern hingeschickt. Sie wollten sich dort einen Überblick verschaffen und mir dann Bericht erstatten. }
+
+Plh_151 { Lass mich raten, der Bericht kam nie an? }
+
+Plh_153 { Kann man so sagen. Ich möchte, dass du dort hingehst und dich bei Niala meldest. Finde heraus, warum bis jetzt nichts gekommen ist. Wenn du das tust, bekommst du $GVAR:QuestVars_AttackWoodcamp_Config.RewardInit$ Münzen. }
+
+Plh_155 { Alles ruhig hier. Schnapp dir ein Bier, das Fest beginnt gleich. }
+
+Plh_163 { Wenn dir dein Leben was wert ist, geh jetzt nach oben! }
+
+Plh_169 { Hey! Ihr da! Hört sofort auf mit der Scheiße! }
+
+Plh_170 { Verdammt. Was macht Gerdwin hier? }
+
+Plh_171 { Ihr wisst genau, dass ihr euch hier drin nicht schlagen dürft. }
+
+Plh_172 { Ihr verdammten Händler liefert uns nicht genug Holz! Wie sollen wir so vernünftig arbeiten? }
+
+Plh_173 { Ach ja? Dann holt euch das verdammte Holz doch selbst! Ich hab mehr als genug zu tun! }
+
+Plh_174 { Ruhe! Keine Ausreden. In Nemeton prügelt sich niemand. Das wisst ihr genau. Bezahlt eure Strafe, oder der Pranger wartet auf euch. }
+
+Plh_175 { Ist ja gut. Nimm schon. Kommt nicht wieder vor. }
+
+Plh_176 { Gut, Swenn. Recht so. }
+
+Plh_177 { Ich will keinen Ärger. Hier, die Münzen. }
+
+Plh_178 { Damit ist das erledigt. Und jetzt zurück an die Arbeit. Wenn das wieder vorkommt, werdet ihr euch nicht freikaufen können. }
+
+Plh_179 { Ich kümmere mich um Recht und Ordnung. Wer gegen die Regeln von Nemeton verstößt, muss sich meinem Urteil stellen. Und wer eine Straftat begeht ... wird büßen. }
+
+Plh_180 { Ich hoffe für dich, dass wir uns nicht so oft sehen. }
+
+Plh_182 { Ich kümmere mich darum. }
+
+Plh_183 { Dafür habe ich keine Zeit. }
+
+Plh_184 { Was willst du dann von mir? }
+
+Plh_185 { Beeil dich! Ich mache mir langsam Sorgen. Ich hoffe, es ist nichts Schlimmeres passiert. Endlich ist die Brücke repariert, und ich habe gehofft, dass sich die Dinge jetzt endlich wieder normalisieren. }
+
+Plh_186 { Die Holzfäller sind angegriffen worden. Wir konnten ihr Lager gerade so verteidigen. }
+
+Plh_187 { Bitte was? ANGEGRIFFEN? Vom Ruinenlager? }
+
+Plh_188 { Baumwesen haben es angegriffen. Ein paar Holzfäller sind gestorben. }
+
+Plh_189 { Es waren unglaublich viele Viecher, aber die Situation ist jetzt unter Kontrolle. }
+
+Plh_190 { Was ist mit Niala und Colin passiert? }
+
+Plh_191 { Niala geht es gut. Sie bleibt dort und kümmert sich um alle. }
+
+Plh_192 { Und ... Colin? }
+
+Plh_193 { *atmet durch* Die Gefahr ist noch nicht gebannt. Ich muss mich darum kümmern ... }
+
+Plh_194 { Ich hab noch ein paar Münzen draufgelegt. Gegen Spriggas zu kämpfen, erfordert Mut. Vor allem, wenn es viele sind. Gut gemacht. }
+
+Plh_195 { Was passiert jetzt mit den Holzfällern? }
+
+Plh_197 { Die Palisaden müssen verstärkt und die Gebäude repariert werden. Dafür brauchen wir dringend das Holz. Wenn wir die Lage stabilisieren, läuft alles wieder wie vorher. }
+
+Plh_198 { So bekommen wir unser Holz, und Cengiz kann wieder in Ruhe arbeiten. }
+
+Plh_200 { Jemand pinselt hier die Wände voll? Weißt du was? }
+
+Plh_201 { Ich habe die Person gefunden, die die Wände beschmutzt. }
+
+Plh_202 { Nur, was an dem Brett stand. Bemalt nachts Steine und Häuser. Wir müssen da hart durchgreifen. Am besten schaust dich nachts mal um. }
+
+Plh_203 { Wirklich? Wer war es? }
+
+Plh_204 { Adwin hat schon gestanden, hier sind deine Münzen. }
+
+Plh_206 { Ich konnte die Person nicht erkennen, aber ich hab sie verjagt, und sie wird nicht wiederkommen. }
+
+Plh_207 { Adwin, einer von den Händlern war es. Er meldet sich bei dir. }
+
+Plh_208 { *murmelt* Hätte ihn lieber selber verhört. Aber das Problem ist dank dir gelöst. Solange in den nächsten Tagen keine neuen ... "Kunstwerke" auftauchen ... }
+
+Plh_210 { Adwin ... das hätte ich mir denken können ... dieser Hohlkopf. Den knöpfe ich mir vor. }
+
+Plh_211 { Was passiert jetzt mit Adwin? }
+
+Plh_213 { Einerseits ist er ein guter Handwerker und wir haben zu wenige davon, andererseits muss er bestraft werden ... ich muss darüber nachdenken. }
+
+Plh_214 { Colin ist tot. Er hat tapfer gekämpft. }
+
+Plh_215 { Als ich ankam, war Colin schon tot. }
+
+Plh_216 { *schaut düster* Colin war ein guter Kämpfer. Ein guter Mensch. Er hat alles für die Holzfäller gegeben ... }
+
+Plh_217 { Und du! Bist du neu hier? Hab dich noch nicht gesehen. }
+
+Plh_218 { Ich bin gerade erst angekommen. }
+
+Plh_219 { Und wenn es so wäre? }
+
+Plh_220 { Wenn du dich mit irgendwem hier anlegst, dann kommen die Leute zu mir und beschweren sich über dich. }
+
+Plh_221 { Diesen frechen Ton legst du besser ab, wenn du keinen Ärger willst. }
+
+Plh_222 { Je mehr Leute sich über dich beschweren, desto mehr Münzen schuldest du Nemeton. Wenn du die Leute hier schlecht behandelst, verdirbst du dir den Ruf. }
+
+Plh_223 { Du findest mich im Kämpferviertel. Ich kann dir deine Missetaten vergeben. Dann erzähle ich allen hier, dass du Reue gezeigt hast. }
+
+Plh_227 { Also, mach keinen Mist. Ich kriege das sowieso mit. }
+
+Plh_228 { Alles klar. }
+
+Plh_229 { Dann hoffe ich, dass wir uns nicht allzu bald wiedersehen. }
+
+Plh_230 { Gute Einstellung. }
+
+Plh_232 { Locke und Jean im verlassenen Viertel wollen, dass ich hier Sachen klaue. }
+
+Plh_233 { Was?! Diese beiden Nichtsnutze überreden jetzt auch noch andere Leute zu ihrem Scheiß? }
+
+Plh_234 { Ich glaube, die Zeit ist reif, die beiden vor die Tür von Nemeton zu setzen ... }
+
+Plh_235 { Ich werde denen einen Besuch abstatten ... }
+
+Plh_236 { Du hast im Sinne von Nemeton gehandelt. Das soll belohnt werden. }
+
+Plh_237 { Für Nemeton. }
+
+Plh_238 { Es war alles ganz fürchterlich. Ich hatte echt Schiss. }
+
+Plh_239 { Na, geht's wieder? Hab dich gestern zurückgebracht ... hast gut gefeiert. }
+
+Plh_240 { Molvina will dich sprechen. Du findest sie beim Runenzirkel vor dem Heiligen Hain. }
+
+Plh_242 { Das mit Kendrick war brutal. Musste das sein? }
+
+Plh_243 { Was will Molvina von mir? }
+
+Plh_244 { Ich bin mit Kendrick aufgewachsen. Wir waren fast wie Brüder ... aber Gesetz ist Gesetz. Und es ist wichtig, dass das für alle gilt. }
+
+Plh_245 { Du bekommst deinen Runenstein. Hast es dir verdient. Lass sie lieber nicht warten. }
+
+Plh_247 { Aber er hat es für Nemeton getan? }
+
+Plh_248 { Er war einer von Nemeton. }
+
+Plh_249 { *schaut zu Boden* Ich verstehe es. Aber wenn Molvina nicht durchgreift, macht hier jeder, was er will. Kendrick wusste, was passiert, und er hat es trotzdem getan. Molvina hat es nicht gerne getan, aber sie musste es tun. }
+
+Plh_250 { Ich war beim Holzfällerlager. Alle waren tot. Ich konnte ihnen nicht mehr helfen. }
+
+Plh_251 { So ein Scheiße. Das kann doch nicht wahr sein. Wie konnte das passieren? }
+
+Plh_252 { Ein riesiges Baumwesen war dort, die Holzfäller hatten keine Chance. }
+
+Plh_253 { Cengiz hat das nicht verdient. Er war einer von den Guten. Danke das du es mir gesagt hast. }
+
+Plh_254 { Hier sind ein paar Münzen. Wir müssen jetzt schauen wie es weiter geht. }
+

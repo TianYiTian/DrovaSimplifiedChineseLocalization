@@ -1,0 +1,53 @@
+Plh_5 { Na, neues Gesicht hier unten. }
+
+Plh_6 { Hier ist das Bett. Kostet dich nur $GVAR:EVars_Blanda.PriceBed$ Münzen. }
+
+Plh_7 { Gut, zeig mir das Bett. }
+
+Plh_8 { Nein, ich bin gar nicht müde. }
+
+Plh_9 { Wie du meinst. Irgendwann wirst du aber müde werden, komm dann noch mal zu mir, wenn du das Bett willst. }
+
+Plh_10 { Gut, hier. ($GVAR:EVars_Blanda.PriceBed$ Münzen geben) }
+
+Plh_11 { Ich hab's mir anders überlegt und brauche gerade kein Bett. }
+
+Plh_12 { Schon richtig. Schlafen kannst du überall. Aber glaub mir eins - hast du in einem ORDENTLICHEN Bett geschlummert, wachst du viel erholter auf. }
+
+Plh_13 { Was, bezahlen? Hier ist doch alles voll mit Betten. }
+
+Plh_14 { Jetzt sind wir extra hierher gelatscht, ich habe dir alles gezeigt und erklärt und dann ... }
+
+Plh_16 { Ich gebe dir dafür $GVAR:EVars_Blanda.HalfPriceBed$ Münzen. }
+
+Plh_17 { Gut bezahlter Schlaf ist der beste Schlaf! }
+
+Plh_25 { Willst du mich verarschen? Du hast doch nicht genug! }
+
+Plh_26 { Willkommen bei uns. Hier musst du nur wissen, dass nichts wichtiger ist als guter Schlaf, und den bekommst du in einem guten Bett. Gerade eben ist ein Schlafplatz freigeworden. Wie für dich gemacht. }
+
+Plh_27 { Das ist aber mal ein glücklicher Zufall ... }
+
+Plh_28 { Wo ist dieses Bett? }
+
+Plh_29 { Und wo ist der Haken? }
+
+Plh_30 { Nicht wahr? *grinst* }
+
+Plh_31 { Es ist gleich da vorne. }
+
+Plh_32 { Haken? Du willst pennen, ich hab ein Bett. Wo soll da der Haken sein? }
+
+Plh_33 { Niemand hier unten kann dir ein bequemeres Bett anbieten. Niemand sonst kann dir ÜBERHAUPT ein Bett anbieten. }
+
+Plh_34 { ... DANN fällt dir ein, dass du nicht willst? Entweder bist du schon so müde, dass du verwirrt bist oder ... du bist einfach verwirrt. Deine letzte Chance, sonst gebe ich es jemand anderes. }
+
+Plh_35 { Oder wälz dich halt auf einem labberigen Strohhaufen rum. Besser als nichts, aber wenn du dich richtig erholen willst, kauf dir ein Bett. }
+
+Plh_39 { Vergiss es. Und hör auf, meine Zeit zu verschwenden! }
+
+Plh_46 { Alles klar, komm mit. }
+
+Plh_47 { Willst du es? Dann geb ich es dir. }
+
+Plh_48 { Dann verschwende meine Zeit auch nicht. }

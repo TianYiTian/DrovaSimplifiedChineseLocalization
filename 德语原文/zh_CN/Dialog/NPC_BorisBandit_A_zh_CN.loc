@@ -1,0 +1,92 @@
+Plh_4 { Hey, da! Du auf dem Weg hier! Allein unterwegs? GANZ allein? Mutig ... ist gefährlich hier. }
+
+Plh_6 { *grunzt* Jo. Wurde grün und blau verdroschen. Aber kann schon wieder humpeln, hab ich gehört! }
+
+Plh_8 { Hm, nee. }
+
+Plh_10 { Ich bin auf dem Weg nach Nemeton. }
+
+Plh_11 { Ich will hier keinen Ärger ... }
+
+Plh_12 { Geht euch nichts an. }
+
+Plh_15 { Ah, Nemeton. Wie gefährlich! Da wurde doch letztens jemand überfallen, oder, Jimmy? }
+
+Plh_16 { Aber hast Glück gehabt. Wir haben dich gefunden. Du willst doch sicher unsere Hilfe, um sicher nach Nemeton zu kommen. }
+
+Plh_17 { Ärger? Bekommst du doch nicht. Hier alleine rumzulaufen kann sehr gefährlich sein. }
+
+Plh_18 { Ist gefährlich hier. Ich nenn's das Todesmoor! }
+
+Plh_19 { Und ob uns das was angeht, du Schisser. }
+
+Plh_20 { Beruhig dich, Jimmy. Bin sicher, das war nicht böse gemeint. Wäre ziemlich doof, böse zu sein, wenn man allein zum Moor will. Das wäre, als würde man Feinde anlocken ... }
+
+Plh_21 { Ich brauche keine Hilfe. }
+
+Plh_22 { Danke, die kann ich brauchen. }
+
+Plh_23 { Wir sind nur hier, um dich zu warnen und dir zu helfen. Denn im Moor ist ein böses, böses Wesen. Es greift arme und unschuldige Leute an ... also Leute wie dich! }
+
+Plh_24 { Ganz einfach. Musst nur dem Weg weiter folgen, und dann bist du dort. }
+
+Plh_25 { *grunzt* Ja, einfach nur dem Weg folgen. }
+
+Plh_26 { Es kann Münzen riechen, dieses Wesen. Je mehr jemand rumträgt, desto aggressiver wird es. }
+
+Plh_27 { Das klingt übel. Könnt ihr mir irgendwie helfen?! }
+
+Plh_28 { Ein Glück, dass ich keine Münzen bei mir habe. }
+
+Plh_29 { Hö? Das soll ich glauben? So ein Monster gibt es nicht. Lasst mich passieren. }
+
+Plh_30 { Das Einzige, was hier passiert, ist, dass du die Münzen rüberwachsen lässt. Wir wissen von Boris, dass du sie hast. }
+
+Plh_31 { Wir sind zu dritt. Uns würde das Monster nicht angreifen. Dich schon. Wir sind auch gerade auf dem Weg nach Nemeton. Gib uns deine $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ mit, und wenn wir uns dort treffen, geben wir sie dir zurück. }
+
+Plh_32 { Wie, keine Münzen? }
+
+Plh_34 { Na gut ... scheint für mich die sicherste Lösung zu sein ($GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen übergeben). }
+
+Plh_35 { Woher wisst ihr, dass ich $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen habe? }
+
+Plh_36 { Ich habe keine Münzen bei mir. }
+
+Plh_37 { *schnuppert* Hä? Ich kann's fast riechen. Du hast $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen. }
+
+Plh_38 { Jimmy weiß genau, wenn jemand lügt. Warum belügst du uns denn? Wir wollen doch nur helfen! }
+
+Plh_39 { Jimmy hat einfach eine Nase dafür. Er hat sich noch nie geirrt. }
+
+Plh_40 { *grunzt* Noch nie! }
+
+Plh_41 { Sehr gut. Du kannst einfach dem Weg folgen und kommst nach Nemeton. Wir machen hier noch ein bisschen Pause. Wenn die Sonne aufgeht, kommen wir nach. Dann bekommst du deine Münzen zurück. Wir sehen uns. Und lass dich nicht trotzdem von irgendwas zerfetzen. }
+
+Plh_42 { *grunzt* Pass auf dich auf! }
+
+Plh_43 { Das sind keine $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen. Schau genauer ... }
+
+Plh_44 { *zieht Rotz hoch* Böse, ja. Bööööse! }
+
+Plh_45 { Wir passen auf die Münzen auf, als wären sie unsere eigenen! *schnieft* }
+
+Plh_46 { Genau. Wir sind zuverlässig und vertrauenswürdig. Sieht man doch, oder? }
+
+Plh_47 { Und deswegen wissen wir auch, dass du $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen bei dir hast. Wir machen uns große Sorgen um dich, weißt du? Das ist gefährlich! }
+
+Plh_48 { *reibt sich am Arm* Ist ja gut, hast gewonnen ... }
+
+Plh_49 { Verschwinde. Wir haben, was wir wollten. }
+
+Plh_50 { Bis in Nemeton dann. Wir warten am Eingang. }
+
+Plh_52 { Woher wusstet ihr von den Münzen? }
+
+Plh_54 { Haben wir irgendwo halt gehört ... }
+
+Plh_56 { Schon gut ... *stöhnt* }
+
+Plh_57 { Noch mal entkommst du uns nicht! }
+
+Plh_60 { Genug mit dem Scheiß. }
+

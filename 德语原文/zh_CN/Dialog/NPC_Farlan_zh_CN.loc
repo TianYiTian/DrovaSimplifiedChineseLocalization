@@ -1,0 +1,226 @@
+Plh_0 { (...) }
+
+Plh_1 { Hey! }
+
+Plh_3 { Mit dem falschen Fuß aufgestanden? }
+
+Plh_5 { Ich will doch nur ... }
+
+Plh_6 { Gibst du mir deine Stimme für Eugen? }
+
+Plh_7 { *er ignoriert dich* }
+
+Plh_10 { Lass mich trainieren, sonst setzt es was. }
+
+Plh_11 { HAU! AB! }
+
+Plh_12 { Ich geb dir gleich meine Faust! }
+
+Plh_13 { Hey, du. Kannst die Waffe halten, ohne umzufallen? Nicht schlecht. }
+
+Plh_14 { Hast mir bewiesen, dass du Kraft hast. Aber keine Technik. Vielleicht mach ich für dich 'ne Ausnahme und teste, ob du talentiert bist. Den ein oder anderen Trick kann ich dir zeigen. Wenn du dich nicht dumm anstellst. }
+
+Plh_15 { Ach, JETZT redest du also mit mir? }
+
+Plh_16 { Ich will mir von dir Schwertkampf beibringen lassen. }
+
+Plh_17 { Gibst du mir deine Stimme bei Eugen? }
+
+Plh_18 { Ich hab's schon drauf, oder? *grinsen* }
+
+Plh_19 { Ich quatsche halt nicht mit allen, die hier aufschlagen. Trottel kosten nur Zeit und können mir nicht den Rücken freihalten. Hab lieber Kämpfer um mich. }
+
+Plh_21 { Wächst dir immer alles direkt zu Kopf? Du hast TALENT, kein KÖNNEN. Blas dich nicht so auf, du Wicht. }
+
+Plh_22 { Hast was auf dem Kasten. Werde ich auch Eugen sagen, dass ich dich unterstütze. Ich bin sicher, wir sehen uns noch ... }
+
+Plh_25 { Lass mich trainieren. }
+
+Plh_26 { *keucht* Wahnsinn. Hast mich einfach umgehauen. Du Wicht hast MICH umgehauen. Das hatte ich lange nicht mehr ... }
+
+Plh_27 { Bereit für ein gemeinsames Training? }
+
+Plh_28 { *ignoriert dich* }
+
+Plh_29 { Laber mich nicht zu. }
+
+Plh_30 { Ich stehe hier Schmiere. Und du siehst aus, als würdest du bald im Stehen einschlafen. Ruh dich besser aus. }
+
+Plh_31 { Ich mache mich schon mal warm. }
+
+Plh_32 { Kennst mich nicht? Bin Farlan. Ich trainiere hier. Und zwar jetzt gerade. Geh weg. }
+
+Plh_33 { Hmpf. Nemeton. }
+
+Plh_37 { Keine Zeit zu verlieren! }
+
+Plh_38 { Ich bin nicht dumm! }
+
+Plh_39 { *grinst* Oh doch, das bist du. Aber keine Panik, du kannst dich ändern. }
+
+Plh_41 { Komm zu mir, wenn du trainieren willst. Zusammen werden wir die besten Kämpfer in ganz Drova! }
+
+Plh_42 { Freue mich jetzt schon darauf, dich nach der Expedition ... wiederzusehen. *zieht die Augenbrauen hoch* }
+
+Plh_43 { Spar dir deine große Klappe und sieh zu, dass du mit allen Körperteilen zurückkommst! Vor allem mit einem! *zwinkert* }
+
+Plh_44 { Was soll mir schon passieren. Ich bin der Beste! Und Eugen weiß auch, was er tut. }
+
+Plh_45 { Du Held! }
+
+Plh_46 { Werde ich sein! }
+
+Plh_47 { Wir verlassen uns auf Eugen. }
+
+Plh_51 { Jeder in diesem verdammten Lager wird sich an meine Taten erinnern. *grinst breit* }
+
+Plh_52 { *hält Geras Hüfte mit seinen Händen fest* Dann hat sich der Göttliche manifestiert. Hättest Darwin sehen sollen, der hat sich fast eingeschissen. }
+
+Plh_53 { *legt die Arme um Farlans Hals* Jetzt lach ihn nicht aus. Nicht jeder kann so mutig sein wie du. *kichert* }
+
+Plh_54 { Dann ist alles dunkel geworden und ... wir wurden angegriffen. Von ... allem. Als wollte der Wald selbst den Göttlichen beschützen. Aber wir waren stärker. }
+
+Plh_55 { Und ... der Göttliche? Wer hat ihn besiegt? }
+
+Plh_56 { Wir haben sein Gekreuch abgemurkst, er war geschwächt ... und dann hab ich den Großen Keiler ... klein gemacht. }
+
+Plh_57 { *drückt ihm einen Kuss auf die Wange* }
+
+Plh_58 { Jemanden wie dich könnten wir hier gebrauchen. Aber ich muss dich erst testen. Kämpf mit mir! }
+
+Plh_59 { Warte! Nicht jetzt. }
+
+Plh_60 { Dir werd ich's zeigen. }
+
+Plh_61 { Im Eifer des Gefechts wartet auch niemand auf dich! Zieh deine Waffe! }
+
+Plh_62 { Das wollen wir noch sehen. }
+
+Plh_63 { Nicht schlecht. Ich hab dich zwar plattgemacht, aber du hast wenigstens die Eier gehabt, gegen mich zu kämpfen. }
+
+Plh_64 { *keucht* Du ... du hast mich einfach umgehauen. }
+
+Plh_65 { Was bist'n du für'n Schisser? Mit solchen Leuten kann ich nichts anfangen. }
+
+Plh_66 { Und wenn ich dich jetzt besiege? }
+
+Plh_68 { Du legst es wirklich drauf an? Na dann los! }
+
+Plh_69 { Hau ab, Schisser. }
+
+Plh_70 { Ich will mich noch mal mit dir kloppen. Diesmal zeig ich's dir. }
+
+Plh_71 { Bin immer bereit, 'ne Tracht Prügel zu verteilen. }
+
+Plh_72 { Hey, $GVAR:EVars_Player.Name$. Na, bereit für morgen? *grinst* }
+
+Plh_73 { Erhol dich. Wenn du beim Kampf gegen den Großen Keiler einschläfst, reißt Eugen dir die Eier ab, bevor der Göttliche dazu kommt. }
+
+Plh_74 { Wir holen uns morgen den Ruhm, der uns zusteht. }
+
+Plh_75 { Jederzeit! }
+
+Plh_81 { Kannst froh sein, dass wir dich mitgenommen haben, $GVAR:EVars_Player.Name$! }
+
+Plh_83 { Als ich neu im Ruinenlager war, musste ich ewig lange Wache schieben, bis mich Eugen auf 'ne Expedition mitgenommen hat. }
+
+Plh_84 { Vielleicht hättest du Wache bleiben sollen. }
+
+Plh_85 { Und jetzt bist du immer auf Expeditionen dabei? }
+
+Plh_86 { *grinst* Finde ich gut, dass du dir nicht alles gefallen lässt. So könnten wir ja fast Freunde werden! }
+
+Plh_87 { Nicht immer. Aber ziemlich oft. }
+
+Plh_88 { Aber jetzt sollten wir uns ausruhen. Könnte erst mal die letzte Gelegenheit dazu sein. }
+
+Plh_89 { Eugen, was soll das? Wir haben den Göttlichen besiegt! Und du ziehst den Schwanz ein und haust einfach ab? }
+
+Plh_90 { Hast du nicht irgendwas anderes zu tun? Eugen und ich brauchen einen Moment. }
+
+Plh_91 { Wir reden später. Ich muss was klären. }
+
+Plh_92 { Ach, halt doch die Klappe, Farlan. Ich will mich einfach in Ruhe besaufen. }
+
+Plh_93 { (dazusetzen) Reiß dich zusammen, Eugen! Die Freiheit ist nah. Hast du selbst gesagt. }
+
+Plh_94 { Lass ihn in Ruhe, Farlan. }
+
+Plh_96 { Jero wird zufrieden sein. Ihr könnt stolz auf euch sein. }
+
+Plh_97 { Du solltest auch stolz auf dich sein. }
+
+Plh_98 { Stolz? Auf Lindons Tod? Noch jemanden, der sein Leben unter meinem Kommando gelassen hat? }
+
+Plh_99 { Er wusste, dass das passieren könnte, und er hat dir vertraut. Wir auch - und wir sind heil nach Hause gekommen. Dank dir. }
+
+Plh_100 { Ich hätte sterben sollen. Nicht Lindon. }
+
+Plh_101 { Eugen, das gehört dazu, ein Kommando zu haben ... }
+
+Plh_102 { Ich saufe allein weiter. (Gespräch beenden) }
+
+Plh_103 { Ich gehe. (Gespräch verlassen) }
+
+Plh_104 { Endlich lässt du mich in Ruhe ... }
+
+Plh_105 { Was geht dich das an? Wie lange bist du schon hier, hä? Lass uns das hier unter uns klären und hau ab. }
+
+Plh_106 { Lass uns allein. Wir haben noch was zu klären. }
+
+Plh_107 { Moment, hast du nicht immer behauptet, dass auf deinen Expeditionen vorher noch nie jemand gestorben ist? }
+
+Plh_108 { ICH WILL NICHT DARÜBER REDEN. }
+
+Plh_109 { Wie lange kennen wir uns schon? Kannst du mir nicht vertrauen? }
+
+Plh_110 { Mit Vertrauen hat das nichts zu tun. }
+
+Plh_111 { *schaut in sein Bier* Es war damals in Nemeton ... }
+
+Plh_112 { Das macht Lindons Tod weder schlimmer noch besser, Eugen. }
+
+Plh_113 { Aber es ist NOCH ein Tod! Wegen mir! }
+
+Plh_115 { Nicht wegen dir. Wegen Drova! Deswegen wollen wir von hier weg! Für die Freiheit! }
+
+Plh_116 { Du hast alles getan, was du konntest. }
+
+Plh_118 { Lindon hat mir vertraut. Und nun ... }
+
+Plh_119 { Ich lasse dich nicht allein, Eugen. *nickt dir unauffällig zu* }
+
+Plh_120 { Denk daran, wofür er gestorben ist. (gehen) }
+
+Plh_121 { Dann lass seinen Tod nicht umsonst gewesen sein. (gehen) }
+
+Plh_122 { ... }
+
+Plh_123 { Er ist für unsere Freiheit gestorben. So wie du mit uns für sie gekämpft hast. }
+
+Plh_124 { Jemand, der mir viel bedeutet hat, ist auf meiner Expedition gestorben. }
+
+Plh_125 { Du bist der stärkste Kämpfer in Drova. }
+
+Plh_126 { Sorge einfach dafür, dass so etwas nie wieder passiert! (gehen) }
+
+Plh_127 { Stärke ... die nicht ausreicht, meine Leute zu beschützen. }
+
+Plh_128 { ... nun lasst mich endlich allein. }
+
+Plh_129 { *stöhnt* Töte mich, bitte. }
+
+Plh_130 { Hätte nicht gedacht, dass du in der Feuertaufe als Letzter noch stehst. Nicht schlecht. }
+
+Plh_131 { Du hast dich der Feuertaufe gestellt und ordentlich aufs Maul bekommen. Aber so läuft das hier. Willkommen bei uns. *grinst* }
+
+Plh_132 { Du kleiner Schisser bist einfach von der Feuertaufe abgehauen. }
+
+Plh_133 { Ich bringe nur Kämpfern vom Ruinenlager was bei. Wenn du was lernen willst geh zu den Kämpfern der Arena. Für Münzen bringen die dir was bei. }
+
+Plh_134 { Hab mich wohl in dir getäuscht. Sahst für mich aus wie irgendein Schwächling, der mich nur beim Training nervt. }
+
+Plh_136 { Diese verdammte Gera hat ein paar Schläge nötig gehabt. }
+
+Plh_138 { Eugen erwartet dich. }
+

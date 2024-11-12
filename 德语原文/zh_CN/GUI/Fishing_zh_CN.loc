@@ -1,0 +1,2 @@
+FishingTutorial { Versuche, mit der oberen Nadel auf der blauen Fläche zu bleiben.<br>$INPUT:Lockpick_Left$: Nadel nach links bewegen.<br>$INPUT:Lockpick_Right$: nach rechts bewegen.<br>Sobald der grüne Balken voll ist, hast du den Fisch gefangen. Füllt sich der rote Balken, entkommt der Fisch. }
+

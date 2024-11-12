@@ -1,0 +1,18 @@
+Title { Reichtum }
+
+Entry_01 { Hansi und Gawan waren auf den Weg nach Nemeton und wurden von Reißern angegriffen. Dabei wurde Hansi von den Reißern getötet. Damit ist auch die wertvolle Ware verloren: ein gelber Glyphenstein. Gawan möchte, dass ich ihm den Stein bringe, damit er ihn in Nemeton verkaufen kann. Gawan wird den Gewinn mit mir teilen und verspricht, dass wir beide reich werden. }
+
+Entry_02 { Ich habe Gawan den Glyphenstein gegeben. Er will Richtung Nemeton aufbrechen, um ihn dort zu verkaufen. Münzen, Münzen, Münzen! }
+
+Entry_03 { Gawan hat die Münzen für den Glyphenstein für Schafe ausgegeben und verspricht, dass sich meine Münzen durch das Geschäft mit Schafen verdoppeln werden. Er will von mir $GVAR:QuestVars_RipperAmbush.SheepCosts$ Münzen haben. }
+
+Entry_04 { Ich bin jetzt im Schafgeschäft mit drin. Gawan meinte, dass wir bald in Münzen schwimmen. }
+
+Entry_05 { Mit Fröschen, die das Moor absuchen, will Gawan unsere Münzen VERDREIFACHEN! Wenn ich einsteigen will, muss ich ihm $GVAR:QuestVars_RipperAmbush.YCosts$ Münzen geben. }
+
+Entry_06 { Ich bin dabei! Gawan möchte bald in der Nähe von Georgs Hof mit der Suche anfangen. Hoffentlich lohnt es sich. }
+
+Entry_07 { Ich habe meinen Anteil der Münzen bekommen, Gawan hatte recht. }
+
+Entry_Exit { Ich habe mich gegen ein Geschäft mit Gawan entschieden. }
+

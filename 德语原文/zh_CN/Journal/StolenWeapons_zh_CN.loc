@@ -1,0 +1,52 @@
+Title { Die verschwundenen Waffen }
+
+Entry_00 { Anscheinend verschwinden in Nemeton in letzter Zeit Waffenlieferungen. Die von gestern auch. Wenn ich in Nemeton aufgenommen werden will, kann ich mich dabei beweisen. Kendrick aus Nemeton ist wohl mit der Aufklärung der Sache betraut. }
+
+Entry_0B { Kendrick ist nicht gerade gut auf mich zu sprechen. Er verdächtigt Palina, die Waffen gestohlen zu habe. Palina bewacht das westliche Tor. }
+
+Entry_01 { Palina behauptet, dass Kendrick nur etwas gegen sie hat, weil sie früher beim Ruinenlager war. Sie beteuert, dass sie nichts damit zu tun hat und dass die Waffen im Lagerhaus bei den Händlern sein sollten. Fia ist die Anführerin der Händler und kümmert sich um das Lager. Sie steht meistens beim großen Lagerraum und ist für die Waren zuständig. }
+
+Entry_01_A { Alle Lieferungen werden in einer Warenliste festgehalten, aber Fia will nicht mit mir sprechen. Ich muss irgendwie anders an die Warenliste kommen, um zu sehen, ob die Waffen im Lager sind. }
+
+Entry_01_C { Willi gehört zu den Händlern und scheint mehr über die Waffenlieferung zu wissen, will mir aber die Information nicht umsonst geben. Wenn ich für ihn das Zeug von dem Wagen in die richtigen Kisten lade, will er mir helfen. }
+
+Entry_02 { Anscheinend wurden keine Waffen geliefert. Das bedeutet, dass die Handwerker sie nicht verschickt haben. Ich sollte mich mal bei den Handwerkern umhören. }
+
+Entry_03 { Rura sagt, dass die Lieferung bei den Handwerkern rausgegangen ist, aber jemand von Junalis Leuten soll sie ausgeliefert haben. Junali selbst sollte mehr darüber wissen. Sie lässt gerade am Tor im Nordosten die Palisaden ausbauen. }
+
+Entry_04 { Als ich mit Junali gesprochen habe, konnte sie mir nur sagen, dass es einer ihrer Arbeiter erledigt haben muss. Für sie arbeiten Aiko, Kellan und Mumme. }
+
+Entry_04B { Junali war ziemlich angepisst, dass ich ihren Posten nicht gehalten habe. Von ihr werde ich wohl keine Informationen mehr kriegen. }
+
+Entry_05 { Nachdem ich Mumme auf die Sache angesprochen habe, ist er sofort geflohen. Hinterher! }
+
+Entry_05_A { Als ich Mumme gestellt habe, sagte er, dass er die Waffen sicher bei Henik abgegeben hat. Henik ist meistens im Ausschank bei Bonny zu finden. }
+
+Entry_05_AA { Bonny meinte, Henik hat Nemeton Richtung Westen verlassen und wollte südlich von Nemeton ins Moor. }
+
+Entry_06 { Ich konnte mich endlich im Lagerhaus von Fia genauer umsehen und habe dort verdächtig viele rote Haare in der Nähe der Waffen gefunden. }
+
+Entry_06B { Fia hat gesagt, dass sie genau drei Arbeiter hat, die rote Haare haben: Swenn, Enya und Harvey. }
+
+Entry_07 { Enya hat zwar rote Haare, aber ein wasserdichtes Alibi. Sie meinte, Swenn finde ich meistens beim Lager und Harvey in seiner Hütte hinterm Bettenhaus. }
+
+Entry_08 { Swenn hat rote Haare, aber er hat ein Alibi. Er meinte, er hat Harvey letztens mit Jennifer im Garten östlich vom Handwerksviertel gesehen. }
+
+Entry_08_A { Humbert meinte, dass Harvey und Jennifer sich öfter am Teich südlich im Garten getroffen haben. }
+
+Entry_09_A { Harveys Hütte wurde auf den Kopf gestellt, aber ich habe einen Zettel gefunden, in dem eine Luke erwähnt wird, die sich im verlassen Viertel östlich von Nemeton befinden soll. }
+
+Entry_09_B { Ich habe einen seltsamen Schlüssel im Garten gefunden. }
+
+Entry_09 { Ich bin Kendricks heißer Spur auf den Grund gegangen und wurde dort angegriffen. Der Angreifer hatte einen seltsamen Schlüssel und einen Brief bei sich. Irgendwas mit einer Luke hinter einem kaputten Gebäude. }
+
+Entry_09B { Kendrick hat mich angesprochen und mir gesagt, dass sich eine Person gemeldet hat, die möglicherweise Informationen hat. Ich soll diese Person im verlassenen Viertel treffen, östlich in Nemeton. }
+
+Entry_10 { Harvey hat die Waffen unter Druck von Kendrick mitgehen lassen. Aber er zweifelt daran, ob es die richtige Entscheidung war. Ich habe ihn überzeugt, mich zu dem Versteck zu bringen. Ich muss mich selbst davon überzeugen. }
+
+Entry_11 { Bei dem Versteck war Harveys Kollegin Jennifer, und auch sie wollte schon länger mit dem Schmuggel aufhören. Als Kendrick uns überraschte, ließen wir die Fäuste schwingen. Angus muss erfahren, dass Kendrick der Verräter ist. }
+
+Entry_12 { Ich habe Angus davon erzählt und kann mich anschließen. }
+
+Entry_0C { Ich will Nemeton beitreten, aber Angus hat keine Zeit für mich. Er sagt, neue Anwärter müssen sich erst bewähren. }
+

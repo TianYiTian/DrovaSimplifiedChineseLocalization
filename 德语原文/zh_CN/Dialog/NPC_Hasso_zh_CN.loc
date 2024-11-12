@@ -1,0 +1,244 @@
+Plh_4 { Hey, was gibts? }
+
+Plh_5 { Hey, du da. Endlich bist du wach. }
+
+Plh_6 { Wir arbeiten heute zusammen. Dachte, ich lass dich noch etwas pennen, du wirst die Kraft brauchen. Ich bin Hasso. }
+
+Plh_7 { Weiß nicht. Also, in 'ner Höhle, klar. Aber ich weiß nicht, welche. Die führt in eine Ruine der Vergangenen runter. Aber keine Ahnung, was das hier früher war. }
+
+Plh_8 { Wo ... wo bin ich hier? }
+
+Plh_9 { Mein Schädel ... was ist passiert? }
+
+Plh_10 { Die haben dich hergeschleift. Bist ziemlich lädiert. Ich hab deine Wunden ein bisschen versorgt, aber ein Heiler könnte das natürlich besser ... }
+
+Plh_11 { Hast wohl mit dem Falschen gesoffen. Das war jedenfalls mein Fehler. Der gehört zu den Leuten hier und hat uns verarscht ... }
+
+Plh_12 { Wir arbeiten zusammen? Was? }
+
+Plh_13 { Ich hab erst mit Rulf gearbeitet, aber der ist von einer Gerölllawine in die Tiefe mitgerissen worden. Seitdem schufte ich allein. Schön, dass ich jetzt wieder Gesellschaft habe. }
+
+Plh_15 { ... Gerölllawine? }
+
+Plh_16 { Was passiert hier in der Höhle? }
+
+Plh_17 { Deckenbruch, Steinschlag, Gerölllawine. Ging ganz schnell, der konnte nicht mal schreien, weil sein Maul voller Kiesel war. Tja. }
+
+Plh_18 { Sagen sie nicht. Die suchen was, und wir müssen ihnen alles zeigen, was wir finden. Aber sie verraten nicht, was sie eigentlich wollen. }
+
+Plh_19 { Wir müssen los. Die warten nicht gern. Komm. }
+
+Plh_20 { Wo sind meine ganzen Sachen?! }
+
+Plh_21 { *nicken* }
+
+Plh_22 { Ich werde hier nicht arbeiten. }
+
+Plh_23 { Haben die schon verkauft. Lass uns später reden, sonst gibt's Ärger ... }
+
+Plh_24 { Gute Idee, solltest du denen auch sagen. Dann schmeißen sie dich direkt ins nächste Loch und ich muss mich gar nicht erst an deine Gesellschaft gewöhnen. }
+
+Plh_25 { Wenn du leben willst, dann fang lieber an zu kloppen. }
+
+Plh_26 { *lächelt* Danke, Bruna. Ohne dich wäre ich schon längst eingeklappt ... Schau mal, ich muss nicht mehr alleine buddeln. Das ist ... }
+
+Plh_28 { Bist spät dran, Hasso. Aber ich hab noch was für dich aufgehoben. }
+
+Plh_29 { *zwinkert* Extra viel Fett, damit du was auf die Rippen bekommst. }
+
+Plh_31 { *seufzt* Schön für Hasso, dass er nicht mehr alleine buddeln muss, aber scheiße für dich, dass sie dich auch verschleppt haben ... }
+
+Plh_32 { Hier, dein Essen. Ich kann immer nur ein paar Reste verkochen, aber immerhin verhungerst du nicht. Noch nicht. }
+
+Plh_33 { Wo genau sind wir hier? }
+
+Plh_34 { Wie bist du hier her gekommen? }
+
+Plh_35 { Danke. }
+
+Plh_36 { Irgendwo unter dem Moor. Mehr weiß ich nicht. }
+
+Plh_37 { Ich glaube, wir sind alle hier auf eine ähnliche Weise gelandet ... }
+
+Plh_38 { Lass uns später darüber reden. Wir müssen los, sonst bekommen wir Ärger mit dem Boss. Danke für das Essen. }
+
+Plh_39 { Ja, beeilt euch. }
+
+Plh_40 { Boss, bin da. }
+
+Plh_41 { Ich heiße $GVAR:EVars_Player.Name$. }
+
+Plh_43 { Äh ... hast du mir eigentlich schon gesagt, wie du heißt? }
+
+Plh_47 { Ich hab wie befohlen $GVAR:EVars_Player.Name$ mitgebracht. }
+
+Plh_48 { Ich hab noch wen dabei. Wie befohlen. }
+
+Plh_49 { Gut, dann werden wir ja hoffentlich schneller vorankommen. }
+
+Plh_50 { Du hattest eine Rüstung von den Nemeton-Spinnern an. Gut für uns, jetzt haben wir sie und können uns da reinschleichen, haha! }
+
+Plh_51 { Hattest kaum was dabei, was von Wert ist. Hoffentlich hast du wenigstens zwei starke Hände. }
+
+Plh_52 { Gib mir mein Zeug wieder! }
+
+Plh_53 { Das wirst du bereuen ... }
+
+Plh_55 { Na klar, und die Vergangenen stehen wieder auf, um uns zu dienen? }
+
+Plh_56 { Ich erkläre dir, wie es hier läuft. Wir drücken dir einen Bronzehauer in die Hand, und du wirst den Weg da freimachen. Wenn du nicht spurst, setzt es Gewalt. }
+
+Plh_60 { *nicken* }
+
+Plh_62 { Das heißt "Verstanden, Boss". }
+
+Plh_63 { Verstanden, Boss! }
+
+Plh_64 { Zuhause nennt dich niemand Boss, oder? }
+
+Plh_65 { Jaja, hab's verstanden. Jetzt gib mir die Scheißhacke. }
+
+Plh_66 { Dann werden wir mal sehen, ob du so gut kämpfst, wie du Sprüche reißt! }
+
+Plh_68 { Hier ist dein Bronzehauer. Lanzo, guck dass die hier ordentlich vorankommen. An die Arbeit! }
+
+Plh_75 { Pass auf dich auf. Es wird sicher gefährlich. }
+
+Plh_78 { Wir haben es geschafft! Wir haben es wirklich geschafft! Endlich wieder frische Luft. }
+
+Plh_89 { Wir müssen hier ausbrechen! }
+
+Plh_90 { Psst! Sag so einen Scheiß bloß nicht laut. Alle, die das versucht haben, liegen irgendwo in der Tiefe ... }
+
+Plh_91 { Die suchen irgendwas in der Höhle. Wenn wir es gefunden haben, lassen sie uns laufen. }
+
+Plh_92 { Und das glaubst du wirklich? }
+
+Plh_93 { Quatsch. Wir müssen abhauen, sonst murksen die uns ab! }
+
+Plh_94 { Hat Lanzo gesagt. Dann brauchen sie uns nicht mehr. Was hätten sie davon, uns alle umzubringen ... }
+
+Plh_95 { Ja. Solange keiner von uns einen Unfall hat. }
+
+Plh_98 { Jetzt sei still! Wenn Lanzo das hört, ist es vorbei. Lass uns reden, wenn wir ungestört sind. }
+
+Plh_111 { Liam, mein Lieber, ich hoffe, du hast das gesehen ... }
+
+Plh_112 { Aber mein Rostmoos-Pfeifchen ... }
+
+Plh_113 { Und wir leben noch ... das kann man nur Glück nennen. }
+
+Plh_119 { Na, scheinst wieder zu Hause zu sein. }
+
+Plh_120 { Ich bin zurück! Und hier bleibe ich erst mal! Von mir aus muss ich nie wieder eine Höhle von innen sehen! }
+
+Plh_121 { Danke dir für deine Hilfe, ohne dich wäre ich tot. }
+
+Plh_137 { Achtung! Die Wache kommt! }
+
+Plh_138 { Verdammte Scheiße, nicht schon wieder eine Sackgasse. }
+
+Plh_139 { *flüstert* Schnell, pack alles weg! }
+
+Plh_140 { *schaut dich grimmig an* Du! Hast du was gefunden? Irgendwas MUSS hier doch sein. }
+
+Plh_141 { Nee, gar nichts. }
+
+Plh_142 { Nur den Raum da vorne, aber da ist nur Schutt. }
+
+Plh_143 { Hm. Und du, Hasso? Was gefunden? }
+
+Plh_144 { Gar nichts. }
+
+Plh_145 { Kein Wunder, dass sie vergangen sind, wenn sie so was für ihre TOTEN gebaut haben ... }
+
+Plh_148 { Wir werden frei sein. Auf in den Kampf! }
+
+Plh_149 { Wir folgen dir! }
+
+Plh_150 { Kann es kaum erwarten, es Lanzo heimzuzahlen! }
+
+Plh_151 { Ich will endlich wieder frei sein! }
+
+Plh_152 { Ich bin bereit für den Kampf. }
+
+Plh_153 { Wir werden siegen! }
+
+Plh_154 { Nicht während der Arbeit quatschen! }
+
+Plh_155 { Ruhe. Wir reden später. }
+
+Plh_156 { Wir müssen arbeiten, wir können nachher reden. }
+
+Plh_157 { Später, nach der Arbeit. Wir bekommen sonst Ärger. }
+
+Plh_167 { Deine Rüstung ... du bist einer vom Ruinenlager? Sonst fangen wir nur solche Bauern aus Nemeton oder Läufer auf. Bin gespannt, wie du dich bei der Arbeit schlägst. }
+
+Plh_168 { Dann müssen wir wohl, $GVAR:EVars_Player.Name$ ... }
+
+Plh_184 { Den ersten Tag hast du geschafft. Kannst dich einfach wieder hinhauen und schlafen. Da, wo du heute Morgen aufgewacht bist - ist jetzt dein Platz. Oben links. }
+
+Plh_186 { Ja, und ich weiß nicht, wie lange. Die suchen hier irgendein Artefakt. Stellen die ganze Höhle auf den Kopf. Wenn sie es haben, lassen sie uns frei ... ganz sicher ... }
+
+Plh_188 { Müssen wir beide jetzt immer zusammenarbeiten? }
+
+Plh_189 { Wirklich? Hoffentlich gibt er nicht auf ... wenn uns jemand retten kann, dann er. Ich hatte die Hoffnung schon aufgegeben ... danke. }
+
+Plh_190 { Georg sucht dich. }
+
+Plh_192 { Müssen wir jetzt die ganze Zeit in der Ruine arbeiten? }
+
+Plh_196 { Na ja, eure Schicht ist rum. Haut ab, ruht euch aus. Morgen geht's weiter. }
+
+Plh_197 { Hasso, was ist denn jetzt schon wieder?! }
+
+Plh_198 { An die Arbeit, zack zack! Hier wird nicht gelabert, hier wird gebuddelt! Ich kann auch selber im Dreck wühlen, aber dazu reiße ich dir die Knochen aus dem Leib und benutz die! }
+
+Plh_199 { Du haust die Trümmer zu Brocken. }
+
+Plh_200 { Was sagst du zu dem Raum, den wir gefunden haben? }
+
+Plh_201 { Die Vergangenen waren größere Baumeister als wir. Man drückt einen Stein in die Wand, und eine Tür geht auf? Ich verstehe nicht, wie so was funktioniert ... }
+
+Plh_202 { Hast du darin was gefunden? }
+
+Plh_204 { Ein paar Spruchrollen, ein paar Schriftstücke ... }
+
+Plh_205 { Hatte keine Zeit, alles abzusuchen. }
+
+Plh_206 { Wurde dann ja auch eng mit Mali. So viel Aufregung hatte ich hier unten schon lange nicht mehr! }
+
+Plh_208 { Verstanden. }
+
+Plh_209 { Ich will ein "Verstanden, Boss" hören! }
+
+Plh_210 { Ruh dich aus, bald haben wir eine Schicht. }
+
+Plh_211 { Ein Großmaul, was? Ich zeig dir mal, wie es hier läuft. }
+
+Plh_212 { Nein. Einen Scheißdreck mache ich. }
+
+Plh_213 { Ich ruhe mich kurz aus, und dann gehe ich zu Georg. Hätte nicht gedacht, noch mal die frische Luft genießen zu können. }
+
+Plh_214 { $GVAR:EVars_Player.Name$, der muntere Minenarbeiter. }
+
+Plh_215 { Schnauze jetzt. }
+
+Plh_216 { Dann bringst du die Brocken zum nächsten Abgrund und schmeißt sie rein. }
+
+Plh_217 { Dann wieder von vorne. Verstanden? }
+
+Plh_218 { Wir sollten uns hier kurz ausruhen, damit wir unbeschadet durchs Moor kommen. }
+
+Plh_219 { Ach Wind, das bisschen kann sie auch noch warten. }
+
+Plh_220 { Au, ah ... Die Pause brauche ich auch. Auch wenn ich mich schon freue, das Moor endlich hinter mir zu lassen. }
+
+Plh_221 { Wir haben es aus der Mine geschafft. Von hier wegzukommen, sollte kein Problem sein. Danke für alles $GVAR:EVars_Player.Name$, ohne dich wären wir da nie rausgekommen. }
+
+Plh_222 { Die werden es bereuen, uns jemals entführt zu haben! }
+
+Plh_224 { Die Wachen mögen es nicht, wenn wir reden. }
+
+Plh_225 { Lass mich in Ruhe. Ich will keinen Ärger. }
+

@@ -1,0 +1,26 @@
+SleepBuff { Ausgeruht }
+
+SleepBuffDescription { Erhöht dein Bewegungstempo um [MovementPercent]. }
+
+Poison { Vergiftung }
+
+PoisonDescription { Verlangsamt dein Bewegungstempo um [MovementPercent]. }
+
+Bleeding { Blutung }
+
+BleedingDescription { Du verlierst regelmäßig Lebenspunkte. }
+
+SleepBuff_T2 { Gut ausgeruht }
+
+Veil_Name { Schwarze Flamme }
+
+Veil_Desc { Du erleidest kontinuierlichen Schaden. }
+
+Intoxicated_Name { Betrunken }
+
+Intoxicated_Desc { Du nimmst alles etwas schwammiger wahr ... }
+
+NoFood_Name { Leerer Magen }
+
+NoFood_Desc { Iss etwas, um deinen Magen zu füllen. Mit vollem Magen regenerierst du mit der Zeit Lebenspunkte, wenn diese reduziert wurden. }
+

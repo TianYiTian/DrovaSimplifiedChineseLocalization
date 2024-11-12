@@ -1,0 +1,7 @@
+RipperHuntTitle { 想赚点钱的朋友们注意了！ }
+
+Text { <br>目前有一群更大的撕裂者正在肆虐，并杀害了我的羊。我已经失去了几只，正在寻找能解决这个问题的人。<br><br>杀死头领的奖励是$GVAR:QuestVars_HuntTheRippers_Config.Reward$金币。把那野兽的头带来给我，以证明你完成了任务。<br><br>请到吧台找我获取更多信息。<br><br>奥拉夫，酒馆老板 }
+
+HuntChapter3Title { 想赚点钱的都过来！<br> }
+
+Chapter3Text { <br>撕裂者的问题越来越严重了！我急需一个能对付这些怪物的战士。<br><br>谁能为我除掉这群野兽的首领，就可以赚到$GVAR:QuestVars_HuntTheRippers_Config.Reward$金币。把那头野兽的头颅带回来作为证明！<br><br>来吧台找我了解更多信息。<br><br>奥拉夫，酒馆老板 }

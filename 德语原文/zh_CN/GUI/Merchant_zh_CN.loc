@@ -1,0 +1,28 @@
+title_splitstack { Gegenstände aufteilen }
+
+popup_balanceMoney { Mit Münzen ausgleichen }
+
+popup_giveForFree { Bist du dir sicher, dass du nichts im Gegenzug dafür willst? }
+
+popup_valueAboveTrader { Dein Warenwert ist höher als der des Händlers.<br><br>Möchtest du ihm die Differenz schenken oder mit Münzen ausgleichen? }
+
+popup_valueAboveTrader_NoCurrency { Dein Warenwert ist höher als der des Händlers.<br><br>Möchtest du ihm die Differenz schenken? }
+
+popup_valueBelowTrader { Der Händler erwartet mindestens einen Ausgleich im Wert von $TRADEVAR:RightTableValue$ Münzen. }
+
+popup_generic { Willst du den Handel abschließen? }
+
+title { Handeln }
+
+Value { Warenwert }
+
+Spend { Schenken }
+
+Exchange { Tauschen }
+
+ExchangeOnly { Nur Tausch }
+
+Comment_NoCoins { Ich akzeptiere keine Münzen. }
+
+SellWholeStack { Itemstapel zum Handel hinzufügen/entfernen. }
+

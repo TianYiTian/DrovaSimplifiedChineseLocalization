@@ -1,0 +1,18 @@
+SearchingArena { Endlich ist es so weit! Die Arena im Ruinenlager ist wieder GEÖFFNET!<br><br>Wenn du in Nemetons Namen in der Arena zu Ruhm kommen willst, dann melde dich bei Angus.<br>Nur erfahrene Krieger! }
+
+Escort { An alle Krieger, die was auf sich halten:<br><br>Ich suche eine Person, die meine Wenigkeit sicher ins Ruinenlager bringt. Ohne irgendeinen Kratzer. Mit Schwächlingen kann ich nichts anfangen. Wenn du aufkreuzt und hast weder Kampfspuren im Gesicht noch eine riesige Waffe, geh lieber direkt wieder zu den anderen Kindern.<br><br>Aber wenn was darauf verstehst, einen effektiven Geleitschutz zu bieten und gute Münzen verdienen willst, dann komm zum Händlerviertel und sprich mich an.<br><br>Gezeichnet,<br><br>- Teigen }
+
+ButterfliesAllAround { An alle fähigen Kämpfer:<br><br>Ich suche jemanden, der mir im Heiligen Hain bei meiner Forschung hilft. Wer meinem Hilfegesuch nachkommt, soll es nicht bereuen.<br><br>- Der Bund der Druiden }
+
+Woodcamp { Die Brücke zu den Holzfällern ist repariert worden, und sie brauchen jetzt wieder unseren Schutz.<br>Wenn du dir ein paar Münzen verdienen willst, melde dich bei Gerdwin. }
+
+Graffiti { Nachts schleicht jemand rum, bemalt die Wände mit trügerischen Zeichnungen und verbreitet damit Lügen in Nemeton. <br>Zuletzt wurde der Steinkreis verunstaltet.<br><br>Wer den Übeltäter findet, bekommt eine Belohnung von $GVAR:QuestVars_Graffiti_Config.Reward$ Münzen.<br><br>- Gerdwin. }
+
+PlayWithKids { Die Erziehung von Nemetons Nachwuchs ist unsere gemeinsame Verantwortung. Daher ist es auch deine Aufgabe, etwas Zeit mit unseren Jünglingen Olga und Luten zu verbringen.<br>Es tut den Kindern gut, nicht immer nur mit der alten Druidin ihre Zeit zu verbringen. Triff uns in der Nähe von Humberts Garten und spiel mit ihnen Fangen oder Verstecken. <br><br>Nein, du bist dafür nicht zu alt!<br><br>- Helma. }
+
+Traps { An alle Jäger!<br>Da wir derzeit niemanden haben, der sich mit der Herstellung von Fallen auskennt, bezahle ich für drei Bärenfallen $GVAR:QuestVars_Traps_Config.Reward$ Münzen. Einfach zu mir bringen. <br><br>Gezeichnet,<br><br>- Chunnaic }
+
+Fishing { Es soll wieder Fisch geben!<br>Ich möchte gerne wieder für alle meine schöne Fischsuppe zubereiten, ist aber schwierig ohne Fisch. Daher suche ich jemanden, der im Apfelhain für mich angelt und mir Barsche bringt.<br>Eine leckere Fischsuppe gibt es als Belohnung.<br><br>- Dunja }
+
+BanditsOnTheBridge { An alle Krieger Nemetons:<br><br>Die Brücke zu den Holzfällern ist SCHON WIEDER unsicher. Läufer verschwinden, Lieferungen kommen nie an und genereller Unmut macht sich auch breit.<br>Wir brauchen sofort Krieger aus Nemeton, sonst verlieren wir wieder Leute.<br><br>Melde dich bei mir bei Georgs Hof. Am besten sofort!<br><br>- Delani }
+

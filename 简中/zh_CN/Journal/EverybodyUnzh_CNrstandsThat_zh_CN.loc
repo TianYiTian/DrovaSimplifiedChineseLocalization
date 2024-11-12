@@ -1,0 +1,15 @@
+Entry_01 { 奥尔加和卢滕需要卡拉皮尔菇的提取物来制作他们想送给海尔玛的护身符。亨伯特可以告诉我如何获得这种东西。我在内梅顿的东边找到了他，那里有很多植物。 }
+
+Entry_03 { 如果我想要提取物，我必须给亨伯特带来$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$个卡拉皮尔蘑菇。我应该在内梅顿外的沼泽地里找到它们。 }
+
+Entry_04_Wait { 我给了Mombert那些Callapilze。他需要一点时间，应该不会太久。.}
+
+Entry_04 { 我已经拿到了提取物。现在我只需要把它带给Olga和Luten。 }
+
+Entry_05 { Olga和Luten已经获得了Callapilz提取物，并成功制作了护身符。他们正在酒馆外等我，这样我们可以一起把护身符送给Helma。 }
+
+Entry_06 { 奥尔加和卢滕的礼物很受欢迎。 }
+
+Title { 一个给Helma的护身符 }
+
+Entry_07 { 火焰节已经结束了。 }

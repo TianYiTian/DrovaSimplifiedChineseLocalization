@@ -1,0 +1,20 @@
+Entry_01 { Jemand hat Asmus ein Paket geklaut, und ich soll es besorgen. Er hat keinen richtigen Verdacht, wer dahintersteckt. Ich sollte mich für ihn umhören. }
+
+Entry_02 { Afrin gibt zu, dass er weiß, wo das Paket ist. Er sagt mir aber nicht, wo. Ich muss es herausfinden. }
+
+Entry_03A { Ich habe Afrin überzeugt, mit Asmus zu reden. Er hat mir gesagt, dass ich das Paket im Apfelhain bei dem Baum neben dem Holzstapel finden kann. Danach soll ich zu ihm kommen. }
+
+Entry_03B { Fäuste sagen manchmal mehr als Worte. Das Paket ist im Apfelhain bei dem Baum neben dem Holzstapel vergraben. }
+
+Entry_03C { Afrin hat mir angeboten, ihm das Paket einfach abzukaufen. }
+
+Entry_03D { Ich habe Afrin die Information abgekauft. Das Paket ist im Apfelhain bei dem Baum neben dem Holzstapel vergraben. }
+
+Entry_04 { Endlich, das Paket befindet sich in meinem Besitz. Jetzt muss ich es nur noch zu Asmus zurückbringen. }
+
+Entry_05 { Asmus hat sein Paket zurück und mich dafür belohnt. }
+
+Title { Das gestohlene Paket }
+
+Entry_06 { Die Sache hat sich erledigt. }
+

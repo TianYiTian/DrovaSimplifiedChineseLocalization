@@ -1,0 +1,69 @@
+Plh_4 { 嘿，你要去哪儿？ }
+
+Plh_1 { 我也在想这个问题。 }
+
+Plh_2 { 从你身边经过。 }
+
+Plh_3 { 你脑子坏掉了吗？只有持有莱文的书信和洛塔尔的装备的人才能进入废墟营地的矿井！ }
+
+Plh_20 { 你知道我怎样才能在这里作为一名矿工脱颖而出吗？ }
+
+Plh_21 { 你需要挖很多银子。莱文会注意到你。他奖励勤奋的矿工。 }
+
+Plh_22 { 嘿，你！ }
+
+Plh_23 { 你想出去？ }
+
+Plh_24 { 是的，没错。 }
+
+Plh_25 { 不，我留在这里。 }
+
+Plh_26 { 好的。那么拿出你银币的一半。 }
+
+Plh_27 { 那就回去工作吧。 }
+
+Plh_28 { 给，拿着。(给一半) }
+
+Plh_29 { 我还是留在这里吧。 }
+
+Plh_30 { 看起来不错。你可以通过了。 }
+
+Plh_32 { 看来你已经见过洛萨了。你可以进去了。 }
+
+Plh_33 { 听说刚才有几个从营地回来的人。 }
+
+Plh_34 { 终于。哈维尔已经用问题把我戳得千疮百孔了，他们想知道梅里克什么时候再次出售装备。 }
+
+Plh_36 { *转身面向你* 那么，你是新来的吗？ }
+
+Plh_38 { 这样也可以很温和，卡莎。 }
+
+Plh_39 { 一报还一报。你闭嘴，别管我和梅里克的生意，而我也会对你睁一只眼闭一只眼。我会少拿你的银子。 }
+
+Plh_40 { 莱文从今天起会有更多银子。 *咧嘴笑* }
+
+Plh_41 { 我告诉过你，别插手我和Merik之间的事。否则后果自负。这是你的银子。滚吧。 }
+
+Plh_45 { 莱文已经不耐烦了，因为不再有那么多银子送来了... }
+
+Plh_46 { 如果你想了解更多，就去找工头。就是刚才你进来时在这里的那个人。 }
+
+Plh_47 { 祝你好运！跟我来，我给你解释一下我们的规则。 }
+
+Plh_48 { *咕哝* 你最好听卡波的... }
+
+Plh_49 { 啊，是你。你知道吗……我现在看得很不清楚……如果你现在迅速通过，我就无法阻止你。 }
+
+Plh_50 { 真是糟糕。*眨眼* }
+
+Plh_51 { 为了杰罗。 }
+
+Plh_52 { 滚开。我们不想在这里看到你这种人。 }
+
+Plh_53 { 银子在哪儿？你一直在打瞌睡吗？下次我要看到银子。 }
+
+Plh_54 { 你总共挖了$GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$银子，$GVAR:EVars_Katsa.SilverDefaultAmount$银子归我们，剩下的$GVAR:EVars_Katsa.SilverAmountLeaveMine$银子是你的。 }
+
+Plh_55 { 你总共挖掘了$GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$银子，$GVAR:EVars_Katsa.SilverAngryAmount$银子归我们所有，剩下的$GVAR:EVars_Katsa.SilverAmountLeaveMine$银子归你。 }
+
+Plh_56 { 你总共挖了 $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 银，$GVAR:EVars_Katsa.SilverFriendlyAmount$ 银进入了我们的口袋，剩下的 $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 银属于你。 }

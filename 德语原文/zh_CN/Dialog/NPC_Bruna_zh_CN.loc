@@ -1,0 +1,140 @@
+Plh_5 { Ich muss mich um das Essen kümmern. Wir können nachher reden. }
+
+Plh_7 { *blinzelt* Ich wünsche mir nichts mehr, aber ohne Waffen sind wir machtlos ... }
+
+Plh_12 { Du hast dich also ... um das Essen gekümmert ... }
+
+Plh_13 { Danke ... }
+
+Plh_14 { *stöhnt* Ah ... es ... es geht schon. Ist nichts gebrochen ... glaube ich. Mach dir bitte keine Sorgen. }
+
+Plh_15 { Wie geht es dir, bist du schwer verletzt? }
+
+Plh_16 { Tut mir leid, dass ich nicht früher da sein konnte. }
+
+Plh_18 { Ich werde es Lanzo heimzahlen ... }
+
+Plh_19 { Hier ... deine Portion für heute. }
+
+Plh_20 { Schon dein zweiter Tag. Gewöhnst dich langsam daran, oder? Bleib am besten in der Nähe von Hasso. In den Ruinen kann es gefährlich werden ... }
+
+Plh_26 { *lächelt* Du kannst nichts dafür ... }
+
+Plh_27 { Ich ... ich würde das am liebsten selbst tun ... }
+
+Plh_29 { Warum musst du nicht in die Mine, wie alle anderen? }
+
+Plh_30 { Sie haben mir gesagt, dass ich mich ums Essen kümmern soll. Dabei könnte ich besser hacken als so mancher Lappen mit einer Spitzhacke. Aber wenigstens ist es hier ungefährlich. }
+
+Plh_34 { Wie bist du hier gelandet? }
+
+Plh_36 { Ich bin mit meinem Bruder Liam durchs Moor geirrt. Wir hatten nichts mehr zu essen und überall waren diese Blutfliegen. Und Liam ... na ja ... }
+
+Plh_37 { Wir haben uns verteidigt, und Liam hat seine ganze Kraft dafür aufgewendet. Dann sind wir über diese Männer hier gestolpert. Sie haben uns geholfen ... uns Essen gegeben ... }
+
+Plh_38 { Wir dachten, wir wären gerettet ... }
+
+Plh_40 { Vertrauenswürdig wirken die nicht gerade. }
+
+Plh_41 { Das war ein Fehler. }
+
+Plh_42 { Wir waren am Ende unserer Kräfte und hatten keine Wahl ... }
+
+Plh_43 { Er hat ihnen noch gut zugesetzt, aber es waren zu viele ... }
+
+Plh_44 { Ja. Aber es war schon zu spät ... }
+
+Plh_46 { *seufzt* Schicksal halt. }
+
+Plh_47 { Welches Schicksal? }
+
+Plh_50 { Wir müssen ausbrechen! Und zwar jetzt! }
+
+Plh_52 { In der Vorratskammer sind Waffen, aber da treibt sich Mali immer rum. }
+
+Plh_55 { Vielleicht können wir das ändern. Sag Mali, dass es mir schlechter geht. Sie hat sich gestern um mich gekümmert, sie tut das bestimmt wieder ... und wäre abgelenkt. }
+
+Plh_58 { Allerdings musst du noch irgendwie die Tür aufbekommen ... einen Schlüssel habe ich nicht. }
+
+Plh_68 { *atmet tief ein* *hust* }
+
+Plh_69 { Hey, Bruna, was machst du denn hier? }
+
+Plh_70 { *lächelt* Es ist gut, dich zu sehen. Alles ist jetzt anders ... ich bin nach Nemeton aufgebrochen, ich bin frei ... und ich sollte mich freuen, aber ... }
+
+Plh_72 { Dalin und du ... ihr versucht es jetzt zu zweit? }
+
+Plh_73 { Alles ist besser, als in der Höhle eingesperrt zu sein. }
+
+Plh_74 { Dalin meinte, dass wir unser Glück in Nemeton versuchen können. Warum nicht ... }
+
+Plh_75 { Das stimmt. Ich muss mich auch noch von allem erholen ... es war eine Tortur. Danke für alles. }
+
+Plh_80 { Mit was soll ich kochen, wenn ich nichts von euch bekomme, Lanzo? Eintopf aus Steinen und Moos? }
+
+Plh_81 { Wenn das die Mägen füllt, wäre es mir sogar recht. Aber die vertragen ja nix. $GVAR:EVars_Player.Name$ wird heute leckere Pilze sammeln. Vielleicht bekommt ihr ja sogar Fleisch von 'nem Buddlerschwein! }
+
+Plh_82 { Pilze sammeln ist gefährlich. Das sollte jemand von euch machen - wir haben keine Rüstungen, keine Waffen! }
+
+Plh_83 { Vorsicht, Bruna. Behalt deine Ratschläge besser für dich. $GVAR:EVars_Player.Name$ wird es schon schaffen. Wenn nicht ... ist das auch kein Verlust. }
+
+Plh_84 { Verdammter Dreckskerl ... ich hasse ihn ... der WILL, dass wir leiden! }
+
+Plh_85 { Da draußen ist es gefährlich, pass gut auf dich auf! }
+
+Plh_86 { Das hat der Letzte, der dahin geschickt wurde, auch gesagt. Bevor wir ihn nie wiedergesehen haben. }
+
+Plh_87 { Ich schaffe es schon, keine Sorge. }
+
+Plh_88 { Jetzt hab ich etwas Angst. }
+
+Plh_89 { Nimm das mit. Könnte dir den Arsch retten, wenn's eng wird. }
+
+Plh_90 { Warte, ich habe hier noch etwas, das Lanzo nicht gefunden hat ... }
+
+Plh_91 { Ich gebe dir einen Rat: hol nur so viel, wie wir brauchen, dann komm sofort zurück. Keine unnötigen Risiken. }
+
+Plh_92 { Und was genau soll ich dir nun besorgen? }
+
+Plh_93 { Hoffen wir, dass ich es nicht brauche ... }
+
+Plh_94 { Hoffe ich auch ... }
+
+Plh_95 { Bring mir $GVAR:BanditMineBrutus_Config.CountMushrooms$ gewöhnliche Pilze. Das sollte für alle reichen. }
+
+Plh_96 { Fleisch wäre auch gut, aber das ist das Risiko nicht wert. Komm einfach mit heiler Haut zurück. }
+
+Plh_97 { Geh einfach zu Kolina. Du findest sie, wenn du von der Schlafstätte nach Süden gehst. Sie hält Wache. }
+
+Plh_99 { ... }
+
+Plh_106 { Ich hoffe, ihr kippt nicht um. Sonst müssen wir unsere Vorräte lockermachen. Will ja niemand. Vor allem wir nicht. }
+
+Plh_107 { Sie wollten uns in diese Höhle schleppen. Ich war am Ende, konnte nicht mehr stehen ... und Liam hat sich mit letzter Kraft gewehrt und gebrüllt, dass er das nicht zulassen wird ... }
+
+Plh_108 { Er war so ein guter Mensch. Hat sich immer um alle gesorgt. Hat sich für Schwächere stark gemacht ... }
+
+Plh_110 { Geht es dir gut, Bruna? }
+
+Plh_111 { So gut wie lange nicht mehr. Mein Körper schmerzt vielleicht, aber nichts fühlt sich besser an, als wieder frei zu sein. Ich brauche ein wenig Zeit für mich. Danke dir für alles, $GVAR:EVars_Player.Name$. }
+
+Plh_112 { Hey, Bruna, wie geht's dir heute? }
+
+Plh_114 { Lieb, dass du fragst $GVAR:EVars_Player.Name$ ... Es geht mir schon wieder einigermaßen. Ein paar Bewegungen tun noch weh, aber ich bin zäher, als ich aussehe. }
+
+Plh_115 { Au, ahh meine Rippe ... }
+
+Plh_116 { Mach langsam, der Körper braucht Zeit zum Heilen. }
+
+Plh_117 { Du machst aber nicht so den zähen Anschein. }
+
+Plh_118 { Du hast ja recht ... }
+
+Plh_119 { Ich ruhe mich etwas aus ... Mach du dich lieber an die Arbeit, vielleicht findet ihr heute wirklich, was die suchen. }
+
+Plh_120 { Wenn du auch was willst, komm nach deiner Schicht zu mir. }
+
+Plh_121 { Ich tue das hier alles für ihn. Seine Kraft darf in dieser Welt nicht verloren gehen. }
+
+Plh_122 { Ich will nur hier raus ... }
+

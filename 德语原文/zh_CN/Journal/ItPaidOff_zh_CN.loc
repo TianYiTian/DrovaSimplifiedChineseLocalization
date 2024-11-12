@@ -1,0 +1,12 @@
+Title { Ein Platz für die tiefe Mine }
+
+Entry_01 { Murtagh nimmt Almar immer einen großen Teil des Silbers ab, das er in der tiefen Mine geschürft hat. Wenn ich Murtagh davon abbringe, teilt Almar seinen Platz in der tiefen Mine mit mir. }
+
+Entry_02A { Ich habe mich um Almar gekümmert. Wenn er nicht arbeiten kann, dann wird Jendra jemand anderes für die tiefe Mine brauchen. Das ist meine Chance. }
+
+Entry_02B { Murtagh wird Almar keine Probleme mehr machen. Ich sollte Almar davon erzählen. }
+
+Entry_02C { Jendra wollte $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ Silber für Almars Platz. Ich habe bezahlt und jetzt seinen Platz. }
+
+Entry_03 { Ich teile mir jetzt den Platz in der tiefen Mine mit Almar. Er setzt erst mal aus. Jetzt sollte Jendra mich mitnehmen. }
+

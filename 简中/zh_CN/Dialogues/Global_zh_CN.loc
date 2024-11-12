@@ -1,0 +1,137 @@
+back { [返回] }
+
+end { 我得继续前进了。(结束对话) }
+
+end_dialog { (结束对话) }
+
+aboutQuests { 任务相关... }
+
+aboutOtherQuests { 任务帮助 ... }
+
+aboutGenericTopics { 我想再讨论一些其他的事情。 }
+
+showMeWares { 给我看看你的货物。 }
+
+ShowMeSkills { 我想学习新技能。 }
+
+End_VergissEs { 忘了它吧。 }
+
+End_MussLos { 我得走了。[结束对话] }
+
+End_IchGehDannMal { 那我就先走了。 }
+
+End_(End) { （离开对话） }
+
+End_ÜberlegeNoch { 我还在考虑。 }
+
+End_KeineZeit { 我没时间做这个。 }
+
+End_WirSehenUns { 我们再见。 }
+
+End_NichtsZuTun { 我不想和这件事有任何关系。 }
+
+End_AnderesZuTun { 我有其他事情要做。 }
+
+End_VlltSpäter { 也许晚点再说。 }
+
+Inf_HabeFrage { 我有个问题…… }
+
+Inf_DaWarNochWas { 还有件事... }
+
+Inf_IchSchauMichUm { 我只是在这里随便看看。 }
+
+Inf_WasMachstDuHier { 你在这里做什么？ }
+
+Inf_Crimes { 由于我的恶行... }
+
+Run_IchBinNochDabei { 我还在进行中…… }
+
+Acc_KuemmereMichDrum { 我来处理。 }
+
+Acc_HelfeDir { 好的，我会帮助你。 }
+
+Acc_BinDabei { 我加入！ }
+
+SLP_Dunkel { 太阳高悬于德洛瓦上空时再来吧！ }
+
+SLP_Müde { 我本可以一连睡上三晚……但有太多事情要做。总是有太多事情要做…… }
+
+SLP_Zeit { *打哈欠* 现在不行 ... }
+
+SLP_GoaWay { 消失吧。 }
+
+Teach_General { 给我带点什么来。 }
+
+Teach_Power { 告诉我如何变得更强。 }
+
+Teach_Mind { 告诉我如何更好地提升我的魔法力量。 }
+
+Teach_Sword { 你能教我剑术吗？ }
+
+Teach_Sword_! { 告诉我如何更好地用剑战斗。 }
+
+Teach_Axe { 你能教我如何更好地用斧头战斗吗？ }
+
+Teach_Axe_! { 告诉我如何更好地用斧头战斗。 }
+
+Teach_SpearSling { 你能教我如何更好地使用长矛和弹弓战斗吗？ }
+
+Teach_SpearSling_! { 告诉我如何更好地使用长矛和套索战斗。 }
+
+Teach_Dagger { 你能教我如何用匕首战斗吗？ }
+
+Teach_Dagger_! { 教我如何更好地使用匕首战斗。 }
+
+Teach_Training { 和我一起训练。 }
+
+Teach_Lockpicking { 给我带把开锁器来。 }
+
+Teach_Smith { 给我讲讲你的手艺吧。 }
+
+Teach_Animals { 你能教我如何剥皮吗？ }
+
+Busy_NotNow { 现在不行。 }
+
+Silence { （沉默） }
+
+LetsTraining { 准备战斗了吗？ }
+
+LetsRevance { 准备好复仇了吗？ }
+
+LetsTraining_fromMorvin { Proximus说我们应该训练。 }
+
+BloodSteel { 血与钢！ }
+
+NotEnoughMoney { 这些硬币不够。等你有了足够的硬币再来吧。 }
+
+NotEnoughMoney1 { 这几枚硬币不够。等你有了足够的之后再来吧。 }
+
+NotEnoughMoney2 { 别耍我，这些钱不够。 }
+
+NoTime_TrainingTime { 太阳在天空中时，我会在训练场。那时我们可以战斗。 }
+
+MeldDichBeiMir { [简单地]加入我。 }
+
+HereIsMyMoney { 这里是硬币。 }
+
+FightingArena { 今天我们俩在竞技场战斗。 }
+
+PlayCatch { 你想玩捉迷藏吗？ }
+
+Armor? { 你能用这些盔甲部件做些什么吗？ }
+
+Armor { 我有三件盔甲部件——你能用它们帮我做一件盔甲吗？ }
+
+ArmorLight { 一件尽可能轻便的，让我能自如活动的衣服。 }
+
+ArmorDruid { 一件承载着许多符文的盔甲。 }
+
+ArmorHeavy { 一款提供最大保护的产品。 }
+
+PlayerSaysTheyDontHaveMoney { 我没有足够的金币... }
+
+Leave { (离开) }
+
+OnlyNemetonTeaching { 我只给来自内梅顿的战士们带来东西。 }
+
+HaveRostmoos { 我带了铁锈苔藓。你需要什么吗？ }

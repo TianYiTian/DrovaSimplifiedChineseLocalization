@@ -1,0 +1,496 @@
+Plh_4 { Hey, was kann ich für dich tun? }
+
+Plh_5 { Hey, du siehst mir aus wie jemand, der ein paar Münzen zu schätzen weiß. Ganz genau wie ich. Wir können uns gegenseitig helfen. Was sagst du? }
+
+Plh_6 { Soll ich irgendwelche krummen Dinger drehen? }
+
+Plh_7 { Ich mag Münzen. Was soll ich tun? }
+
+Plh_10 { Haha, du rennst nicht blind dem Reichtum hinterher. Das mag ich. Keine Sorge. Ich verlange nur einfache, aufrichtige Arbeit und zahle mit echten, ehrlichen Münzen. }
+
+Plh_11 { Ich erwarte eine Lieferung aus Nemeton. Liegt das vielleicht auf deinem Weg? }
+
+Plh_12 { Dort wollte ich sowieso hin. }
+
+Plh_13 { Wäre ein Umweg ... }
+
+Plh_15 { Wir verstehen uns. Du bringst ihnen das Zeug und sie geben dir Münzen. Die Münzen bringst du zu mir und wir beide sind glücklich.. und natürlich auch die Hauer. }
+
+Plh_17 { Ich weiß nicht, was ihr für Machenschaften habt und halte mich lieber raus. }
+
+Plh_19 { Asmus in Nemeton hat ein Paket für mich geschnürt. Du musst es nur dort holen und mir vorbeibringen. Und es wird sich für dich lohnen ... }
+
+Plh_23 { Gut gemacht. Hier ist dein Anteil. }
+
+Plh_26 { So hatten wir nicht gewettet. Was springt für mich dabei raus? }
+
+Plh_27 { In Ordnung. Ich kümmere mich darum. }
+
+Plh_28 { Das klingt alles komisch. Damit will ich nichts zu tun haben. }
+
+Plh_29 { Ist dieses Rostmoos wirklich ungefährlich? }
+
+Plh_30 { Du hast deine Finger längst drin. Wer hat denn das Paket rumgeschleppt? Wenn ich deswegen Ärger bekomme, werde ich alle in deine Richtung schicken. Hättest du dir früher überlegen sollen. }
+
+Plh_31 { Du hast Sinn fürs Geschäft. Ich mag das. Verkauf das Rostmoos an drei Leute und du wirst sehen, wie es sich auch für dich lohnt. }
+
+Plh_32 { Natürlich. Ich würde doch nicht dem Ruinenlager schaden wollen. Im Gegenteil. Frag die Hauer. Sie lieben das Rostmoos. Es hebt ihre Stimmung. }
+
+Plh_33 { Gut, dann sind wir uns ja einig. Hier, das abgepackte Rostmoos. Mir ist egal, wem du es verkaufst, aber drei verschiedene Leute sollten es sein. Damit alle was davon haben. Verlang nicht weniger als $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen. Abmarsch! }
+
+Plh_36 { Ich komme von Asmus ... hier ist das Paket. }
+
+Plh_37 { Zufällig dieses Paket, das ich schon dabei habe? }
+
+Plh_38 { Von Asmus? Sonst hat er immer Afrin geschickt. Was ist aus dem geworden? }
+
+Plh_39 { Willst du quatschen oder das Paket? }
+
+Plh_40 { Afrin arbeitet nicht mehr für Asmus. Ich habe das übernommen. }
+
+Plh_41 { Lass mal sehen ... *öffnet das Paket* Aaah! *atmet den aufsteigenden Geruch tief ein* Scheint beste Ware zu sein. Asmus weiß einfach, wie man Rostmoos behandeln muss. }
+
+Plh_42 { So haben wir nicht gewettet. Ich sollte nur das Paket holen! }
+
+Plh_43 { Raus mit der Kohle oder du bekommst es mit mir zu tun ... }
+
+Plh_44 { Sehe ich aus wie jemand, der Münzen scheißt? Ich muss auch erst verdienen, was ich ausgebe. Also - willst du was oder nicht? }
+
+Plh_45 { Langsam, langsam. Denk doch mal nach. Willst du mich abmurksen? Was hast du davon? Dann wird das ganze Ruinenlager deinen Kopf haben wollen. }
+
+Plh_46 { Was ist Rostmoos eigentlich? }
+
+Plh_47 { Es heißt Rostmoos. Ein beliebtes Zeug in Drova. Beruhigt ... verlangsamt den Herzschlag ... entspannt. Mehr musst du darüber nicht wissen. }
+
+Plh_52 { Ein kleines Problem haben wir noch ... ich bin gerade nicht flüssig. Ausgaben, du weißt schon. Ich muss das Zeug hier noch unter die Leute bringen, dann kann ich dich bezahlen. }
+
+Plh_58 { Du meinst, dass ich jetzt noch alles verkaufen soll oder wie? }
+
+Plh_62 { Frag die Arbeiter. Erkennst sie an ihren dreckigen Klamotten und ihrem Geruch. Die reißen sich um Rostmoos, aber verlang nicht weniger als $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen dafür. Kannst es bei Liandra bei der Arena versuchen - die ist schon ganz scharf auf Nachschub. }
+
+Plh_64 { Ah, du hast schon das ganze Zeug verteilt. Dann will ich dir auch die $GVAR:QuestVars_LucrativeBusiness_Config.BorisPackagePriceTrick$ Münzen geben. }
+
+Plh_65 { Immer her damit. }
+
+Plh_66 { Moment. Ich sollte $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen für das Paket bekommen! }
+
+Plh_67 { Wollte nur testen, ob dein Gedächtnis funktioniert. Hier sind deine $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen, wie mit Asmus vereinbart. }
+
+Plh_68 { Also, hier sind deine $GVAR:QuestVars_LucrativeBusiness_Config.BorisPackagePriceTrick$ Münzen. Wie mit Asmus vereinbart. }
+
+Plh_69 { Ich hab das ganze Zeug verteilt. Hier sind deine $GVAR:QuestVars_JobForBoris_Config.NeededMoney$ Münzen. }
+
+Plh_71 { Wegen der Münzen für Asmus ... }
+
+Plh_73 { Na, wie sieht es mit dem Verteilen aus? }
+
+Plh_74 { Wegen des Rostmoos ... }
+
+Plh_76 { Muss ich das jetzt wissen? Komm wieder, wenn du fertig bist. }
+
+Plh_77 { Hier sind deine $GVAR:QuestVars_JobForBoris_Config.NeededMoney$ Münzen. Ich will dein Zeug nicht verteilen. }
+
+Plh_78 { *runzelt die Stirn* Wie du meinst, Münzen sind Münzen. Die $GVAR:QuestVars_JobForBoris_Config.NeededMoney$ nehme ich gern. }
+
+Plh_79 { Scheinst Talent dafür zu haben. Willst du nicht ins Geschäft einsteigen? Wir beide könnten viele Münzen verdienen, wenn wir uns zusammentun ... }
+
+Plh_96 { Ich bin überfallen worden und habe diesen Zettel hier gefunden ... }
+
+Plh_97 { Ähm, wovon sprichst du? Überfallen? Ich hoffe, es geht dir gut! }
+
+Plh_98 { Ich hab den Zettel gefunden. Du hast die Banditen geschickt. Tu nicht so. }
+
+Plh_99 { Jedenfalls besser als denen, die du mir an den Hals geschickt hast ... }
+
+Plh_100 { Ah, hast es durchschaut. Spricht für dich. Dir ist schon klar, dass das nicht persönlich gemeint war. Nur ein Test, ob du aus so einer Lage rauskommst. Ob du auch beißen oder nur bellen kannst. }
+
+Plh_101 { Ist etwas unschön, dass du jetzt den Zettel hast. Ich sag dir was ... ich kaufe ihn dir ab. Für $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ Münzen. Und dann vergessen wir beide, dass das passiert ist. }
+
+Plh_102 { Ziehst du das mit allen ab? }
+
+Plh_103 { Warum sollte ich mich bei so einer Lüge euch noch anschließen wollen? }
+
+Plh_104 { Nein, natürlich nicht. Das war das erste Mal. Und du hast bewiesen, dass du damit zurechtkommst. }
+
+Plh_105 { Weil du in Drova ohne Lügen nicht weit kommst. Entweder rammt dir jemand ein Messer in den Rücken, die Monster reißen dich oder die Göttlichen treiben dich in den Wahnsinn. }
+
+Plh_106 { 100 Münzen, und der Zettel gehört dir. }
+
+Plh_107 { Deine dreckigen Betrügermünzen kannst du dir in den Hintern schieben. }
+
+Plh_108 { Du hast was im Kopf. Gut. Hier sind die $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ Münzen. }
+
+Plh_109 { Wie du meinst. Dein Verlust. Aber lass mich in Ruhe, wenn du irgendwas brauchst. }
+
+Plh_111 { Mit dir lege ich mich besser nicht mehr an ... }
+
+Plh_114 { Was den Brief angeht, den ich gefunden habe ... }
+
+Plh_115 { Hast du es dir anders überlegt? Ich gebe dir $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ Münzen und du mir den Brief. Na? }
+
+Plh_117 { Kannst du mir die Schuldnerliste von Friedel besorgen? }
+
+Plh_118 { Ah, da will wohl jemand die Schulden loswerden. *grinst* Natürlich KÖNNTE ich dafür sorgen, dass die Liste in deiner Tasche landet. Aber was ist dir das wert? }
+
+Plh_119 { $GVAR:QuestVars_Debt_Config.FirstPriceForBoris$ Münzen. }
+
+Plh_120 { $GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ Münzen. }
+
+Plh_121 { $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ Münzen. }
+
+Plh_122 { Sehr witzig! ... Moment, das ist kein Scherz? Was bildest du dir ein? }
+
+Plh_123 { Vergiss es einfach. }
+
+Plh_124 { Hmpf. Jämmerlich. Dafür könnte ich dir stecken, wo Friedel die Liste aufbewahrt. Aber rankommen musst du selbst. }
+
+Plh_126 { Na gut. Komm wieder, wenn du Geschäfte machen willst. }
+
+Plh_127 { Also gut. Finde heraus, wo die Liste ist. ($GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ Münzen geben) }
+
+Plh_129 { Alles klar. *grinst* Friedel hat die Liste in ihrem Schreibtisch. Durchsuch die Schubladen, dann findest du sie. Aber mach das nur, wenn sie weg ist oder schläft. Wenn sie dich erwischt ... ich weiß von nichts! }
+
+Plh_130 { Na, so kommen wir doch ins Geschäft! *grinst* Komm in ein, zwei Tagen wieder, dann hab ich die Liste bereit. Verlass dich darauf. }
+
+Plh_132 { Komm wieder, wenn du genug Münzen hast! }
+
+Plh_133 { Weißt du, wie ich Eugen von mir überzeugen kann? }
+
+Plh_134 { Aber klar weiß ich das. *grinst* Die Frage ist, wie viel diese Information DIR wert ist. Lass hören. }
+
+Plh_137 { $GVAR:QuestVars_ShotsForRipper_Config.LowMoneyForBoris$ Münzen (geben) }
+
+Plh_138 { $GVAR:QuestVars_ShotsForRipper_Config.AverageMoneyForBoris$ Münzen (geben) }
+
+Plh_139 { $GVAR:QuestVars_ShotsForRipper_Config.HighMoneyForBoris$ Münzen (geben) }
+
+Plh_140 { Der Typ ist aus hartem Holz geschnitzt. Fremde mag er nicht so. }
+
+Plh_142 { Der Typ ist aus hartem Holz geschnitzt. Fremde mag er nicht so. }
+
+Plh_144 { Hier, gib ihm ein paar Bier aus und ihm dann das. Wird seine Laune heben. Und wenn Eugen gut drauf ist, will er was jagen. Glaub mir, passiert bei ihm immer. }
+
+Plh_146 { Hier, stell ihm dieses Bier hin, dann wird sich seine Zunge lockern. Also ... nicht nach dem einen. Da braucht's noch ein paar mehr. Darf auch stärker sein, er kann das wegstecken. Honigmet knallt bei ihm gut rein. }
+
+Plh_147 { Woher kriege ich mehr Bier? }
+
+Plh_148 { Woher bekomme ich Honigmet? }
+
+Plh_149 { Alles klar. }
+
+Plh_150 { Irgendwo im Lager solltest du was finden, auf das keiner richtig aufpasst. *zwinkert* Oder du gehst zu Bernolds Schenke und kaufst dort was. }
+
+Plh_151 { Dann weißt du ja, was zu tun ist. Es war mir eine Freude, Geschäfte mit dir zu machen. *grinst* Ach, und Eugen ist übrigens nicht die einzige von Jeros Klingen. Dein guter Freund Boris auch. }
+
+Plh_152 { Bernold verkauft das Gesöff in der Taverne. Er jammert in letzter Zeit über ein Problem im Keller. Vielleicht kannst du ihm dabei helfen. }
+
+Plh_153 { Ich hab eine Frage ... }
+
+Plh_154 { Hast du die Liste jetzt? }
+
+Plh_155 { Also ... ich hab meine Leute hingeschickt und nach der Liste suchen lassen. Sie war aber schon weg. Da war wohl jemand schneller. Nichts zu machen. }
+
+Plh_156 { Ich stehe zu meinem Wort. Hier ist die Liste. }
+
+Plh_157 { Wofür hab ich dich dann bezahlt? }
+
+Plh_158 { Gib mir sofort meine Münzen zurück! }
+
+Plh_159 { Du hast mich für meine Mühen bezahlt! Was kann ich denn dafür, wenn die Liste weg ist? Also, ein Vorschlag: Du bekommst die Hälfte zurück. }
+
+Plh_160 { Und jetzt zieh Leine. }
+
+Plh_161 { Und mach damit keine Dummheit, die ich nicht auch machen würde. *grinst* }
+
+Plh_163 { Und du weißt ja ... egal, was du brauchst, Boris kann es dir besorgen ... egal, was du erledigen willst, Boris dreht es so, dass es erledigt wird. Glaub nicht, dass du bei Eugen so viel bekommst. Einen krummen Rücken und einen feuchten Händedruck. vielleicht. }
+
+Plh_164 { Du brauchst hier den richtigen Fürsprecher. Hat viele Vorteile. *senkt die Stimme* Du hast doch was drauf, das merke ich. Vergiss Eugen. Meine Leute und ich ... wir passen zu dir. Und du zu uns. Ist nur ein nett gemeinter Rat. *zwinkert* }
+
+Plh_165 { Komm mir nicht so. Das bekomme ich anders hin. (gehen) }
+
+Plh_166 { Wie du meinst. Wenn du verzweifelt bist, weißt du ja, wo du mich findest. *grinst* }
+
+Plh_168 { Wenn du im Ruinenlager bleiben willst, brauchst du die Unterstützung von Jeros Klingen. Und jetzt rate mal, wer eine ist ... }
+
+Plh_169 { Dann will ich mal raten. Hmmm ... du? }
+
+Plh_170 { Also soll ich das Zeug verteilen und bekomme deine Stimme? }
+
+Plh_171 { Hey, eine Hand wäscht die andere! Du verteilst das Zeug und bekommst meine Stimme. Und sogar deinen Anteil an Münzen. Nicht zu wenig. }
+
+Plh_174 { *grinst* Pass auf. Wenn du mir $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ Münzen bringst, nehme ich dich sofort auf. Sofort. Hier und jetzt. Musst keinem mehr irgendwas beweisen. }
+
+Plh_175 { Hier sind die $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ Münzen für deine Stimme. }
+
+Plh_176 { Willst du mich verarschen? Selbst wenn ich so viele Münzen hätte - ohne mich. }
+
+Plh_177 { Hey, so war das nicht gemeint. Ich dachte, wir verstehen uns. Aber mein Angebot steht. Vielleicht überlegst du es dir ja anders, wenn du genug Münzen hast. Geh zu Friedel, im oberen Viertel. Die verleiht welche. }
+
+Plh_178 { Ehrlich gesagt hab ich nicht erwartet, dass du wirklich $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ Münzen in der Tasche hast. Und wenn, dann nicht, dass du sie rausrückst! }
+
+Plh_179 { Das sind weniger als $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ Münzen. Entweder hast du es nicht so mit Zählen oder willst mich verarschen. So oder so - komm wieder, wenn du genug hast. }
+
+Plh_180 { Ich geh dann mal die Münzen zählen. Kannst dich bei Kilian im oberen Viertel melden. }
+
+Plh_181 { Ich hab mein Wort gehalten. Du hast die Münzen UND meine Stimme. Sprich mit Kilian. }
+
+Plh_184 { Wegen der Aufnahme ins Ruinenlager ... }
+
+Plh_186 { Nimmst du mich jetzt in deinen Trupp auf? }
+
+Plh_187 { Was muss ich tun, damit ich deine Stimme bekomme? }
+
+Plh_189 { Verteil mein Kraut, dann können wir weiterreden. }
+
+Plh_191 { Ester hat von dir berichtet. Das will was heißen. *grinst* Sie hat irgendwie glücklich gewirkt. Ich frage mich, was du mit ihr gemacht hast ... }
+
+Plh_192 { Gera hat geraten, dass ich dich aufnehmen soll. Komisch ... ist ewig her, dass jemand sie überzeugt hat. Ihre Stimme hast du jedenfalls. }
+
+Plh_193 { Lindon war die letzten Tage wie ausgekotzt. Keine Ahnung, was er hatte, aber ihm geht's wieder besser. Dank dir, sagt er. }
+
+Plh_194 { Es wollen genug Leute dich dabei haben. Ich will nicht im Weg stehen. Die Münzen wären mir allerdings lieber gewesen. *grinst* Dann mal willkommen. }
+
+Plh_195 { Na ja, oder du spuckst einfach die Münzen aus, dann brauchst du zumindest meine Leute nicht mehr zu überzeugen. Für $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ Münzen sind wir die besten Freunde! }
+
+Plh_196 { Geh zu Kilian im oberen Viertel. Ich lasse ihn wissen, dass du meine Unterstützung hast. }
+
+Plh_198 { Hätte nichts dagegen, wenn du dich bei uns anschließt. Du könntest dich bei uns an ein paar Stellen nützlich machen. Geh zu Kilian. Er kann dich aufnehmen. }
+
+Plh_207 { Hab gehört, dass du die Feuertaufe nicht nur überlebt hast, sondern sogar alle umgehauen. Nicht schlecht, das passiert selten. }
+
+Plh_208 { Du bist also abgehauen, als die Feuertaufe angestanden hat? Ziemlich clever. Ich sehe schon, du und ich könnten zusammen noch viel erreichen. }
+
+Plh_209 { Durch die Feuertaufe müssen alle, die hier neu sind. Und für dich hab ich da einen nett gemeinten Ratschlag: Halt dich in Zukunft aus solchen Schlägereien raus. }
+
+Plh_210 { Was ist in diesem Paket? }
+
+Plh_212 { Geht dich das etwas an? Nein. Musst du es wissen, um es erledigen zu können? Auch nein. }
+
+Plh_213 { Ein paar harmlose Lieferungen ... nichts weiter. Vielleicht überlegst du es dir ja anders, wenn du Asmus über den Weg läufst ... }
+
+Plh_214 { Gut. Ich erledige das für dich. }
+
+Plh_215 { Dann melde dich bei Asmus. Sag ihm, Boris schickt dich. Bring mir das Paket und du bekommst eine Belohnung. }
+
+Plh_217 { Ah, du hast das Paket. Sehr gut. Her damit. }
+
+Plh_218 { Dann will ich dir einen Grund für einen Umweg geben ... }
+
+Plh_219 { Das sind noch nicht genug Münzen. Komm mir erst wieder unter die Augen, wenn du mehr hast. }
+
+Plh_220 { Verteil das bisschen Rostmoos hier an die Hauer. Glaub mir, damit wirst du gute Münzen machen, und ich gebe dir deinen verdienten Anteil. }
+
+Plh_221 { Jemand wie dich können wir immer bei uns brauchen. }
+
+Plh_222 { Halt dich hier bei uns an den guten Boris. Das wirst du nicht bereuen. *grinst* }
+
+Plh_223 { Behandelst du so die Leute, die auf deiner Seite sind? }
+
+Plh_224 { Wir im Ruinenlager müssen immer auf dem Sprung sein. Immer bereit, uns auf Gefahren einzustellen. Nur so werden wir uns durchsetzen. }
+
+Plh_225 { *seufzt* Ich hab das hier mit aufgebaut, und ich will halt sicherstellen, dass es nicht den Bach runtergeht. Einmal Kämpfer, immer Kämpfer. Aber ich hab's nicht so mit Äxten oder Schwertern, ich fühle mich mit dem Dolch am sichersten. }
+
+Plh_226 { Du wirkst nicht wie ein Kämpfer und bist Jeros Klinge geworden? }
+
+Plh_229 { Kannst du mir zeigen, wie ich mit Dolchen kämpfen kann? }
+
+Plh_230 { Endlich weiß jemand die Kunst der Kurzklinge zu schätzen, statt wie die anderen mit ihren groben Klingen arbeiten zu wollen! Gehörst zu uns, also zeige ich dir ein paar Tricks. }
+
+Plh_231 { Eugen und die anderen rennen lieber schreiend mit hoch erhobenen Äxten auf ihre Feinde zu. Aber glaub mir ... so ein versteckter Dolch, ein Anschleichen, ein harter Stich ... es gibt nichts Besseres unter der Sonne von Drova. }
+
+Plh_234 { Das ist alles. Gut, deine Entscheidung ... *steckt die Münzen ein* }
+
+Plh_237 { Beschaff mir das Paket, wie besprochen. Dann können wir darüber reden. }
+
+Plh_238 { Ich will mich euch anschließen. }
+
+Plh_239 { Wie kann ich deine Stimme bekommen? }
+
+Plh_240 { Ich will mich dem Ruinenlager anschließen. }
+
+Plh_241 { Du willst bei uns mitmachen? Hmpf, na gut, ich erkläre dir, wie die Dinge hier laufen. }
+
+Plh_244 { Denn ob du's glaubst oder nicht - ich bin hier beliebt. Und die Münzen hast du dann trotzdem nicht. Ich sage es dir noch mal: Ich habe die Münzen NICHT hier. }
+
+Plh_245 { Das ist natürlich eine totale Ausnahme, weil du mir gefällst. Und nicht, weil ich dir Münzen abluchsen wollte oder so was Verwerfliches. }
+
+Plh_246 { Musst halt was drauflegen, wenn du zurückzahlst. Aber wenn du erst mal im Ruinenlager aufgenommen worden bist, sollte das kein Problem für dich sein ... }
+
+Plh_247 { Du bist irre - genau solche Leute brauchen wir hier! Ich sage Kilian, dass er dich sofort aufnehmen soll. }
+
+Plh_248 { Dann kann Asmus das "Fest des Feuers" ja ordentlich abfackeln, was? *grinst schelmisch* }
+
+Plh_249 { $GVAR:QuestVars_JobForBoris_Config.Reward$ Münzen? Ich war 'ne Weile unterwegs. Das ist mehr wert. }
+
+Plh_250 { Danke. }
+
+Plh_251 { Ach ja? Wieso sollte deine Zeit mehr wert sein? }
+
+Plh_252 { Vielleicht gehöre ich irgendwann zu euch. Und dann willst du mich nicht als Feind haben. }
+
+Plh_253 { Für eine kleine Spende kannst du dich immer auf mich verlassen. Komplizen im Bunde. }
+
+Plh_254 { *grinst* Weißt du was? Du gefällst mir. }
+
+Plh_255 { Hier ein kleiner Bonus. Jemanden wie dich könnte ich in meinem Trupp gebrauchen. Dieses Lager kann nicht genug Schlitzohren haben. *zwinkert* }
+
+Plh_256 { Du denkst, vor jemandem wie dir hab ich Angst? Wenn du Eugen wärst, würde der Spruch vielleicht ziehen, aber ein Lauch wie du hat hier noch nichts zu melden. }
+
+Plh_257 { Leute aus Nemeton? Sieht man nicht allzu oft hier. }
+
+Plh_258 { Für Jero! }
+
+Plh_259 { Lindon, du hältst dich da raus, klar? }
+
+Plh_260 { Du bist dabei, weil du mich repräsentierst. Drax und ich haben eine Abmachung. Wenn er dir Ärger macht, erinnere ihn daran, dass er dann auch Ärger mit mir bekommt. }
+
+Plh_261 { Mach dir keine Sorgen, Boris. Du schickst schließlich deinen besten Mann. Mich. }
+
+Plh_265 { Wir sind hier wenigstens ehrliche Lügner. Wenn du noch einsteigen willst ... meine Stimme hast du. Wir brauchen Leute, die nicht alles mit sich machen lassen. }
+
+Plh_266 { Wenn ich von dieser verdammten Expedition zurück bin, kümmern wir uns wieder um das Geschäft. }
+
+Plh_267 { Und genau wegen dieser Einstellung bist du mein bester Mann, Lindon. *grinst* }
+
+Plh_269 { Diese Expedition durchkreuzt die Pläne von Lindon und mir. Aber wenn Jero das angewiesen hat, kann man wohl nichts machen ... }
+
+Plh_270 { Endlich seid ihr zurück. Hätte nicht gedacht, dass das so schnell passiert. }
+
+Plh_271 { *schaut sich in alle Richtungen um* }
+
+Plh_272 { Wo ist Lindon? }
+
+Plh_273 { Lindon hat es nicht geschafft. Hier, seine Marke ... }
+
+Plh_274 { *nimmt die Marke* Scheiße ... }
+
+Plh_275 { Lindon hat nicht überlebt. }
+
+Plh_276 { Er hat sich geopfert und ist so unsterblich geworden. }
+
+Plh_277 { Lindon ist ... tot? }
+
+Plh_278 { Der Mistkerl war mein bester Mann. Wir haben alle Geschäfte zusammen gemacht. Jetzt muss ich alles alleine erledigen. VERDAMMT! }
+
+Plh_279 { Es tut mir leid. }
+
+Plh_280 { Interessieren dich nur deine Geschäfte? }
+
+Plh_281 { Hmpf. Mir auch. }
+
+Plh_282 { Ach, Quatsch. }
+
+Plh_283 { Lindon und ich haben uns immer gut verstanden. Wir hatten einen ähnlichen Riecher fürs Geschäft. Hab gute Zeiten mit ihm verbracht. Und ich hoffe, es hat ihm auch gefallen. }
+
+Plh_284 { *schaut in den Himmel* Möge deine Seele Frieden bei den Göttlichen finden, Bruder. }
+
+Plh_285 { *klatscht die Hände zusammen* Aber es muss weitergehen. Mal sehen, wen ich jetzt für meine Geschäfte finde. }
+
+Plh_286 { Lindon, du alter Mistkerl ... }
+
+Plh_290 { Du musst aber immer noch Eugen von dir überzeugen. Ohne seine Stimme wird das nichts. }
+
+Plh_292 { Vergiss es. }
+
+Plh_293 { Du weißt, wo du mich findest, wenn du deine Meinung änderst. }
+
+Plh_294 { Eugen hat deinen Namen vor mir erwähnt. Nicht schlecht. Das schaffen nur wenige. }
+
+Plh_295 { Eugen hat mir noch nichts von dir erzählt. Und wenn er nichts über dich sagt, dann können wir dich hier auch nicht gebrauchen. }
+
+Plh_296 { Eugen hat mir schon von dir erzählt. Seine Stimme hast du. }
+
+Plh_297 { Du musst zwei von meinen Leuten UND Eugen überzeugen. Sonst wird das hier nichts, mein Freund. }
+
+Plh_300 { Es gibt zwei von Jeros Klingen hier im Lager. Du musst beide von dir überzeugen, damit du eine Chance hast. Eugen ist eine, er hockt meistens in der Taverne und besäuft sich. }
+
+Plh_301 { Und die andere, schönere, klügere und beliebtere von Jeros Klingen ... }
+
+Plh_302 { ... bin ich. *grinst* }
+
+Plh_303 { Was bedeutet "euch überzeugen" genau? }
+
+Plh_304 { Arbeite für uns. Greif uns unter die Arme. Sorge dafür, dass wir dich aufnehmen WOLLEN. }
+
+Plh_306 { Bring mir das Paket und wir schauen weiter. }
+
+Plh_307 { Mit Eugen redest du am besten selbst. Aber solange er und ich nicht von dir überzeugt sind, kannst du die Sache eh vergessen. }
+
+Plh_309 { Ich gehöre jetzt zu deinen Leuten. }
+
+Plh_310 { Gute Wahl. Kilian hat mir schon davon erzählt. }
+
+Plh_311 { Es gibt da etwas, das du für mich tun kannst. Ich bekomme noch Münzen von Leyna. Sie ist im dunklen Viertel. Es wird Zeit, dass du auch die andere Seite vom Ruinenlager kennenlernst. }
+
+Plh_312 { Was ist das dunkle Viertel? }
+
+Plh_313 { Wo finde ich das dunkle Viertel? }
+
+Plh_314 { Du wirst es schon erkennen, wenn du da bist. Nur meine Leute und ein paar auserwählte Glückliche kennen diesen Ort. Wirst sehen ... *grinst* }
+
+Plh_315 { Sag Leyna, dass ich dich geschickt habe. Sie schuldet mir $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ Münzen. }
+
+Plh_316 { In der Nähe vom Eingang zur Höhle der Hauer eine Luke im Boden. Hier, mit dem Schlüssel kommst du durch. }
+
+Plh_317 { Besorge die Münzen und komm danach zu mir. }
+
+Plh_319 { Gera will, dass ich Leyna gestrecktes Rostmoos verticke. }
+
+Plh_320 { Ja und? Was interessiert mich das? Vertickt ihr das Zeug eben. Wenn sie's annimmt, ist sie selbst schuld. }
+
+Plh_321 { Bring mir die Münzen. Mir egal, von wem. Und komm nicht wieder, bevor du damit fertig bist. }
+
+Plh_323 { Hier sind die Münzen von Leyna. }
+
+Plh_324 { Leyna verkauft gestrecktes Rostmoos im dunklen Viertel. }
+
+Plh_325 { Was? Wieso redet die nicht mit mir darüber? Wenn jemand ihr sagt, dass sie gestrecktes Zeug verkaufen soll, dann ich. }
+
+Plh_326 { Gut, ich lasse die Sache überprüfen. Wenn da was dran ist, dann mach ich die rund. Kannst du Gift drauf nehmen. }
+
+Plh_327 { Na, das gefällt mir. Gab es irgendwelche Probleme? }
+
+Plh_328 { Nichts Besonderes. }
+
+Plh_329 { Sie war ein bisschen zu neugierig. Aber nichts, womit ich nicht umgehen könnte. }
+
+Plh_330 { Gute Arbeit. Hier ist dein Anteil. }
+
+Plh_331 { Ja, so ist Leyna. Du musst ihr immer genug geben, damit sie neugierig bleibt, aber zu wenig, damit sie wirklich irgendwas weiß. *grinst* }
+
+Plh_332 { Ich halte mein Wort. Proximus wird von dir hören und du kannst in der Arena kämpfen. Weiß nicht, warum du das so unbedingt willst, aber wenn du austeilen kannst, dann gibt's da gute Münzen. }
+
+Plh_333 { Wenn du leicht Münzen verdienen willst ... Proximus bei der Arena sucht immer fähige Leute für den Arenakampf. Ich leg ein gutes Wort für dich ein, dann sollte er dich kämpfen lassen. }
+
+Plh_334 { Und jetzt geh und mach, was auch immer du machst. }
+
+Plh_335 { Ich will in der Arena kämpfen. Aber Proximus lässt mich nicht. }
+
+Plh_337 { Ich wäre nicht Boris, wenn ich dir dabei nicht helfen könnte. *grinst* }
+
+Plh_338 { Aber erst hilfst du mir, dann bearbeite ich Proximus. }
+
+Plh_339 { Hast du Beweise für deine Geschichte oder willst du mir hier nur was auftischen? }
+
+Plh_340 { Wenn du mir nicht glaubst, untersuch doch ihre Waren. }
+
+Plh_342 { Hmm. Mit Leyna zusammenzuarbeiten, lief eigentlich immer glatt ab. }
+
+Plh_344 { Bist irgendwie an so viele Münzen rangekommen. Das gefällt mir. }
+
+Plh_345 { Meine Stimme hast du. Ich halte mein Wort, Wenn du dich dem Ruinenlager anschließen willst, ist diese Stimme mehr wert als Gold *grinst* }
+
+Plh_346 { Was muss ich tun, damit du mich in deinen Trupp aufnimmst? }
+
+Plh_347 { Wenn du bei meinem Trupp mitmachen willst, musst du zwei von meinen Leuten überzeugen. Wenn das passiert, sage ich es Kilian. Ob du dann wirklich aufgenommen wirst, muss er entscheiden. Aber ich habe da noch eine Idee ... }
+
+Plh_348 { Was muss ich tun, damit du mich in deinen Trupp aufnimmst? }
+
+Plh_349 { *mustert dich* }
+
+Plh_351 { Schließ dich dem Ruinenlager an, dann kann ich dir was beibringen. Wenn du sonst was lernen willst, geh zur Arena. Die Kämpfer dort bringen dir für Münzen gerne was bei. }
+
+Plh_352 { Saufen, das ist sein Ding. Gib ihm ein paar Humpen aus, dann ist er dein bester Freund. Nur ... wenn er was intus hat, geht er gern auf Jagd. Und dann ist ihm ziemlich egal, was er erlegen kann. }
+
+Plh_353 { Ich bin eine von Jeros Klingen hier im Lager. Wenn du für mich arbeitest, kann ich ein gutes Wort für dich einlegen. So was ist hier 'ne Menge wert. }
+

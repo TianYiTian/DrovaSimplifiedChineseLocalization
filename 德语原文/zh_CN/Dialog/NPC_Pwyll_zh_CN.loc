@@ -1,0 +1,374 @@
+Plh_5 { Sei gegrüßt! Ich bin Pwyll. Willkommen in unserem Lager. }
+
+Plh_8 { Da bist du ja wieder! Ich hab gerade an dich gedacht. }
+
+Plh_9 { Ich grüße dich auch. Mein Name ist $GVAR:EVars_Player.Name$. }
+
+Plh_10 { Wer seid ihr, und was macht ihr hier? }
+
+Plh_12 { Gleich zwei Fragen, die sich nicht so leicht beantworten lassen! Wer bin ich? Was mache ich hier? Das frage ich mich immerzu! }
+
+Plh_13 { Aber du meinst das wahrscheinlich eher ... bodenständig. Nun, wir sind Leute, die sich gern aus Konflikten raushalten, wie sie so oft in dieser Welt vorkommen. }
+
+Plh_14 { Die meisten Leute im Wald sind Gesetzlose. Banditen. Wir nicht. Wir wollen nur in Frieden leben. }
+
+Plh_16 { Ist es nicht gefährlich hier? }
+
+Plh_17 { Wie ist das Leben hier im Wald? }
+
+Plh_18 { Ach, meine Freunde Wind und Babsi sind unterwegs. Die kommen bestimmt bald wieder. *grinst* }
+
+Plh_19 { Ganz schön großes Lager für zwei ... }
+
+Plh_20 { Gefährlich? Mhmmm ... }
+
+Plh_21 { Man kann hier sehr angenehm leben. Natürlich hat man nicht alle Bequemlichkeiten, aber man muss eben seine Fähigkeiten einsetzen! }
+
+Plh_22 { Ich bin übrigens $GVAR:EVars_Player.Name$. }
+
+Plh_23 { *lächelt* Schön, dich kennenzulernen, $GVAR:EVars_Player.Name$. Kann ich dir irgendwie helfen? }
+
+Plh_24 { Eigentlich nicht. }
+
+Plh_25 { Ich bin erst vor Kurzem hier angekommen und fühle mich von allem ... überwältigt. }
+
+Plh_26 { *lächelt* Das ist schön zu hören. }
+
+Plh_27 { Wenn du mit irgendwem darüber reden möchtest, was du erlebt hast ... ich habe für dich immer ein offenes Ohr. }
+
+Plh_28 { *neigt den Kopf* Erst angekommen? Hier in dieser Welt? Dann wird dich viel verwirren. }
+
+Plh_29 { Wenn dir danach ist, kannst du mir gern von deinen Reisen in Drova erzählen. }
+
+Plh_32 { *lächelt* Vielen Dank für deine Zeit. Es ist immer schön, etwas von der Welt da draußen mitzubekommen. }
+
+Plh_33 { Du bist hier immer willkommen, wenn du mir etwas berichten oder einfach mal durchatmen möchtest! }
+
+Plh_34 { Ich kann mich nur dunkel erinnern ... wie ich hierhergekommen bin. }
+
+Plh_36 { Zwei Druiden haben mit einem Kristall das Dorf verlassen. Ich hörte Gerüchte von Drova und Nemeton und wollte wissen, was sie vorhaben. }
+
+Plh_37 { Nach Maerons Tod haben Venia und ich es irgendwie geschafft, mit dem Keiler nach Drova zu kommen. Doch leider ist sie dabei gestorben ... }
+
+Plh_38 { Ich habe einen mächtigen Kristall bekommen. Ha! Sieht so aus, als wäre ich auserwählt. }
+
+Plh_39 { Ich bin an Holzfällern vorbeigekommen ... }
+
+Plh_40 { Die Holzfäller waren ziemliche Jammerlappen. Pah. }
+
+Plh_41 { Die Holzfäller sind stark ausgedünnt, weil es ihnen an Schutz fehlt. }
+
+Plh_42 { Sie hatten weder Nahrung noch Schutz. Die Armen. Ich musste ihnen helfen ... }
+
+Plh_43 { Ich hab ihnen so gut geholfen, wie ich konnte. Es sollte ihnen bald besser gehen. }
+
+Plh_44 { War für mich nicht viel Arbeit ihnen zu helfen. Jetzt müssen sie nicht mehr so jammern. }
+
+Plh_45 { Ich habe mich gefragt, warum Nemeton nicht mehr unternimmt, um ihnen zu helfen. }
+
+Plh_46 { Das klingt nach einer fordernden Zeit für dich. Aber offenbar hast du einen scharfen Verstand, und den braucht man hier auch! }
+
+Plh_47 { Das klingt alles sehr ... aufregend. Es freut mich, dass du wohlauf bist. Und ich hoffe, du schaffst es, einen Druiden zu finden, der dir weiterhilft. Leider ist es nicht ganz leicht, an sie heranzukommen. Aber auch nicht unmöglich. *grinst* }
+
+Plh_48 { Das klingt, als hättest du in deiner kurzen Zeit hier schon eine Menge durchmachen müssen. Aber du hast auch viel geschafft und viel geholfen! }
+
+Plh_49 { Das klingt, als hättest du nicht direkt die schrecklichsten Seiten von Drova kennengelernt. Wie schön! }
+
+Plh_52 { Ich habe schon von zwei großen Lagern in Drova gehört. }
+
+Plh_53 { Und, was hältst du von ihnen? }
+
+Plh_55 { Ich habe ein gutes Gefühl beim Ruinenlager. }
+
+Plh_56 { Ich glaube an Nemeton, dafür sind wir hier. }
+
+Plh_57 { Ich werde mir beide Lager näher anschauen, bevor ich mich entscheide. }
+
+Plh_58 { Ich hab eigentlich keine Lust auf diese Lager, aber irgendwo muss ich ja bessere Ausrüstung herbekommen. }
+
+Plh_59 { Hmhm. Ich bin gespannt, wo dich deine Reise letztlich hinführen wird! }
+
+Plh_60 { Ich habe riesige Ruinen gesehen! Wie konnten Menschen damals solche Bauwerke errichten? }
+
+Plh_61 { Die Ruinen der Vergangenen sind imposant, nicht wahr? Ich habe mich das auch schon oft gefragt ... sie müssen selbst wie Göttliche gewesen sein. }
+
+Plh_62 { Und was ist geschehen, dass sie alle verschwunden sind ... vergangen? }
+
+Plh_64 { Ich habe mich Nemeton angeschlossen! }
+
+Plh_65 { Ich habe mich dem Ruinenlager angeschlossen! }
+
+Plh_67 { Wie schön! Herzlichen Glückwunsch! }
+
+Plh_69 { Wie hast du das denn geschafft? Es heißt ja immer, die lassen niemanden rein. }
+
+Plh_70 { War wahrscheinlich gar nicht so einfach, wie alle sagen, oder? }
+
+Plh_71 { Wenn man nicht völlig bescheuert ist, ist es eigentlich ganz einfach. }
+
+Plh_72 { Es gab einiges zu erledigen, aber nichts, was man nicht schaffen kann. }
+
+Plh_73 { Ich kann mir vorstellen, dass das für einige Leute eine gewaltige Herausforderung ist. Vielleicht hatte ich einfach Glück. }
+
+Plh_75 { Zuerst musste ich überhaupt nach Nemeton reinkommen. }
+
+Plh_77 { Ich sag mal so, es gibt nichts, was ein paar Münzen nicht regeln könnten. Wenn man sie hat, haha! }
+
+Plh_78 { Eine Fraktion wäre dämlich, jemanden wie mich abzulehnen. }
+
+Plh_79 { Ich wurde auf eine Katze aufmerksam, die mich über einen kleinen Umweg reingebracht hat. }
+
+Plh_80 { Ich habe einem Händler geholfen, der mich reingeschmuggelt hat. }
+
+Plh_81 { Ich habe mich bewiesen, indem ich bei Georgs Hof ausgeholfen habe. }
+
+Plh_83 { Nicht dein Ernst! }
+
+Plh_84 { DAS hat funktioniert? }
+
+Plh_85 { Wie ging es dann weiter? }
+
+Plh_87 { Es war nichts Besonderes, aber es war ehrliche Arbeit. }
+
+Plh_88 { Ich hätte mit meiner Zeit was Besseres anfangen können, aber das wussten die Leute in Nemeton da noch nicht. }
+
+Plh_89 { Die Leute haben es dort nicht leicht, aber ich konnte zum Glück allen etwas unter die Arme greifen. }
+
+Plh_90 { Danach durfte ich dann nach Nemeton und sollte verschwundene Waffenlieferungen aufklären. }
+
+Plh_92 { Wenn die alle miteinander gesprochen hätten, wäre die Situation schnell geklärt gewesen. }
+
+Plh_93 { Die hingen sich alle gegenseitig an der Gurgel. Ich habe alles getan, damit sie wieder zueinander finden. }
+
+Plh_94 { Kaum da, muss ein Neuling wie ich direkt eine Katastrophe abwenden ... ein Glück, dass ich zur rechten Zeit am rechten Ort war. }
+
+Plh_96 { Am Ende war wie so oft eine verbitterte Person das Problem, die Schwächere ausgenutzt hat. }
+
+Plh_97 { Da ist eigentlich nur der Konflikt zwischen den beiden Lagern hochgekocht ... }
+
+Plh_98 { Der Täter hat mich unterschätzt und ich ihn überführt. Selbst schuld. }
+
+Plh_99 { Die alte Geschichte. Ich bin froh, dass du sie zu einem guten Ende bringen konntest. }
+
+Plh_100 { Zum Glück konntest du die Sache aufklären. Wenn die Lager sich bekriegen, ist das schlecht für alle hier. }
+
+Plh_101 { Kein Problem für $GVAR:EVars_Player.Name$. *schmunzelt* }
+
+Plh_102 { Von Menschen wie dir kann man wirklich nicht zu wenige haben. }
+
+Plh_103 { *mustert dich* Eine ordentliche Rüstung hat es dir auch eingebracht. Nicht schlecht, nicht schlecht. }
+
+Plh_104 { Zuerst musste ich beide von Jeros Klingen von mir überzeugen. }
+
+Plh_107 { Es waren ein paar Aufgaben dabei, die ich nicht so gern erledigt habe, aber manchmal geht es nicht anders. }
+
+Plh_108 { Es war eine interessante Gelegenheit, etwas mehr über das Lager zu erfahren. }
+
+Plh_109 { Sagen wir mal, ich habe die Fähigkeit, Leute von mir zu überzeugen. }
+
+Plh_111 { Um die Arbeit in der Silbermine bin ich aber nicht rumgekommen. }
+
+Plh_113 { Ich verstehe nicht, wieso sich so viele dort halb tot arbeiten. War froh, wieder draußen zu sein. }
+
+Plh_114 { Ich habe mich direkt gefragt, wofür das Ruinenlager das ganze Silber braucht. }
+
+Plh_115 { Die Menschen dort arbeiten hart, aber dadurch haben sie auch einen starken Bund. }
+
+Plh_117 { Die Schwächeren leiden dort. Ich habe geholfen, wo ich konnte. }
+
+Plh_118 { Durch Glück im Unglück musste ich nicht lange als Hauer arbeiten. }
+
+Plh_119 { Zwischen den Gestalten dort fiel es mir zum Glück leicht, mich zu beweisen. }
+
+Plh_120 { Du bist wirklich ein Segen für die Menschen dieses Landes, $GVAR:EVars_Player.Name$. }
+
+Plh_121 { Wo es einen wohl in Drova hinbringt, wenn man einen kühlen Kopf bewahrt? Ich bin gespannt. }
+
+Plh_122 { Ich habe nichts anderes von dir erwartet. }
+
+Plh_124 { Ich habe mich um die Reißer im Wald gekümmert! }
+
+Plh_125 { Ah, ich hab's mir doch gedacht, dass du das warst! Hab gehört, dass Faol sich darum gekümmert haben soll. Ich mag ihn, aber er ist eigentlich zu vorsichtig, um sich so einer Bedrohung zu stellen. }
+
+Plh_126 { Vielen Dank, $GVAR:EVars_Player.Name$. Du hast diesem Wald und all seinen Bewohnern einen großen Dienst erwiesen. }
+
+Plh_127 { Geschenkt. }
+
+Plh_128 { Es war nicht einfach. }
+
+Plh_129 { Jetzt muss niemand mehr Angst vor den Reißern haben. }
+
+Plh_130 { Auf dich ist Verlass. }
+
+Plh_131 { Willkommen in unserem Lager. }
+
+Plh_132 { Hey! Gut siehst du heute aus. }
+
+Plh_133 { *sieht etwas blass aus und scheint dich nicht zu bemerken* }
+
+Plh_135 { Ich habe eine Reise in den Düsterwald erfolgreich abgeschlossen! }
+
+Plh_136 { Du warst im Düsterwald?! Davon musst du erzählen! Komm, wir setzen uns. }
+
+Plh_137 { (hinsetzen) }
+
+Plh_138 { Ich gehe öfter am Waldrand spazieren, aber traue mich nicht dort hinein. Er wirkt so tief und unheimlich. Was ist darin? Erzähl! }
+
+Plh_139 { Schwarze Flammen verbrennen das Licht, aber der Wald hat sich angepasst. Ein faszinierender Ort. }
+
+Plh_140 { Man fühlt sich gleichermaßen ruhig und ängstlich zwischen den riesigen Bäumen und leuchtenden Pflanzen. Ein Ort mit Geschichte ... }
+
+Plh_141 { Da stehen halt Bäume und überall leuchtet irgendwas. Aber unterm Strich ist es auch nur ein Wald ... }
+
+Plh_142 { Darin ist eine Zuflucht von Menschen, aber die musste ich erst einmal finden ... }
+
+Plh_145 { Ganz ehrlich ... die Leute in der Zuflucht sind komisch. "Schaut mal, wir sind keine Menschen und fallen gar nicht auf." }
+
+Plh_146 { Die Menschen im Wald huldigen dem Großen Keiler und versuchen, im Einklang mit dem Wald zu leben. Ich habe viel über sie erfahren. }
+
+Plh_147 { Die Menschen in der Zuflucht haben es geschafft, ihr Leben dem Wald anzupassen, als wären sie ein Teil von ihm. Ich habe mich bei ihnen sicher gefühlt. }
+
+Plh_149 { Nachdem ich mehr über ihr Leben und ihre Tugenden erfahren habe, haben sie mich aufgenommen. }
+
+Plh_150 { Was waren das denn für Tugenden? Und wie hast du sie gelernt? }
+
+Plh_151 { Eine der Tugenden war Barmherzigkeit. Um diese zu beweisen, habe ich bei der Aufzucht von Frischlingen geholfen. }
+
+Plh_152 { Die Frischlinge waren so putzig! Ich durfte mich um sie kümmern und dabei die Tugend der Barmherzigkeit spüren. }
+
+Plh_153 { Hab die schnell wieder vergessen, waren nicht so spannend. }
+
+Plh_155 { Ach, $GVAR:EVars_Player.Name$! }
+
+Plh_156 { Du schaust für dein Lager lieber in die Zukunft als in die Vergangenheit, hm? }
+
+Plh_157 { Die nächste Tugend war Mut ... }
+
+Plh_158 { Ein Bär hatte sich verirrt und war eine Gefahr für die Harmonie im Wald, ich musste mich ihm stellen. }
+
+Plh_159 { Ich musste mich einem verirrten Bären stellen ... in einem dunklen, fremden Wald! Das war nicht einfach, aber ich hab es geschafft. }
+
+Plh_161 { Die letzte Tugend war Verbundenheit. Wurde mir aus Versehen verraten, aber hätte ich auch selbst drauf kommen können. }
+
+Plh_162 { Dann fehlte noch die Verbundenheit. Die wurde mir versehentlich verraten, aber man konnte sie überall im Lager spüren, bei allen dort. }
+
+Plh_163 { Das sind gute Werte, nach denen es sich zu leben lohnt. Ich wünschte, die Lager würden auch so etwas folgen und lehren ... }
+
+Plh_164 { Wie wurdest du dann bei ihnen aufgenommen? }
+
+Plh_165 { Bei einer Zeremonie hat mich ein kleines Leuchtwesen, ein Funke, auserwählt. Das war wohl ein gutes Zeichen. }
+
+Plh_166 { Ein Funke hat sich zu mir hingezogen gefühlt, und ich zu ihm. Das war für die Menschen in der Zuflucht genug. }
+
+Plh_167 { Ich wusste gar nicht, was los war. So'n kleines Leuchtding ist auf mir gelandet, das war's. }
+
+Plh_168 { Das scheint ja wirklich eine interessante Gruppe im Düsterwald zu sein. Mal schauen, vielleicht bekomme ich die anderen überredet, sie zu besuchen. Alleine traue ich mich da weiter nicht rein. }
+
+Plh_169 { Danke für deinen Bericht. Ich bin gespannt, wohin deine Reise dich noch führt. *grinst* }
+
+Plh_170 { Verzeih mir, aber nun habe ich noch etwas vor mir, was ich gerne fertigstellen würde. }
+
+Plh_171 { Wir sehen uns! }
+
+Plh_172 { Ich hab leider etwas zu tun. Wir reden später! }
+
+Plh_176 { *räuspern* }
+
+Plh_177 { Hallo? Pwyll? }
+
+Plh_178 { Hey, Pwyll, ist alles in Ordnung? }
+
+Plh_179 { Oh, hallo, $GVAR:EVars_Player.Name$. Ich habe dich gar nicht bemerkt. Schön, dich zu sehen. Was gibt's? }
+
+Plh_180 { Der Düsterwald ... Pwyll ... wir ... wir haben ihn zerstört ... alles! *Träne wegwischen* }
+
+Plh_181 { Wir haben eine Expedition ins Herz des Düsterwaldes gemacht. Es lief etwas ... anders als gedacht. }
+
+Plh_182 { Wir haben es geschafft, Pwyll! Wir haben einen Göttlichen gefangen! Der Düsterwald ist halt hinüber, aber wo gehobelt wird, fallen Späne. }
+
+Plh_183 { Hey, hey, alles gut, alles gut! Komm mal her. }
+
+Plh_184 { (zu Pwyll gehen) }
+
+Plh_185 { Ich habe gespürt, dass der Wald sich verändert hat ... }
+
+Plh_186 { Ich bereue, was passiert ist ... aber ich habe es tun müssen. Meine Rolle erfüllen. }
+
+Plh_187 { Es musste sein, wenn wir von hier weg wollen. Nicht zu ändern. }
+
+Plh_188 { Es gab keine andere Möglichkeit, wenn wir wirklich Drova zum Land der Sagen machen wollen. }
+
+Plh_189 { *atmet tief durch* }
+
+Plh_190 { *er gibt dir eine warme Umarmung* }
+
+Plh_191 { Wir können nicht alles kontrollieren. }
+
+Plh_192 { Wir können nicht alles beeinflussen. Nicht alles lenken. Aber wir können spüren, was etwas mit uns macht. Und das tust du. Das ist gut. }
+
+Plh_193 { Wir machen Fehler. Wir lernen. Auch aus den schlimmen Dingen, die wir nicht rückgängig machen können. Aber wir dürfen nicht daran zerbrechen. }
+
+Plh_194 { *Umarmung lösen* Danke, Pwyll. }
+
+Plh_195 { *weinen* }
+
+Plh_196 { Ich bin mir sicher, dein Weg wird zu einem guten Ende führen. Ich glaube an dich! }
+
+Plh_197 { Ich bin bei dir. }
+
+Plh_198 { Ich werde jeden Stein umdrehen, wenn es nötig ist. Für eine bessere Zukunft! }
+
+Plh_199 { *tief durchatmen* Ich habe Zweifel ... }
+
+Plh_200 { Wenn einer aus dieser bescheuerten Welt noch was machen kann, dann ich. }
+
+Plh_202 { Warte, ich habe eine Kleinigkeit für dich. Nur noch den letzten Schliff ... }
+
+Plh_203 { Für dich! }
+
+Plh_204 { Es ist eine Maske, die deinen Charakter widerspiegeln soll. Ich hoffe, sie gefällt dir. *lächelt* }
+
+Plh_205 { Und bei mir steht eine Veränderung an. Hier ist es zu gefährlich geworden, auch wenn Babsi ihr Bestes gegeben hat. Ich werde meine Freunde wieder in eine größere Gemeinschaft bringen. }
+
+Plh_206 { Äh ... danke, Pwyll. }
+
+Plh_207 { Ich werde sie für immer bei mir tragen. }
+
+Plh_208 { Das wäre nicht nötig gewesen. Also, wirklich nicht. }
+
+Plh_209 { Ich habe das Gefühl, dass für mich noch eine größere Reise ansteht ... *grinst* Die Göttlichen führen jeden auf seine Weise. Es hat mich gefreut, dich kennenzulernen, $GVAR:EVars_Player.Name$. Viel Glück auf deinem Weg. }
+
+Plh_210 { Hey, $GVAR:EVars_Player.Name$. Ich bin immer froh, wenn ich dich sehe. *grinst* }
+
+Plh_213 { Wir haben alle mal Zweifel, $GVAR:EVars_Player.Name$. Lass dich nicht von ihnen lähmen und vertraue deinem Gefühl. Du schaffst das! }
+
+Plh_214 { Schau sie dir erst an. *zwinkert* }
+
+Plh_216 { Wobei Wind jetzt wirklich schon lange weg ist ... Verbringt gerne seine Zeit in der Taverne im Süden des Waldes. Ist auch ziemlich gemütlich dort. }
+
+Plh_217 { In letzter Zeit machen allerdings wirklich viele Reißer den Wald unsicher. Die Fähigkeit, ihnen nicht zu begegnen, ist also besonders gefragt. }
+
+Plh_218 { Es hat mich auch gefreut, Pwyll. Danke fürs Zuhören, und passt auf euch auf! }
+
+Plh_219 { Wohin willst du denn reisen? }
+
+Plh_220 { Ich hab dir so viel erzählt, und alles, was ich bekomme, ist eine lausige Maske? }
+
+Plh_224 { Ich will dir etwas erzählen. }
+
+Plh_225 { Ich höre dir gerne zu, rede dir alles vom Herzen. }
+
+Plh_227 { Ich hab mich in der alten Welt nicht mehr wohlgefühlt. Bin den Druiden und ihrem Kristall nachgeschlichen, in der Hoffnung, nach Drova zu kommen. }
+
+Plh_228 { Die Druiden haben sich mit einem mysteriösen Kristall aus dem Staub gemacht. Ich hatte nichts Besseres zu tun, als ihnen nachzulaufen ... }
+
+Plh_229 { In den Nebelpfaden haben wir den Göttlichen mit dem Kristall beschworen. Er hat uns mit sich nach Drova gezogen. Nur ich habe es überlebt. }
+
+Plh_230 { War ziemlich viel Heimlichtuerei und gefährlich. Doch am Ende bin ich in Drova gelandet. Nur das zählt. }
+
+Plh_231 { Die armen Druiden. Ich wünschte, sie hätten es auch nach Drova geschafft. Ich muss Venias letzten Wunsch erfüllen ... }
+
+Plh_232 { Venia hat mir den Kristall gegeben und meinte, dass er zu den Druiden gelangen muss. Bin gespannt, was es mit ihm auf sich hat. }
+
+Plh_233 { Ich habe den Leuten geholfen, aber die Tugenden kann ich dir nicht verraten. Jeder muss sie selber herrausfinden. }
+

@@ -1,0 +1,514 @@
+Plh_4 { *murmelt in seinen Bart* Könnte so gehen ... vielleicht sollte ich das "ungeschlagen" weglassen ... }
+
+Plh_2 { Was machst du hier? }
+
+Plh_3 { Wann geht der Kampf los? }
+
+Plh_5 { Ich bin Antonius Proximus! Herr der Arena! Wir sind die Gezeichneten! Und bei mir kannst du Wetten abgeben! }
+
+Plh_6 { Kann ich auch kämpfen? }
+
+Plh_7 { *schaut an dir hoch und runter* Kannst du. Ein paar Sekunden lang, dann bist du gevierteilt worden. Wenn du dich umbringen willst, mach das anders, aber nicht in meiner Arena. }
+
+Plh_8 { *stößt die Luft aus* Der Kampf sollte längst angefangen haben! Aber Gra und Bady tauchen einfach nicht auf! }
+
+Plh_9 { Du kannst hier nicht so einfach weg, oder? }
+
+Plh_10 { Warum schaust du nicht einfach, wo sie bleiben? }
+
+Plh_11 { Ich muss hier alles organisieren und Wetten annehmen. Also? Suchst du sie für mich? }
+
+Plh_12 { Endlich denkt mal jemand mit! Ich kann hier nicht weg. Du schon! }
+
+Plh_13 { Wenn du dafür sorgst, dass Bady und Gra hier auftauchen, dann siehst du den Kampf deines Lebens! Gra will zu alter Größe zurückfinden und tritt gegen den ewigen Sieger Bady an! }
+
+Plh_14 { Also husch, husch! Wir müssen hier einen guten Kampf liefern! }
+
+Plh_15 { Wieso sollte ich dir helfen? }
+
+Plh_17 { Weil du den Kampf wahrscheinlich selbst sehen willst! Na gut ... komm ... gib darauf eine Wette ab, und ich lege noch $GVAR:QuestVars_BetThat_Config.ExtraReward$ Münzen aus meinem Säckel obendrauf! }
+
+Plh_18 { Perfekt! Bady trainiert wahrscheinlich, und Gra hat irgendwas gefaselt, dass er zu den Göttlichen beten will. Vielleicht im Tempel, westlich vom Marktplatz. }
+
+Plh_20 { Falls du doch drum gekümmert hast, melde dich bei mir. }
+
+Plh_21 { Bady und Gra sind immer noch nicht hier. Hilfst du mir jetzt endlich? }
+
+Plh_22 { Ich will auf den Kampf zwischen Bady und Gra wetten. }
+
+Plh_23 { Gerne, gerne. Wie viel willst du setzen? }
+
+Plh_24 { $GVAR:QuestVars_BetThat_Config.LowBetAmount$ Münzen. }
+
+Plh_25 { $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ Münzen. }
+
+Plh_26 { $GVAR:QuestVars_BetThat_Config.HighBetAmount$ Münzen. }
+
+Plh_27 { Da traut sich jemand was! }
+
+Plh_28 { Mutig. Oder närrisch? Wir werden sehen. }
+
+Plh_29 { Kleinvieh. Hm. }
+
+Plh_30 { Die meisten Leute wetten auf Bady. Nur ein paar Verrückte setzen ihre Münzen auf Gra. Auf wen willst du setzen? }
+
+Plh_31 { Bady. }
+
+Plh_32 { Gra. }
+
+Plh_35 { Du willst $GVAR:QuestVars_BetThat_Config.LowBetAmount$ Münzen auf Bady setzen. Willst du diese Wette abschließen? }
+
+Plh_36 { Du willst $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ Münzen auf Bady setzen. Willst du diese Wette abschließen? }
+
+Plh_37 { Du willst $GVAR:QuestVars_BetThat_Config.HighBetAmount$ Münzen auf Bady setzen. Willst du diese Wette abschließen? }
+
+Plh_38 { Ja. }
+
+Plh_39 { Nein, ich will eine andere Wette abschließen. }
+
+Plh_40 { Ich möchte doch nicht wetten. }
+
+Plh_41 { Du willst $GVAR:QuestVars_BetThat_Config.LowBetAmount$ Münzen auf Gra setzen. Willst du diese Wette abschließen? }
+
+Plh_42 { Du willst $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ Münzen auf Gra setzen. Willst du diese Wette abschließen? }
+
+Plh_43 { Du willst $GVAR:QuestVars_BetThat_Config.HighBetAmount$ Münzen auf Gra setzen. Willst du diese Wette abschließen? }
+
+Plh_44 { Alles klar! Dann musst du mir nur noch die Münzen geben. }
+
+Plh_45 { Kein Problem. Wie viel willst du setzen? }
+
+Plh_46 { Hmpf. Na gut. Wie du willst. }
+
+Plh_47 { Seeehr gut. *zählt die Münzen* Komm wieder zu mir, wenn der Kampf vorbei ist. }
+
+Plh_49 { Ach - die beiden Kämpfer haben sich gemeldet. Ich lege 50 Münzen bei dir drauf. Wie versprochen. }
+
+Plh_52 { Gra und Bady sind bereit für den Kampf. }
+
+Plh_53 { Die beiden haben sich bei mir gemeldet. Danke. Bald geht's los, dann fließt wieder Blut. }
+
+Plh_54 { Endlich! Das Blut soll fließen! }
+
+Plh_55 { Ich komme später wieder. }
+
+Plh_56 { Der Kampf beginnt am Abend, und er wird die Mengen begeistern. Lass uns zusammen hingehen. }
+
+Plh_57 { Viel länger kann ich den Kampf nicht rauszögern. Und nach deiner Hilfe darfst du den nicht verpassen! Sag Bescheid, ich mach 'ne Ausnahme, bis du fertig bist. }
+
+Plh_59 { Der Arenakampf kann beginnen. }
+
+Plh_61 { Der Kampf, auf den alle gewartet haben! }
+
+Plh_62 { Der gewaltige Bady tritt heute gegen den Bluterben Gra an! }
+
+Plh_63 { Findet Gra seine Stärke wieder? Oder bleibt Bady obenauf? Nur hier! Nur heute! Es wird ein Gemetzel! }
+
+Plh_64 { Nimm's nicht persönlich, Gra. Heute ist mein Tag. Auf einen fairen und ehrenhaften Kampf! }
+
+Plh_65 { Ich hab meine Snaga wieder, Bady. Du solltest fliehen, solange du noch kannst! }
+
+Plh_66 { Auf einen fairen und ehrenhaften Kampf! Blut und Stahl! }
+
+Plh_67 { ... JETZT beginnt der Kampf! }
+
+Plh_68 { Hört ihr das, Leute? Diese Stille, bevor Stahl aufeinandertrifft! Bevor die Schneiden klirren und das Blut spritzt! Gleich ... gleich ... }
+
+Plh_69 { Aus, aus, der Kampf ist aus! }
+
+Plh_70 { Und der Gewinner und ewiger Sieger: Baaaaaaaaaaaaaaaaaaady! Was für ein Kampf! }
+
+Plh_71 { Niemand hat es ahnen können. Keiner hat an ihn geglaubt. Doch heute ist der Sieger: GRAAAAAAAAA! }
+
+Plh_72 { Wer richtig gewettet hat, kann zu mir kommen und ausgezahlt werden. Und wenn ihr falsch gelegen habt ... mehr Glück beim nächsten Arenakampf! }
+
+Plh_74 { Hehehe, dann rück mal meinen Gewinn raus, Proximus. Naaa, wer lacht jetzt? }
+
+Plh_75 { *knirscht mit den Zähnen* Nimm. Und hau ab. }
+
+Plh_79 { *wendet sich dir zu* Und du! Hast auch auf Gra gesetzt. Nimm. Hmpf. }
+
+Plh_80 { Proximus! Du Mistkerl! Alter Abzocker! }
+
+Plh_81 { Wer wettet, kann verlieren. Sollte dir bewusst sein. Und du weißt ja ... Wettschulden sind Ehrenschulden. }
+
+Plh_82 { *wendet sich dir zu* Und du! Hast auch auf Bady gesetzt. Nimm. Hmpf. }
+
+Plh_83 { *wendet sich dir zu* Tja, zu schade. Man kann nicht immer gewinnen. *grinst* Viel Glück beim nächsten Mal. }
+
+Plh_85 { *grinst dich an* Hier für dich. Hast gute Arbeit geleistet. Gra hat gewonnen, die Münzen klimpern in meinen Taschen. }
+
+Plh_87 { Hey, du Holzkopf wolltest den Kampf manipulieren! Nichts hast du getan! Ich werde Boris vor dir warnen ... }
+
+Plh_88 { Ach, so eine Scheiße. Geh mir aus dem Weg! }
+
+Plh_109 { Ich hab nicht vergessen, dass du mir geholfen hast, den Kampf auf den Weg zu bringen. Und ich hab dir was versprochen ... }
+
+Plh_114 { Kann ich in der Arena kämpfen? }
+
+Plh_116 { Hast dich gut geschlagen, kam mir zu Ohren. In Ordnung - du bekommst deine Chance. Komm nach dem Hauptkampf heute Abend zu mir. }
+
+Plh_118 { Ich werde bei Boris in den höchsten Tönen von dir sprechen. }
+
+Plh_119 { Dein Anteil. Es war mir eine Freude, Geschäfte mit dir zu machen. *grinst* }
+
+Plh_120 { *klopft sich mit einem Arm auf die Brust* WRAAAAAAAAAGH! BLUT UND STAHL! }
+
+Plh_125 { Wenn du wetten willst, schreibe ich sie in meinem Haus auf. Und nur dort. }
+
+Plh_127 { Für mich kämpfen nur die Besten von Drova! Du brauchst erst mal eine vernünftige Ausrüstung. Und die richtige Einstellung. Komm dann wieder. }
+
+Plh_132 { Eugen schickt mich. Er meint, ich wäre für die Arena geeignet. }
+
+Plh_133 { Ich komme von Nemeton. Angus meint, ich könnte in der Arena kämpfen. }
+
+Plh_134 { Eugen? Das will was heißen. Der könnte hier auch kämpfen, aber der blutet nur, wenn er besoffen irgendwo anstößt. Verschwendung ... }
+
+Plh_135 { Mir egal, woher du kommst, solange du nur ordentlich kämpfst und nicht umkippst, wenn du Blut siehst. Das eigene oder von anderen. }
+
+Plh_136 { Ich kann nicht jeden in meiner Arena kämpfen lassen. Musst mir schon beweisen, dass du keine Nulpe bist. }
+
+Plh_137 { Mog ist ein ordentlicher Kerl. Ist auch noch recht neu hier und ein bisschen ungestüm. Aber er hat Feuer, und genau so was erwarte ich! }
+
+Plh_138 { Stell dich ihm gegenüber. Wenn du ihn besiegst, nehme ich dich in die Riege meiner Leute auf. }
+
+Plh_139 { Wenn du aus Nemeton kommst, heißt das aber, dass du schon mal eine Waffe gehalten hast. }
+
+Plh_141 { Ich habe Mog besiegt. Kann ich jetzt in der Arena kämpfen? }
+
+Plh_142 { Der Kampf zwischen $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ und $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ ist vorbei! $GVAR:DAS_ArenaSystem.MainFight_WinnerName$ hat gewonnen! }
+
+Plh_143 { Wir Arenakämpfer sind eine Gemeinschaft der Gezeichneten. Wir interessieren uns nicht dafür, woher jemand kommt. Wer gezeichnet wird, wird neu geboren. }
+
+Plh_144 { Hast einen ordentlichen Schlag, aber an deiner Deckung musst du noch arbeiten. }
+
+Plh_145 { Gestern warst du nicht dabei. Aber heute kommst du mit. }
+
+Plh_150 { Ich habe Mog besiegt! }
+
+Plh_152 { *ruft* Heute Abend kämpft $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ gegen $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. Die Wetten sind offen! }
+
+Plh_153 { Ich will auf den nächsten Kampf wetten. }
+
+Plh_154 { Natürlich, es kämpfen $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ gegen $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. Der Einsatz beträgt $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ Münzen. Auf wenn willst du wetten? }
+
+Plh_155 { Du willst wetten? Dann komm nachher zu mir. Hier mache ich das nicht. }
+
+Plh_156 { Ich wette auf $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_157 { Ich wette auf $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_161 { Wenn die Sonne ihre letzten Strahlen auf Drova scheint, kommt es zum Arenakampf. Meine Krieger treten an! Man kann wetten, wer gewinnt ... und so Münzen verdienen. }
+
+Plh_162 { Wie genau funktioniert das mit der Arena? }
+
+Plh_163 { Schau dir ruhig meine Leute an. Sie trainieren den ganzen Tag in der Arena. Aber nur die Besten dürfen zum Hauptkampf antreten! }
+
+Plh_164 { Nicht schlecht. Vielleicht hast du doch das Zeug für die Arena. }
+
+Plh_170 { Mit den Waffen rumwedeln bringt nichts. Dumm rumhacken auch nicht. Man braucht auch Köpfchen! }
+
+Plh_171 { Ne Kopfnuss brauchst du! }
+
+Plh_174 { Ihr habt gut in der Arena gekämpft. Die Leute jubeln! So mag ich das! }
+
+Plh_175 { Ich mag Münzen. }
+
+Plh_176 { Typisch Nemeton ... nur Münzen im Kopf. Hier geht es um mehr! }
+
+Plh_177 { Pass auf, was du sagst. Sonst halte ich mich in der nächsten Runde nicht zurück. }
+
+Plh_178 { Jetzt kommt mal runter. Es ist noch jemand hier. }
+
+Plh_179 { Ich bin $GVAR:EVars_Player.Name$, und ich kämpfe ab sofort mit euch. }
+
+Plh_181 { Wir kämpfen nicht für Liebe, Münzen müssen rollen. }
+
+Plh_183 { Endlich sagt es jemand außer mir! }
+
+Plh_184 { $GVAR:EVars_Player.Name$ wird jetzt für uns kämpfen. Hat schon Mog besiegt, das will was heißen. }
+
+Plh_185 { Blaan, Dark und Carima sind Schildhände wie du. Ihr trainiert gemeinsam, ihr kämpft gegeneinander. Wer aufsteigt, darf in der Arena kämpfen. }
+
+Plh_186 { Nemeton, was? Dass du dich überhaupt hinter deinen Mauern vortraust ... }
+
+Plh_187 { Ha! Blaan! Das gibt's doch nicht! Wir kennen dich von den Holzfällern. Haben dich wohl motiviert zu kämpfen *grinst* }
+
+Plh_188 { Mehr Kämpfer, mehr Training. Darauf trinken wir! }
+
+Plh_190 { Das brennt schön in der Kehle! }
+
+Plh_191 { Warum empfiehlst du das? }
+
+Plh_192 { Du bist jetzt eine Schildhand. Alle sollen das sofort sehen. Daher wird dein Körper gezeichnet. }
+
+Plh_193 { Dann her mit dem Fusel ... }
+
+Plh_194 { Was für eine beschissene Idee ist das denn? }
+
+Plh_195 { Nein. Ohne mich. }
+
+Plh_196 { Es ist das Zeichen von Blut und Stahl. Alle Kämpfer tragen es. }
+
+Plh_197 { Knall ihn dir rein, dann brennt es nicht so! }
+
+Plh_199 { *noch einen trinken* }
+
+Plh_200 { *hinsetzen* }
+
+Plh_201 { Wir sind alle Brüder und Schwester in der Arena. Das ist unser Zeichen. }
+
+Plh_202 { Niemand wird gezwungen, seine Verbundenheit zu den anderen zu zeigen. Es ist einzig deine Wahl. }
+
+Plh_203 { Ich bin Ada, die Ungeschlagene, und wir werden dich in unsere Gemeinschaft aufnehmen. Setz dich hier hin. }
+
+Plh_204 { Schließ die Augen und umarme den Schmerz. Dein neues Leben beginnt ... jetzt. }
+
+Plh_206 { BEI ALLEN VERFICKTEN GÖTTLICHEN, DAS TUT WEH! }
+
+Plh_209 { Du bist gezeichnet. Öffne die Augen, Schildhand. }
+
+Plh_210 { Ich will alles miterleben. Fangen wir an. }
+
+Plh_211 { Das wirst du bereuen! }
+
+Plh_212 { Jetzt gehörst du zu uns. }
+
+Plh_213 { Ich will das wirklich nicht. }
+
+Plh_214 { Wie du in der Arena kämpfst, entscheidet darüber, ob du darin Platz hast. }
+
+Plh_215 { Du säufst ja mehr als ich. Nicht übertreiben, sonst schläfst du mit den Göttlichen. }
+
+Plh_216 { Gezeichnete! Darauf müssen wir trinken! Heute saufen, morgen kämpfen. So gefällt mir das! }
+
+Plh_217 { Auf $GVAR:EVars_Player.Name$! }
+
+Plh_218 { Was genau heißt Schildhand für mich? }
+
+Plh_219 { Du bist eine Klinge, der noch der finale Schliff fehlt. Noch unbrauchbar, aber später tödlich. }
+
+Plh_220 { Wir beide kämpfen morgen. Mit der zweihändigen Axt. Das wird ein Spaß! }
+
+Plh_221 { Sauf schön weiter, dann hab ich es leichter! }
+
+Plh_222 { Ich kann es kaum erwarten. }
+
+Plh_223 { Ein Großmaul, das gefällt mir! }
+
+Plh_224 { Hebt euch die Sprüche für den Kampf auf. }
+
+Plh_225 { Feiert. Sauft. Genießt diesen Tag. Hauptsache, ihr könnt in der Arena stehen und eine Waffe heben. Blut und Stahl! }
+
+Plh_227 { *wendet sich zu dir* Du musst noch üben, bevor ich dich vors Publikum treten lasse. Die erwarten was. }
+
+Plh_228 { Das klingt, als hättest du selbst schon gekämpft? }
+
+Plh_229 { Das wird nicht lange dauern. }
+
+Plh_230 { Ich werde dich nicht enttäuschen. }
+
+Plh_231 { *grinst selig* Lange her. Damals in Nemeton ... eine Arena hatten wir nicht. Die stammt von den Vergangenen. }
+
+Plh_232 { Glaube ich dir. Trainiere mit Carima und Blaan. }
+
+Plh_233 { Dank dir habe ich Snaga wieder. Kannst bleiben. }
+
+Plh_234 { Ich mag den Gestank nach Nemeton hier nicht ... }
+
+Plh_235 { Blut und Stahl! }
+
+Plh_236 { Ich rieche hier nur deine Niederlage morgen! }
+
+Plh_237 { Ich habe Bady nicht mehr gesehen, was ist mit ihm? }
+
+Plh_238 { Bady ist auf der Suche nach einem Gegner abgedampft. Aber der kommt wieder. Drova ist nicht so groß, und hier sind die besten Kämpfer. }
+
+Plh_239 { Nach der Niederlage gegen Gra wollte er trainieren gehen. Wo genau, weiß ich nicht. }
+
+Plh_240 { Ob du aus Nemeton oder dem Ruinenlager kommst, ist uns egal. }
+
+Plh_241 { Für uns zählt nur die Arena. Der Kampf. Der Wille. Die Tat. }
+
+Plh_242 { Du wirst zu uns gehören. Komm. Ich stelle dir deine Brüder und Schwestern vor. }
+
+Plh_243 { Ich bin für heute fertig. Da du Mog besiegst hast, ist es wohl an der Zeit, dass du bei den Gezeichneten aufgenommen wirst. }
+
+Plh_245 { Ich will gegen Ebru kämpfen. }
+
+Plh_252 { Wenn du richtig gesetzt hast, kannst du heute Abend nach dem Arenakampf deinen Gewinn abholen. Ansonsten ... nicht. }
+
+Plh_253 { Der Einsatz beträgt $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ Münzen. Auf einen in der Arena. Beim Gewinn gibt's eine fette Auszahlung! }
+
+Plh_255 { Dein Wetteinsatz hat sich gelohnt. Hier sind deine $GVAR:DAS_ArenaSystem.MainFight_BetAmountRewardForPlayer$ Münzen. }
+
+Plh_257 { Morgen Abend steht der nächste Kampf an. Du kannst wieder wetten, wenn dein Gold vermehren willst ... }
+
+Plh_258 { Du hast schon gewettet. Wie es ausgeht, erfährst du nach dem Kampf. }
+
+Plh_259 { Du hast nichts gewonnen. }
+
+Plh_261 { Ich will meinen Wetteinsatz holen. }
+
+Plh_263 { Der Kampf beginnt gleich. Ich muss noch etwas vorbereiten. }
+
+Plh_266 { Guter Kampf. Liandra war aber besser als du. }
+
+Plh_268 { Ich will gegen Liandra kämpfen. }
+
+Plh_269 { Ich will gegen die "Dunkle" kämpfen. }
+
+Plh_270 { Ich will gegen Ada kämpfen. }
+
+Plh_271 { Das sieht gut aus. Morgen Abend trittst du in die Arena! Ich bin gespannt, wie du abschneidest. Oder was dir abgeschnitten wird. }
+
+Plh_274 { Du hast alle besiegt. Fehlt noch Ada. Sie hat dich genau beobachtet. Das wird ein lustiger Kampf, hach! }
+
+Plh_275 { Heute kämpfst du. Sei bereit. }
+
+Plh_276 { Du kämpfst heute selbst in der Arena, und ich habe dein Einsatz schon. Auf sich selbst wetten ist verboten! }
+
+Plh_277 { Du bist nicht zum Kampf erschienen. Die Münzen habe ich auf die anderen verteilt. Sei besser nächstes Mal da. }
+
+Plh_278 { Die Arena ist wieder geöffnet. Jeden Abend gibt es hier aufs Maul! Das heißt auch, es gibt Wetten und Gewinne - auch für dich! }
+
+Plh_279 { Die "Dunkle" hat es dir gezeigt! Sie ist einfach eine meiner besten Kämpferinnen. }
+
+Plh_280 { Ebru kann nicht so gut mit Leuten. Es sei denn, er kann sie durch die Arena schleudern. }
+
+Plh_281 { Mit deinen Beulen verstehst du jetzt wohl auch, warum Ada die Arenameisterin ist! }
+
+Plh_282 { Deine Münzen sind jetzt weg, tja. Wenn du es noch mal versuchen willst ... du weißt, wo du mich findest. }
+
+Plh_283 { Ich will morgen kämpfen. }
+
+Plh_290 { Guter Kampf! Schnell ausgewichen, hast sie in die Enge getrieben. Das hat die Leute begeistert. }
+
+Plh_291 { Die Leute sind mitgegangen! Die "Dunkle" und du, ihr habt euch gut geschlagen, und du warst siegreich! }
+
+Plh_292 { Hast die Leute schnell auf deine Seite gezogen. Gut, gegen Ebru ist das leicht, den mag keiner. }
+
+Plh_294 { Du kannst der "Dunklen" entgegentreten. Liandra ist fast so stark wie sie, aber die "Dunkle" hat immer gewonnen. Ich glaube, sie hält sich sogar noch zurück. Das wird spannend! }
+
+Plh_295 { Du hast alle besiegt ... außer Ada. Der Hauptkampf kann kommen. }
+
+Plh_296 { Liandra brennt darauf, gegen dich zu kämpfen. Also macht mal. Aber pass auf ... sie ist nicht Ebru. }
+
+Plh_297 { Die ungeschlagene Ada hat ... verloren! Der Arenasieg geht an $GVAR:EVars_Player.Name$! }
+
+Plh_303 { Dein Name klingt sehr untypisch, woher kommt er? }
+
+Plh_304 { Mein Name ist ein Echo des Ruhms dieser Arena. Die Vergangenen haben sie erbaut. Ein Ort der Legenden. Vieler ruhmreicher Kämpfe. }
+
+Plh_305 { Ich habe Carima, Blaan und Dark besiegt. }
+
+Plh_307 { Wirklich? Na dann ... ich kann gerade Frischfleisch für die Arena gebrauchen! }
+
+Plh_308 { Mal schauen, wie du dich dort schlägst. }
+
+Plh_310 { Wenn du den Titel als Arenameister willst, musst du dich hocharbeiten. Nach Ebru kommen Liandra, die "Dunkle" und zum Schluss Ada. Die UNBESIEGTE Ada. }
+
+Plh_311 { Ich lasse dich gegen Ebru kämpfen. Du brauchst $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ Münzen. Abhängig davon, gegen wen du kämpfst und wie das Publikum wettet, bekommst du deinen Gewinn. }
+
+Plh_312 { Was ist, wenn ich die Münzen nicht haben? }
+
+Plh_313 { Ich bin bereit für den Kampf. }
+
+Plh_315 { Dann verdiene es dir irgendwo. Mir egal, wo. }
+
+Plh_316 { Hast du die $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ Münzen für den Kampf? }
+
+Plh_318 { Wenn du lernen willst, wie ein Gegner tickt, schau dir einen Kampf an. Dieser Rat ist kostenlos. }
+
+Plh_319 { Morgen geht's los. Ruh dich aus. Geh zur Taverne und trink was. Morgen musst du in Bestform sein. }
+
+Plh_320 { Es wird der Hauptkampf. Viel zu organisieren, kostet also mehr ... sagen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ Münzen. Wirft aber auch höheren Gewinn ab. }
+
+Plh_321 { Ich will kämpfen. }
+
+Plh_323 { Meld dich einfach bei mir. }
+
+Plh_327 { Ich verteile jetzt die Münzen. Aber für dich gibt's keine. }
+
+Plh_329 { Wir haben gut Münzen verdient. Natürlich bekommst du deinen Anteil. }
+
+Plh_330 { Kaum eine Sau hat auf dich gewettet, haha! Heißt, es gibt fette Gewinne. Viele Münzen ergeben viel Bier. Sehr schön! }
+
+Plh_331 { Ich empfehle dir einen ordentlichen Schluck, $GVAR:EVars_Player.Name$ ... }
+
+Plh_332 { Debug Head1 }
+
+Plh_333 { Debug Lose }
+
+Plh_334 { Debug Win }
+
+Plh_336 { Gleich morgen wieder? Gute Einstellung. }
+
+Plh_337 { Ungeschlagen ... nun ja ... }
+
+Plh_338 { Es war nur ein einziger Kampf! *knirscht mit den Zähnen* }
+
+Plh_339 { Schau den Tatsachen ins Gesicht. Du bist nicht mehr die ungeschlagene Ada. Sondern ... }
+
+Plh_340 { Die jammerlappige Ada. }
+
+Plh_341 { Die fast ungeschlagene Ada. }
+
+Plh_343 { Sie braucht keinen Spitznamen. Ada reicht. }
+
+Plh_344 { Das passt. }
+
+Plh_345 { *grummelt* Ich werde jetzt noch härter trainieren, um diese Scharte auszugleichen ... }
+
+Plh_346 { Du hast gut gekämpft und dir diesen Helm verdient. Nur der Sieger in der Arena darf diesen Helm tragen. }
+
+Plh_348 { Du hast gut gekämpft. }
+
+Plh_349 { Ich war einfach zu siegessicher. Ein Ausrutscher. Verflucht ... }
+
+Plh_350 { Was bedeutet es, Arenameister zu sein? }
+
+Plh_351 { Hm, ich habe leider keinen Gegner für dich. Da muss erst wieder jemand kommen. }
+
+Plh_354 { Wie, gar keine Kämpfer mehr? }
+
+Plh_355 { Gra hat seine Axt abgelegt. }
+
+Plh_356 { Da wäre noch Bady, aber er ist nicht mehr im Ruinenlager. Vielleicht ist er auch tot, was weiß ich. }
+
+Plh_357 { Aber egal. Du solltest feiern! Dich selbst! Deinen Sieg! }
+
+Plh_361 { Der Jubel der Leute ... der Rausch des Sieges ... das macht was mit einem. Du wirst sehen. }
+
+Plh_363 { Wenn du die beiden besiegst hast, kannst du Dark herausfordern. Warum ist er gerade nicht hier ... hat wahrscheinlich gerade was um die Ohren. }
+
+Plh_364 { Wenn du alle besiegst hast, werde ich erwägen, dich in die Arena zu schicken. Aber das ist noch lange hin. }
+
+Plh_365 { Brauchst du Motivation? Es haben ein paar Leute auf dich gewettet. }
+
+Plh_366 { Für Ada solltest du gut vorbereitet sein ... }
+
+Plh_367 { Sprich mit beiden. Sorge dafür, dass sie bereit sind. Und meld dich dann wieder bei mir. }
+
+Plh_371 { Wir haben in der Arena einen besonderen Kampf: Bady gegen Gra! Erst danach geht es mit meinen Leuten weiter. }
+
+Plh_372 { Bald finden wieder täglich Arenakämpfe statt. Wird dir nicht entgehen. }
+
+Plh_375 { Wenn du nicht erscheinst, dann sind deine Münzen weg. }
+
+Plh_376 { Mhm. Boris hat mit mir gesprochen. Ich weiß nicht, was ich davon halten soll, einen seiner Leute kämpfen zu lassen. }
+
+Plh_377 { Boris schickt mich. Ich will in der Arena kämpfen. }
+
+Plh_378 { Ich kann dir eine Chance geben. }
+
+Plh_379 { Trage diese Rüstung mit Stolz. }
+
+Plh_380 { Hey, du. Ich hab von dir gehört, hast dir einen schönen Namen hier gemacht. Ich könnte jemanden wie dich gebrauchen. }
+
+Plh_381 { Ich kann es ja mal versuchen. }
+
+Plh_383 { Glaub mir, wenn du einmal in der Arena stehst, willst du nie wieder raus. }
+
+Plh_384 { Hey, ganz ruhig. Kein Stress. Überleg es dir. Meld dich einfach bei Mog und kämpf mit ihm. }
+

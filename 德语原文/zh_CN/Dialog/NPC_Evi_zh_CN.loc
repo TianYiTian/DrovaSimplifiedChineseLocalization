@@ -1,0 +1,192 @@
+Plh_4 { *die Person schläft tief und fest* }
+
+Plh_6 { (antippen) }
+
+Plh_7 { Schlafende soll man nicht stören ... (gehen) }
+
+Plh_8 { *öffnet das linke Auge, schaut dich kurz an und schließt es wieder* }
+
+Plh_10 { Olaf schickt mich. }
+
+Plh_11 { Hast du nichts Besseres zu tun, als hier zu schlafen? }
+
+Plh_12 { Hm? Olaf? *gähnt* }
+
+Plh_13 { Nö. Grad' nicht. *gähnt* }
+
+Plh_15 { Liesl? }
+
+Plh_16 { Wer ist Liesl? }
+
+Plh_17 { Ich dachte, das ist dein Pfosten. *grinsen* }
+
+Plh_18 { Liesl. Eins unserer Schafe. Ich hab es am Pfosten angebunden. Sie haut dauernd ab. Und jetzt offenbar schon wieder. }
+
+Plh_19 { *verdreht die Augen* Witzig. }
+
+Plh_20 { Klingt nicht nach meinem Problem. }
+
+Plh_21 { Soll ich Liesl suchen? }
+
+Plh_23 { Olaf wollte, dass ich dir helfe. }
+
+Plh_24 { Wenn du sie findest, bring sie her. Sie liebt Äpfel! Hier, nimm einen. }
+
+Plh_26 { Du würdest nach meiner kleinen Liesl suchen? }
+
+Plh_27 { Sie ist oft am Rand der Heide. Ich traue mich da selbst kaum hin, aber Liesl ... die ist entweder ein Hohlkopf oder mutig. So neugierig wie sie ist, muss sie sich immer in jeder Ecke umschauen. }
+
+Plh_29 { Ich schau mich mal um. }
+
+Plh_31 { Wohin ist Liesl die anderen Male gelaufen? }
+
+Plh_32 { Hmm ... Ich hab sie mal vor der Taverne gefunden, dann war sie nach Nemeton unterwegs ... also da war sie schon. Würde mich nicht wundern, wenn sie woanders rummacht ... }
+
+Plh_37 { Liesl! Liesl! Da bist du ja! }
+
+Plh_39 { Määäääh! }
+
+Plh_40 { *zu dir* Danke für deine Hilfe! Kannst Olaf sagen, dass du mir mit Liesl geholfen hast. Er wird dich für deine Arbeit bezahlen. }
+
+Plh_41 { *reißt die Augen wieder auf* Moment. Liesl? Wieso bist du nicht an deinem Pfosten?! }
+
+Plh_42 { Die Gute ist wohl ausgebüchst. }
+
+Plh_43 { Ich hab sie in der Heide gefunden. }
+
+Plh_44 { Liesl, ich hab dir doch gesagt, dass du nicht dauernd abhauen sollst! }
+
+Plh_45 { Wie auch immer ... Ich bin Evi, die Hirtin. Danke, dass du Liesl zurückgebracht hast. Auch wenn das mich schlecht aussehen lässt ... sag Olaf, dass du mir geholfen hast. Er wird dich entlohnen. }
+
+Plh_46 { Was für ein schöner Tag, um auf der Wiese zu schlummern. }
+
+Plh_47 { Zurückgebracht? Das ist jetzt MEIN Schaf! }
+
+Plh_48 { Ich melde mich bei Olaf. }
+
+Plh_49 { Mach das. }
+
+Plh_50 { DEIN Schaf? Liesl gehört zur Herde von Olaf. Erzähl keinen Quatsch! }
+
+Plh_51 { War nur ein Witz. }
+
+Plh_52 { Liesl und ich gehören jetzt zusammen. }
+
+Plh_53 { Gut. Dann melde dich bei Olaf. }
+
+Plh_54 { Du spinnst doch! Hey, wenn du Stunk anfangen willst, mach das mit Olaf aus. Aber eine Entlohnung kannst du vergessen. }
+
+Plh_56 { Ich sage Olaf Bescheid. }
+
+Plh_58 { Wir sehen uns. }
+
+Plh_59 { Endlich kommst du zur Vernunft. Jetzt geh endlich zu Olaf und berichte ihm. }
+
+Plh_60 { Hast du Liesl schon gefunden? }
+
+Plh_61 { Lässt du Liesl jetzt endlich hier bei der Herde? }
+
+Plh_62 { LIESL! }
+
+Plh_63 { WO BIST DU? }
+
+Plh_64 { So, Liesl ... jetzt gehörst du wieder zu deiner Herde. Aber jetzt bleibst du auch hier! }
+
+Plh_65 { Määääääääh! }
+
+Plh_81 { Ah, Liesl, du lebst ... bei den Göttlichen, ein Glück. }
+
+Plh_82 { Danke, $GVAR:EVars_Player.Name$. }
+
+Plh_87 { Mäh? Mäh! }
+
+Plh_92 { Aaaarrrgghhhhgh ... }
+
+Plh_93 { *presst die Augenlider zusammen, schwitzt stark* }
+
+Plh_94 { *nuschelt* ... Heide ... Liesl ... }
+
+Plh_95 { Wenn Larea das geholfen hat, dann bestimmt auch ihr. (Heilsalbe auftragen) }
+
+Plh_96 { Bombus meinte ja, dass diese Heilsalbe helfen würde. (Heilsalbe auftragen) }
+
+Plh_98 { *ihre Augenlider flattern, und sie schaut dich schließlich an* }
+
+Plh_100 { W-w-was? W-wer? }
+
+Plh_101 { D-Du. Ich kenne dich. }
+
+Plh_102 { Ah, d-du hast Liesl zu mir zurückgebracht, als sie mal wieder ausgebüchst war ... }
+
+Plh_103 { Ah, d-du wolltest Liesl zurückbringen, aber ... bist nie wiedergekommen. }
+
+Plh_104 { L-Liesl! Es geht dir gut! }
+
+Plh_106 { *ihr Blick wird glasig* L-Liesl ... wo bist du ... }
+
+Plh_107 { *zu dir* W-was ist passiert? }
+
+Plh_108 { Ein kleiner Heiltrank sollte ihr helfen. (Heiltrank einflößen) }
+
+Plh_109 { Ich kann dir gerade nichts geben, um mich erkenntlich zu zeigen ... hab nichts. }
+
+Plh_113 { Kann nur nochmals danke sagen. Du bist wirklich schwer in Ordnung. }
+
+Plh_114 { Danke, dass du mir geholfen hast. Ich muss mich ausruhen. }
+
+Plh_115 { Wo warst du denn schon wieder? Du kannst doch nicht einfach so weglaufen, immer wieder! Du bleibst jetzt hier, hast du das verstanden? }
+
+Plh_116 { Mäh? }
+
+Plh_117 { Die Heide wurde überrannt. Du warst ohnmächtig. }
+
+Plh_118 { Ich weiß nicht. Aber du hast bewusstlos rumgelegen, also habe ich dich behandelt. }
+
+Plh_119 { Die Heide ...? }
+
+Plh_120 { Du hast mich gerettet! Danke! }
+
+Plh_121 { Es fühlte sich an wie ein schlechter Traum ... Ich dachte, dass ich vielleicht nie wieder daraus aufwache. }
+
+Plh_123 { Ich sag es ihr immer wieder: "Liesl, du wirst noch Reißerfraß, wenn du so weitermachst!". Sie guckt mich dann nur groß an, als wäre nichts. Dieses Schaf lernt es nie! Ich mache mir wirklich Sorgen. }
+
+Plh_124 { Bitte, Liesl. Komm zurück. }
+
+Plh_125 { Bitte beschütze Liesl, wenn sie von irgendwas gejagt wird! Versprich es mir! }
+
+Plh_126 { Versprochen. }
+
+Plh_127 { Ich schaue, was ich machen kann. }
+
+Plh_128 { Ich darf nicht dran denken. Es geht ihr gut. Ganz bestimmt. }
+
+Plh_129 { Meine kleine Liesl! Wer weiß, was passiert wäre, wenn dich niemand gefunden hätte ... }
+
+Plh_130 { Du freches Schaf musst deine Lektion noch lernen! Du denkst, dass die Welt dir nichts Böses will, aber so ist das nicht! }
+
+Plh_131 { Ich kümmere mich erst mal um dich. Du hast bestimmt Hunger! Meine Kleine. }
+
+Plh_132 { Evi ... Liesl ... sie ist tot. }
+
+Plh_133 { W-was? Liesl ... t-tot? }
+
+Plh_134 { D-das hat sie nicht verdient! Ich ... ich hätte nicht einschlafen dürfen. Es ist meine Schuld. }
+
+Plh_135 { Du kannst nichts dafür. Mach dir keine Vorwürfe. }
+
+Plh_136 { In Zukunft solltest du deine Arbeit ernster nehmen. }
+
+Plh_137 { Vielleicht ... aber ich hätte es verhindern können. }
+
+Plh_138 { J-ja, ich weiß. }
+
+Plh_139 { Sag Olaf Bescheid. Ich ... gib mir bitte etwas Zeit. }
+
+Plh_140 { Moment ... }
+
+Plh_141 { (in den Hintern treten) }
+
+Plh_142 { Aua, hey, spinnst du!? }
+
+Plh_143 { Das hat wehgetan ... }
+

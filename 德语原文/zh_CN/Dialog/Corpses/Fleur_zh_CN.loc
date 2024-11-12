@@ -1,0 +1,10 @@
+Plh_0 { *Der Tote hatte noch nicht mal seine Waffe gezogen. Er scheint von einem Monster überrascht worden zu sein. Er trägt eine Tasche bei sich.* }
+
+Plh_1 { (Tasche durchsuchen) }
+
+Plh_2 { (gehen) }
+
+Plh_3 { *In der Tasche sind Rostmoos und andere Pflanzen, die man im Moor sammeln kann. Dir fällt auf, dass der Name Fleur in der Innenseite der Tasche eingenäht ist.* }
+
+Plh_4 { *Die Tasche ist bereits leer. Dir fällt auf, dass der Name Fleur in der Innenseite der Tasche eingenäht ist.* }
+

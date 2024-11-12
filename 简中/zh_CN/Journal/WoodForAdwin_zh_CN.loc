@@ -1,0 +1,9 @@
+Title { 阿德温的木材 }
+
+Entry_01 { Adwin在手工艺区急需$GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$块木头。我应该在集市上找Swenn取。 }
+
+Entry_02 { 我拿到了那块木头，就是让Jennifer和Swenn差点打起来的那块。现在我得把它带给Adwin。 }
+
+Entry_03 { Adwin有木头，我有我的金币。 }
+
+Entry_04 { 我现在有更重要的事要处理。 }

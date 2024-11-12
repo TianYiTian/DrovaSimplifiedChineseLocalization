@@ -1,0 +1,32 @@
+Hud_Text {  }
+
+UserReport_Feedback { Feedback }
+
+UserReport_Bug { Bug }
+
+UserReport_Feedback_Error { Etwas ist schiefgelaufen, bitte versuche es noch mal. }
+
+UserReport_Feedback_Text { Vielen Dank für dein Feedback! :) }
+
+Close { Schließen }
+
+Send { Senden }
+
+Text_Placeholder { Klicke hier, um Text zu schreiben ... }
+
+Title_Placeholder { Titel ... }
+
+UserReport_Deadlock { Nicht weiterspielbar }
+
+dsgvo_accept { Akzeptieren }
+
+dsgvo_cancel { Ablehnen }
+
+DSGVO_Text { Mit der Nutzung unseres Feedback-Tool stimmts du der Verarbeitung folgender Daten überein. Die versendeten Daten werden genutzt, um das Spiel Drova bestmöglich zu verbessern. Daür benötigen wir einige Informationen, die wir in der folgenden Übersicht zusammenfassen, sowie deren Zweck erklären <br><br>1. Beim absenden eines Reports werden folgende Informationen an uns gesendet <br>1.1. Screenshot von dem Spielausschnitt zu dem Moment, wo du den Report abschickst. <br>1.2. Dein aktuelles Savegame von dem Spiel, sowie deinen letzten ausgeführten Autosave. <br>1.3. Deine Systeminformationen (Betriebssystem, Arbeitsspeicher, Prozessor, Grafikkarte, Auflösung, verwendete Eingabegeräte (Maus, Tastatur, Controller, ...) <br>1.4. Die erstellte Log-Datei von dem Spiel. Darin kann unter Umständen dein genutzter Namen von deinem Betriebssystem enthalten sein <br>1.5. Deine eingegebenen Daten sowie deine Email-Addresse, die du in dem Formular eingibst. <br><br>2. Diese Informationen werden nur zu internen Auswertungszwecken sowie zur Benachrichtigung des Absenders verwendet und weder an Dritte weitergeben noch sonst anderweitig wirtschaftlich verwertet. <br>Wenn die abgesendeten Daten nicht mehr benötigt werden, so werden diese gelöscht. Die Informationen werden an unseren Server geschickt und dort gespeichert. Der Server wird von der Netcup GmbH gehostet. }
+
+DSGVO_Title { DSGVO Hinweis }
+
+Popup_InvalidEmail { Deine Email hat ein ungültiges Format. Bitte überprüfe deine Email-Addresse, ob diese ein gültiges Format (name@email.com) hat. }
+
+Email_Header { Deine Email-Addresse, damit wir dir einen reparierten Spielstand zuschicken können. }
+

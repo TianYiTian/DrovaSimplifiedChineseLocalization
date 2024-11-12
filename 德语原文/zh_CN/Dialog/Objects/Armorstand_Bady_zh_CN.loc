@@ -1,0 +1,14 @@
+Plh_0 { *Du siehst Badys Rüstung auf dem Ständer. Es ist eine einfache Rüstung, ohne besondere Eigenheiten.* }
+
+Plh_4 { *Auch beim genaueren Hinschauen fällt dir nichts Ungewöhnliches an der Rüstung auf.* }
+
+Plh_6 { *Was du zunächst für irgendwelche Flecken gehalten hast, fällt dir jetzt als das Juckpulver auf, von dem Ester gesprochen hat.* }
+
+Plh_7 { (versuchen, das Juckpulver zu entfernen) }
+
+Plh_9 { *Du rüttelst an der Rüstung, aber es reicht nicht, um das Juckpulver rauszubekommen. Ein bisschen fällt runter, aber der größte Teil bleibt dort. Vielleicht hilft Wasser?* }
+
+Plh_10 { *Neben der Rüstung steht etwas Wasser, du füllst was davon ab und kippst es über die Rüstung. Den Rest kratzt du mit den Fingern raus.* }
+
+Plh_11 { (Rüstung säubern) }
+

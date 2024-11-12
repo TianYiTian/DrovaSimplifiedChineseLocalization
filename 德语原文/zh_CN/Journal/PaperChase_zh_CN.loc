@@ -1,0 +1,28 @@
+Title { Mein eigener Talisman }
+
+Entry_01 { Ich habe einen rohen Talisman. Es fehlt aber ein Lederband. Die Kinder meinten, Rura kann dabei helfen. }
+
+Entry_02 { Rura hat ein Lederband an meinen Talisman angebracht. Jetzt muss ich ihn noch im Ewigen Feuer Nemetons reinigen. }
+
+Entry_03 { Mit Myrtes Hilfe konnte ich den Talisman reinigen. Aber jetzt muss ich noch etwas eingravieren. Myrte sagte: "Suche die Lichter der Nacht beim zentralen Steinkreis in Nemeton. Spiel zu ihrem Tanz und sie werden dich zum Zeichen des Raben leiten." Was soll das heißen? }
+
+Entry_04 { Ich habe auf den Talisman ein Symbol aufgemalt, das in Verbindung mit dem Göttlichen des Raben steht. Bin ich jetzt fertig? Vielleicht sollte ich mal bei den Kindern nachfragen. }
+
+Entry_04_Hint { Durch meine Musik ist ein Glühwürmchen erschienen. Vielleicht hilft es mir zu erkennen, was ich in den Talisman eingravieren muss. }
+
+Entry_05 { Der Talisman hat alle drei Segen. Er wirkt jetzt vollendet. }
+
+Entry_04B { Der Segen des Lebens ist dort, wo das Zwitschern der Vögel verstummt und das Lied der Frösche erklingt. Dort, wo drei Quellen des Lebens sich vereinen. }
+
+Entry_05A { Der Talisman ... hat reagiert. Das ist wohl der Segen der Veränderung. }
+
+Entry_05C { In der Nähe eines Hinkelsteins hat mein Talisman plötzlich vibriert. Das muss der Segen des Ursprungs sein. }
+
+Entry_05B { Im Moor war ein seltsamer Ort. Seit ich dort war, geht eine Wärme von meinem Talisman aus. Das war der Segen des Lebens. }
+
+Entry_04A { Der Segen der Veränderung ist an einem Ort, der von ständiger Dunkelheit heimgesucht wird, aber doch von Licht umgeben ist. Fünf Lebensphasen bilden den Kreislauf der Veränderung. }
+
+Entry_04C { Den Segen des Ursprungs findet man auf einer kleinen Insel, abseits des überwucherten Ufers. Vögel sitzen auf einem mächtigen Felsen und singen ihr gemeinsames Lied. }
+
+Entry_03_Rejected { Myrte hilft mir nur, wenn ich zu Nemeton gehöre. Vielleicht schaffe ich es irgendwie, dass sie mir doch hilft? }
+

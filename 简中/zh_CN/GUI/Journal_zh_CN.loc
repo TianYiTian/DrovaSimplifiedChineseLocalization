@@ -1,0 +1,41 @@
+Entry_Created { 新日记条目 }
+
+Entry_Updated { 已更新日记 }
+
+OthersUpdated { +$JOURNAL:Others$ 杂项 }
+
+Tab_Quests_Finished { 已完成 }
+
+Tab_Quests_Running { 当前 }
+
+Tab_Letters { 文献 }
+
+Group_Bandits { 废墟强盗 }
+
+Group_Nemeton { 内梅顿 }
+
+Group_RuinCamp { 废墟营地 }
+
+Group_Tavern { 酒馆 }
+
+Group_Woodcamp { 伐木工 }
+
+Group_World { 世界 }
+
+Group_Unsorted { 未分类 }
+
+Group_Magielager { 避难所 }
+
+Group_RedTower { 红塔 }
+
+Group_Mine { 矿井 }
+
+Group_MainQuest { 主线任务 }
+
+Group_Dungeon_Library { 图书馆 }
+
+Group_Dungeon_City { 黑暗森林中的城市 }
+
+Group_Dungeon_Auwald { 冲积森林高原 }
+
+Group_TreasureMaps { 藏宝图 }

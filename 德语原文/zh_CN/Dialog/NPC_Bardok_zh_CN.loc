@@ -1,0 +1,94 @@
+Plh_4 { Na, guck an. Frischfleisch im Ruinenlager! Ich bin Bardok. }
+
+Plh_0 { Immer fleißig bleiben. }
+
+Plh_1 { Bady braucht seine Waffe für den anstehenden Kampf. }
+
+Plh_2 { Ach ja! Verdammte Axt, das hab ich komplett vergessen. Ich fange sofort an, sie zu schleifen. }
+
+Plh_5 { ... wo ist denn seine Axt hin? Die war doch eben noch hier! }
+
+Plh_6 { Hier, ich hab sie. (geben) }
+
+Plh_7 { Hm, spurlos verschwunden ... (Axt behalten) }
+
+Plh_8 { Ach ja? Lass in Zukunft die Finger von meinen Waffen, sonst Finger ab! }
+
+Plh_9 { Seltsam, seltsam. Hm, eine verschwundene Axt kann man nicht schleifen. }
+
+Plh_13 { So, die Waffe sollte spitz genug sein, um Leuten damit sehr wehzutun. }
+
+Plh_14 { Nicht jetzt. }
+
+Plh_27 { Kannst du mir beibringen, wie man schmiedet? }
+
+Plh_28 { Wenn du Waffen und Rüstungen herstellen willst, sieht’s schlecht aus. Das benötigt jahrelange Übung. Dafür müsstest du bei Chunnaic in die Lehre gehen. Sie ist die Schmiedemeisterin von Nemeton, hat aber bereits eine Schülerin. }
+
+Plh_29 { Ich kann dir beibringen, wie du Eisen verarbeitest. So kannst du zwar keine Waffen schmieden, aber Fallen, Munition und andere Sachen herstellen. }
+
+Plh_33 { Für $GVAR:EVars_Bardok.PriceCraft$ Münzen bring ich es dir bei. }
+
+Plh_34 { Hast du die $GVAR:EVars_Bardok.PriceCraft$ Münzen? }
+
+Plh_35 { Hier sind die Münzen. }
+
+Plh_37 { Ah, in Ordnung. }
+
+Plh_42 { Das kann man immer brauchen. Hilft auch im Kampf. Und hey, ich kann Münzen verdienen! }
+
+Plh_46 { Alle von Eugens Leuten bekommen von mir eine feine Waffe. Schließlich gelten sie als stärkster Trupp in Drova, und das soll so bleiben! Darf sich auch ruhig rumsprechen, dass ich sie versorge. }
+
+Plh_47 { Boris hat mir zugesteckt, dass ich dir eine meiner Waffen geben soll. Meinte, das würde noch nützlich für dich werden und dass er bei dir was gut hat. }
+
+Plh_48 { Damit solltest du durch Knochen wie durch Butter schneiden. }
+
+Plh_49 { Schnell, flink und unscheinbar. Aber umso gefährlicher. }
+
+Plh_50 { Denk an mich, wenn du damit irgendein Tier aufschlitzt. *grinst* Oder ... jemanden ... }
+
+Plh_51 { Das ist genau das, was ich brauche. }
+
+Plh_52 { Danke. }
+
+Plh_53 { Du scheinst eine echte Verstärkung zu sein. Vielleicht kannst du uns beim Ausbruch aus dieser Welt wirklich helfen ... }
+
+Plh_54 { Wenn du noch was brauchst, komm einfach zu mir. }
+
+Plh_55 { Hilft alles nichts, ich muss Bady eine andere Waffe besorgen ... }
+
+Plh_56 { Ich kenne mich mit Waffen aus. Ich LIEBE Waffen! Du solltest immer ein gutes Eisen an deiner Seite haben! }
+
+Plh_57 { Mit was für einer Waffe kämpfst du? }
+
+Plh_58 { Schwert. }
+
+Plh_59 { Speer. }
+
+Plh_60 { Axt. }
+
+Plh_61 { Dolch. }
+
+Plh_64 { Du kannst meine Rennöfen nutzen und dort Eisenerz verarbeiten. Wenn du Rezepte brauchst, sag Bescheid. Hab eine gute Auswahl. Wenn du Münzen hast. }
+
+Plh_65 { Dann mal los. }
+
+Plh_66 { Bady will seine Waffe ungeschliffen. Als Herausforderung. }
+
+Plh_67 { Und wie! }
+
+Plh_68 { Klingt nach Bady. Der alte Draufgänger. Nimm die Waffe einfach, sie liegt hier in meiner Schmiede auf dem Tisch. }
+
+Plh_69 { *mustert dich und runzelt die Stirn* }
+
+Plh_71 { Ich hab Badys Waffe gefunden. }
+
+Plh_72 { Hier, nimm. Und bring sie Bady! Ich hab keine Zeit. }
+
+Plh_76 { Hm, zeig mal her. }
+
+Plh_77 { Kann dir daraus eine Rüstung schmieden. Ich bin zwar nicht so gut wie Chunnaic, aber es wird dir trotzdem helfen. Was für eine Art von Rüstung soll ich dir machen? }
+
+Plh_78 { Das sieht sehr gut aus, da wäre sogar Chunnaic stolz auf mich! }
+
+Plh_79 { Wenn du mehr davon findest, sag mir Bescheid. Dann kann ich dir noch andere Rüstungen schmieden. }
+

@@ -1,0 +1,178 @@
+Plh_5 { *blickt in die Ferne und reagiert nicht* }
+
+Plh_6 { Hey, was machst du hier? }
+
+Plh_9 { Ich schau mir den Fluss an. Jede kleine Biegung. }
+
+Plh_14 { Lorthiz, der Name. Kartenzeichner von Beruf. }
+
+Plh_15 { Ich verkaufe die auch! Brauchst du welche? Hilft, sich nicht zu verlaufen, sagt man. }
+
+Plh_18 { Gibt es hier viele Leute, die Karten kaufen? }
+
+Plh_19 { Die meisten Leute hier reisen nicht viel rum, und Kämpfer kennen sich einigermaßen aus. Ein Orientierungssinn ist wichtig in Drova ... oder man hat eine Karte. *grinst* }
+
+Plh_20 { Die Karte könnte dir helfen. Willst sie sicher nicht? }
+
+Plh_21 { Ich habe nicht genug Münzen dabei. }
+
+Plh_22 { Ich habe einen guten Orientierungssinn. Brauche keine Karte. }
+
+Plh_23 { Ich mache dir ein Angebot: du bekommst jetzt die Karte, und du gibst mir die $GVAR:EVars_Leru_Config.PriceMap$ Münzen, wenn wir uns wiedersehen? }
+
+Plh_24 { Ich hoffe, du findest immer deinen Weg. Abseits ist es gefährlich. }
+
+Plh_25 { Und wenn du den Weg nicht findest, denk an mich. Ich kenne fast ganz Drova. Jeden Stein und jeden Grashalm. Finde mich zurecht ... wie im Traum. *grinst* }
+
+Plh_26 { Da ist doch ein Haken dran? }
+
+Plh_27 { Klingt gut, ich bin dabei. }
+
+Plh_28 { Ich möchte keine Schulden haben. }
+
+Plh_29 { Normalerweise mache ich das auch nicht, aber bei dir fühlt es sich irgendwie richtig an. Ich hab gelernt, auf mein Bauchgefühl zu hören. Oder meine Träume. Also nimm oder lass es. }
+
+Plh_30 { Moment ... }
+
+Plh_31 { Dein Gesicht kenne ich. Wir sind uns schon begegnet, sicher, ja. }
+
+Plh_32 { Kaum. Ich bin neu in Drova. }
+
+Plh_33 { Ich war bei den Holzfällern, vielleicht hast du mich dort gesehen? }
+
+Plh_34 { Ich kenne alle bei den Holzfällern, und dich habe ich dort nicht gesehen. }
+
+Plh_35 { Merkwürdig. Deine Stimme auch ... so bekannt ... }
+
+Plh_36 { Vielleicht verwechsle ich dich auch ... }
+
+Plh_37 { Kann sein. Ich bin schon viel rumgekommen. }
+
+Plh_38 { Ich bin sicher, dass ich dich kenne. Sehr gut sogar ... }
+
+Plh_39 { Eine wunderschöne Karte. Mein Lebenswerk in Drova! *grinst* }
+
+Plh_40 { Mit Tinte kannst du selbst Markierungen auf die Karte zeichnen. Hilft dir, dich an Orte zu erinnern. *grinst* Habe zufälligerweise auch Tinte im Angebot. }
+
+Plh_41 { Spricht für dich. Dann kauf sie gern, wann immer du willst. }
+
+Plh_42 { Ich ziehe bald weiter, aber ich habe so ein Gefühl, dass wir uns wiedersehen. }
+
+Plh_44 { Hier sind die Münzen, die ich dir schulde. }
+
+Plh_45 { *grinst* Siehst du? Mein Vertrauen war gerechtfertigt. }
+
+Plh_46 { Dein Gesicht! Ich erinnere mich, ja! Ich habe es gesehen, oh, so dunkel war es ... }
+
+Plh_47 { Ein See ... Kinder ... und ... eine Frau. Sie hat mit ihren Kindern gesprochen. Und DU bist erschienen! Du hast über der Frau gestanden, du hast deine Hände ausgestreckt, und dann ... UND DANN ... }
+
+Plh_48 { Die Frau war eine Hexe. }
+
+Plh_49 { Die Frau war verrückt. Das waren keine Kinder, sondern Frösche. }
+
+Plh_50 { Was? Was sagst du da? Das war doch nur ein Traum! Woher weißt du, wovon ich rede? Das kann doch nicht sein! Nein! }
+
+Plh_51 { Es ist aber wahr. Warum träumst du von mir? }
+
+Plh_52 { Hatte die Frau in deinem Traum auch ein seltsames Fossil bei sich? }
+
+Plh_53 { Ich ... ich weiß nicht. Wirklich nicht. Hab viele Träume, wilde Träume, von Drova, von anderen Welten, von anderen Leuten, von komischen Wesen mit vielen Armen ... }
+
+Plh_54 { Ja! So ein Steinding! Ein Fossil! Etwas, das nicht aus dieser Welt stammt. Sondern aus einer Welt ohne Licht und mit viel Blut und Fäulnis! }
+
+Plh_55 { Das Fossil und du, ja, davon hab ich geträumt. Es hat sich echt angefühlt, also war es auch echt? Woher weißt du das?! }
+
+Plh_56 { Warte, ich hab versucht, den Traum aufzuschreiben. Als gäbe es Worte dafür! Gibt es nicht. Ich hab's trotzdem versucht. Schau, wirst dich wiedererkennen ... }
+
+Plh_57 { Da! Schau es dir an! Der Traum geht mir nicht aus dem Kopf, DU gehst mir nicht aus dem Kopf, Kopf, Kopf! }
+
+Plh_58 { Schreibst du alle deine Träume auf? }
+
+Plh_59 { Wie soll ich sie sonst loswerden? Meine Gedanken sind so grau durch meine Träume, grau wie diese Welt, versteinert und düster, nur manchmal leert sich diese Welt, wenn ich es aufschreibe ... }
+
+Plh_61 { Ich weiß nicht, ob mich das interessiert ... }
+
+Plh_62 { Oh, es interessiert mich auch nicht, ich würde es gern loswerden, aber das Fossil und du, ihr hängt zusammen, das weiß ich, das weiß ich ... }
+
+Plh_63 { Eigentlich bin ich Kartenzeichner. Ich zeichne Karten. Wenn ich klar denken kann. Sie helfen, dir den Weg zu finden. Bräuchte so was für meine Träume ... }
+
+Plh_65 { Ich habe noch ein Fossil gefunden. }
+
+Plh_66 { Und dieser Traum ... es war ... es war ... }
+
+Plh_67 { Irgendwie geht's in meinen Träumen immer wieder um diese Fossilien. Und um dich. }
+
+Plh_69 { Du bist nur ein Schemen im Traum. Es ist immer so dunkel und kalt. Ich hab es mir aufgeschrieben, sonst verschwimmt alles. }
+
+Plh_70 { Drei von den Fossilien gibt's! Hab ich genau gesehen! Aber sie sind nicht von hier! Nein, nein, die Vergangenen stecken dahinter! Das sind ihre Fossilien ... }
+
+Plh_71 { Drei sind es! Eins fehlt noch! Wir brauchen es. Vielleicht hören die Träume dann auf ... }
+
+Plh_73 { Noch ein Fossil! Wie im Traum! Kein Zufall, kein Zufall! Du siehst das doch auch! }
+
+Plh_74 { Ich habe das letzte Fossil gefunden. }
+
+Plh_77 { Die Stimme war wieder da! Sie will geboren werden! Geboren werden in diese Welt! Sie träumt auch, sie will hierher. Aber sie ist nicht menschlich, sie ist ein ... }
+
+Plh_78 { Genau! Drei Fossilien! Die hab ich im Traum gesehen! }
+
+Plh_79 { Und ... jetzt? }
+
+Plh_80 { JA WAS WEISS ICH DENN! Hatte keinen Traum. Aber guck, Gänsehaut. Hier, am Arm. Wir sind nah dran! Ganz nah dran! }
+
+Plh_81 { Ich kann so einen Traum ja nicht rufen! Also hab ich, aber der kommt nicht! }
+
+Plh_82 { Nein, sag nichts! Ich weiß, wie das klingt! Aber es ist noch viel merkwürdiger! }
+
+Plh_83 { Merkwürdiger als ein sprechender Ring? }
+
+Plh_84 { Die Stimme war in meinem Kopf, und ich hab dich dabei gesehen! DICH! }
+
+Plh_85 { Du warst im toten Moor. Und ... eine Laterne. Du hast diese Fossilien gehabt und sie irgendwelchen Wesen gegeben. Kleinen Wesen! Sie haben dir dann den Ring gegeben ... }
+
+Plh_86 { Der Ring! An deinem Finger! Der Ring, der zu mir spricht! Der Ring aus einer anderen Welt, weit weg von Drova, tief in der Schwärze! Stärker als jeder Druide, stärker als die Göttlichen! }
+
+Plh_87 { Nur ein wahrer Jäger kann diesen Ring tragen. Das hab ich gewusst, als ich ihn gesehen habe. Als du ihn am Finger hattest. }
+
+Plh_88 { Schau dir die Pflanzen an! Das Licht spüre ich, wann ich immer ich im Wald bin. Vertreibt die Dunkelheit, ja, vertreibt den Schmerz ... }
+
+Plh_89 { Vertreibt die Stimmen. Vertreibt die Schmerzen. VERTREIBT DIE ANGST! ... Äh, entschuldige. Einen Augenblick, ich muss die Augen zu machen. Dann seh ich die Wesen nicht mehr. }
+
+Plh_90 { Was redest du da? }
+
+Plh_91 { Was machst du hier? }
+
+Plh_93 { Reden? Ich träume! Überall! Die Träume reden zu mir. Ganz ruhig, ganz ruhig, sagen sie, da ist es dunkel und steinig dort ... }
+
+Plh_95 { *blinzelt* Ich bin Kartenzeichner. Da muss ich überall in Drova gewesen sein. Sonst müsste ich ja irgendwas reinzeichnen, was ich nie gesehen habe. }
+
+Plh_96 { Ich hatte wieder einen Traum ... }
+
+Plh_97 { Ring. }
+
+Plh_98 { Hol ihn! Den Ring! Hol ihn! }
+
+Plh_99 { HOL IHN ENDLICH! WAS MACHST DU NOCH HIER. HOL IHN! }
+
+Plh_102 { Langsam. Drehst du jetzt völlig durch? }
+
+Plh_103 { Jetzt versteh doch! Das ist die Zukunft! Das hab ich gesehen. Das hab ich geträumt. Der Ring! Du musst ihn holen! }
+
+Plh_104 { Die Laterne im Moor! Da ist er. SCHNELL! }
+
+Plh_105 { Mein Kopf, mein Kopf! Ich will träumen, verdammter Mist! TRÄUMEN! }
+
+Plh_107 { Was muss ich auch immer schlafen dafür ... }
+
+Plh_108 { Nächster Traum ... bald. Ich bin sicher. Wir brauchen Geduld. Viel Geduld. GEDULD! }
+
+Plh_109 { Was genau war so merkwürdig? }
+
+Plh_110 { ... in diesem Traum ... }
+
+Plh_111 { Warte, ich erinnere mich. Sag nichts. Sag nichts! }
+
+Plh_112 { ... bin ich schweißgebadet aufgewacht. }
+
+Plh_113 { Die Frau war schon tot, ich habe ihr nichts getan. }
+

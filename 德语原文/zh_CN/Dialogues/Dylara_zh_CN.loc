@@ -1,0 +1,148 @@
+Default_2 { Ich mag das Moor und die Ruhe hier. Wenn du nichts Wichtiges hast, lass mich bitte die Ruhe genießen. }
+
+Plh_2 { Hey, du! Wer bist du und was machst du hier? Raus damit! }
+
+Plh_3 { Wer will das wissen? }
+
+Plh_4 { Ich weiß selbst nicht, wohin ich eigentlich will ... }
+
+Plh_5 { Äh ... warum hast du nur einen Stiefel an? }
+
+Plh_6 { Ich WILL das nicht wissen, ich MUSS fragen. Gehört zu meinen Aufgaben. }
+
+Plh_7 { *mustert dich* Du wirst wohl kaum durch Zufall hier lang gekommen sein, oder? }
+
+Plh_8 { Ich stelle hier die Fragen! Also, was willst du hier? }
+
+Plh_9 { Sag das doch gleich! }
+
+Plh_10 { Ich komme von Georg. Er meint, du könntest Arbeit für mich haben? }
+
+Plh_11 { Ich bin den Fluss entlang gelaufen und hier gelandet. }
+
+Plh_12 { Dann kommst du wahrscheinlich vom Hof? }
+
+Plh_13 { Also? }
+
+Plh_14 { Wir beide reparieren hier die Brücke. Ich bin Dylara, da vorne ist Mirron. Tut mir leid, wenn ich etwas misstrauisch war. }
+
+Plh_15 { Ich hab den Hof gesehen, aber war noch nicht dort. }
+
+Plh_16 { Was für ein Hof? }
+
+Plh_17 { Wenn du weißt, wo der Hof ist, sprich dort mit Georg, dem Besitzer. Der sucht immer Leute, die arbeiten können. }
+
+Plh_18 { Erst Richtung Süden, dann bei der Abzweigung nach Osten. Dort ist ein Hof, bei dem es sicherer als hier draußen ist. }
+
+Plh_19 { Was genau machst du hier eigentlich? }
+
+Plh_20 { Monster? }
+
+Plh_23 { Eigentlich nur Mirron. Sie repariert die Brücke, und ich halte ihr den Rücken frei. }
+
+Plh_24 { Du hast dir also einfach so einen Stiefel klauen lassen? }
+
+Plh_26 { *knirscht mit den Zähnen* Weil ich nicht aufgepasst habe! Und stockdunkel war es auch noch! }
+
+Plh_27 { Ein Tier hat dir den Stiefel geklaut? Nur den einen? }
+
+Plh_28 { *funkelt dich an* }
+
+Plh_29 { Soll ich für dich den Stiefel suchen? }
+
+Plh_30 { Ja, nur den einen! Und ich kann nicht mal los und ihn zurückholen, weil Mirron nicht allein bleiben will ... }
+
+Plh_31 { Ihr sollt zu zweit die Brücke reparieren? }
+
+Plh_32 { Würdest du? Ich kann dich zwar nicht bezahlen, aber Georg wäre das sicher einige Münzen wert. }
+
+Plh_33 { Georg hat gesagt, dass du Arbeit für mich hast. Ich könnte deinen Stiefel suchen. }
+
+Plh_34 { Wenn du das tust, würde Georg sich dafür erkenntlich zeigen ... und meine Füße wären dir wohl auch dankbar ... }
+
+Plh_35 { Das Vieh hat Kratzspuren an der Brücke hinterlassen. Die führen nach Norden. Versuch es mal da. }
+
+Plh_36 { Weißt du wo das stiefelknabbernde Ungeheuer hin ist? }
+
+Plh_37 { Hast du etwas rausgefunden? }
+
+Plh_38 { Ich bin noch dabei. }
+
+Plh_39 { Ja. Hier ist dein Stiefel. (Stiefel übergeben) }
+
+Plh_40 { Schau nördlich den Fluss entlang. Und wenn du bessere Ausrüstung brauchst, kannst du welche beim Hof kaufen. }
+
+Plh_42 { Ein Fuchs. Du musst keine Angst mehr vor ihm haben. }
+
+Plh_43 { Dein Monster ist tot. Es war ein Fuchs. }
+
+Plh_46 { Tatsächlich! Mein Stiefel! *zieht ihn an* }
+
+Plh_47 { Ein Fuchs. Ein verdammter FUCHS. Tolles Monster ... Aber hätte ich mir ja denken können, die sind frech und klauen alles ... }
+
+Plh_49 { Ich glaube, der eine Stiefel hat ein paar Bisslöcher. (Gespräch beenden) }
+
+Plh_50 { Bis dann. (Gespräch beenden) }
+
+Plh_51 { Damit muss ich leben. Lüftet immerhin gut. }
+
+Plh_52 { Nein, aber ich habe für euch eine Stärkung von Delani. }
+
+Plh_53 { Delani hat an uns gedacht! Wir lieben ihr Essen. Ihre Bauernmahlzeit ist unser Leibgericht. }
+
+Plh_54 { Hier sind zwei Portionen. (2x Bauernmahlzeit geben) }
+
+Plh_55 { Leider war nur noch eine Portion da. (1x Bauernmahlzeit geben) }
+
+Plh_56 { Darüber wird sich Mirron freuen. Und ich erst. *lächelt* Du hast was gut bei mir. }
+
+Plh_57 { Hm. Schade. Gut, dann verzichte ich auf meine Portion und gebe die hier Mirron. Eigentlich hab ich auch keinen Hunger ... danke. }
+
+Plh_58 { Moment, ich habe doch zwei Portionen. (1x Bauernmahlzeit geben) }
+
+Plh_59 { Gut. (Gespräch beenden) }
+
+Plh_61 { Ich habe etwas von Delani für euch. }
+
+Plh_62 { Ja. Bis später. (Gespräch beenden) }
+
+Plh_63 { Oh, ich habe doch nichts dabei. (Gespräch beenden) }
+
+Plh_65 { Hey, Mirron, dein Monster ist weg! Du kannst wieder in Ruhe arbeiten. }
+
+Plh_66 { Wirklich?! Was war es denn für ein Monster? }
+
+Plh_67 { Ich mag Füchse. Vielleicht klauen die, aber sie reißen einem nicht die Kehle auf wie ein Reißer. }
+
+Plh_68 { Ich weine dem Vieh keine Träne nach. Endlich wieder ruhig schlafen ... }
+
+Plh_69 { Aber musste der wirklich getötet werden ...? }
+
+Plh_70 { DU wolltest doch, dass nichts mehr nachts hier rumschleicht. Hast du jetzt bekommen. Und wer weiß, am Ende hätte der dir auch die Kehle aufgerissen ... }
+
+Plh_71 { Vor Füchsen hab ich keine Angst. Das ist gut zu wissen. }
+
+Plh_72 { Wenn du jetzt wieder arbeiten kannst - prima. Von mir aus hätte das Vieh auch tot sein dürfen, dann wären wir ganz sicher gewesen ... }
+
+Plh_73 { Kannst jedenfalls Georg ausrichten, dass du dafür gesorgt hast, dass wir weiterarbeiten können. }
+
+Plh_74 { Hat Georg dich geschickt, damit du das Monster tötest? Ja? }
+
+Plh_75 { *verdreht die Augen* Mirron, zum letzten Mal: Ich hab alles im Griff, jetzt kümmre dich weiter um die Brücke. }
+
+Plh_76 { Oh ja ... }
+
+Plh_77 { Nachts schleicht ein Monster rum. Es hat sich Dylaras Schuh geschnappt. Immerhin ist ihr Fuß noch dran. Wir sollten wirklich nicht hier draußen sein ... }
+
+Plh_78 { Mirron, du lässt das klingen, als wären wir völlig wehrlos! Wenn du hier wegwillst, dann sieh zu, dass die Brücke endlich fertig wird. }
+
+Plh_79 { Is' ja schon gut ... }
+
+Plh_83 { Was bin ich froh, dass die Brücke repariert worden ist ... jetzt kann ich wieder sicherstellen, dass keine weiteren Viecher hier aufschlagen. }
+
+Plh_84 { Das reicht nicht. Kommt wieder, wenn du mehr Portionen hast. }
+
+Plh_85 { Du brauchst dich nicht mehr mit dem Monster zu befassen. Die Brücke ist inzwischen repariert. }
+
+Plh_86 { Kann doch keiner ahnen, dass es Schuhe klaut ... }
+

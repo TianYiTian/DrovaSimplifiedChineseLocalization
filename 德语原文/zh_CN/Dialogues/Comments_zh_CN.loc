@@ -1,0 +1,181 @@
+Plh_65 { Ich benötige einen Dietrich. }
+
+Plh_66 { Ich brauche die richtigen Gegenstände ... }
+
+Plh_2 { Ich benötige einen Schlüssel. }
+
+Plh_4 { Ich brauche etwas zum Fischen. }
+
+Plh_7 { Ich brauche eine Spitzhacke. }
+
+Plh_11 { Hey, du! Komm mal her! }
+
+Plh_14 { Der Schlüssel passt. }
+
+Plh_15 { Ich habe was gefunden. Sieht aus wie ein Loch ... }
+
+Plh_16 { Was steht wohl heute am Schwarzen Brett? }
+
+Plh_19 { Aargh. Meluna ... }
+
+Plh_20 { AAAAH! MEIN MAGEN! }
+
+Plh_21 { *hick* Komm her, du! *hick* }
+
+Plh_22 { Ich wusste, das war 'ne beschissene Idee, Friedel! }
+
+Plh_23 { Irgendwas stimmt mit meiner Waffe nicht! }
+
+Plh_24 { Aaah, das juckt ja wie Sau! Was ist hier los!? }
+
+Plh_25 { Heute ist mein Tag! }
+
+Plh_26 { Ah, das tat gut! }
+
+Plh_27 { Hey, du! Hilf mir! }
+
+Plh_28 { Hör mir auf! Mit meinem Zweihänder hau ich dich in zwei Stücke! }
+
+Plh_29 { Pah! Einmal kurz pariert, und danach bist du gefundenes Fressen für mich. }
+
+Plh_30 { Nicht, wenn ich doll genug zuhaue! }
+
+Plh_31 { Schade nur, dass du das nicht kannst! }
+
+Plh_32 { Du wirst schon sehen. }
+
+RequiredAxe { Dafür brauche ich einen Holzspalter. }
+
+KarimComment { Achte darauf, wann du deinen zweiten Schlag machst! }
+
+Plh_36 { Ja! Genau so! }
+
+Plh_37 { Sehr gut! Gleich noch mal! }
+
+Plh_38 { Sauber! Mach noch mehr Kombos! }
+
+Plh_41 { Ah, da bist du ja, mein kleiner Cay! }
+
+Plh_42 { Oink, oink. }
+
+Plh_43 { Quieeek! Quieeek! }
+
+Plh_67 { Hey, du! Komm mal her! }
+
+Plh_68 { Macht euch bereit, Jungs! Und pack dir schon mal 'ne neue Hose ein, Lindon. }
+
+Plh_69 { Ach, halt die Schnauze. }
+
+Plh_70 { Pass auf, wie du mit deinem Expeditionsleiter redest, Freundchen. Sonst knallt's. }
+
+Plh_71 { Da bist du ja wieder. }
+
+Plh_72 { Lass dich hier nicht mehr blicken, Wicht. }
+
+Plh_73 { Hmpf. Mach doch, was du willst. }
+
+MiningSpotToolBroke { Das Ding ist kaputt gegangen. }
+
+BedNotReady { Ich habe noch etwas zu tun. }
+
+Plh_89 { Dich nehmen wir mit. }
+
+Plh_90 { Opfern Sie, was Ihnen gegeben wurde, und Sie werden sich dem Thronbrecher stellen. }
+
+BloodyStone { Hier ist viel Blut am Stein. }
+
+Plh_95 { Die Tür scheint kaputt zu sein. }
+
+Plh_97 { Diese Tür hat kein Schlüsselloch ... }
+
+Plh_98 { Hier müssen die Ratten in den Keller kommen. }
+
+Plh_99 { Ohne einen Schlüssel wird das nichts. }
+
+Plh_100 { Ich brauche einen Schlüssel. }
+
+Plh_101 { Verschlossen ... }
+
+Plh_102 { Abgeschlossen. }
+
+Plh_103 { Mit einem Schlüssel käme ich durch. }
+
+Plh_104 { Ich brauche einen Dietrich. }
+
+Plh_105 { Ohne einen Dietrich wird das nichts. }
+
+Plh_106 { Dafür brauche ich einen Dietrich. }
+
+Plh_107 { Ohne Dietrich kriege ich das nicht auf. }
+
+Plh_108 { Was hat Angus wohl heute aufgehängt? }
+
+Plh_109 { Mal sehen ... }
+
+Plh_110 { Irgendwas Interessantes da ...? }
+
+Plh_111 { Na, wer braucht meine Hilfe? }
+
+Plh_112 { Gibt's was Neues? }
+
+Plh_113 { Das war erfrischend! }
+
+Plh_114 { Aaaaaah! }
+
+Plh_115 { Ich war schon am Verdursten. }
+
+Plh_116 { Endlich, keine trockene Kehle mehr. }
+
+Plh_117 { Endlich eine Erfrischung! }
+
+Plh_118 { Ohne die richtigen Materialien wird das nichts. }
+
+Plh_119 { Ich brauche die richtigen Materialien ... }
+
+Plh_120 { Ohne die richtigen Gegenstände wird das nichts. }
+
+Plh_122 { Mit bloßen Händen kann ich nicht fischen. }
+
+Plh_123 { Ohne die richtige Ausrüstung fange ich hier gar nichts. }
+
+Plh_125 { Ohne eine Spitzhacke kriege ich hier nichts raus. }
+
+Plh_126 { Da muss eine Spitzhacke her, sonst wird das nichts. }
+
+Plh_127 { Das ist zu schwer, um es alleine zu bewegen. }
+
+NotEnoughHealth { Ich habe nicht genug Leben. }
+
+Plh_129 { Ich kann die Tür nicht knacken. }
+
+Plh_131 { Die Tür bekomme ich nicht einfach so auf. }
+
+Plh_132 { Dieses Schloss ist zu kompliziert für mich. }
+
+Plh_133 { Ich kann solche Schlösser noch nicht knacken. }
+
+Plh_134 { Ich sehe keinen Mechanismus, um die Tür zu öffnen. }
+
+Plh_135 { Los, schlag schon zu! }
+
+Plh_136 { Greif mich an! }
+
+Plh_137 { Zeig mir, wie du zuschlägst! }
+
+Plh_138 { Das reicht! Zeit, deine Fähigkeit einzusetzen. }
+
+Plh_139 { Jetzt! Setze deine Fähigkeit ein! }
+
+Plh_140 { Los! Nutze deine Fähigkeit! }
+
+Plh_141 { Du musst zuschlagen. }
+
+Plh_144 { Guter Schlag! }
+
+Plh_145 { Uff. Das tat weh. }
+
+Plh_146 { Autsch. Das hat gesessen! }
+
+Plh_147 { Der Schlüssel passt. }
+
+Plh_148 { Die Falltür geht nicht auf, wenn ich drauf stehe. }

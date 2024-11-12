@@ -1,0 +1,19 @@
+Title_MainSpells { 技能 }
+
+Title_ConsSpells { 卷轴 }
+
+header_physicalAbilities { 技能 }
+
+header_magicalAbilities { 法术 }
+
+header_memory { 记忆 }
+
+Orientationpoint_Label { 基础专注值： }
+
+Orientationpointtooltip_Header { 基本专注值 }
+
+Orientationpointtooltip_Description { 此时，专注值会随着时间的推移而再生。 }
+
+MaxLeben { Max.生命值 }
+
+StaminaCosts { 耐力消耗 }

@@ -1,0 +1,224 @@
+Plh_4 { Du solltest lieber an die Aufgabe denken, die vor dir liegt. }
+
+Plh_9 { Hey! Wir gehen weiter! }
+
+Plh_10 { Wir müssen weiter. }
+
+Plh_11 { Die Expedition ist wichtig. Reiß dich zusammen. }
+
+Plh_13 { Mögen die Göttlichen dir gnädig sein. }
+
+Plh_16 { Gut, ich werde jetzt anfangen. }
+
+Plh_37 { Seine Kraft ... ich kann nicht ... aber ... }
+
+Plh_39 { WAS ...?! LINDON, WEG DA! }
+
+Plh_38 { Sein Schatten breitet sich aus! Er kommt immer näher! }
+
+Plh_40 { Wir haben ihn! Wir haben ihn tatsächlich gefangen! }
+
+Plh_41 { Er ist geschwächt und will sich zurückziehen. Wir müssen zuschlagen! }
+
+Plh_59 { Angriff! }
+
+Plh_81 { Morgen wird ein Tag, der in die Geschichte von Drova eingeht ... }
+
+Plh_117 { Es ist deine Entscheidung. }
+
+Plh_118 { Bist du müde? }
+
+Plh_119 { Du musst dich ausruhen. Morgen steht ein schwerer Kampf bevor. }
+
+Plh_120 { Noch nicht. }
+
+Plh_131 { Wir werden uns den Göttlichen nicht länger unterwerfen. Bald ist es so weit. }
+
+Plh_138 { Melde dich bei Eugen, wenn du bereit bist. }
+
+Plh_139 { Du solltest mit Kilian reden. }
+
+Plh_143 { Ich gehe jetzt schlafen. }
+
+Plh_150 { Ich schaffe es ... ICH HABE IHN! }
+
+Plh_151 { Bleibt dicht bei mir, dieses Licht wird uns schützen! }
+
+Plh_153 { Lindon hat das größte Opfer gebracht. Aber es war nicht umsonst. Ein Göttlicher ... in unseren Händen! }
+
+Plh_183 { Kilian sucht dich. Melde dich bei ihm, sobald du kannst. }
+
+Plh_200 { Eugen, Lindon wird als Held in die nächste Welt reisen. }
+
+Plh_201 { *flüstert* Lindon, es tut mir leid ... ich ... ich hätte besser aufpassen müssen ... }
+
+Plh_202 { Lindon ist nicht mehr unter uns, aber wir müssen nach vorne schauen. Der Rote Turm wartet auf uns. Und unsere Freiheit. }
+
+Plh_203 { Verflucht, Lindon, du hast es wirklich geschafft ... }
+
+Plh_204 { Wir werden Lindon nie vergessen. Nicht wahr, Eugen? }
+
+Plh_207 { *murmelt* Ausgerechnet Lindon stirbt den Heldentot ... vor uns allen. }
+
+Plh_208 { (an Lindon herantreten) }
+
+Plh_210 { Darin solltest du Trost suchen. }
+
+Plh_213 { Du bist jetzt unsterblich, Lindon. }
+
+Plh_214 { Ruhe in Frieden. }
+
+Plh_223 { $GVAR:EVars_Player.Name$, du bist doch einer von Boris' Leuten. }
+
+Plh_224 { Mache ich. }
+
+Plh_225 { Das war nicht gerade heldenhaft. }
+
+Plh_226 { Er ist von einem Göttlichen aufgespießt worden. Viel heldenhafter geht es kaum ... }
+
+Plh_227 { Eugen, der Wald ... es könnte hier gefährlich für uns werden. Wir sollten JETZT aufbrechen. }
+
+Plh_228 { Ich will hoffen, dass Boris zu schätzen weiß, was Lindon getan hat. }
+
+Plh_229 { Eugen! }
+
+Plh_230 { *schreckt hoch* ... ja. }
+
+Plh_231 { Wir gehen zurück zum Ruinenlager, sofort. }
+
+Plh_232 { Aber ... Lindon! Er ist ... tot. Verdammt ... }
+
+Plh_234 { ... wir brechen auf ... }
+
+Plh_235 { Die göttliche Kraft ist von diesem Ort verschwunden. Alles ... verändert sich. Wir müssen weg. Schnell. }
+
+Plh_236 { Berichte ihm, wie heldenhaft Lindon gestorben hat. Er soll ihn in Ehren halten. }
+
+Plh_239 { Na, $GVAR:EVars_Player.Name$, hast du genug von dem Gesprächen am Feuer? }
+
+Plh_240 { Ich brauche kurz etwas Ruhe. }
+
+Plh_241 { Die sind mir zu derbe. }
+
+Plh_242 { Kann ich verstehen. Es ist schön, am Feuer zu sitzen, aber ich bin auch lieber in der Natur. }
+
+Plh_243 { Nimm es ihnen nicht zu übel. Es sind gute Leute, aber keiner will Schwäche zeigen ... }
+
+Plh_244 { Ruh dich aus. Morgen wird es anstrengend. }
+
+Plh_245 { *schaut verträumt hoch zu den Bäumen* }
+
+Plh_246 { Ich war vorher noch nie im Düsterwald. Ich dachte, er wäre nur dunkel und gefährlich, dann noch die Schwarzen Flammen ... doch es ist atemberaubend schön hier. }
+
+Plh_247 { Diese Bäume ... sie atmen die Geschichte von Drova. Der Große Keiler durchdringt alles. Ich fühle ihn. }
+
+Plh_248 { Was passiert, wenn wir den Großen Keiler fangen? }
+
+Plh_249 { Sicher bin ich mir nicht, aber wenn ich die Schriften der Vergangenen richtig deute ... }
+
+Plh_250 { Warum bist du nicht am Feuer? }
+
+Plh_252 { (nicht stören) }
+
+Plh_253 { Ahh, $GVAR:EVars_Player.Name$. Ich kann noch nicht schlafen. Schau dir diesen wundervollen Ort an ... }
+
+Plh_254 { ... wird dann alles ... }
+
+Plh_255 { ... schwächer ... verblassen ... verschwinden. }
+
+Plh_256 { Alles ist mit dem Göttlichen verbunden. Er lässt den Wald atmen ... }
+
+Plh_257 { Ist es richtig, was wir tun? }
+
+Plh_258 { Aber was passiert mit den Menschen im Düsterwald? }
+
+Plh_259 { Ich beginne, an dieser Expedition zu zweifeln ... }
+
+Plh_263 { Aber was wird der Preis dafür sein? }
+
+Plh_267 { Nun, sie werden es sicher nicht leichter haben. Aber die Menschen hier sind Schwierigkeiten gewohnt und werden sich arrangieren ... }
+
+Plh_268 { Letzten Endes werden auch sie ein besseres Leben gewinnen, in dem sie selbst bestimmen können, was gut für sie ist. So wie wir. Das werden sie sehen. }
+
+Plh_269 { Zweifel gehören zum Leben. Dass du dir diese Fragen stellst, ist gut. Aber finde deine eigenen Antworten. }
+
+Plh_270 { Wir dürfen nur an unser Ziel denken! }
+
+Plh_271 { *lächelt* Und das tun wir. Als Einheit. }
+
+Plh_273 { Nur ... hüte deine Zunge, vor wem du die Zweifel aussprichst. }
+
+Plh_275 { Ich sollte mich hinlegen. }
+
+Plh_276 { Ich werde auch gleich kommen. Aber ich möchte noch ein wenig Ruhe genießen und mich auf morgen vorbereiten. }
+
+Plh_277 { Es freut mich, dich an unserer Seite zu wissen. }
+
+Plh_278 { Für Jero! Für die Freiheit. }
+
+Plh_279 { Danke für deine Worte. }
+
+Plh_280 { *schaut hoch zu den Bäumen und summt ein leises Lied* }
+
+Plh_292 { ... diese Aufzeichnungen sind interessant. Die Vergangenen haben es verstanden, ihre Beobachtungen gut zu dokumentieren. }
+
+Plh_294 { Wir haben noch eine magische Barriere gefunden. Das solltest du dir anschauen. }
+
+Plh_296 { Wir haben keine Zeit, die Vergangenen weiter zu studieren. Wir müssen hoch zu den Runengefäßgen. }
+
+Plh_297 { Was richtig und falsch ist ... schwer zu sagen. Wir tun das, was wir für richtig halten. Macht es das auch richtig? }
+
+Plh_298 { Weißt du, $GVAR:EVars_Player.Name$, ich glaube an Jero. Und daran, dass wir aus dieser Welt entkommen können. Mithilfe des Großen Keilers. }
+
+Plh_299 { Die Vergangenen haben eine Welt nach ihrem eigenen Willen geschaffen. Eine Welt, in der wir die Göttlichen kontrollieren, ist eine Welt, in der ich leben möchte. }
+
+Plh_300 { *lächelt* Wenn du dich auf einem Wagen befindest, dann kannst du dich auf dem Wagen bewegen, wie du möchtest. }
+
+Plh_301 { Aber wie frei du dich auch fühlst, der Wagen bringt dich, ob du es willst oder nicht, zu einem Ziel, das du nicht kennst oder bestimmen kannst. }
+
+Plh_302 { Und in einer solchen Welt wollen wir nicht mehr leben. Wir wollen selbst bestimmen, ohne den Einfluss der Göttlichen. Wir wollen frei von Drova und den Göttlichen sein. Und dafür kämpfen wir. }
+
+Plh_304 { Gegen einen Göttlichen anzutreten ... ich weiß nicht, wie weit ich mich darauf überhaupt vorbereiten kann. Das wird eine neue Erfahrung. Für alle. }
+
+Plh_305 { *flüstert* Es war meine Verantwortung ... er hat mir vertraut ... }
+
+Plh_306 { Eugen hat recht, das sollten wir. Schaut, der Wald verändert sich, die Dunkelheit ist verschwunden, aber ... dafür wirkt er fast ... leblos. }
+
+Plh_307 { Was genau machst du hier? }
+
+Plh_308 { *lächelt* Ich bin Heiler und kümmere mich um die Verletzen. Wenn niemand meine Hilfe braucht, kümmere ich mich darum, dass ich genug Pflanzen habe. }
+
+Plh_309 { Ich verkaufe auch welche, wenn du Interesse hast. }
+
+Plh_310 { Du kannst nach vorne zum Kutscher gehen oder dich hinten einfach hinsetzen. Du kannst die Bäume beobachten oder dich schlafen legen. Du fühlst dich dort frei, kannst auf dem Wagen tun, was du willst. }
+
+Plh_311 { Der Wald ... er will den Keiler schützen ... haltet sie auf ...! }
+
+Plh_313 { Das Gefäß, jetzt! }
+
+Plh_314 { Wir sind endlich im Roten Turm, nach so langer Zeit. Wir müssen die Runengefäße mit den Göttlichen finden. }
+
+Plh_315 { Also gut, bring uns hier raus. }
+
+Plh_317 { VERDAMMT! }
+
+Plh_318 { LINDON! }
+
+Plh_319 { Möge die nächste Welt dich mit offenen Armen empfangen. }
+
+Plh_320 { *flüstert* Lindon ... ich hätte es besser wissen müssen ... du warst noch nicht bereit zu gehen ... }
+
+Plh_321 { Argh ... haben wir es ... }
+
+Plh_322 { Was für eine Kraft ... mir brummt der Schädel. }
+
+Plh_324 { ICH HABE IHN! }
+
+Plh_325 { Bevor wir gehen ... }
+
+Plh_326 { Auf Position! }
+
+Plh_327 { Sie ... sie sind alle tot. Sie wollten doch nur den Wald verteidigen ... all das Blut ... }
+
+Plh_329 { Lass uns gehen. }
+

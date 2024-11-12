@@ -1,0 +1,156 @@
+Plh_4 { Verzieh dich. Du hast gezahlt und kannst durch. }
+
+Plh_0 { Hey, dein Gesicht kenne ich noch nicht. Wohin willst du? }
+
+Plh_6 { Hey, wir wollen keinen Streit. Wir hauen hier ab. Ja? }
+
+Plh_7 { Verzieht euch von hier. }
+
+Plh_8 { Wir sind schon weg. Du wirst uns nicht wiedersehen. }
+
+Plh_9 { Hey, wir machen nichts mehr. Was willst du noch? }
+
+Plh_10 { Ich bin auf dem Weg zur Mine. }
+
+Plh_11 { Ich schaue mich nur um. }
+
+Plh_12 { Ich muss los. }
+
+Plh_13 { Dann bist du hier richtig und fast da. Musst nur noch dem Weg folgen. }
+
+Plh_14 { Dann sei vorsichtig. Ab hier wird es gefährlich. Ein Rudel Reißer jagt hier. Du solltest dir bessere Ausrüstung kaufen. Kannst du in der Mine. Einfach den Weg lang. }
+
+Plh_15 { Hey, warte doch mal. Wenn du hier weiter willst, kommst du zur Mine. }
+
+Plh_16 { Danke. Gut zu wissen. }
+
+Plh_17 { Ich gehe lieber wieder zurück. }
+
+Plh_18 { Wenn du hier durch willst, musst du uns $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen zahlen. Wir machen das auch nicht gern, aber wir brauchen die Münzen. Entweder du zahlst ... }
+
+Plh_19 { Oder? }
+
+Plh_20 { Ich zahle euch nichts. }
+
+Plh_21 { Hier habt ihr die $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen. }
+
+Plh_22 { Ich habe nicht genug Münzen bei mir. }
+
+Plh_23 { Klar, kannst du machen, aber wo du schon hier bist, brauchen wir von dir $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen. Entweder du zahlst ... }
+
+Plh_24 { *runzelt die Stirn* Oder wir holen uns die Münzen. }
+
+Plh_25 { Ganz ruhig, wir schauen einfach mal kurz nach, wie viele Münzen du bei dir hast, und nehmen uns den Teil, der uns zusteht. }
+
+Plh_26 { Wagt das nicht ... }
+
+Plh_28 { Verschwindet von hier. }
+
+Plh_29 { Für euch ist hier kein Platz mehr. }
+
+Plh_30 { Wir können von hier nicht weggehen. Wir brauchen die Münzen. }
+
+Plh_32 { Was willst du tun? }
+
+Plh_33 { Euch zeigen, dass ich stärker bin als ihr beide. }
+
+Plh_34 { Ihr werdet keine Hauer mehr überfallen. }
+
+Plh_35 { Das will ich sehen ... }
+
+Plh_38 { Wofür braucht ihr die Münzen? }
+
+Plh_39 { Sei nicht so neugierig. Sieh zu, dass du Land gewinnst. }
+
+Plh_40 { Alles klar, du kannst durch. In der Mine wirst du die Münzen schnell wieder bekommen. }
+
+Plh_41 { Ähm, ja ... Aleka? }
+
+Plh_42 { Wofür braucht ihr die Münzen? Warum macht ihr das? }
+
+Plh_43 { Das geht dich nichts an.. }
+
+Plh_44 { Sagt es mir jetzt, sonst prügele ich es aus euch raus. }
+
+Plh_46 { Ich will nur wissen, warum ihr die Hauer überfallt, die zur Mine gehen. }
+
+Plh_47 { Hey, ganz ruhig. Wir wollen keinen Stress mit dir. }
+
+Plh_48 { Die armen Hauer! Dass ich nicht lache. Haben es sich selbst ausgesucht und WOLLEN doch ausgenutzt werden. Nur Jero und seine Leute haben was von ihnen. }
+
+Plh_49 { *seufzt* Eigentlich leben wir in den Bergen. Aber unsere Schwester Geli ist krank geworden. Wir waren beim Druiden und ... }
+
+Plh_50 { Hey, Adalgis, das geht nur uns was an. }
+
+Plh_52 { Wer ist Geli? }
+
+Plh_53 { Also wollt ihr Geli nur helfen? }
+
+Plh_55 { Das geht dich nichts an, verzieh dich. }
+
+Plh_61 { Ist die schwache Frau im Zelt eure Schwester? }
+
+Plh_64 { *seufzt* Geli ist schwer krank. Wir wissen auch nicht, was sie hat. }
+
+Plh_65 { Wir waren beim Druiden und haben ein Rezept für einen Heiltrank bekommen. Das meiste davon haben wir schon, aber ... }
+
+Plh_67 { W-was? Woher weißt du davon? }
+
+Plh_68 { Ich hab hier das Zeug, das ihr gesucht habt. }
+
+Plh_69 { Ist doch egal, woher wir das Zeug haben. Ist es wirklich das Bärenherz und dieser komische Lotus? }
+
+Plh_70 { Es sieht alles so aus, wie der Druide es beschrieben hat. Ich mache uns schnell ... }
+
+Plh_71 { Das sollte funktionieren! }
+
+Plh_72 { Hier, Geli, das wird dir helfen ... }
+
+Plh_73 { Und hilft es? Aleka? Geli? }
+
+Plh_75 { Alles klar. Wir machen keinen Mist mehr. }
+
+Plh_84 { Wir wollen keinen Stress. }
+
+Plh_85 { Schon gut, hat sich erledigt. }
+
+Plh_86 { Weg mit dir. }
+
+Plh_87 { Noch mal entkommst du uns nicht! }
+
+Plh_88 { Gut jetzt, das geht nur unsere Familie was an. Lass uns in Ruhe. }
+
+Plh_89 { Wir überfallen keine Hauer mehr, wir halten unser Wort. }
+
+Plh_91 { Halt du dich von uns fern. }
+
+Plh_92 { Ich gebe es Geli, her damit. }
+
+Plh_93 { Langsam. Es ist genug da. }
+
+Plh_94 { Sie behält es bei sich, das ist gut. Wie der Druide gesagt hat, ihr Atem wird wieder langsamer und sie wird ruhiger. }
+
+Plh_96 { Danke dir. Du hast wahrscheinlich unsere Schwester gerettet. Ohne dich ... }
+
+Plh_97 { Was genau hat Geli? }
+
+Plh_98 { Sie war schon immer schwächer als die anderen. Hatte keine schöne Kindheit. Lag nur im Bett rum, genau wie jetzt auch. }
+
+Plh_99 { Deswegen wollten Aleka und ich ihr den Wald zeigen. Sind heimlich mit ihr rausgeschlichen. Sie war glücklich wie noch nie. Hat das Dorf vorher nie verlassen. }
+
+Plh_100 { Dann kam ein Nebel, und wir haben uns verirrt. So sind wir hier gelandet. Es ist unsere Schuld, dass sie hier ist. Wir wollten ihr helfen ... }
+
+Plh_101 { Ich habe gern geholfen. }
+
+Plh_102 { Ich danke dir ... wir haben nicht viel, aber du hast meine Schwester gerettet und es gibt nichts Wichtigeres für mich. }
+
+Plh_103 { Das ist das Zeichen unseres Stammes. Es trägt eine uralte Macht in sich. Es bedeutet mir viel, und ich möchte, dass du es besitzt. }
+
+Plh_104 { Danke für alles. }
+
+Plh_105 { Danke für den Talisman. Ich werde darauf aufpassen. }
+
+Plh_106 { Und pass auch auf dich auf. }
+
+Plh_107 { Geli geht es besser, dank dir. }
+

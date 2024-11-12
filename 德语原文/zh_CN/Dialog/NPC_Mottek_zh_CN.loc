@@ -1,0 +1,304 @@
+Plh_0 { Ich komme von Jola. Kannst du mich zur Mine bringen? }
+
+Plh_3 { Bleib dicht bei mir, hier ist es gefährlich. }
+
+Plh_5 { Hier sind wir außerhalb des Ruinenlagers. Jetzt müssen wir aufpassen. }
+
+Plh_8 { Ich gebe dir einen Tipp: folge nicht der Straße nach Norden. Dort sind viele von den Schnappern, und gegen die besteht man ohne vernünftige Ausrüstung nicht lang. }
+
+Plh_9 { Ach, so ein Dreck, pass auf. Bleib hinter mir, ich kümmere mich darum. }
+
+Plh_10 { Da sind wir endlich. Hier ist die Mine. }
+
+Plh_12 { Ach, wenn das nicht Mottek ist. Dass ich dich noch mal hier treffe. Hab gehört, dass du dir einen Namen gemacht hast und zum Ruinenlager gehörst. Kein Hauer mehr? *grinst* }
+
+Plh_14 { Was ist los? }
+
+Plh_15 { Alles klar. }
+
+Plh_17 { Sei einfach ruhig und sag nichts. }
+
+Plh_18 { Hey, Adalgis, du hier? Ähm ... ich will keinen Ärger. Hab die $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen bei mir und gebe sie dir. }
+
+Plh_19 { Dachtest wohl, wir sind weg? *seufzt* Glaub mir, ich wäre auch lieber nicht hier. }
+
+Plh_21 { Wir zahlen gar nichts. }
+
+Plh_22 { Ähm, du wolltest sonst nie mehr als 50 Münzen haben ... }
+
+Plh_24 { Alles wird teurer. Und du gehörst zum Ruinenlager. Also hast du auch mehr in der Tasche. Außerdem bist du nicht allein ... }
+
+Plh_26 { Hier ist mein Teil. ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen geben) }
+
+Plh_27 { Wir zahlen euch Dieben nichts. }
+
+Plh_28 { Reden wir vielleicht mit dir? }
+
+Plh_29 { Ähm, ja klar. $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ Münzen, das ist aber viel ... aber ja. *schaut kurz zu dir* }
+
+Plh_30 { Alles klar, danke. Ich kümmere mich schon drum. }
+
+Plh_31 { Hier sind die Münzen. Jetzt lass uns durch. }
+
+Plh_32 { Ganz ruhig, ich halte mein Wort. Ich muss nur noch überprüfen, ob es wirklich $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ Münzen sind. }
+
+Plh_35 { Jetzt mach schon. Rück die Münzen raus, oder wir holen sie uns. }
+
+Plh_36 { Ah, hier sind sie. Ich habe zum Glück noch genug Münzen dabei. }
+
+Plh_39 { *seufzt* Passt. Es tut mir so leid, Mottek, aber wir brauchen die Münzen nun mal. Viel Erfolg in der Mine. }
+
+Plh_40 { Hm, äh, danke ... }
+
+Plh_41 { *flüstert zu dir* Schnell weiter. }
+
+Plh_43 { *gähnt* Das gibt's doch nicht. Mottek! Was machst du denn hier? Ich dachte, wir sehen dich nie wieder. Wie ich sehe, gehörst du jetzt zu uns. }
+
+Plh_46 { Schön, dich zu sehen, Esdert. Wir sind auf dem Weg hierher von Banditen überfallen worden. Ich dachte, ihr hättet euch um die gekümmert. }
+
+Plh_47 { Was? Haben wir auch, aber die sind wohl zurückgekommen! Das kann doch nicht wahr sein ... }
+
+Plh_49 { *sein Lächeln verschwindet* Jemand zum Hauen. }
+
+Plh_50 { Jemand zum Hauen. Hat mir den Arsch gerettet, als die Banditen mehr Münzen wollten. }
+
+Plh_52 { Meine Begleitung hat die Banditen schon geschlagen, die werden nicht mehr auftauchen! }
+
+Plh_53 { Wir sind da. Ich habe meinen Teil erfüllt. Du bist jetzt in der Mine. *dreht sich von dir weg* }
+
+Plh_54 { Danke fürs Herbringen. }
+
+Plh_55 { Alles in Ordnung mit dir? }
+
+Plh_56 { Wegen den Banditen ... hier ist mein Teil ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen geben) }
+
+Plh_60 { Ich bring dich noch zu Levin. Wir sehen uns, Esdert. }
+
+Plh_61 { *schaut zu dir* Dann willkommen in der Mine. Mach keinen Mist, bring nichts zum Einsturz, und dann werden wir hier alle Freunde bleiben. }
+
+Plh_62 { Ich sehe, du bist nicht alleine hier. Wer ist das? }
+
+Plh_63 { *schaut dich überrascht an* Gut gemacht, das nimmt mir die Arbeit ab. Man kann von dir sagen, was man will, aber ein großer Kämpfer bist du nicht, Mottek. Du hattest Glück! }
+
+Plh_64 { Ich habe kaum was gemacht. Aber früher gab's immer eine Belohnung, was ist damit? *grinst* }
+
+Plh_65 { Einen Augenblick ... }
+
+Plh_66 { Hier sind ein paar Münzen für dich. Wenn du uns hilfst, bezahlen wir dich auch. }
+
+Plh_67 { Das fängt ja gut an. Ich freue mich richtig auf die Mine. War zu lange nicht mehr da unten. }
+
+Plh_69 { Danke dir. }
+
+Plh_70 { Wo muss ich jetzt hin? }
+
+Plh_71 { Da vorne ist Levin. Er hat hier das Sagen, und du solltest dich mit ihm gut stellen. Wenn du irgendwann ins Ruinenlager willst, brauchst du seine Stimme. }
+
+Plh_72 { Wie bekomme ich die Stimme von Levin? }
+
+Plh_73 { Das ist das Problem, er wird dich nur für einen weiteren, gewöhnlichen Hauer halten. Ich habe die tiefe Mine gefunden, und das kam durch bis zu Levin. Deswegen trage ich jetzt die Rüstung. *grinst* }
+
+Plh_74 { Mach das. Ach, ich gebe dir noch einen Tipp. }
+
+Plh_75 { Danke dir, ich melde mich bei Levin. }
+
+Plh_76 { Danke für den Tipp. }
+
+Plh_78 { Hey, schon in Ordnung. Aber ... wolltet ihr sonst nicht mehr als $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ Münzen? }
+
+Plh_79 { Dann holen wir uns halt die Münzen. }
+
+Plh_80 { Hey, wir wollen keinen ... }
+
+Plh_81 { Ich finde es immer noch unglaublich, was die Vergangenen hier gebaut haben. Sie haben sich in die Berge hineingeschlagen und solche Statuen errichtet. Wie konnte so ein Volk nur verschwinden ... }
+
+Plh_82 { Deswegen liebe ich es, in den Minen zu sein. Ich vermisse es irgendwie. Wahrscheinlich war ich schon zu lange nicht mehr dort. }
+
+Plh_83 { Warum vermisst du die Minen? }
+
+Plh_84 { Wie hast du es geschafft vom Hauer zum Kämpfer? }
+
+Plh_85 { Lass uns weiter. }
+
+Plh_86 { Wir haben noch einen weiten Weg vor uns. }
+
+Plh_87 { Ich habe mein Leben lang in den Minen gearbeitet. Das war mein Alltag, und mir hat es gefallen. Ich hatte etwas, in dem ich gut war. Einer der Besten. *grinst* }
+
+Plh_88 { Ich denke, ich hatte Glück. In der Mine habe ich einen Zugang entdeckt, der in einen Stollen führte, wo viel Silber war. Das war einer der Gründe, warum wir überhaupt so viel Silber haben. }
+
+Plh_89 { Das hat sich herumgesprochen, Levin hat davon Wind bekommen und hat mich zu Kilian geschickt. Jetzt stehe ich hier. *grinst* }
+
+Plh_90 { Sind Schnapper so stark? }
+
+Plh_91 { Was ist das für ein Schrein hier? }
+
+Plh_92 { Lass uns weiter. }
+
+Plh_93 { Wir folgen der Straße hier und nehmen dann einen Trampelpfad, um über das Wasser zu kommen. Die Brücke ist schon seit vielen Tagen eingestürzt. Komm, mir nach. }
+
+Plh_94 { Keine Ahnung. Stammt von den Vergangenen. }
+
+Plh_95 { Einen Schnapper schaffe ich. Ab zwei wird's schwer. Blöderweise sind die immer im Rudel unterwegs. }
+
+Plh_97 { *schaut dich mürrisch an* Was willst du? }
+
+Plh_99 { Nichts zu danken. }
+
+Plh_100 { Ich find's auch Mist, dass Adalgis uns die Münzen aus den Taschen zieht und keiner was dagegen tut. Aber ich dachte, wir halten zusammen! }
+
+Plh_101 { Hättest einfach ruhig bleiben sollen. Wegen dir habe ich jetzt alle meine Münzen verloren. Ich dachte, wir halten zusammen. }
+
+Plh_102 { Klar. Hab nur zu tun. }
+
+Plh_103 { Wirklich alles in Ordnung mit dir? }
+
+Plh_104 { Ich lasse dich in Ruhe. }
+
+Plh_105 { Aber ich sollte doch nichts sagen! }
+
+Plh_106 { Offenbar hast du dich getäuscht. }
+
+Plh_107 { Hier ist mein Teil der Münzen ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+
+Plh_108 { ... }
+
+Plh_109 { Oh, ich ... ich hab mich wohl geirrt. Tut mir leid. Man muss hier aufpassen, wem man vertraut oder nicht. Hab schon erlebt, wie ein Freund zum Feind wird. }
+
+Plh_110 { Vergiss es einfach. }
+
+Plh_111 { Da hast du recht. Ich muss weiterarbeiten ... }
+
+Plh_113 { *guckt weg* }
+
+Plh_114 { Du kennst das Spiel. Wir tun dir nichts, wenn du zahlst. Aber wie ich sehe, hast du da jemanden bei dir. Das macht dann insgesamt $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ Münzen. }
+
+Plh_115 { Ich habe euch schon Münzen gegeben. }
+
+Plh_116 { Wirklich? Ach, was ist mein Gedächtnis so schlecht. Gib mir sicherheitshalber wieder welche, sonst holen wir sie uns. }
+
+Plh_117 { Wir haben Glück gehabt, hier sind manchmal Banditen, die versuchen, ein paar Münzen zu bekommen. Lass uns schnell weiter. }
+
+Plh_119 { Hey, Adalgis ... das Gesicht kennen wir doch ... }
+
+Plh_120 { Hm? }
+
+Plh_121 { *schaut zu dir* Äh, also ... ich ... ich würde sagen, wir ziehen weiter. Ihr hört nichts mehr von uns. }
+
+Plh_122 { Ich weiß nicht, was du mit denen gemacht hast, aber das muss gut gewesen sein! }
+
+Plh_123 { Schön, dich zu sehen. Wir sind sicher durchgekommen. Offenbar habt ihr euch um die Banditen gekümmert. }
+
+Plh_127 { Ich war schon mal dort und habe die Banditen besiegt. }
+
+Plh_130 { Ich freue mich richtig auf die Mine. Endlich mal wieder unter Tage sein ... }
+
+Plh_131 { Wenn du sie besiegt hast, bekommst du auch eine Belohnung. }
+
+Plh_132 { Sie sind weggelaufen, als sie uns gesehen haben! *grinst* Ich denke, so schnell kommen die nicht wieder. }
+
+Plh_133 { Wow, das war mal ein Kampf. Ich hätte nicht gedacht, dass wir das schaffen. Lass uns schnell weiter, bevor noch mehr kommen. }
+
+Plh_134 { Wir haben unseren Teil genommen. Ihr könnt vorbei. }
+
+Plh_135 { *schaut böse und grummelt* Wir gehen ... dann mal. }
+
+Plh_136 { Links, rechts, wir beide schlagen im Takt! Die Banditen legen sich nicht mehr mit uns an! }
+
+Plh_137 { Wegen dir tut mir alles weh, was willst du? }
+
+Plh_139 { Ich weiß zwar nicht, wofür der Schrein genau ist, aber ich opfere da immer was den Göttern der Vergangenen, damit sie mich in den Minen beschützen. Bisher ist mir noch nie was passiert. }
+
+Plh_140 { Bin gleich fertig. Schau dich solange etwas um. }
+
+Plh_141 { Bist du bereit? }
+
+Plh_142 { Lass uns zur Mine gehen. }
+
+Plh_143 { Ich brauche noch Zeit. }
+
+Plh_144 { Alles klar, ich warte hier. }
+
+Plh_145 { Die Mine erwartet mich. }
+
+Plh_146 { Ich brauche ein wenig Zeit für mich, ich beeile mich. }
+
+Plh_147 { Beschütze mich. }
+
+Plh_148 { Bewache mich. }
+
+Plh_149 { Ich wahre dich. }
+
+Plh_150 { Ich diene dir. }
+
+Plh_151 { Was bedeuten deine Worte über die Vergangenen? }
+
+Plh_152 { Ich hab die von meiner Mutter gelernt. Wir haben es zwar zu unseren Göttlichen gesagt, aber es wird nicht falsch sein, die Worte bei den Göttern der Vergangenen zu benutzen. }
+
+Plh_157 { Kannst du mir ein paar Kniffe für den Bergbau beibringen? }
+
+Plh_159 { Ich war der beste Hauer, den das Ruinenlager jemals gesehen hat. Ich konnte ganze Berge hauen, bis nix mehr übrig war. }
+
+Plh_160 { Aber damit bin ich durch. Ich bin jetzt kein Hauer mehr, sondern ein Kämpfer des Ruinenlagers. }
+
+Plh_162 { Das wird dich was kosten. $GVAR:EVars_Mottek.PriceToLearnMining$ Münzen. }
+
+Plh_163 { Hier, nimm. ($GVAR:EVars_Mottek.PriceToLearnMining$ Münzen geben) }
+
+Plh_165 { Schau dir das an. Hier trainieren die Kämpfer der Arena. }
+
+Plh_166 { Irgendwann werde ich auch dort stehen, mit dem Schwert in der Hand. Vom Hauer zum Kämpfer. }
+
+Plh_167 { *grinst* Ich hab die tiefe Mine gefunden. Levin belohnt Hauer, die gut arbeiten. Und jetzt bin ich zum wahren Kämpfer aufgestiegen. }
+
+Plh_168 { Du warst mal Hauer? }
+
+Plh_170 { Was meinst du damit, dass Levin fleißige Arbeiter belohnt? }
+
+Plh_171 { Wenn du an diesem Ort hier was erreichen willst, brauchst du Levins Stimme. Damit öffnen sich hier viele Türen, und man lässt dich ins obere Viertel rein. }
+
+Plh_172 { Levin ist in der Mine und kümmert sich um das Silber. Also musst du dort auffallen. Egal wie, Levin muss sehen, dass du von Wert bist. }
+
+Plh_174 { Ahh, jemand Neues für die Mine! Ich kann dich hinbringen. Ist gutes Stück bis dorthin. }
+
+Plh_175 { Ich muss noch kurz zu Jola, dann können wir los. Hast du alles dabei, was du in der Mine brauchst? }
+
+Plh_176 { Jola, sind nur wir beide hier? }
+
+Plh_177 { Ah, Hauer für die Mine! Als ich neulich ein paar Hauer zur Mine gebracht habe, waren die Banditen nicht unterwegs. Mal sehen, wie's heute ist. }
+
+Plh_178 { Von den Holzfällern kommt gerade niemand mehr hier her. Und jeder, der vorher hergekommen ist, arbeitet jetzt als Hauer in der Mine. }
+
+Plh_179 { Ich war bei Cengiz. Er hat alles unter Kontrolle. }
+
+Plh_180 { Ich war dort, und es ist kaum noch jemand da. }
+
+Plh_182 { Wir brechen auf, bleib bei mir. }
+
+Plh_183 { Passt auf euch auf. }
+
+Plh_184 { Das freut mich zu hören. Aber die Arbeiter können wir trotzdem gut gebrauchen. }
+
+Plh_185 { Verlass dich auf Nemeton, und du bist verlassen. }
+
+Plh_186 { Wir haben ihnen Hilfe angeboten, aber sie wollten lieber mit Nemeton arbeiten. Ihre Entscheidung, ihre Konsequenzen. }
+
+Plh_187 { Ich hab gehört, wenn man das richtige Opfer bringt, gewinnt man die Gunst der vergangenen Gottheiten ... Aber ich weiß nicht, was ich dafür opfern soll. Vielleicht ist es auch nur eine Lüge. }
+
+Plh_188 { Wenn du unten in der Mine bist, achte darauf, wie du zuschlägst. Du willst ja nicht das kostbare Silber zerstören. Immer vorsichtig und im gleichen Takt schlagen. }
+
+Plh_189 { Ich bin bereit. }
+
+Plh_190 { Ich brauche noch kurz und komme gleich wieder. }
+
+Plh_191 { Ich warte. }
+
+Plh_192 { Dann folge mir. }
+
+Plh_193 { Ich bin bereit für die Mine. }
+
+Plh_195 { Hmpf. War ja klar. Mach dir nichts draus, ich kümmere mich darum. }
+
+Plh_196 { Was hab ich davon, in das obere Viertel zu kommen? }
+
+Plh_197 { Ohne Zugang zum oberen Viertel ist es unmöglich, Mitglied des Ruinenlagers zu werden. Kilian entscheidet, wer aufgenommen wird, und er verlässt nie das Viertel. }
+

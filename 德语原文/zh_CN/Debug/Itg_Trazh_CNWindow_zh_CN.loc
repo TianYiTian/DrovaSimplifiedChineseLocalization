@@ -1,0 +1,8 @@
+Plh_0 { Open Tradewindow directly. Choices should not display anymore. }
+
+Plh_1 { Open Tradewindow after a say node. Should work normally. }
+
+Plh_2 { Plh_2 }
+
+Plh_3 { Open Tradewindow and say something after Tradewindow closed. }
+

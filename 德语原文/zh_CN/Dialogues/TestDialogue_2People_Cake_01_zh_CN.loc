@@ -1,0 +1,124 @@
+D_P1_00 { Seid gegrüßt. }
+
+D_P2_00 { Guten Tag! }
+
+D_talk1_00 { Ich habe gestern schlecht geschlafen. }
+
+D_talk1_01 { Ich auch. }
+
+D_talk1_02 { Bestimmt nicht so schlecht wie ich. }
+
+D_talk1_03 { Bestimmt nicht. }
+
+D_talk2_00 { Fünf Jahre und du servierst mir diesen Dreck? }
+
+D_talk2_01 { Ja Meister, mach ihn doch selbst nach deinem Rezept, schmeckt genauso gut! }
+
+D_talk2_02 { Ich muss dir noch Manieren beibringen! }
+
+D_talk2_03 { Dafür bin ich aber nicht bei dir in Lehre gegangen. }
+
+S1_questCake_init_talk_00 { #e=sad# Ich gebe dir #t=l# eine Chance #t=r# um dein Gewissen #p=s# reinzuwaschen! }
+
+S1_questCake_init_talk_01 { Was ist dir denn für eine Laus #p=l# über die Leber gelaufen? }
+
+S1_questCake_init_talk_02 { Komm mir doch nicht so. Ich sehe doch Schokolade an deinem Mundwinkel! }
+
+S1_questCake_init_talk_03 { *wischt sich den Mund ab* Welche Schokolade? }
+
+S1_questCake_init_talk_04 { Jetzt reicht es mir aber mit dir! *dreht sich weg* }
+
+S1_questCake_init_P1_00 { Geh mir nicht auf den Sack, ich habe genug Probleme. }
+
+S1_questCake_init_P2_00 { Mein Herr, ich bräuchte ihre Hilfe. }
+
+S1_questCake_init_Choice_00 { Ja, das sieht wirklich schlimm aus. }
+
+S1_questCake_init_Choice_01 { Ja, die brauchst du, aber ich habe jetzt keine Zeit für dich. }
+
+S1_questCake_init_P2_01 { Ich habe meinen Meister enttäuscht und meinen Testkuchen vollständig aufgegessen. Er vermutet schon, dass ich es war. Aber ich muss ihm klarmachen, dass es nicht meine Schuld war. Sonst wirft er mich raus. }
+
+S1_questCake_init_P2_02 { Ich brauche ein Scapegoat und eine fehlende Zutat für einen neuen Kuchen, könnt ihr das für mich tun? }
+
+S1_questCake_init_Choice_02 { Nagut. }
+
+S1_questCake_init_Choice_05 { Nein und Tschüss. }
+
+S1_questCake_init_P2_05 { Danke mein Herr, ich brauche [FlowerAmount] [Flower]. Und wir beschmieren euren Mund mit Schokolade wenn ihr wieder kommt. Hier habt ihr meinen Kochlöffel als Pfand. }
+
+S1_questCake_init_Choice_07 { ... }
+
+X_1 { Danke für deine Hilfe, ich gebe dir etwas. }
+
+Plh_4 { Plh_4 }
+
+Plh_16 { Sumbadamba }
+
+Plh_29 { Aufstehen! }
+
+Plh_35 { Ich hau dir jetzt aufs Maul. }
+
+Plh_68 { Plh_68 }
+
+Plh_69 { Plh_69 }
+
+Plh_71 { Ich will was lernen! }
+
+Plh_72 { Tschüss! }
+
+Plh_73 { (Geheimes Handzeichen ausführen) }
+
+Plh_74 { Handzeichen lernen }
+
+Plh_75 { (Zeigt ihm das geheime Handzeichen ganz geheim) }
+
+Plh_76 { Soso, nadann zeige ich dir mal meinen geheimen Shit }
+
+Plh_82 { Einen Zwillingsbruder. Der hat ihn besucht. Aldo hat mir erzählt, dass die beiden damals unzertrennlich waren und er hat sich drüber aufgeregt, dass sie andauernd für dieselbe Person gehalten wurden. Aber kurz nachdem sie in Drova angekommen sind, sind sie unterschiedliche Wege gegangen. }
+
+Plh_83 { (Lachen und Freude) }
+
+Plh_84 { Stuff A }
+
+Plh_87 { Stuff C }
+
+Plh_88 { Stuff B }
+
+Plh_89 { Plh_89 }
+
+Plh_92 { Lachen Kurz }
+
+Plh_93 { Lachen Mittel }
+
+Plh_94 { Lachen Lang }
+
+Plh_95 { Cheer }
+
+Plh_96 { Joy }
+
+Plh_97 { CalmDown }
+
+Plh_98 { CrossArms }
+
+Plh_99 { Cry }
+
+Plh_100 { Flex }
+
+Plh_101 { Lift Shoulders }
+
+Plh_103 { Look Around }
+
+Plh_104 { NodShort }
+
+Plh_105 { Nod }
+
+Plh_106 { Relax }
+
+Plh_109 { Scratch Head }
+
+Plh_110 { Scratch Chin }
+
+Plh_111 { Shake Head }
+
+Plh_112 { Plh_112 }
+

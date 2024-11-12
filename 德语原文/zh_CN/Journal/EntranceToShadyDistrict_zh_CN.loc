@@ -1,0 +1,16 @@
+Title { Das dunkle Viertel }
+
+Entry_01 { Boris will, dass ich von Leyna $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ Münzen hole. Er hat mir einen Schlüssel zum dunklen Viertel gegeben. Irgendwo westlich im Ruinenlager soll es einen versteckten Nischeneingang geben. }
+
+Entry_02 { Nachdem ich bei Boris war, hat Gera mich abgefangen und ihren Gefallen eingefordert. Ich soll Leyna irgendwie gestrecktes Rostmoos unterjubeln und sie dann bei Boris verpfeifen. }
+
+Entry_03 { Leyna hat mir die $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ Münzen gegeben. Ich sollte Boris davon erzählen. }
+
+Entry_04 { Ich habe Leyna die Wahrheit über Geras Plan gesagt. Sie war sehr dankbar. }
+
+Entry_05 { Habe Boris die Münzen gegeben und Leyna verpfiffen. Damit bin ich Gera nichts mehr schuldig. }
+
+Entry_06 { Ich habe Boris die Münzen von Leyna gegeben. }
+
+Entry_05A { Das gestreckte Rostmoos ist in Leynas Kiste. Jetzt muss ich nur noch zu Boris. }
+

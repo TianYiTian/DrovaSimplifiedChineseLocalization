@@ -1,0 +1,9 @@
+Title { 卡罗特的武器 }
+
+Entry_01 { 卡罗特又把他的武器搞坏了。他不好意思让春奈看到这个。我答应过他要处理这件事。为此，他给了我[GVAR:QuestVars_KarottesWeapon_Config.AmountOfMoney]枚硬币。 }
+
+Entry_02 { Chunnaic修理了武器，但立刻注意到它属于卡罗特。 }
+
+Entry_03 { 卡罗特拿回了他的武器。 }
+
+Entry_04 { 卡罗特不需要他的武器了。 }

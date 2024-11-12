@@ -1,0 +1,22 @@
+ExpPoints { Erfahrungspunkte }
+
+Name_Strength { Stärke }
+
+Name_Mind { Geist }
+
+Name_Dex { Geschick }
+
+Name_Armor { Rüstung }
+
+Name_MagicResist { Magieresistenz }
+
+Learned { Erlernt }
+
+LearnPoint { Lernpunkt }
+
+LearnPoints { Lernpunkte }
+
+MaximumHealth { Maximale Lebenspunkte }
+
+Name_Orientationpunkt { Grundfokus }
+

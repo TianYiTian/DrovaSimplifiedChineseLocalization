@@ -1,0 +1,28 @@
+Title { Boris' Trupp }
+
+Entry_01 { Boris ist eine von Jeros Klingen, und um im Ruinenlager aufgenommen zu werden, muss ich beide Klingen überzeugen. Boris soll südlich von Bernolds Schenke eine kleine Bleibe haben. }
+
+Entry_01A { Damit ich mich Boris anschließen kann, muss ich zwei Leute aus seinem Trupp überzeugen. Er will mir aber nicht sagen, wer zu seinem Trupp gehört. Ich muss es alleine rausfinden. }
+
+Entry_03 { Boris hat mir angeboten, dass ich seinen Trupp für $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ Münzen nicht mehr überzeugen muss. }
+
+Entry_06 { Ester gehört zu Boris' Trupp. Wenn ich ihr helfe, wird Boris davon erfahren. }
+
+Entry_07 { Gera gehört zu Boris' Trupp. Wenn ich ihr helfe, wird Boris davon erfahren. }
+
+Entry_08 { Lindon gehört zu Boris' Trupp. Wenn ich ihm helfe, wird Boris davon erfahren. }
+
+Entry_10 { Ich bin bereits Teil einer Fraktion. }
+
+Entry_11 { Lindon legt ein gutes Wort bei Boris für mich ein. }
+
+Entry_12 { Gera wird Boris von mir berichten. }
+
+Entry_13 { Ester wird Boris nur Gutes von mir berichten. }
+
+Entry_FailedEster { Ester wird nicht für mich stimmen. }
+
+Entry_FailedLindon { Lindon wird nicht für mich stimmen. }
+
+Entry_14 { Boris will mich in seinem Trupp haben. Ich soll mich bei Kilian melden, wenn ich die Stimme von Eugen habe und mich dem Ruinenlager anschließen will. }
+

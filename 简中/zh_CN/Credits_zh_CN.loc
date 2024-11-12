@@ -1,0 +1,101 @@
+director { 导演 }
+
+game_design_lead { 游戏设计主管 }
+
+game_design { 游戏设计 }
+
+additional_game_design { 游戏设计 }
+
+programming_lead { 编程主管 }
+
+programming { 编程 }
+
+art_lead { 艺术指导 }
+
+art { 艺术 }
+
+community { 社区 }
+
+sound_lead { 声音与音乐 }
+
+organisation { 组织 }
+
+praktikanten { 实习生 }
+
+freelancer { 外部 }
+
+musik { 音乐 }
+
+sound { 声音 }
+
+grafiken { 插图 }
+
+autor { 作者 }
+
+testers { 测试员 }
+
+publisher { 发行商 }
+
+spotlight { Deck13 聚焦 }
+
+spotlight_interns { 实习生 }
+
+spotlight_productionBaby { 生产宝贝 }
+
+spotlight_deck13 { Deck13 }
+
+spotlight_deck13_interns { 实习生 }
+
+spotlight_deck13_memory { 纪念Felix Rischbieter }
+
+pr_hound { PR猎犬 }
+
+bxdxo { BXDXO }
+
+headline_Localization { 本地化 }
+
+loca_coordination { 协调 }
+
+loca_english_lead { 英语语言负责人 }
+
+loca_english_translators { 英文翻译者 }
+
+loca_english_proofreading { 英语校对 }
+
+loca_french_localization { 法语本地化 }
+
+loca_french_translators { 法语翻译者 }
+
+special_thank_Grounding { 特别感谢在工作室成立过程中提供的支持 }
+
+specia_thank { 特别感谢 }
+
+tools { 工具 }
+
+voice { 语音 }
+
+thanks_family { 我们感谢我们的家人、朋友、合作伙伴和合作伙伴们。没有你们，我们无法完成这段旅程。 }
+
+thanks_pb { 感谢Piranha Bytes制作了《Gothic》。这款伟大的游戏深深影响了我们所有人。 }
+
+chris_wish { 亲爱的莎拉，感谢你在追逐我疯狂梦想的过程中给予的支持。虽然并不总是容易，但我们做到了！\n还有，安息吧，奶奶，我想念你。 }
+
+gecko { Gecko！感谢你的帮助。你就像是我们Discord上的铁拳。 }
+
+bady { 感谢你，Bady "Atilolzz"！你是竞技场的冠军，也是Drovas发展过程中忠实的伙伴。从一开始你就一直陪伴着我们。 }
+
+entwicklerWG { 感谢所有在Twitch上支持我们的观众。你们定期给予我们力量，并激励我们继续在Drova工作。 }
+
+lavapotion { 感谢Lavapotion团队在我们项目初期在设计我们的世界时给予的宝贵帮助。 }
+
+tinyroar { 问候并感谢Tiny Roar提供的许多建议和介绍Fabio！ }
+
+Acagamics { 感谢Acagamics，我们大学的社团，是他们让我们聚在一起，并通过活动和比赛激励我们开发Drova。没有你们，就没有Drova！ }
+
+finish_line { 最后的话留给你。谢谢。谢谢你玩了Drova。 }
+
+special_thanks_support { 感谢在开发过程中提供的特别支持 }
+
+johannes_wish { 感谢你，Lea，感谢你的支持和这段美好的友谊，尽管我因为忙于Drova的工作而三次取消了原本答应的假期。 }
+
+Fabio_wish { 感谢Just2D的四位创始人——Chris、Johannes、Kai和Julian。你们以勇气、奉献、透明和结构，创造了一个安全的工作环境，让我们即使在“艰难时刻”也能感到舒适，并共同体验游戏开发的梦想。 }

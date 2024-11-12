@@ -1,0 +1,34 @@
+Level { Level: }
+
+LearningPoints { Lernpunkte: }
+
+Category_Sword { Schwert }
+
+Category_Unknown { ??? }
+
+Category_Spear { Speer }
+
+Category_Axe { Axt }
+
+Category_Daggers { Dolche }
+
+Category_Bow { Bogen }
+
+Category_Crafting { Handwerk }
+
+Category_Hunting { Nützliches }
+
+CombatStrength { Kampfkraft }
+
+Category_Slingshot { Schleuder }
+
+Category_Shield { Schild }
+
+fighting_strength { Kampfkraft }
+
+requirement { Voraussetzungen: }
+
+Category_Preparation { Zubereitung }
+
+Category_Mining { Erzabbau }
+

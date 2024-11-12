@@ -1,0 +1,60 @@
+Plh_5 { Hey, ein neues Gesicht. }
+
+Plh_6 { Meinst du mich? }
+
+Plh_7 { Was willst du? }
+
+Plh_9 { Hey, ich kämpfe jetzt auch in der Arena. }
+
+Plh_14 { *schaut abfällig* Proximus nimmt inzwischen jeden Dreck auf ... }
+
+Plh_16 { Was soll mich das interessieren? Soll ich für dich jetzt ein Freudentänzchen aufführen oder was? }
+
+Plh_18 { Was ist dein Problem? }
+
+Plh_20 { Geht dich einen Scheiß an. }
+
+Plh_21 { *grinst* Lass uns wetten! Wie bei einem großen Kampf! Wer verliert, zahlt 30 Münzen. Naa? Oder bist du eine feige Sau? }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? Für weniger als $GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$ Münzen rolle ich nicht mal aus dem Bett. Machen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$ draus! }
+
+Plh_23 { Bei $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ Münzen bin ich dabei. }
+
+Plh_25 { Das gefällt mir, also los. }
+
+Plh_26 { Ich habe nicht so viele Münzen. }
+
+Plh_27 { Lass uns einfach trainieren. }
+
+Plh_28 { Tja, dann treib die Münzen auf. Kannst in der Mine schuften. }
+
+Plh_29 { Sehe ich aus, als bräuchte ich Training? Ohne Münzen kein Kampf. Dann hast du etwas Arenagefühl. *grinst* }
+
+Plh_30 { Lass uns trainieren. }
+
+Plh_31 { Also, $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ Münzen? }
+
+Plh_33 { Vergiss es doch selbst. }
+
+Plh_35 { Gut gekämpft! Aus dir könnte doch was werden. }
+
+Plh_36 { Guter Versuch, aber hast noch viel zu lernen. Und du schuldest mir Münzen. }
+
+Plh_38 { Einen Scheiß bekommst du. }
+
+Plh_39 { Ich habe nicht genug Münzen bei mir. }
+
+Plh_40 { Hier sind deine Münzen. }
+
+Plh_41 { Das gefällt mir. Wenn du wieder kämpfen willst, melde dich. }
+
+Plh_42 { Das sind nicht genug Münzen. Spuck sie aus! }
+
+Plh_43 { Das hättest du dir früher überlegen sollen. Wirst schon sehen, was du davon hast ... }
+
+Plh_45 { Hier sind deine Münzen. Wenn du in der Arena kämpfst, gibt's mehr davon. }
+
+Plh_48 { Ohne Münzen kämpfe ich nicht mit dir. Schulden sind Ehrensache. *grinst* }
+
+Plh_50 { Hier sind die Münzen, die du noch von mir bekommst. }
+

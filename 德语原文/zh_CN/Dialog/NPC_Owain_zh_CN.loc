@@ -1,0 +1,240 @@
+Plh_4 { *spielt mit einem glänzenden Ring in seiner Hand herum* Hm? Was ist? }
+
+Plh_87 { *überrascht* Du hast hier nichts verloren. }
+
+Plh_90 { Was machst du hier? }
+
+Plh_92 { Was geht dich das an? Was machst DU denn hier? Verfolgst du mich heimlich? }
+
+Plh_93 { Geh mir aus den Augen, bevor mir der Arm ausrutscht. }
+
+Plh_99 { Verzieh dich. }
+
+Plh_108 { Einige der Holzfäller sind seit dem Erdbeben gegangen. }
+
+Plh_125 { Dank dir muss ich mich jetzt hier totschuften. Arschloch. }
+
+Plh_126 { Endlich gehöre ich irgendwo dazu und kann arbeiten. *grinst freundlich* }
+
+Plh_128 { Hast das Maul wohl etwas weit aufgerissen, hm? *grinst breit* }
+
+Plh_135 { *wühlt in den Erdmieten herum und bemerkt dich nicht* }
+
+Plh_146 { Was machst du hier? }
+
+Plh_147 { Äh, ich wohne hier? Wonach sieht's denn aus? }
+
+Plh_148 { Nicht unbedingt nach wohnen. }
+
+Plh_149 { Nach einem gemütlichen Schlafplatz. }
+
+Plh_150 { Kommst du immer zu fremden Leuten und sagst, dass es bei ihnen zu Hause scheiße aussieht? }
+
+Plh_151 { Lass mich in Ruhe. Du hast hier nichts verloren. }
+
+Plh_152 { Deine Witze kannst du dir sonst wo hinstecken. }
+
+Plh_153 { *reibt sich an der Stirn* Das hat echt weh getan. }
+
+Plh_154 { Du haust jetzt von hier ab! Sonst hast du gleich mehr als Schmerzen. }
+
+Plh_155 { Kannst froh sein, dass ich dir nicht alle Finger breche, du Dieb. }
+
+Plh_156 { Ist ja gut, ist ja gut. Ich hau ab von hier. Wenn ich irgendwo in der Wildnis verrecke, dann hast du mein Leben auf dem Gewissen! }
+
+Plh_157 { Ich geh ja schon. }
+
+Plh_159 { Gut. Nimm schon. ($GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$ Münzen geben) }
+
+Plh_160 { Vergiss es. }
+
+Plh_161 { Für $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$ Münzen hau ich von hier ab. Damit komme ich über die Runden. So sind wir beide glücklich. }
+
+Plh_162 { *zählt* Sehr schön. So kommen wir ins Geschäft. *grinst* }
+
+Plh_163 { Dann bring auch genügend Münzen mit! Verarschen kann ich mich selbst! }
+
+Plh_164 { Wie du willst. }
+
+Plh_165 { Mit dem Startkapital von dir kann ich hier neu anfangen. }
+
+Plh_172 { Aber ich will mal kein Arsch sein. }
+
+Plh_173 { Alles klar, dann mach ich mich jetzt auf den Weg. }
+
+Plh_181 { Wieso sollte Cengiz mich aufnehmen? Ich hab's schon mal vor 'ner Weile versucht, aber keine Chance. Er wollte nichts von mir wissen. }
+
+Plh_182 { Mir ist aufgefallen, dass weniger Wachen da waren ... }
+
+Plh_183 { Langsam, langsam, wir müssen das hier nicht gleich eskalieren lassen. }
+
+Plh_185 { Steck die Waffe wieder weg, bevor du dir wehtust. }
+
+Plh_187 { Du hörst mir jetzt zu. Verschwinde von hier oder ich schlag dich zu Brei. (Waffe auf ihn richten) }
+
+Plh_188 { *wühlt in der Erdmiete herum* }
+
+Plh_189 { Du bist also der Erdmietendieb. }
+
+Plh_190 { (in den Hintern treten) }
+
+Plh_193 { *hebt die Hände und richtet seine leeren Handflächen zu dir* Wir sollten uns jetzt alle entspannen. }
+
+Plh_194 { Ich mache dir ein Angebot: du lässt mich in Ruhe, und dafür erzähle ich dir ein Geheimnis. So haben wir beide was davon. }
+
+Plh_195 { Was für ein Geheimnis? }
+
+Plh_196 { Kannst du vergessen. Ich sorge dafür, dass du nichts mehr klaust. (angreifen) }
+
+Plh_197 { *grinst breit* So wie du aussiehst, hast du das Geheimnis nötig. }
+
+Plh_198 { Nein! Warte! Agh! }
+
+Plh_199 { Gut. Erzähl mir das Geheimnis. }
+
+Plh_200 { Erst versprichst du mir, dass du mich dann in Ruhe lässt. Sonst kommen wir nicht ins Geschäft. }
+
+Plh_201 { Ich verspreche es. }
+
+Plh_202 { Dir verspreche ich gar nichts. }
+
+Plh_203 { Ich wusste doch, dass du zur Vernunft kommst. }
+
+Plh_204 { Willst du das Geheimnis jetzt wissen oder nicht? }
+
+Plh_205 { Na gut, ich verspreche es. }
+
+Plh_206 { Dein Geheimnis kannst du dir sonst wo hinstecken. (angreifen) }
+
+Plh_207 { Also, Cengiz hat in seinem Zelt eine Truhe. In der Truhe bewahrt er eine Rüstung auf, die er noch übrig hat. So was ist immer besser, als Lumpen zu tragen, und verkauft sich sonst auch ganz gut. }
+
+Plh_208 { Ich tu einfach so, als hätte ich dich gar nicht gesehen. }
+
+Plh_209 { Danke für die Information. Und jetzt friss Staub. (angreifen) }
+
+Plh_210 { *grinst* Perfekt. Ich mache einfach mein Ding und du deins. }
+
+Plh_211 { Du miese kleine Ratte! }
+
+Plh_214 { Cengiz sucht mittlerweile Leute. Du hast keine Arbeit. Ihr könnt beide profitieren. }
+
+Plh_216 { Hm, ich wusste nicht, dass Cengiz mittlerweile Leute braucht. Das ändert die Lage. }
+
+Plh_217 { Denkst du wirklich, dass er mich aufnehmen würde? }
+
+Plh_218 { Ich kann ein gutes Wort für dich einlegen. }
+
+Plh_219 { Vermutlich nicht. Du solltest besser verschwinden. }
+
+Plh_224 { Na gut. Ich kann dich zu Cengiz bringen. Vielleicht gibt er dir Arbeit. (Waffe wegstecken) }
+
+Plh_226 { Und du bist also eine Nervensäge. Schön, dass wir drüber geredet haben. }
+
+Plh_228 { Spinnst du?! Was soll denn der Scheiß? }
+
+Plh_229 { Hör mir endlich zu! Du kannst auch einfach FÜR Cengiz arbeiten, statt zu klauen. }
+
+Plh_230 { Wo das herkommt, gibt's noch mehr. (Waffe ziehen) }
+
+Plh_232 { Immer noch leer ... }
+
+Plh_233 { Auch schon leer ...? }
+
+Plh_234 { Vielleicht wären die Erdmieten nicht so leer, wenn du dich nicht bedienen würdest. }
+
+Plh_235 { (Schulter antippen) }
+
+Plh_236 { Vielleicht wärst du nicht so vorlaut, wenn dir jemand Manieren beibringen würde. }
+
+Plh_237 { *schlägt deine Hand weg* Fass mich nicht an! }
+
+Plh_239 { Glaub mir, Freundchen, du willst dich nicht mit mir anlegen. Klar? }
+
+Plh_241 { Versuch's doch mit ehrlicher Arbeit. Bei Cengiz arbeitet keiner umsonst. }
+
+Plh_243 { Ich glaube, du solltest lieber von hier verschwinden. (Waffe ziehen) }
+
+Plh_245 { *atmet erleichtert aus* Schön, dass du zur Vernunft kommst. }
+
+Plh_247 { Hm? }
+
+Plh_256 { Wieso holst du dir nicht selbst die Rüstung? }
+
+Plh_257 { Weil das genau in dem Zelt ist, in dem er auch schläft! Wenn der aufwacht und mich da sieht, dann macht er Eintopf aus mir. Und ich bin nicht gerade der Beste beim Schleichen. }
+
+Plh_259 { Das würdest du tun? }
+
+Plh_260 { Wo soll ich denn hin? }
+
+Plh_262 { Hoffentlich lässt du mich nicht hängen. Ich warte auf dich beim Stein am Fluss, südlich vom Lager. }
+
+Plh_263 { Da bist du ja. Lass uns zu Cengiz gehen. }
+
+Plh_265 { So, du kannst Cengiz Bescheid sagen. Ich warte hier. }
+
+Plh_269 { Was machst du hier, so ganz allein? }
+
+Plh_270 { Wonach sieht's denn aus? Ich lebe hier. Hab nicht viel und komme gerade so über die Runden. }
+
+Plh_271 { Bei Cengiz verschwinden Äpfel ... und du hast ganz viele. }
+
+Plh_281 { Alles klar. Ich schlafe nachts in meiner Höhle, aber den Rest des Tages warte ich auf dich. }
+
+Plh_282 { Danke, dass du bei Cengiz für mich dichtgehalten hast. }
+
+Plh_283 { Hier, du kannst meinen Ring haben. Meine letzte Erinnerung an eine Zeit, als alles noch anders lief in meinem Leben. Aber ich will das endlich hinter mir lassen. }
+
+Plh_284 { Was willst du von mir? }
+
+Plh_292 { Klar. Warte tagsüber vor dem Lager auf mich. }
+
+Plh_294 { Woher bekommst du die Äpfel? }
+
+Plh_296 { Cengiz' Rüstung habe ich schon. Du lässt dir besser was anderes einfallen. }
+
+Plh_297 { Äh ... w-was? Du hast sie schon? G-gut, ich geb dir $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$ Münzen und du lässt mich in Ruhe. Wie wär's damit? }
+
+Plh_298 { Gut. Gib mir dein Geld. }
+
+Plh_299 { Ich nehme mir dein Geld einfach. (angreifen) }
+
+Plh_301 { Ach so, und eine Sache noch. Sag ihm auf keinen Fall, dass ich aus den Erdmieten geklaut hab! Sonst nimmt er mich niemals auf. }
+
+Plh_302 { Verlass dich auf mich. }
+
+Plh_303 { Ich kann nichts versprechen. }
+
+Plh_304 { Sehr gut! }
+
+Plh_305 { Hmpf. War ja klar. }
+
+Plh_307 { Hau endlich aus meiner Höhle ab! }
+
+Plh_309 { Wir lassen uns beide gegenseitig in Ruhe. Was für eine Harmonie! *grinst* }
+
+Plh_310 { Es ist bestimmt hart, hier alleine zu überleben. }
+
+Plh_311 { *hebt die Augenbrauen etwas an* Wem erzählst du das. Ich wollte vor 'ner Weile bei Cengiz arbeiten, damit ich was verlässlicheres habe. Aber der wollte gar nichts von mir wissen. Seitdem bin ich alleine hier. }
+
+Plh_312 { *Schweißperle läuft seine Stirn herab* Das geht dich gar nichts an! Ich sammle die, und du bekommst auch nichts ab. Du gehst jetzt lieber aus meiner Höhle! }
+
+Plh_313 { Bin ich für alles verantwortlich, was irgendwo verschwindet? Verzieh dich. }
+
+Plh_314 { Das klingt wirklich hart. }
+
+Plh_315 { Ich weiß echt nicht, wie du das hier draußen überlebst. }
+
+Plh_316 { Ist es auch ... }
+
+Plh_317 { Äh. *räuspert sich* }
+
+Plh_318 { Irgendwann hab ich Cengiz' Erdmieten gefunden. Und bevor ich verhungere, habe ich mir da was genommen. }
+
+Plh_319 { Ich würde auch lieber anders über die Runden kommen, aber ich muss gucken, wo ich bleibe! }
+
+Plh_321 { *atmet schwer* Ich lebe. Ich lebe. }
+
+Plh_322 { Zusammen haben wir es geschafft, ich will nie wieder alleine sein. Diese Viecher hätten mich getötet. }
+
+Plh_323 { Pass gut drauf auf. Vielleicht bringt er dir ja auch Glück. }
+

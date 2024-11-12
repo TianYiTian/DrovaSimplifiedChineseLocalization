@@ -1,0 +1,468 @@
+Plh_6 { Jero! Die Expedition war erfolgreich. }
+
+Plh_7 { ... }
+
+Plh_13 { Jawohl! }
+
+Plh_15 { Komm mit. }
+
+Plh_16 { Plh_16 }
+
+Plh_21 { *packt deine Hand, ritzt die Handfläche, dann ebenso bei sich selbst* }
+
+Plh_25 { *drückt deine und seine Hand auf den Roten Turm* Der Eid wurde mit Blut geschlossen. Du hast dein Schicksal in meine Hände gelegt. Und ich werde dich aus Drova befreien. }
+
+Plh_31 { Darwin hat es mir berichtet. Er bereitet das Runengefäß gerade vor. Aber ... wir haben Lindon verloren? }
+
+Plh_36 { Der Rote Turm. Unser Weg in die Freiheit! Wir sind schon zu lange in Drova gefangen, aber die Zeit ist nah, dass wir entkommen können. }
+
+Plh_37 { Mit diesem Ziel haben wir damals Nemeton verlassen und das Ruinenlager gegründet. Kein Tag ist vergangen, an dem wir nicht darauf hingearbeitet haben. }
+
+Plh_38 { Und nun ist das Ziel nah. }
+
+Plh_39 { Du warst einmal Teil von Nemeton? }
+
+Plh_41 { Das waren alle, denn es gab damals nur Nemeton. Die Leute dachten, dass es das Land der Sagen sei. Schnell wurde ihnen klar, dass es nicht so war, und einige wollten wieder weg. }
+
+Plh_42 { Den Druiden von Nemeton gefiel das nicht. Sie verlangten Hingabe und Gehorsam, um Nemeton zu dem zu machen, was es in ihren Augen werden sollte. Wir anderen wurden Verräter genannt. Also haben wir das Ruinenlager errichtet. }
+
+Plh_43 { Das ist jetzt über zwanzig Jahre her. Und glaub mir, niemand ist gezwungen, sich dem Lager anzuschließen. Wer hier ist, ist freiwillig hier. Und glaubt an unser Ziel. }
+
+Plh_49 { Um unser Ziel erreichen zu können, brauchen wir Leute, die sich einbringen. Die kämpfen. Die nicht an unserem Weg zweifeln. }
+
+Plh_53 { Niemand weiß, was uns wirklich im Roten Turm erwartet. Ich verspreche nicht, dass wir alle überleben werden. Aber ich verspreche, dass ich alles dafür tun werde. }
+
+Plh_54 { Der Rote Turm ist unser Ausweg. }
+
+Plh_61 { Du brauchst einen Runenstein. Wir können endlich mit der Hilfe des Großen Keilers welche herstellen. Geh zu Cuna und lass dir einen Runenstein geben. Sie ist an der westlichen Seite der Akademie. }
+
+Plh_62 { Nun geh. }
+
+Plh_64 { Danach wirst du dich bei Kilian melden. }
+
+Plh_74 { Unsere Freiheit ist zum Greifen nah. Bereite dich gut vor. }
+
+Plh_81 { Schaut ... der Rote Turm ... wie lange habe ich von diesem Augenblick geträumt ... }
+
+Plh_158 { Nicht quatschen! Zuschlagen! }
+
+Plh_183 { Für den Ausbruch. }
+
+Plh_190 { Hab von Eugen gehört, was im Moor passiert ist. Und hätte nicht erwartet, dich wiederzusehen. Wir wollten schon einen weiteren Trupp losschicken. Hast du die Kristalle? }
+
+Plh_191 { Ja, hier. (geben) }
+
+Plh_192 { *mustert sie und grinst* Ich spüre die Kraft der Göttlichen in ihnen. Wir können beginnen. }
+
+Plh_193 { Beginne mit dem Ritual, Manes. }
+
+Plh_194 { Komm mit. }
+
+Plh_195 { (mitkommen) }
+
+Plh_199 { Es war ... *schlägt die Augen nieder* $GVAR:EVars_Player.Name$, erzähl du es. }
+
+Plh_200 { Lindon hat sich für uns geopfert. Der Große Keiler hat ihn aufgespießt. }
+
+Plh_201 { Der Große Keiler war zu stark für ihn. Nicht zu ändern. }
+
+Plh_202 { Deinen Namen habe ich schon gehört. Von Levin. Du warst als Neuling bei der Expedition dabei? Ungewöhnlich. Aber spricht für dich. }
+
+Plh_203 { War eher eine Ausnahme. $GVAR:EVars_Player.Name$ wusste, wie wir durch die Schwarzen Flammen kommen können. Damit wir es überhaupt bis zum Großen Keiler schaffen. }
+
+Plh_204 { Die Schwarzen Flammen, die so viele Leben gekostet haben? Du kennst einen Weg durch sie? Du bist gekommen wie gerufen ... }
+
+Plh_205 { Nun haben wir die Kraft des Großen Keilers in den Händen. Cuna bereitet gerade mit ihm alles vor. Kilian, hilf ihr. $GVAR:EVars_Player.Name$, du bleibst hier. }
+
+Plh_206 { Ich muss dir etwas zeigen. Komm mit. }
+
+Plh_208 { Du hast uns den Weg durch die Schwarzen Flammen gezeigt, uns den Machtkristall gebracht und warst entscheidend dabei, dass wir die Kraft des Göttlichen haben. }
+
+Plh_211 { Wir sind ... }
+
+Plh_213 { Das Tor ist offen! Kommt her! }
+
+Plh_214 { Halt! }
+
+Plh_215 { Die Vergangenen kämpfen ohne Pause, aber ihr Geist hat ihre Körper bereits verlassen ... Sie werden uns nicht aufhalten können. Seid ihr unverletzt? }
+
+Plh_216 { Das sieht nach einer weiteren magischen Barriere aus ... }
+
+Plh_217 { Das ist doch dieselbe ... }
+
+Plh_219 { Was war das für ein verfluchtes Teil?! }
+
+Plh_220 { Wieder so eine Barriere. Darwin? }
+
+Plh_224 { ... IM ROTEN TURM! Wir haben es geschafft! }
+
+Plh_225 { Mein ganzes Leben habe ich auf diesen Moment hingearbeitet ... }
+
+Plh_226 { Jero, das ist unglaublich! }
+
+Plh_227 { Aufpassen. Wir sind die ersten Menschen, die seit einer Ewigkeit einen Fuß in den Roten Turm setzen. Dies ist das Unbekannte. Hier sind die Vergangenen gestorben. }
+
+Plh_228 { Bleibt bei mir. }
+
+Plh_229 { Darwin, ist das unser Weg in die Freiheit? }
+
+Plh_230 { Ich ... ich weiß nicht ... ich fühle eine magische Kraft, aber ... }
+
+Plh_231 { Die magische Kraft kommt von weiter oben... und ist nicht mit diesem Runenzirkel verbunden. Er ist erloschen. }
+
+Plh_232 { Wir haben den Großen Keiler. Können wir mit ihm genug magische Kraft aufbringen, um den Runenzirkel zu erwecken? }
+
+Plh_233 { Nein. Der Runenzirkel, den wir suchen, befindet sich oben im Turm. Wir müssen die anderen Runengefäße mit den Göttlichen finden. }
+
+Plh_234 { Also höher den Turm hinauf ... }
+
+Plh_235 { Schaut euch um. Wir müssen irgendwie das Tor öffnen. }
+
+Plh_246 { Ich weiß nicht, was uns da oben erwartet. Aber wir brauchen die Runengefäße. Sonst war alles umsonst. }
+
+Plh_247 { Wir sind so nah dran. Wenn wir die Göttlichen finden, haben wir mehr als genug magische Kraft, um Drova verlassen zu können. Wir werden die Runenmagie nach Hause bringen. }
+
+Plh_248 { Wir folgen dir, Jero! }
+
+Plh_249 { Bis in den Tod und noch weiter! }
+
+Plh_250 { Bald trinken wir unser Bier in Freiheit! Gemeinsam! Folgt mir! }
+
+Plh_252 { *flüstert* Wir dürfen nicht unüberlegt angreifen. Dieses ... Konstrukt ... muss einer ihrer Golems sein? }
+
+Plh_253 { Gut. Also, $GVAR:EVars_Player.Name$, du kümmerst dich um den Golem. Wir werden die Vergangenen angreifen und dir den Rücken freihalten. }
+
+Plh_255 { Mir ging's nie besser. Ein guter Kampf vertreibt alle Sorgen! }
+
+Plh_256 { Das ist der Eugen, wie ich ihn kenne! Einfach kämpfen, dann ist die Welt ist wieder in Ordnung! }
+
+Plh_257 { Wir ... wir müssen weiter. Über uns wächst eine magische Kraft. Ich kann es fühlen. Die Göttlichen sind nah. }
+
+Plh_258 { Dann weiter! }
+
+Plh_259 { Die Barriere ähnelt der, die den Roten Turm umgab. Aber sie ist schwach. Mit der Kraft des Großen Keilers, werde ich sie aufheben können. }
+
+Plh_260 { Wir können passieren. }
+
+Plh_261 { Du hast es geschafft! }
+
+Plh_262 { Folgt mir, weiter! }
+
+Plh_263 { Ich ... weiß nicht. Es scheint die Vergangenen am Leben gehalten zu haben ... ihre magische Kraft konnte dem Konstrukt nicht entfliehen. }
+
+Plh_264 { "Versuche, dem Tod zu entkommen, und du wirst niemals Frieden finden." Das hat mein Vater Dorian immer gesagt. }
+
+Plh_265 { Sag ich ja immer. Ich bin ein Friedensstifter. }
+
+Plh_266 { Genug. Wir müssen die Runengefäße finden. Schaut euch um! }
+
+Plh_271 { Lass es mich versuchen ... }
+
+Plh_272 { Wir können durch ... }
+
+Plh_273 { Weiter! }
+
+Plh_274 { Nemeton! Nemeton kommt! }
+
+Plh_276 { Mein Bruder ... so sehen wir uns wieder. }
+
+Plh_277 { Verteidigungsformation! }
+
+Plh_278 { Wie seid ihr hierher gelangt? }
+
+Plh_279 { Nach vorne! }
+
+Plh_280 { Die Barriere war verschwunden. Der Rabe konnte uns in den Turm bringen. Ihr habt euer eigenes Ende herbeigeführt ... }
+
+Plh_281 { Ihr habt den Düsterwald vernichtet! Tod folgt, wo immer ihr schreitet. Ich werde nicht zulassen, dass die Runengefäße in euren Händen landen. }
+
+Plh_282 { Halte dich bereit, $GVAR:EVars_Player.Name$. }
+
+Plh_283 { Als hättest du nicht nach der Macht der Göttlichen gegriffen! Nach der Macht des Großen Keilers! Ihr seid Heuchler! }
+
+Plh_284 { Krieger von Nemeton ... Waffen runter. }
+
+Plh_285 { W-was? }
+
+Plh_286 { Es ist genug Blut vergossen worden. Dies hier betrifft nur mich und meinen Bruder. Wir werden das klären ... nur mit unserem eigenen Blut. }
+
+Plh_287 { Nur wir beide, Bruder. Wer überlebt, bekommt die Runengefäße ... und damit die Zukunft von Drova. }
+
+Plh_288 { Die Göttlichen sollen das Urteil sprechen! Mögen sie entscheiden, wer die Runengefäße erhält und über das Schicksal von Drova entscheidet, indem sie unsere Klingen führen! }
+
+Plh_290 { Was? Ein Urteil der Göttlichen? }
+
+Plh_291 { Es würde bedeuten, dass einer von ihnen sterben muss ... }
+
+Plh_293 { Zur Seite! }
+
+Plh_294 { Ich habe mein Leben dem Ziel gewidmet, die Menschen aus Drova in die Freiheit zu führen. }
+
+Plh_295 { Wenn ich zum Urteil der Göttlichen treten soll, um das zu erreichen ... wenn ich dafür sterben muss oder das Leben meiner Schwester nehmen ... dann sei es so. }
+
+Plh_296 { Nicht gut ... gar nicht gut ... }
+
+Plh_297 { FÜR JERO! }
+
+Plh_299 { Bezeugt alle das Urteil der Göttlichen! Seht mit an, wie sich die Zukunft von Drova aus dem Nebel schält! }
+
+Plh_300 { Dann werden wir sehen, was du inzwischen gelernt hast ... Schwester. }
+
+Plh_301 { Du wirst es gleich erleben ... Bruder. }
+
+Plh_302 { *flüstert* Ich wollte nie, dass es dazu kommt. }
+
+Plh_303 { *flüstert* Es ist zu spät. Alles zu spät. }
+
+Plh_304 { Sofort! Wir bringen die Machtkristalle an ihren Platz. }
+
+Plh_305 { Das wird es. Vertrau auf unsere Leute, Jero. }
+
+Plh_306 { Es muss funktionieren ... }
+
+Plh_307 { Die Barriere ist zerstört! }
+
+Plh_308 { Macht euch bereit! Der Rote Turm steht uns offen! }
+
+Plh_309 { Fangt an! }
+
+Plh_310 { Ihr habt Jero gehört! Eugen, Fulk und $GVAR:EVars_Player.Name$. Macht euch bereit! }
+
+Plh_311 { Für die Freiheit! (salutieren) }
+
+Plh_313 { Auf in den Roten Turm. }
+
+Plh_314 { Für Jero! }
+
+Plh_315 { Für Farlan. }
+
+Plh_316 { Folgt mir! }
+
+Plh_317 { Schau dir den Roten Turm an. }
+
+Plh_318 { Der Schutzzauber ist stark, mit körperlicher Kraft nicht zu überwinden ... Doch jetzt haben wir die Kraft eines Göttlichen. }
+
+Plh_319 { Unsere Druiden haben ein Ritual entwickelt, mit dem sie die magische Kraft des Göttlichen durch Silber verstärken und auf die Barriere richten können. }
+
+Plh_320 { Wir werden in den Roten Turm gelangen. Und ich will dich dann an meiner Seite haben. }
+
+Plh_322 { Eugen ist komplett durchgedreht, er war mir keine Hilfe. }
+
+Plh_323 { Ich habe mit ihm gesprochen. Wir alle wollen hier raus. Du hast es glücklicherweise überlebt ... dein Heldenmut wird in die Geschichte unserer neuen Welt eingehen, $GVAR:EVars_Player.Name$. Aber erst müssen wir sie erreichen ... }
+
+Plh_324 { Ihr habt nicht viel Zeit. Nemeton wird schnell bemerken, dass wir im Roten Turm sind. Sie werden wahrscheinlich angreifen. Ich kümmere mich um die Verteidigung. }
+
+Plh_325 { Wir müssen schneller als Nemeton sein. Krieg ist unvermeidlich. Wir müssen ausbrechen. Kommt! }
+
+Plh_326 { Unser Weg in die Freiheit. }
+
+Plh_327 { Kilian, du wirst dich mit Levin um die Verteidigung kümmern. Haltet Nemeton davon ab, zum Roten Turm zu kommen. }
+
+Plh_328 { Wir werden den Großen Keiler für das Ritual brauchen. }
+
+Plh_330 { Wir werden in den Roten Turm gehen. Ich weiß nicht, was uns dort erwartet. Bereite dich gut vor. }
+
+Plh_331 { Ich bin bereit. }
+
+Plh_332 { Ich brauche noch ein wenig Zeit. }
+
+Plh_333 { Dann erledige, was du zu tun hast. Beeil dich! }
+
+Plh_334 { Ich bin bereit für den Roten Turm. }
+
+Plh_335 { Gut, lass uns beginnen. }
+
+Plh_336 { *atmet schwer* Wir haben es geschafft! Gute Arbeit! }
+
+Plh_337 { Es sind viele eigenartige Dinge der Vergangenen in dieser Kammer. Was hast du getan, $GVAR:EVars_Player.Name$? }
+
+Plh_338 { Die Relikte waren in den Räumen ... versteckt. Damit konnte ich die Tür öffnen. }
+
+Plh_340 { Gut, dich an unserer Seite zu haben. Die Vergangenen und ihre seltsamen Bauwerke ... wahrscheinlich haben sie hier auch Fallen gebaut. }
+
+Plh_341 { $GVAR:EVars_Player.Name$, du hast schon gegen so ein Konstrukt gekämpft? Was weißt du darüber? }
+
+Plh_342 { Hält viel aus, hat eine große Reichweite und mächtige Zauber. }
+
+Plh_343 { Überlasst das einfach mir. }
+
+Plh_344 { Wir müssen ausfächern, dann ist das kein Problem. }
+
+Plh_346 { Macht euch bereit. Wir greifen an, und zwar ... }
+
+Plh_347 { Jetzt! }
+
+Plh_348 { Sie sind hier! }
+
+Plh_349 { Wir müssen bald ganz oben sein. Die magische Kraft der Göttlichen ist so stark ... unglaublich ... sie erfüllt auch diesen Runenkreis, seht. }
+
+Plh_350 { Weißt du, was er tut? }
+
+Plh_351 { Ich bin mir nicht sicher ... aber einige dieser Runen kenne ich. Der Kreis scheint wie ein Schutzzauber zu wirken ...? }
+
+Plh_352 { Was war das? }
+
+Plh_353 { Das klang wie ... nein, das kann nicht sein ... }
+
+Plh_354 { NEMETON! }
+
+Plh_355 { So redet niemand mit der Erbin des Moores! }
+
+Plh_356 { Ich werde dir die Zunge rausschneiden ... }
+
+Plh_357 { Kommt doch her, wenn ihr euch traut! }
+
+Plh_358 { Molvina ... nein, das kann nicht sein. }
+
+Plh_362 { Wie konnte das passieren? Wir waren so nah dran ... }
+
+Plh_366 { Henik, es ist ... }
+
+Plh_367 { Molvina ist tot und damit auch Nemeton. Es kann sich nicht verteidigen. Die Göttlichen gehören uns, und wir werden die neuen Göttliche dieser Welt werden! }
+
+Plh_370 { Ich werde dir nicht folgen, sondern fordere dich zum Urteil der Göttlichen. }
+
+Plh_371 { (niederknien) }
+
+Plh_372 { Was ist mit dem Runenzirkel passiert? Er leuchtet nicht mehr. }
+
+Plh_382 { Das ist nicht gut, es kann sein, dass- }
+
+Plh_383 { Schweig! }
+
+Plh_384 { Knie nieder und schwöre mir die Treue. Ich werde uns in eine bessere Welt führen, wo wir ohne Göttliche leben können. }
+
+Plh_385 { Ich kenne ihre Rätsel mittlerweile - die Relikte mussten an den richtigen Platz. }
+
+Plh_386 { Das ist eine lange Geschichte ... }
+
+Plh_387 { Geschafft! Wir sind im Roten Turm! }
+
+Plh_397 { Schwester. Wie schön, dich hier zu sehen. }
+
+Plh_399 { Krieger des Ruinenlagers - vortreten! }
+
+Plh_400 { Wie seid ihr in den Roten Turm gekommen? }
+
+Plh_401 { Ihr habt den Schutzzauber geschwächt, als ihr den Roten Turm betreten habt. Damit habt ihr selbst euren Untergang besiegelt ... }
+
+Plh_405 { Meine Getreuen ... nehmt eure Waffen runter. }
+
+Plh_406 { Was sagst du, Schwester? Wir kreuzen die Klingen. }
+
+Plh_410 { Für den Frieden ist mir kein Opfer zu groß. Nur noch ein Mal soll Blut fließen in Drova. Ein letztes Mal. Selbst wenn es aus den Adern meines Bruders rinnen muss. }
+
+Plh_411 { Ich kämpfe für Nemeton. Ich kämpfe für ganz Drova! }
+
+Plh_412 { Molvina, die Erbin des Moores. }
+
+Plh_418 { Wir müssen uns beeilen. Vergesst nicht, wofür wir das tun. Für Nemeton! }
+
+Plh_422 { Schau dich um. }
+
+Plh_423 { Weiter oben im Turm sind mehrere Göttliche ... ich kann sie fühlen ... }
+
+Plh_424 { Bald wird das Ruinenlager wissen, dass wir im Roten Turm sind. Wir müssen uns beeilen. Sobald wir die Göttlichen haben, sind wir unbesiegbar! }
+
+Plh_425 { Molvina, der Runenzirkel ist erloschen. Er hat keine magische Kraft mehr. }
+
+Plh_426 { Das heißt, es wird kein Zurück geben, wenn wir die Göttlichen nicht finden ... }
+
+Plh_428 { Wir folgen dir! }
+
+Plh_430 { Seid wachsam. }
+
+Plh_431 { Ich bemitleide sie ... nach all der Zeit in so einem Zustand ... Ich habe selbst im Moor gespürt, was passieren kann, wenn unsere Verbindung zu dieser Welt verdorben wird ... }
+
+Plh_433 { Mit der Kraft des Großen Keilers sollten wir sie überwinden können. }
+
+Plh_435 { Kein Golem weit und breit ... schon besser. }
+
+Plh_440 { Der Tod gehört zum Leben. Erinnert euch an Gradan ... er ist in der nächsten Welt und denkt an uns, so wie wir an ihn denken. }
+
+Plh_441 { Wer auch immer in dieser nächsten Welt ist ... sie sollten sich glücklich schätzen, ihn bei sich zu haben. }
+
+Plh_442 { Hast du noch genug Kraft, Mombert? }
+
+Plh_443 { Noch eine Barriere. Wir müssten bald oben sein. }
+
+Plh_444 { Das Horn des Ruinenlagers. }
+
+Plh_447 { Ich werde nicht zulassen, dass ihr die Runengefäße in die Finger bekommt. }
+
+Plh_448 { Ruhe! So spricht niemand  mit unserem Anführer! }
+
+Plh_449 { Das betrifft nur mich und meine Schwester. Es soll kein Blut von anderen Leuten vergossen werden ... wir entscheiden ... mit unserem eigenen Blut. }
+
+Plh_452 { Ihr alle! Bezeugt alle das Urteil der Göttlichen! }
+
+Plh_453 { Das waren Kämpfe, als wir noch jung waren. Den Fehler hast du gemacht, denn ich bin nicht mehr der kleine Jero von damals, Schwester. }
+
+Plh_454 { Du hast mich noch nie im Kampf besiegt, Bruder. Es war ein Fehler, herzukommen. }
+
+Plh_455 { Ich habe den Kampf nicht gewollt, ich wollte meine Schwester nicht töten. Aber sie hat mir keine Wahl gelassen. Die Göttlichen haben mir keine Wahl gelassen. }
+
+Plh_456 { Drova wird nie dieses Land der Sagen werden. Wir müssen zurück, in das Land, von wo wir kommen! Und ich werde uns dorthin führen! }
+
+Plh_457 { Wir sind nun mächtiger als die Göttlichen ... warum sollen wir nur Drova nach unserem Bild formen? Wir haben die Macht, die ganze Welt zu verändern! ICH habe diese Macht! }
+
+Plh_458 { Der Runenzirkel ... irgendwas stimmt nicht mit ihm. Er ist ... erloschen? }
+
+Plh_459 { Mombert! Das ist alles egal. Die Göttlichen haben gesprochen. ICH habe gesprochen! }
+
+Plh_460 { Für die Freiheit! }
+
+Plh_461 { Molvina, die Erbin des Moores! Wie kann das der Wille der Göttlichen sein! Jero will sich über die Göttlichen stellen. }
+
+Plh_462 { Ich werde mich nie wieder den Göttlichen unterwerfen ... ich bestimme selbst. }
+
+Plh_463 { Kniet vor mir. Schwört mir die Treue. }
+
+Plh_464 { Oder tretet in den Ring, wenn ihr nicht folgen wollt. }
+
+Plh_465 { Asmus ... $GVAR:EVars_Player.Name$ ... was tut ihr?! }
+
+Plh_466 { Es war ein ehrenvoller Kampf. Die Göttlichen haben ihr Urteil gesprochen. Jero führt uns nun an ... }
+
+Plh_467 { Was bei den Göttlich tust du? Bist du irre? }
+
+Plh_468 { Jemand will gegen Jero kämpfen? }
+
+Plh_469 { Ich bewundere diesen Mut. Sinnloser Mut, aber meinen Respekt hast du. }
+
+Plh_470 { Ich schicke dich zu den Göttlichen. Kämpfe! }
+
+Plh_471 { Für Jero! Den Bringer der Freiheit! }
+
+Plh_472 { Die Runengefäße gehören jetzt zum Ruinenlager. Mit ihrer Macht werden wir Drova für immer verlassen. Die Freiheit ist zum Greifen nah! }
+
+Plh_473 { Folgt mit, Krieger des Ruinenlagers. Wir werden die Runengefäße holen. }
+
+Plh_474 { Vorsicht ... noch mehr Vergangene. }
+
+Plh_475 { Diesmal ist kein Golem dabei. Leichtes Spiel! }
+
+Plh_476 { Gut gekämpft. Die Vergangenen sind stark, aber dumpf und willenlos ... keine Gemeinschaft. Wir sind eine ... deswegen sind wir siegreich. }
+
+Plh_477 { Nur ein Grund mehr, sie in die nächste Welt zu bringen. }
+
+Plh_478 { Sie heißen nicht umsonst "Vergangene". Ihre Zeit ist um. WIR werden über Drova herrschen. Los, weiter. }
+
+Plh_479 { Diese Barriere ... ich erinnere mich noch an die glühenden Runen des Roten Turms. Mombert? }
+
+Plh_480 { Ja, sie ist ähnlich, aber schwächer. }
+
+Plh_481 { Noch mehr Vergangene, macht euch kampfbereit. }
+
+Plh_482 { Schaut euch um, wir müssen herausfinden, wie wir das Tor nach oben öffnen können. }
+
+Plh_483 { Wie hast du das geschafft, $GVAR:EVars_Player.Name$? All die Dinge hier sind so fremdartig ... }
+
+Plh_484 { *grinst* Zeigt ihnen, was es heißt, eine Familie zu haben! }
+
+Plh_485 { Ihr verdammten Heuchler. Erst der Rabe, dann der Keiler. Wir werden euch aufhalten, sonst enden wir alle wie die Vergangenen! }
+
+Plh_486 { Bruder, wir werden hier Nemeton erschaffen, wir kämpfen für unsere Ziele! ... du willst nur flüchten, dich vor der Verantwortung entziehen? }
+
+Plh_487 { So, wie du es immer tust! Ein Feigling, der aus Drova raus will, statt das Schicksal selbst in die Hand zu nehmen? Weißt du überhaupt noch, wie es früher war? Nur Verrückte würden dorthin zurück wollen ... }
+

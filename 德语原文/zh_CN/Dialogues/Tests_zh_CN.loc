@@ -1,0 +1,17 @@
+Plh_13 { $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ kämpft gegen $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ }
+
+Plh_14 { Das Zeichen des Blutes und des Stahls! }
+
+Plh_17 { Nur einer kann siegen! }
+
+Plh_18 { $GVAR:DAS_ArenaSystem.MainFight_WinnerName$ hat gewonnen. Wenn ihr richtig gewettet habt, holt euch euren Wetteinsatz ab. }
+
+Plh_19 { Hau drauf! }
+
+Plh_27 { Auf wen habe ich nochmal gesetzt? }
+
+Plh_28 { Das war vorherzusehen ... leichtes Geld. }
+
+Plh_30 { Der Kampf beginnt! }
+
+Plh_31 { Die Kämpfer sind bereit. }

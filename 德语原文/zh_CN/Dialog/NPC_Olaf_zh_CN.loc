@@ -1,0 +1,411 @@
+Plh_4 { Willkommen in meiner bescheidenen Taverne. Ich bin Olaf. Dich hab ich hier noch nicht gesehen. Aber du brauchst eindeutig eine Auszeit mit einem schönen Bier! }
+
+Plh_6 { Ich habe Liesl zurück zu Evi gebracht. Sie ist wieder weggelaufen. }
+
+Plh_8 { Ah, sehr gut. Liesl brennt immer wieder durch, und ich hab Evi TAUSEND MAL gesagt, dass sie auf dieses Schaf besonders aufpassen muss! }
+
+Plh_9 { Neulich komme ich aus der Taverne, und da grast Liesl gemütlich direkt davor. }
+
+Plh_10 { Wie auch immer. Arbeit soll bezahlt werden. Hier ist dein Lohn. }
+
+Plh_11 { Danke. Wir sehen uns. }
+
+Plh_13 { Ich suche Arbeit. }
+
+Plh_14 { Ich suche hier einen Tristan. }
+
+Plh_29 { Hier ist die Zeche. ($GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ Münzen geben) }
+
+Plh_33 { Hast du die Notiz zur Reißerjagd ausgeschrieben? }
+
+Plh_34 { Dein Problem mit den Reißern ist erledigt. Hier ist der Kopf. }
+
+Plh_37 { Wer die Gefahr beseitigt, bekommt $GVAR:QuestVars_HuntTheRippers_Config.Reward$ Münzen. Ehrliche Arbeit für ehrlichen Lohn! }
+
+Plh_39 { Ich sehe, was ich tun kann. }
+
+Plh_40 { Wo finde ich die Reißer? }
+
+Plh_41 { Wenn du zurück Richtung Ruinenlager gehst, dann kommst du im Norden an der Weggabelung zu einem Plateau. Faol wollte in dieser Richtung jagen, soweit ich weiß. }
+
+Plh_43 { Vor einer Weile war Faol wegen des Aushangs hier. Genau wie du. }
+
+Plh_45 { Jeder Reißer weniger ist ein Problem weniger für uns alle. }
+
+Plh_46 { Das waren nicht gerade leicht verdiente Münzen. }
+
+Plh_47 { Ich musste mich für Münzen schon mehr anstrengen. }
+
+Plh_48 { Aber wohl verdient! }
+
+Plh_49 { Ist das so? Dann solltest du öfter für mich arbeiten. }
+
+Plh_50 { Wir sehen uns. }
+
+Plh_51 { Mahlzeit! }
+
+Plh_52 { Die Gefahr durch Reißer wird hier immer schlimmer. Wenn das so weitergeht, dann kann ich bald dichtmachen. }
+
+Plh_54 { Faol und ich haben uns um die Reißer gekümmert. Hier ist der Kopf. }
+
+Plh_55 { Gute Arbeit. Sobald Faol hier ist, gebe ich euch euren Lohn. }
+
+Plh_57 { Nach getaner Arbeit erst auf ein kühles Bier zu Olaf! }
+
+Plh_58 { So lobe ich mir das! Gute Arbeit. }
+
+Plh_59 { Das sollte für das eine oder andere Bier reichen. *grinst* }
+
+Plh_60 { Pah, du weißt doch, wie das läuft, wenn hier voll ist. Da bleibt kein Krug leer und keine Münze in der Tasche! }
+
+Plh_62 { Wenn du dir ein paar Münzen verdienen willst, such nach Evi und greif ihr unter die Arme. Müsste irgendwo auf der Heide bei den Schafen sein. Hat immer irgendwelche Probleme mit denen. }
+
+Plh_63 { *Mustert dich* DU willst dich darum kümmern? Dann brauchst du Glück. }
+
+Plh_73 { Ich bin Olaf. Willkommen im Kopflosen Reißer! Wenn du Essen, Bier oder ein Bett brauchst, komm einfach mit genug Münzen zu mir. }
+
+Plh_84 { Ich muss nach Nemeton. }
+
+Plh_85 { Dann bist du fast da. Musst einfach weiter den Weg nach Osten durchs Moor laufen. }
+
+Plh_86 { Pass aber auf. Das Moor ist nicht gerade sicher ... und abends tödlich. Ein paar Leute sind schon in der Dunkelheit verschwunden. Wir haben nur Teile von ihnen gefunden. }
+
+Plh_87 { Gibt es noch ein Zimmer, in dem ich schlafen kann? }
+
+Plh_88 { Oben findest du Betten. Kostet $GVAR:EVars_Olaf.BedCosts$ Münzen. }
+
+Plh_89 { Hier sind die Münzen. }
+
+Plh_91 { Geh einfach hoch. Nimm das Zimmer ganz links. Da kannst du in Ruhe schlafen. }
+
+Plh_92 { Wenn du nicht genug Münzen hast, kannst du auch draußen im Stroh schlafen. Aber besser erholt schläfst du in Betten und wachst gestärkter und frischer auf. Deine Wahl. }
+
+Plh_93 { Hmm, lass mich nachdenken ... }
+
+Plh_94 { Er hat mir eine Karte gezeigt, die er gerade gezeichnet hat. Er wirkte für mich nicht wie jemand, der abhaut und seine Zeche nicht zahlt. Vor allem hat er seine ganzen Sachen noch oben auf seinem Zimmer. }
+
+Plh_95 { Ich muss ihn unbedingt finden. Kann ich mir seine Sachen angucken? }
+
+Plh_96 { Aber na klar doch. Ich gebe dir den Schlüssel und du kannst dich in seinem Zimmer umsehen. Wenn wir schon mal dabei sind, gebe ich dir auch gleich die Schlüssel zu den anderen Räumen, meinem Keller und dem Scheißhaus. }
+
+Plh_97 { Ja, genau, Tristan. Er hat ein Zimmer gemietet und abends saß er immer mit seinem Buch am Feuer. Da hat er ständig alles Mögliche reingeschrieben und gezeichnet. Tja, und dann war er weg. }
+
+Plh_98 { Das ist nett von dir. }
+
+Plh_99 { Alles klar. Was willst du für den Schlüssel? }
+
+Plh_100 { Ich kann dir den Schlüssel geben, wenn du die restliche Zeche von ihm zahlst. Das sind ... $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ Münzen. }
+
+Plh_101 { Bist du auf den Kopf gefallen? Ich kann doch nicht einfach jedem Dahergelaufenen die Schlüssel zu meinen Räumen geben. Dann würde nie wieder jemand bei mir übernachten wollen. }
+
+Plh_102 { Ich brauche Informationen von Tristan. Wenn ihm was passiert ist, muss ich herausfinden was. }
+
+Plh_103 { So viele Münzen habe ich nicht. }
+
+Plh_104 { Hier sind die $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ Münzen für die Zeche. }
+
+Plh_106 { *Grinst* Alles klar. Hier ist der Schlüssel. Ich mache immer wieder gerne Geschäfte mit dir. Wenn du die Etage hoch gehst, ist es der erste Raum. }
+
+Plh_107 { Dann musst du wohl oder übel so viele Münzen auftreiben. }
+
+Plh_108 { Frag einfach die anderen Besucher hier, ob sie deine Hilfe gebrauchen können. }
+
+Plh_110 { Kannst ihn suchen und bei der Reißerjagd helfen. Er ist schon viel zu lange weg. Eigentlich ist er immer sehr zackig mit seinen Aufträgen durch. }
+
+Plh_112 { Wenn es so gefährlich ist, könnte ich etwas Hilfe gebrauchen. }
+
+Plh_113 { Ich würde ja mitkommen, aber ich kann hier nicht weg. Kann dir aber ein gebratenes Fleisch anbieten, das hoffentlich deine Kampfeslust verstärkt. }
+
+Plh_115 { Das wird mir helfen. Ich melde mich bei dir. }
+
+Plh_116 { Hast du vielleicht auch eine Waffe für mich da? }
+
+Plh_117 { *runzelt die Stirn* Darf's vielleicht auch ein Zauberspruch sein, der alle Reißer in Drova plattmacht? }
+
+Plh_119 { Läuft wohl gerade nicht so glatt? }
+
+Plh_122 { Die Kacke ist am Dampfen! }
+
+Plh_124 { Seit der Düsterwald zerstört worden ist, flüchten immer mehr Leute hierher. Dann kamen die Viecher aus dem Wald und haben uns angegriffen. }
+
+Plh_126 { Ich bin auf der Suche nach Reija. }
+
+Plh_136 { Vergiss es. Mir brennt die Hütte hier. Jede Nase versucht, bei mir unterzukommen. Such dir 'ne freie Ecke, wenn du dich ausruhen willst. }
+
+Plh_137 { Noch jemand ...? }
+
+Plh_144 { Meine armen Schafe ... es ist ja nicht nur so, dass wir was von ihnen hatten, die Milch und so ... aber sie waren auch ... Freunde. }
+
+Plh_145 { Ich schwöre, wenn das alles rum ist, werden wir hier wieder Schafe haben, und sie werden glücklich sein! }
+
+Plh_153 { Aber das wird dich nicht interessieren. Hier, dein Lohn. }
+
+Plh_157 { Eine Person wird vermisst, sie war zuletzt hier bei dir in der Taverne. }
+
+Plh_159 { *runzelt die Stirn* Hier kommen und gehen massig Leute, und ich drücke ihnen meistens nur Bier in die Hand. Frag meine Tochter Sine. }
+
+Plh_162 { Sagt dir der Name Aldrik was? }
+
+Plh_163 { *runzelt die Stirn* Schickt Aldrik jetzt Leute, oder was? }
+
+Plh_169 { Aldrik ist tot und wird nicht mehr kommen. }
+
+Plh_171 { Ach? Na, das is'n guter Grund. }
+
+Plh_172 { Du und Aldrik habt Leute entführt, damit sie in der Mine irgendwas ausgraben sollen. }
+
+Plh_173 { Aldrik ist der Grund, warum Leute verschwinden. Er hat sie entführt und in der Mine arbeiten lassen. }
+
+Plh_175 { Ach, ist das so, ja? Weiß ich jetzt nichts von, aber ich würde dir empfehlen, das lieber nicht zu laut in die Landschaft zu plärren ...? }
+
+Plh_176 { Möglicherweise hab ich Aldrik hier und da was abgekauft. Also? Was soll mich alles angehen? }
+
+Plh_177 { Aldrik ist ein Idiot. Das hätte er alles geschickter aufziehen können. Na ja. }
+
+Plh_180 { Geschieht ihm recht. }
+
+Plh_182 { Ich habe bei Aldrik einen Brief gefunden. Du wolltest ein Relikt haben. }
+
+Plh_185 { *schaut kurz zu dem Relikt und runzelt die Stirn* Das könnte tatsächlich interessant sein ... Also, hör mir zu ... }
+
+Plh_186 { Du hast es mit Aldrik aufgenommen. Scheinst ja etwas drauf zu haben. Hier, ein Schlüssel für die Hintertür, die Küche durch. Hinter der Taverne ist ein Höhleneingang. Triff dich dort mit Ede und sag, dass ich dich geschickt habe. }
+
+Plh_187 { Was hat es mit dem Relikt auf sich? }
+
+Plh_188 { Was ist in der Höhle? }
+
+Plh_189 { Ich schaue mal ... }
+
+Plh_190 { Keine Ahnung, hab ich noch nie zuvor gesehen. Ede kennt sich damit besser aus. }
+
+Plh_191 { Antworten auf deine Fragen. }
+
+Plh_192 { Ich habe noch eine alte Lederrüstung rumliegen. Wer hier neu ist, könnte was damit anfangen ... du vielleicht? }
+
+Plh_193 { Was willst du dafür? }
+
+Plh_194 { Na klar, immer her damit. }
+
+Plh_195 { Ich brauche sie nicht. }
+
+Plh_196 { Du verstehst schnell. Aber diesmal will ich nichts dafür. }
+
+Plh_197 { Alles klar. }
+
+Plh_198 { Soo, hier ist sie. Hat mir damals gute Dienste erwiesen. }
+
+Plh_199 { Ich hab die Schafe gefunden. Bis auf Liesl hat es keins geschafft. }
+
+Plh_201 { ... scheiße. SCHEISSE. }
+
+Plh_205 { Die hilft mit Birka den Verletzten. Folge einfach den Schmerzensschreien. }
+
+Plh_208 { Ich suche sie. }
+
+Plh_209 { Die Heide war mal friedlich. Aber jetzt nicht mehr. Evi ist angeblich sogar von einem Bären angegriffen worden. }
+
+Plh_211 { Ach, wenn du rausgehst, schau bitte nach meinen Schafen. Fünf von ihnen fehlen. Ich hoffe, sie leben noch ... }
+
+Plh_216 { Kann ich dir irgendwie helfen? }
+
+Plh_217 { Evi ist angegriffen worden. Ich weiß nicht, ob irgendein Schaf dort draußen überlebt hat. }
+
+Plh_218 { Ich habe fünf Schafe. Hoffentlich leben sie noch. Sie müssen irgendwo in der Heide sein. }
+
+Plh_220 { Geht es dir sonst gut? }
+
+Plh_221 { Mir ja. Viele Verletzte sind hier. Glücklicherweise verstehen sich die Leute aus dem Düsterwald auf Heilung ... }
+
+Plh_222 { Bei den Göttlichen! Zum Glück waren sie rechtzeitig da. Hinter ihnen war der ganze Düsterwald her, konnten sich gerade so retten. Da draußen wären sie alle gestorben. }
+
+Plh_228 { Ohne seine Zeche zu zahlen. *grummelt vor sich hin* }
+
+Plh_229 { Vielleicht ist ihm was passiert. Hilf mir, ihn zu finden. }
+
+Plh_230 { Jetzt sag schon, was du für deine Hilfe haben willst. }
+
+Plh_231 { Zerfetzte Betrunkene sind schlecht fürs Geschäft! }
+
+Plh_233 { Ich hab Liesl gefunden. Sie lebt. }
+
+Plh_234 { Ah, die kleine Liesl! Taron kümmert sich um das Ferkel draußen. Denke, dort ist Liesl besser aufgehoben als bei Evi. }
+
+Plh_236 { Finde bitte auch die anderen Schafe. Es sind insgesamt fünf abgehauen! }
+
+Plh_239 { Ich soll dir von Ede sagen, dass wir Drivanius auf der Spur sind. }
+
+Plh_240 { Wirklich?! Endlich mal gute Neuigkeiten! Wenn Ede dich schickt, hast du damit zu tun ...? }
+
+Plh_241 { Ja. Ich habe Relikte gefunden, die damit zu tun haben. }
+
+Plh_242 { Wir müssen reden. Lass uns zum Feuer gehen. Dort ist es gemütlicher. Ich nehme uns ein paar Biere mit. }
+
+Plh_243 { Hier ist es etwas ruhiger. Komm, wir setzen uns. Ich muss dir was zeigen. }
+
+Plh_244 { (hinsetzen) }
+
+Plh_245 { Nimm ein Bier. Geht aufs Haus. Aber nur ausnahmsweise. }
+
+Plh_246 { Ich will kein Bier. }
+
+Plh_247 { Dazu sage ich nicht nein. }
+
+Plh_248 { Komm zum Punkt, was willst du von mir? }
+
+Plh_249 { Haha, so gefällt mir das. Also ... }
+
+Plh_250 { Lass es dir schmecken. Wenn du Ede überzeugt hast, ist es das wert. }
+
+Plh_252 { Die anderen nennen uns "Ruinenräuber", weil wir die Ruinen der Vergangenen durchsuchen. Uns ist es egal, wie sie uns nennen. Aber wir plündern dort nicht, sondern suchen eine bestimmte Sache. Haben in den Ruinen der alten Städte ein Schriftstück gefunden. }
+
+Plh_253 { Schau. }
+
+Plh_254 { *blickt ins Feuer* }
+
+Plh_255 { Was bedeutet das alles? }
+
+Plh_256 { Was war die Lösung von Drivanius? }
+
+Plh_257 { Das wissen wir auch nicht. Noch nicht. Aber Drivanius wusste, was es mit den Schwarzen Flammen, den Monolithen, dem Roten Turm und den Göttlichen auf sich hatte. Und wir noch nicht. }
+
+Plh_258 { Wir müssen es Jero im Ruinenlager berichten! }
+
+Plh_259 { Wir müssen es Molvina in Nemeton berichten! }
+
+Plh_260 { Was machen wir nun? }
+
+Plh_261 { Habe ich. Die damaligen Anführer wollten alle nichts davon wissen. Die Geschichte der Vergangenen kümmert sie nie. Ha. }
+
+Plh_262 { Wir nehmen unser Schicksal selbst in die Hand. Dank meiner Taverne kenne ich viele Leute und bekomme viel mit ... }
+
+Plh_263 { Ich wusste, welchen Leuten ich vertrauen kann, um die Ruinenräuber zu versammeln. }
+
+Plh_264 { Wir werden das Geheimnis von Drivanius lüften. Er wollte diese Welt retten ... und wir werden herausfinden, wie. }
+
+Plh_265 { Wir brauchen mehr von diesen Relikten ... }
+
+Plh_266 { Mich kümmern die Lager und ihr Zwist nicht. Sollen die ihr Ding machen. Wir durchsuchen nur die Ruinen ... ganz harmlos. *grinst* }
+
+Plh_267 { Bleib bei deinem Lager. Ich will nicht, dass du ihnen abschwörst. Aber du kannst auch zu uns gehören. Wenn du willst. Keine Verpflichtung. }
+
+Plh_268 { Ich bin jetzt ein Teil von euch Ruinenräubern. Und das ist gut so. }
+
+Plh_269 { Ich mache das alles nur für Münzen. }
+
+Plh_270 { Nun gut. Du bekommst Münzen, solange du Relikte lieferst. Und sollst auch sonst etwas davon haben. }
+
+Plh_271 { Deine Loyalität wärmt mir das Herz. Wir haben gute Leute hier, von denen du was lernen kannst, und von Ede kannst du alles bekommen, was du begehrst. }
+
+Plh_272 { Natürlich kannst du als Teil von uns hier umsonst schlafen. Nimm den Schlüssel. Musst nichts mehr bezahlen. *grinst* }
+
+Plh_273 { Ich muss zurück zur Arbeit ... }
+
+Plh_274 { Dann mal wieder auf die Reliktejagd ... }
+
+Plh_275 { Es ist schön, dich dabei zu haben, $GVAR:EVars_Player.Name$. }
+
+Plh_276 { Du meinst abgesehen von der Reißerjagd? Hmm ... }
+
+Plh_277 { Warum sollte ich nicht einfach draußen irgendwo schlafen? }
+
+Plh_278 { Na, hör mal! }
+
+Plh_279 { Kannst schon draußen schlafen. Wenn dir Wind und Kälte nichts ausmachen! In Ruhe schlafen ist da nicht. Und wenn du Pech hast, kaut ein Reißer dein Ohr ab. }
+
+Plh_280 { In meinen Zimmern musst du dir über all das keine Sorgen machen! Geh einfach hoch, leg dich hin und schlaf dich ordentlich aus. Und morgen geht dein Abenteuer weiter. }
+
+Plh_281 { Hoffentlich ist ihm nichts passiert. Er ist ein netter Kerl. Und einer meiner besten Kunden. }
+
+Plh_282 { Sieh einfach zu, dass sie arbeitet. Sie ist doch garantiert schon wieder irgendwo am Faulenzen ... }
+
+Plh_284 { War sie wieder abgehauen, ohne dass Evi es bemerkt hatte. }
+
+Plh_288 { Willkommen in Olafs Taverne! }
+
+Plh_289 { Und bring mir den Kopf des größten Reißers als Beweis mit! }
+
+Plh_290 { So. Das sollte den nächsten Reißern eine Lehre sein. Sollen sie einen großen Bogen um meine Taverne machen ... }
+
+Plh_291 { Willkommen beim "Kopflosen Reißer"! }
+
+Plh_292 { Wenn du eine Waffe willst, dann kauf sie gefälligst. Ansonsten sieh zu, dass du die Reißer loswirst. }
+
+Plh_293 { Na, gut geschlafen? Hast du dich erholt? }
+
+Plh_294 { Du hast dich darum gekümmert? }
+
+Plh_295 { Sehr gut! Eine wunderbare Trophäe für den Kopflosen Reißer. }
+
+Plh_296 { Sehr gut! Eine wunderbare Trophäe für den Kopflosen Reißer. }
+
+Plh_297 { Aber denk dran ... sobald du oben warst und geschlafen hast, landet der Schlüssel wieder bei mir! }
+
+Plh_298 { Den Schlüssel brauchst du ja dann nicht mehr. Wenn du dich noch mal ausruhen willst, sag gern Bescheid. }
+
+Plh_299 { Keines der Schafe hat es geschafft. Selbst Liesl hat es erwischt ... }
+
+Plh_300 { Aber wenigstens hat es Liesl nicht erwischt. }
+
+Plh_301 { Liesl war wirklich ein gutes Tier ... die arme Liesl ... }
+
+Plh_302 { Ich war bei Evi. Liesl ist abgehauen ... und gestorben. }
+
+Plh_303 { Liesl ist ... tot? Die arme, kleine Liesl ... }
+
+Plh_304 { Verdammt, Evi! Wofür bezahle ich dich eigentlich? Verpennt sie einfach, dass Liesl ausbüchst, und dann sowas. }
+
+Plh_305 { "Zum Kopflosen Reißer" ... und ihr habt Probleme mit Reißern? }
+
+Plh_306 { Den Witz hab ich ja noch nie gehört ... }
+
+Plh_307 { Mach dem Namen meiner Taverne alle Ehre! Bring mir den Kopf des Biestes! }
+
+Plh_308 { Ich habe gehört, du arbeitest mit den Ruinenräubern zusammen? }
+
+Plh_309 { Von wem hast du das denn gehört? Dem hab ich wohl zu viel Bier ausgeschenkt. }
+
+Plh_310 { Von Reija. }
+
+Plh_311 { *guckt dich ernst an* Was willst du? }
+
+Plh_312 { Ich will mich euch anschließen. }
+
+Plh_313 { Ich will mehr über die Vergangenen erfahren. }
+
+Plh_314 { Einer zuverlässigen Quelle, du kannst mir nichts vormachen. }
+
+Plh_315 { Vergiss es. Schlechte Erfahrung mit Laufkundschaft ... Der letzte Typ, der Geschäfte machen wollte, ist nie wieder aufgetaucht. Genau wie Einige, die danach im Moor unterwegs waren. }
+
+Plh_316 { Für dich mache ich hier einfach die Theke in der Taverne. }
+
+Plh_319 { Ich suche einen Lorthiz. Er war hier in der Taverne und ist verschwunden. }
+
+Plh_321 { Lorthiz? Noch nie gehört. }
+
+Plh_322 { Er war hier in der Taverne. }
+
+Plh_323 { Ich kenne viele in Drova und ich kenne ALLE in meiner Taverne. Einen Lorthiz gibt es nicht hier. }
+
+Plh_324 { *grummelt* Wenn sie einfach wieder nur rumliegt und nicht arbeitet, tritt ihr ordentlich in den Arsch. }
+
+Plh_325 { Aber mit Nachdruck, hat sie verdient. Nur am Faulenzen ... }
+
+Plh_326 { Aber übertreib es nicht zu sehr! Sie soll nur wieder arbeiten. }
+
+Plh_328 { Ich weiß, du hast dich einem Lager angeschlossen. }
+
+Plh_329 { Für welches Lager du dich auch entscheidest, du bist immer bei uns willkommen. Wenn du es denn willst. Keine Verpflichtung. }
+
+Plh_330 { Ich denke, wir kommen einigermaßen zurecht. Ich weiß, dass Reija was von dir wollte. Melde dich bei ihr. }
+
+Plh_331 { Reija meinte, ich soll dir helfen. }
+
+Plh_332 { Dann hilf mir auch. Find meine Schafe. }
+
+Plh_333 { Ich war in Drivanius Kammer und habe diesen Nexushelm gefunden ... }
+
+Plh_334 { Hey warte ... }
+
+Plh_335 { Nicht hier. Erzähl das Ede. Ich muss mich hier um die Taverne kümmern. }
+
+Plh_336 { Gute Arbeit, $GVAR:EVars_Player.Name$. }

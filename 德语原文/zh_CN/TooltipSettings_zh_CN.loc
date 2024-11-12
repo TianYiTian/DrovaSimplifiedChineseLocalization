@@ -1,0 +1,126 @@
+healingText { Heilt [MaxStack] über [StackTime] Sekunden }
+
+damage { Schaden }
+
+attack { Angriffsschaden }
+
+flowgain { Fokus }
+
+physicalblock { Physischer Block }
+
+magicalblock { Magischer Block }
+
+physicalresistance { Rüstung }
+
+magicalresistance { Magieresistenz }
+
+flowcosts { Fokuskosten }
+
+strength { Stärke }
+
+dexterity { Geschick }
+
+mind { Geist }
+
+health { Leben }
+
+healing { Heilt [VALUE] des Maximalen Lebens }
+
+learningpoints { LP }
+
+talentlearned { Erlernt }
+
+talentcannotlearned { Noch nicht erlernbar }
+
+talentcanbelearned { Erlernbar }
+
+unknownteacher { Unbekannt }
+
+talentnotknown { Talent wurde noch nicht entdeckt }
+
+foodText { Heilt langsam dein Leben bis [MaxStack] geheilt wurde. Heilung ist pausiert, wenn volles Leben vorhanden ist. }
+
+recipe_requirements { Benötigt: }
+
+buffAdditionalDescription { (Neues Essen ersetzt Satt-Effekt) }
+
+maxHealth { Max. Leben [VALUE] }
+
+flowGain { Fokus [VALUE] }
+
+magicDamage { Magieschaden [VALUE] }
+
+bleedingChance { Blutungschance [VALUE] }
+
+weaponDamage { Waffenschaden [VALUE] }
+
+weaponDamage_single { Waffenschaden }
+
+movementSpeed { Laufgeschwindigkeit [VALUE] }
+
+poiseDamage { Haltungsschaden [VALUE] }
+
+magicResistance { Magieresistenz [VALUE] }
+
+staminaReg { Ausdauerregenerierung [VALUE] }
+
+flowReg { Fokusregenerierung [VALUE] }
+
+armor { Rüstung [VALUE] }
+
+healAdditionalDescription { (Gleicher Gegenstand ersetzt Buff-Effekt) }
+
+flowPhysical { Fähigkeit }
+
+flowMagical { Zauber }
+
+flowOneTime { Spruchrolle }
+
+learnspell { Benutze den Gegenstand, um die Fähigkeit zu lernen }
+
+learnrecipe { Benutze den Gegenstand, um das Rezept zu lernen }
+
+alreadylearned { Bereits gelernt }
+
+trashtotrade { Müll zum Warenwert hinzufügen }
+
+craftingItem { Handwerksmaterial }
+
+saleitem { Verkaufsgegenstand }
+
+critchance { Krit. Chance }
+
+critchance_Value { Krit. Chance [VALUE] }
+
+orientationpoint { Grundfokus [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ Phys. Schaden }
+
+stat_change_dex { +$STATCHANGE:CritChance$ Krit. }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ Mag. Schaden, +$STATCHANGE:Focus$ GF }
+
+helmet_cosmetics { (Helme sind rein kosmetisch und haben keinen Einfluss auf deinen Charakter.) }
+
+mainHandWeapon { Einhandwaffe }
+
+offHandWeapon { Nebenhand }
+
+twoHandedWeapon { Zweihandwaffe }
+
+munition { Munition }
+
+drug_description { Benebelt deine Sinne }
+
+LearnSpell { Lehrt Waffenfähigkeit }
+
+flowText { Generiert [HealValue] Fokus über [StackTime] Sekunden. }
+
+needrunestone { Benötigt Runenstein }
+
+strength_value { Stärke [VALUE] }
+
+dex_value { Geschick [VALUE] }
+
+mind_value { Geist [VALUE] }
+

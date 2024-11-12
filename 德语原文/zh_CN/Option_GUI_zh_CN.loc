@@ -1,0 +1,265 @@
+Control { Steuerung }
+
+GameMode { Spielmodus }
+
+default { Zurücksetzen }
+
+dont_save { Nicht speichern }
+
+save { Speichern }
+
+cancel { Abbrechen }
+
+keyfield_popup { Deine Belegung wurde geändert. Möchtest du die Belegung speichern? }
+
+keyfield_popup_conflict { Du hast für verschiedene Aktionen die gleiche Belegung festgelegt. Dadurch kann deine Konfiguration nicht gespeichert werden. Möchtest du ohne Speichern fortfahren? }
+
+world { Welt }
+
+category_dialog { Dialoge }
+
+category_music { Musik }
+
+category_guimenus { GUI-Menüs }
+
+category_shotcuts { Verschiedenes }
+
+Label_Volume_Master { Alle }
+
+Label_Volume_Sound { Sounds }
+
+Label_Volume_Ambience { Ambiente }
+
+Label_Volume_UI { User Interface }
+
+Label_Volume_Music { Musik }
+
+Options { Optionen }
+
+gameplay { Gameplay }
+
+interface { Interface }
+
+video { Video }
+
+audio { Audio }
+
+Zoom { Zoom }
+
+ShowPlayerHealth { Zeige Spielerlebensleiste, Fokusleiste etc. an }
+
+ShowLootFeedback { Wenn dein Charakter etwas aufhebt, etwas lernt, stärker wird oder neue Questfortschritte erreicht, wird rechts am Bildschirmrand die jeweilige Information angezeigt. }
+
+ShowQuickbar { Zeige Schnellleiste an }
+
+ShowBuffs { Zeige Statussymbole an }
+
+ShowHealthVignette { Zeige Lebensvignette an }
+
+ShowOptions_Disclaimer { Wir empfehlen, mit allen Einstellungen "An" zu spielen }
+
+ShowDirectionFeedback { Zeige Richtungsindikator an }
+
+ShowHealthbars { Zeige Lebensleisten an }
+
+ShowStaminaBar { Zeige Ausdauerleiste und Munition an }
+
+Title_Gamepad { Controller }
+
+Title_KeyBinds { Steuerung }
+
+Language { Sprache }
+
+Toggle_ShowHelp { Tutorial anzeigen }
+
+AutosaveInterval { Autospeicherintervall }
+
+Toggle_PickUpsToQuickbar { Gegenstände direkt in Schnellleiste }
+
+Toggle_PickUpsToQuickbar_Heal { Heilgegenstände }
+
+Toggle_PickUpsToQuickbar_Traps { Fallen }
+
+Toggle_AutoDrawWeapon { Waffe automatisch ziehen }
+
+Toggle_AutoEquipArrows { Automatisch Munition ausrüsten }
+
+Dropdown_Resolution { Auflösung }
+
+Toggle_WindowMode { Fenstermodus }
+
+Slider_FPS { Framerate }
+
+Title_Effects { Effekte }
+
+Slider_Screenshake { Screenshake-Intensität }
+
+Slider_ParticleAmount { Partikelmenge }
+
+Toggle_DustParticles { Staubpartikel }
+
+Toggle_ShaderEffects { Shader-Effekte }
+
+Toggle_WindEffects { Windpartikel }
+
+Toggle_Vibration { Vibration }
+
+Toggle_AutoAim { Automatische Zielhilfe }
+
+State_Low { Niedrig }
+
+State_Medium { Mittel }
+
+State_High { Hoch }
+
+Vsync { Vsync }
+
+Unlimited { Unbegrenzt }
+
+Title_Keyboard { Tastatur }
+
+Option_Generic_Off { Aus }
+
+Autosave_Min3 { 3 Minuten }
+
+Autosave_Min5 { 5 Minuten }
+
+Autosave_Min10 { 10 Minuten }
+
+Title_FontAndDialog { Schrift und Dialog }
+
+Toggle_PickUpsToQuickbar_Food { Essen }
+
+Toggle_PickUpsToQuickbar_Throwables { Wurfgegenstände }
+
+Toggle_PickUpsToQuickbar_Torches { Fackeln }
+
+Dropdown_FontSize { Schriftgröße }
+
+Dropdown_DialogSpeed { Textgeschwindigkeit }
+
+FontSize_Small { Normal }
+
+FontSize_Medium { Groß }
+
+FontSize_Big { Sehr groß }
+
+DialogSpeed_Instant { Sofort }
+
+DialogSpeed_Fast { Schnell }
+
+DialogSpeed_Slow { Normal }
+
+Toggle_GroundFog { Bodennebel }
+
+Toggle_Rain { Regen }
+
+Toggle_Clouds { Wolken }
+
+Toggle_TextSounds { Texteinblendungsgeräusche }
+
+Toggle_NPCDialogSounds { Charakter-Geräusche }
+
+Toggle_ShowCompleteHUD { Zeige komplette HUD an }
+
+Toggle_CharacterFeedback { Zeige Charakterfeedback an }
+
+ShowDirectionFeedback_Enemies { Zeige Richtungsindikatoren an }
+
+ShowPoiseBar_Enemies { Zeige Haltungsleisten an }
+
+ShowMunition { Zeige Munition an }
+
+Toggle_SmartQuickbar { Smarte Quickleiste }
+
+Toggle_ShowItemChanges { Zeige erhaltene/verlorene Gegenstände an }
+
+Toggle_ShowDiaryChanges { Zeige Tagebuchaktualisierungen an }
+
+Toggle_ShowNewSpells { Zeige neu erlernte Zauber, Rezepte und Talente an }
+
+Toggle_ShowCharacterImprovements { Zeige Charakterverbesserungen an }
+
+Toggle_ChangeSticks { Sticks tauschen }
+
+Toggle_ChangeDirectionWithSticks { Directionpad und Standard Aktionstasten tauschen }
+
+Toggle_ChangeTriggers { Schultertasten tauschen }
+
+Keybinding_Preset { Voreinstellung }
+
+KeyPreset_LeftHanded { Linkshänder }
+
+Toggle_ScrollAbilities { Aktive Fähigkeit mit Mausrad wechseln }
+
+Parent_BasicHudElements { Grundlegende HUD-Elemente }
+
+Parent_CharacterFeedback { Character-Feedback }
+
+Title_ScreenHUD { HUD-Elemente am Bildschirmrand }
+
+Title_PlayerHUD { HUD-Elemente am Spielercharakter }
+
+Title_EnemyHUD { HUD-Elemente an Nicht-Spielercharakteren }
+
+ShowNPCNames { Zeige Namen von Charakteren an }
+
+KeyPresent_Standard { Standard }
+
+KeyPresent_Azerty { Azerty }
+
+Title_General { Allgemein }
+
+Description_SmartQuickbar { Merkt sich den letzten Gegenstand, der in einem Schnellleistenslot belegt war und fügt diesen Gegenstand wieder hinzu, wenn er aufgehoben wird. }
+
+Toggle_CameraMode { Kamera nach Blickrichtung ausrichten }
+
+Description_CameraMode { Die Kamera bewegt sich immer in Richtung des Mauszeigers. Ist diese Option ausgeschaltet, richtet sich die Kamera nach der Bewegungsrichtung. }
+
+Toggle_FilterSellItems { Verkaufsgegenstände automatisch als Müll markieren }
+
+Description_FilterSellItems { Markiert neue Verkaufsgegenstände automatisch als Müll, wodurch der Gegenstand im Inventar nur zu sehen ist, wenn man Müll anzeigen lässt. }
+
+Dropdown_DisplayMode { Bildschirm-Modus }
+
+DisplayMode_Windowed { Fenster-Modus }
+
+DisplayMode_Borderless { Randloser Fenster-Modus }
+
+DisplayMode_Fullscreen { Vollbild }
+
+Zoom_Near { Nah }
+
+Zoom_Far { Fern }
+
+Toggle_PickUpsToQuickbar_Potions { Tränke }
+
+Description_AutoDrawWeapon { Zieht automatisch die Waffe, wenn der Charakter ausweicht oder einen Zauber einsetzt. }
+
+Title_WeatherEffects { Wettereffekte }
+
+Toggle_WindMovements { Windbewegung }
+
+Toggle_Quickcast { Schnellzaubern }
+
+AutoDrawWeapon_CombatAbilitiesOnly { Nur bei Angriffsfähigkeiten }
+
+Description_Quickcast { Wenn eine der Fähigkeiten-Tasten gedrückt wird, wird die Fähigkeit gewechselt und, wenn Schnellzaubern aktiv ist, direkt eingesetzt. }
+
+Description_LookDirection { Pfeil an den Füßen des Charakters zeigt im Kampfmodus die Blickrichtung an }
+
+Description_LookDIrection_NPCs { Pfeil an den Füßen des Charakters zeigt im Kampfmodus die Blickrichtung an }
+
+popup_reset { Verwerfen }
+
+FontSize_Preview { Vorschau }
+
+MapMarker_Player_Toggle { Zeige Position auf Karte } 
+
+PlayerDmgReceive { Gegnerschaden }
+
+PlayerDmgOutput { Zusätzlicher Spielerschaden }
+
+Toggle_MiniGame { Minigames deaktivieren }
+
+MouseLock { Maus auf Fenster beschränken }

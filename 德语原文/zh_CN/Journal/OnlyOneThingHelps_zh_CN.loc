@@ -1,0 +1,24 @@
+Title { Da hilft nur eins }
+
+Entry_01 { Ich habe Larea in der Nähe der Holzfäller gefunden. Es geht ihr nicht gut. Sie ist zu stolz, selbst um Hilfe zu bitten, und möchte nicht, dass jemand weiß, dass es ihr schlecht geht. Sie erwähnte auch, dass Kora bei den Holzfällern sich mit Heilung auskennt. }
+
+Entry_02 { Cengiz meinte, dass Agilo sich um die Verletzten kümmert, weil Kora zum Ruinenlager gegangen ist. Ich sollte ihn mal fragen. }
+
+Entry_04 { Agilo sagt, dass Erdwurzel helfen würde. Sie sollten in der Nähe von Wasser zu finden sein. Aber ganz sicher ist er nicht. }
+
+Entry_05_A { Ein Heiltrank sollte helfen, ist aber anscheinend sehr wertvoll. Bombus kann mir zeigen, wie ich eine Heilsalbe herstellen kann. Dafür benötigt er drei Heilpflanzen und eine Erdwurzel. }
+
+Entry_05_B { Bombus hat mir erklärt, dass ich die Heilsalbe am Feuer herstellen muss. Die Salbe sollte Larea schnell helfen, wieder auf die Beine zu kommen. }
+
+Entry_06 { Ich habe Larea eine Erdwurzel gegeben, aber anscheinend hat sich ihr Zustand dadurch nur verschlechtert. Was passiert mit ihr? }
+
+Entry_07 { Nachdem ich ihr etwas gegeben habe, um ihre Wunde zu behandeln, kann Larea wieder laufen. Ich sollte nachschauen, ob sie auch gut bei den Holzfällern angekommen ist. }
+
+Entry_09_A { Larea ist tot! Ruhe in Frieden. Ich sollte Cengiz davon berichten. }
+
+Entry_09_B { Larea geht es wieder gut, und sie sagt, sie kann mir beibringen, Tiere auszunehmen. }
+
+Entry_09_C { Larea geht es wieder gut, aber sie war ziemlich angepisst, dass ich im Lager rumerzählt habe, dass sie verletzt war. }
+
+Entry_09_AA { Cengiz wirkte sehr mitgenommen von Lareas Tod. Jetzt weiß er, dass sie nie wieder zurückkommen wird. }
+

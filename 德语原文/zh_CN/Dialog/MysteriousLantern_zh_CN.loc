@@ -1,0 +1,10 @@
+Plh_0 { *Du stehst vor einem bizarren Podest. Ein Skelett ragt daraus hervor. Du siehst einen Gegenstand darauf. Das Podest scheint fast lebendig zu sein ...* }
+
+Plh_1 { (vorsichtig das Skelett berühren) }
+
+Plh_3 { *Als du den Gegenstand von dem Podest entfernst, hörst du ein erleichtertes Seufzen. Das Skelett im Podest scheint sich zu entspannen.* }
+
+Plh_4 { *Langsam bewegst du deine Hand zu dem Skelett. Als eine deiner Fingerkuppen einen der Knochen streift, durchströmt dich ein plötzlicher Schmerz. Instinktiv ziehst du deine Hand zurück.* }
+
+Plh_5 { (Gegenstand nehmen) }
+

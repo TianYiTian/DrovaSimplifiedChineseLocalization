@@ -1,0 +1,101 @@
+Movement_Gamepad { 使用$MOVEMENT$来移动。 }
+
+Movement_Keyboard { 按下$MOVEMENT$来移动。 }
+
+LookDirection { 通过移动鼠标来环顾四周。你的视角方向与你的移动方向无关。如果你朝与移动方向相反的方向看，你的角色会倒退并且速度变慢。 }
+
+LookDirection_Gamepad { 当你的角色移动时，他会朝移动方向看，除非你使用$INPUTANIM:LookX$来环顾四周。如果你朝移动的反方向看，你的角色会倒退并变得更慢。 }
+
+Perception_01 { 按住 $INPUTANIM:PerceptionMode$ 以仔细观察周围。这样你可以看到物体后面或穿过迷雾。 }
+
+Perception_01_Gamepad { 按下$INPUTANIM:PerceptionMode$以激活调查模式。这样你可以看到物体背后或雾中的情况。 }
+
+Perception_02 { 如果你仔细观察，你可以发现平时看不见的东西，比如[脚印]。 }
+
+ChangeStance { 按下 $INPUTANIM:DrawWeapon$ 来拔出或收起你的武器。使用已拔出的武器按下 $INPUTANIM:Attack_Primary$ 来攻击。 }
+
+Interact { 使用$INPUTANIM:Interact$与人物或物体互动。只有在未拔出武器时才能互动。<br>拔出/收起武器使用$INPUTANIM:DrawWeapon$。 }
+
+Perception_03 { 有些物体可以更仔细地检查。按住 $INPUTANIM:PerceptionMode$，直到你头顶上的眼睛图标被填满。 }
+
+Dodge { 按下$INPUTANIM:Dodge$，以向移动方向闪避。闪避会消耗耐力。耐力显示在你的角色下方。 }
+
+FirstHeal { 你发现了一株药草。<br>打开$INPUTANIM:Inventory$背包。<br>在那里，你可以将治疗物品拖到快捷栏中，或直接使用$INPUTANIM:Interact$。<br>$ICON:Heal$ 治疗物品会随时间恢复你的生命值。 }
+
+SwitchWeapon { 你发现了一种新型武器。在Drova中，有几种不同类型的武器。尝试一下，看看哪种武器类型最适合你。<br>你有2个自由分配的武器套装，可以通过$INPUTANIM:SwapWeaponSet$切换。 }
+
+Perception_03_Controller { 按下$INPUTANIM:PerceptionMode$激活调查模式。靠近一个物体，并使用$INPUTANIM:LookX$朝物体的方向看，以进行调查。 }
+
+Abilities_02 { 你已学会一项新能力！该能力已自动装备。使用$INPUTANIM:OpenAbilities$打开能力菜单，仔细查看或将其放置在其他环形菜单槽位上。在游戏中，你可以通过环形菜单($INPUTANIM:RingMenu$)更改当前激活的能力。 }
+
+Abilities_02_Controller { 你学会了一项新技能！该技能已自动装备。按 $INPUTANIM:Inventory$ 打开菜单，并通过 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 导航到技能标签页。在那里，你可以更详细地查看你的新技能，或将其放置在另一个环形菜单槽位上。在游戏中，你可以通过环形菜单 ($INPUTANIM:RingMenu$) 更改当前激活的技能。 }
+
+BattleBuddies_Blocks { 按住$INPUTANIM:Block$以格挡。每次成功格挡都会消耗耐力而非生命值。耐力耗尽后，你将无法继续格挡。 }
+
+BattleBuddies_Blocks_Label { 成功阻挡 }
+
+BattleBuddies_Combos { 在攻击后，在正确的时间按下$INPUTANIM:Attack_Primary$，可以再次攻击。通过使用连击，你通常可以更快地攻击并造成更多伤害。 }
+
+BattleBuddies_Combos_Label { 成功连击 }
+
+BattleBuddies_Spells { 你已经收集了足够的专注力来使用你的技能。你也可以通过专注条上的技能标记来识别这一点。现在使用你的技能，按下$INPUTANIM:UseSpell$。 }
+
+BattleBuddies_Spells_Label { 施法成功 }
+
+BattleBuddies_GetFlow { 专注条显示在你的生命条下方，表示你当前的专注值。在战斗中，每次命中敌人都会产生专注值。如果你被击中，你会失去焦点。如果你不使用焦点，它会消失，直到达到基础焦点值。 }
+
+FirstFood { 你找到了食物。<br>使用$INPUTANIM:Inventory$打开背包。<br>在那里，你可以将食物拖到快捷栏中，或者直接使用$INPUTANIM:Interact$食用。<br><br>$ICON:Food$ 食物会随着时间的推移缓慢恢复你的生命值，但当你的生命值满时，恢复会暂停。<br><br>确保你始终保持良好的饱腹感。收集食谱并在篝火旁烹饪食物。 }
+
+FirstGoodFood { 你摄入了丰富的食物。<br>Drova的许多菜肴在你吃饱时会赋予被动效果。<br>但请小心。如果你继续摄入食物，饱食效果会被覆盖。最好总是在饱食效果消失后再吃新的食物。<br><br>建议始终保持一个饱食效果，以便你的生命值被动恢复。 }
+
+FirstWeapon { 你找到了一把武器。<br>使用$INPUTANIM:Inventory$打开背包。<br>在那里，你可以使用$INPUTANIM:Interact$装备你的武器。<br><br>你有两个武器套装可供选择，可以随时使用$INPUTANIM:SwapWeaponSet$切换。 }
+
+FirstNote { 你找到了一份手稿。<br>你所有的手稿都会被收集在日志的[手稿]标签下。你可以在那里随时再次阅读它们。 }
+
+FirstNote_Gamepad { 你发现了一篇文字。<br>使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。你所有的文字都会被收集在文字标签页下。你可以在那里随时重新阅读它们。 }
+
+NeedMunition { 要在战斗中使用远程武器，你必须使用$INPUTANIM:Block$将其装填。 }
+
+FirstRangeWeapon { 你找到了一件远程武器。<br>在[Inventory]中装备它。<br>要使用它，你必须通过[Inventory]装备合适的弹药。 }
+
+Journal { 你有一个新的日记条目。<br>使用$INPUTANIM:Journal$打开日记。<br>在那里，你可以随时查看你任务的最新进展。 }
+
+Journal_Gamepad { 你有一个新的日记条目。<br>使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。<br>在那里，你可以随时查看你任务的最新进展。 }
+
+FirstConsFlow_Gamepad { 你找到了一个卷轴。<br>打开$INPUTANIM:Inventory$菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到技能标签。在那里你可以装备卷轴。<br>在困难的战斗中，它们可以给你很大的帮助。囤积不会给你带来任何优势。 }
+
+FirstThrow { 你获得了一个使用物品。<br>通过$INPUTANIM:Inventory$打开背包。<br>在那里你可以将它拖到你的快捷栏中。 }
+
+Stealing { 德洛瓦的居民很重视他们的财物。你可以尝试偷窃他们，但要注意不要被发现。<br>你可以通过鼠标指针来判断一个互动是否构成犯罪。<br> }
+
+Stealing_Gamepad { 德洛瓦的居民很在意他们的财物。你可以尝试偷窃他们。但要注意，不要被发现。<br>你可以通过互动符号来判断互动是否构成犯罪。 }
+
+Crafting { 在火堆旁，你可以烹饪和制作药水。还有其他手工制作站，你可以在那里制作陷阱、装备和投掷物。<br>有些配方你可以在手工制作菜单$INPUTANIM:CraftingMenu$中无需手工制作站直接制作。 }
+
+CloseTutorial { 隐藏 }
+
+CloseTutorial_Gamepad { 关闭 (按住 $INPUTANIM:UISubmit$) }
+
+Abilities_03 { 你已经装备了你的第一个技能。要切换你的技能，按住$INPUTANIM:RingMenu$，直到你选择了你想主动使用的技能。 }
+
+FoodAndHeal { 食物和治疗物品都能随着时间恢复你的生命值。与治疗物品不同，食物虽然恢复速度较慢，但在你生命值满时，恢复会暂停。此外，只要增益效果持续，食物还会提供额外的效果。 }
+
+EngageCombat { 只有装备武器后，才能使用$INPUTANIM:Attack_Primary$进行攻击！ }
+
+Statuseffects { 你跑进了一个荆棘丛，获得了[流血]状态效果。<br>有多种状态效果。它们会显示在你的生命值条右侧。<br>当你按下$INPUTANIM:Inventory$打开菜单时，你可以通过工具提示更详细地查看状态效果。 }
+
+Secondaries { 你找到了一面盾牌。<br>它是一个副手物品，你可以在战斗模式中使用 $INPUTANIM:Block$ 来使用它。<br>如果你没有装备副手物品，使用 $INPUTANIM:Block$ 会执行一个根据武器类型而定的独特动作。 }
+
+UsedHealItem { 你使用了一个治疗物品。<br>你现在获得了治疗状态效果，并会定期恢复生命值。<br>你也可以同时激活多个治疗效果，但每个治疗物品只能激活一个。 }
+
+PoiseBreak { 对手倒地了，因为你打破了他的姿势。<br>你可以通过生命值条下方的黄色条来识别姿势。<br>利用这个时间给他狠狠一击，治疗自己或使用物品。 }
+
+LookDirectionCombat { 在战斗中，你总是朝着视线方向攻击。<br>你可以通过角色下方的箭头看到你正在看的方向。<br>你用鼠标控制视线方向。 }
+
+LookDirectionCombat_Gamepad { 在战斗中，你总是朝着你所面对的方向攻击。<br>你可以通过角色下方的箭头来判断你正在朝哪个方向看。<br>你使用$INPUTANIM:LookX$来控制你的视线方向。 }
+
+FirstTreasure { 你发现了一张藏宝图。<br>你所有的藏宝图都会被收集在日志的[Schriften]标签页下。你可以在那里随时再次查看它们。 }
+
+FirstTreasure_Gamepad { 你找到了一张藏宝图。<br>打开$INPUTANIM:Inventory$菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。<br>你所有的藏宝图都会在日记的信件标签页下收集。你可以在那里随时再次查看它们。 }
+
+FirstRecipe { 你找到了一个食谱。<br>使用$INPUTANIM:Inventory$打开背包。在那里，你可以通过使用$INPUTANIM:Interact$来学习这个食谱。 }

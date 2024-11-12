@@ -1,0 +1,28 @@
+Plh_0 { *Der Gestank der Kacke steigt dir dampfend in die Nase. Das muss ein mächtiges Geschäft gewesen sein.* }
+
+Plh_1 { (Kackhaufen untersuchen) }
+
+Plh_3 { *Du siehst einen kleinen, wurstförmigen, aus zusammenhängenden Klumpen bestehenden Haufen. Die Farbe ist dunkelgrau, und der Geruch wirkt für dich markant und intensiv.* }
+
+Plh_4 { (genauer anschauen) }
+
+Plh_5 { (auffällige Stelle genauer untersuchen) }
+
+Plh_7 { *Du untersuchst den Klumpen genauer und erkennst, dass etwas Glitzerndes dazwischen ist. Bei genauerer Betrachtung siehst du, dass es ein Ring ist.* }
+
+Plh_8 { *Du nimmst den Ring.* }
+
+Plh_9 { *Du siehst ein blasses Glänzen zwischen den Klumpen.* }
+
+Plh_12 { *Du wühlst durch die Kacke, und ein beißender Geruch klettert deine Atemwege hinauf.* }
+
+Plh_15 { *Plötzlich kriegen deine Finger etwas zu fassen. Ein Ring? Ein Talisman? Irgendwas Festes.* }
+
+Plh_21 { *Mit deinen Fingern wühlst und wühlst du ... gräbst fast schon.* }
+
+Plh_26 { *Ein wenig Rostkraut. Hat hier irgendeins der Schafe etwa Rostkraut gefressen? Wie auch immer ...* }
+
+Plh_29 { *Als du den Kackhaufen durchsuchst, fallen dir direkt mehrere kleine Dinge in die Hand. Du pulst sie alle gemächlich heraus.* }
+
+Plh_30 { *Eins der Tiere muss die Kugeln mit Beeren verwechselt haben ... das muss ein schmerzhafter Schiss gewesen sein.* }
+

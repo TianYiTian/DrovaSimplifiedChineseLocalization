@@ -1,0 +1,20 @@
+Title_MainSpells { Fähigkeiten }
+
+Title_ConsSpells { Spruchrollen }
+
+header_physicalAbilities { Fähigkeiten }
+
+header_magicalAbilities { Zauber }
+
+header_memory { Gedächtnis }
+
+Orientationpoint_Label { Grundfokus: }
+
+Orientationpointtooltip_Header { Grundfokus }
+
+Orientationpointtooltip_Description { Zu diesem Punkt regeneriert sich der Fokus über die Zeit. }
+
+MaxLeben { Max. Leben }
+
+StaminaCosts { Ausdauerkosten }
+

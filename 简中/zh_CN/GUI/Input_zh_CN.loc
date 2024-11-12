@@ -1,0 +1,161 @@
+Key_Shift { Shift }
+
+control_mousebutton_left { 左键点击 }
+
+control_mousebutton_right { 右键点击 }
+
+control_keycode_space { 空格键 }
+
+control_keycode_control { Ctrl }
+
+control_keycode_tab { Tab }
+
+control_keycode_return { Enter }
+
+control_keycode_alt { Alt }
+
+control_keycode_up { 上 }
+
+control_keycode_down { 下 }
+
+control_keycode_left { 左 }
+
+control_keycode_right { 右 }
+
+action_MoveX_Pos { 向右移动 }
+
+action_MoveX_Neg { 向左移动 }
+
+action_MoveY_Pos { 向上移动 }
+
+action_MoveY_Neg { 向下移动 }
+
+action_LookX_Pos { 向右看 }
+
+action_LookX_Neg { 向左看 }
+
+action_LookY_Pos { 向上看 }
+
+action_LookY_Neg { 向下看 }
+
+action_Attack_And_Interaction { 互动（普通姿势） / <br>攻击（战斗姿势） }
+
+action_Attack_Primary { 攻击 }
+
+action_Block_And_Perception { 调查模式（普通姿势） / <br>次要攻击（战斗姿势） }
+
+action_Block { 次要攻击 }
+
+action_Dodge { 闪避 }
+
+action_DrawWeapon { 拔出/收起武器 }
+
+action_GameMenu { 玩家菜单 }
+
+action_PauseMenu { 暂停 }
+
+action_Interact { 交互 }
+
+action_Inventory { 物品栏 }
+
+action_LootAll { 全部拾取 }
+
+action_Journal { 日志 }
+
+action_PerceptionMode { 调查模式 }
+
+action_QuickSave { 快速保存 }
+
+action_QuickLoad { 快速读取 }
+
+action_SwapWeaponSet { 切换武器套装 }
+
+action_Walk { 去 }
+
+action_Trade_All { 交易所以 }
+
+action_Trade_Ten { 交易十个 }
+
+action_Screenshot { 截图 }
+
+action_ReportBug { 报告错误 }
+
+action_UseSpell { 使用技能 }
+
+action_RingMenu { 轮盘菜单 }
+
+action_OpenMap { 地图 }
+
+action_MarkObject { 标记物体 }
+
+action_TalentMenu { 天赋 }
+
+action_Abilities { 技能 }
+
+action_MarkAsGarbage { 标记为垃圾 }
+
+action_Flow_1 { 技能 1 }
+
+action_Flow_2 { 技能 2 }
+
+action_Flow_3 { 技能 3 }
+
+action_Flow_4 { 技能 4 }
+
+action_Flow_5 { 技能 5 }
+
+action_Flow_6 { 技能 6 }
+
+action_Flow_7 { 技能 7 }
+
+action_Flow_8 { 技能 8 }
+
+action_Quickbar_1 { 快捷栏 1 }
+
+action_Quickbar_2 { 快捷栏 2 }
+
+action_Quickbar_3 { 快捷栏 3 }
+
+action_Quickbar_4 { 快捷栏 4 }
+
+action_QuickslotAssignment { 分配快捷栏 }
+
+action_DeleteQuickbarItem { 清空快捷栏 }
+
+action_PrevPanel { 上一个标签页 }
+
+action_NextPanel { 下一位标签页 }
+
+action_Lockpick_Left { 小游戏左侧 }
+
+action_Lockpick_Right { 小游戏右侧 }
+
+action_GuiScrollY { 滚动界面 }
+
+action_PlayNote_1 { 提示 1 }
+
+action_PlayNote_2 { 提示 2 }
+
+action_PlayNote_3 { 提示 3 }
+
+action_PlayNote_4 { 提示 4 }
+
+action_CraftingMenu { 工艺菜单 }
+
+action_Squat { 蹲下 }
+
+action_DialogSkip { 跳过对话 }
+
+action_MoveX { 移动 }
+
+action_MoveY { 移动 }
+
+action_LookX { 环顾四周 }
+
+action_lookY { 环顾四周 }
+
+action_HelpUp { 帮忙 }
+
+action_ToggleGarbageVisibility { 显示/隐藏垃圾 }
+
+action_UIDelete { 删除 }

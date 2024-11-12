@@ -1,0 +1,100 @@
+Plh_9 { Gerdwin hat Verstärkung geschickt? Komm schnell. Das Holzfällerlager wird angegriffen! }
+
+Plh_12 { Wenn du Ärger machst, fliegst du schnell hier raus. Pass auf deine Finger auf. }
+
+Plh_13 { Was genau sind die Regeln hier? }
+
+Plh_14 { Wo finde ich hier was? }
+
+Plh_15 { Kannst du mir was über Nemeton erzählen? }
+
+Plh_16 { Wenn du jemanden hier angreifst, wird dir hier nicht so einfach verziehen. Du musst bei Gerdwin im Kämpferviertel Strafe zahlen. Wenn du es übertreibst, dann war das dein letzter Fehler. }
+
+Plh_17 { Ganz im Norden befinden sich die Händler, dort kannst du alles kaufen, was es gibt. Südlich davon sind die Kämpfer. Angus ist dort der Chef, und er bestimmt, wer und was in Nemeton was tun darf. }
+
+Plh_18 { Nemeton ist das größte und erste Lager hier in Drova. Damals war das Ruinenlager noch ein Teil von Nemeton. Aber Jero hat uns verlassen und hat mit vielen guten Leuten das Ruinenlager gegründet. }
+
+Plh_19 { Weiter südlich sind die Handwerker, dort kannst du lernen, wie man Fallen, Munition oder auch Tränke herstellt. }
+
+Plh_20 { Östlich ist das verlassene Viertel. Leider schaffen die Handwerker es nicht, alle Hütten instand zu halten, dafür sind sie zu wenige. }
+
+Plh_23 { Hier sind noch Viecher. Wir müssen alle töten. }
+
+Plh_24 { *stöhnt* Colin hat's erwischt. Du hast gut gekämpft. }
+
+Plh_25 { Ich bleibe hier und passe auf. Berichte Gerdwin, dass wir angegriffen worden sind, aber dass alles jetzt sicher ist. Du hast uns echt den Arsch gerettet. }
+
+Plh_26 { Ich sag's nur ungern, aber wir haben jeden Kämpfer gebraucht. Sogar jemanden vom Ruinenlager. }
+
+Plh_27 { Hey du - auch, wenn du zum Ruinenlager gehörst: das Holzfällerlager wird angegriffen! Wir brauchen Hilfe! Komm schnell! }
+
+Plh_28 { Danke für deine Hilfe, aber ab hier übernimmt Nemeton. }
+
+Plh_53 { Dich habe ich schon mal gesehen? Du hast uns geholfen, als wir hier angegriffen worden sind! }
+
+Plh_54 { Ich dachte schon, noch jemand vom Ruinenlager kommt hierher. }
+
+Plh_55 { Was ist denn hier passiert? }
+
+Plh_56 { Hat das Ruinenlager angegriffen? }
+
+Plh_57 { Es kam eine große Gruppe Krieger in roten Rüstungen in unsere Richtung. Wir dachten schon, die greifen uns an, sind dann aber abgebogen. Einer meinte, dass sie uns töten, wenn wir es wagen, nach Norden zu gehen. }
+
+Plh_58 { "Der Auwald gehört uns", haben sie gesagt. Du musst aufpassen, die zögern nicht und werden dich töten. Ein Krieg bahnt sich an. }
+
+Plh_59 { Ich muss irgendwie auf das Plateau kommen, weißt du einen Weg? }
+
+Plh_61 { Aufs Plateau? Wahrscheinlich will das Ruinenlager auch dorthin. Warum sonst sollten die hierher kommen. }
+
+Plh_62 { Jendrik war schon dort oben, ist aber lange her. Wenn jemand es weiß, dann er. }
+
+Plh_63 { Pass aber auf dich auf, wir halten hier die Stellung. Ich denke nicht, dass sie es auf das Holzfällerlager abgesehen haben. Noch nicht. }
+
+Plh_64 { Fast. Aber nein, wir sind unversehrt. }
+
+Plh_65 { Ganz ruhig, wir wollen kein Streit. Ich wollte nur Holz kaufen. }
+
+Plh_66 { Ich sehe sie nicht hier, nur wir beide. }
+
+Plh_67 { Das ist ein guter Freund. $GVAR:EVars_Player.Name$ hat uns geholfen, die Brücke zu reparieren. Auch wenn du eine Ruinenlagerrüstung siehst, $GVAR:EVars_Player.Name$ ist ein guter Mensch. }
+
+Plh_68 { Wir wollen hier nicht in die Probleme vom Ruinenlager und Nemeton reingezogen werden. Was willst du hier? }
+
+Plh_69 { Wir haben im ganzen Auwald Krieger verteilt. Alleine kommst du hier nicht weiter. }
+
+Plh_72 { Ich will hoch aufs Plateau. Wisst ihr, wie ich dort hinkomme? }
+
+Plh_73 { Ohne dich hätten wir es damals nicht geschafft, ich stehe auch in deiner Schuld. Ich werde dir nichts tun. }
+
+Plh_74 { Das wissen wir nicht, und überall im Wald sind Krieger von Nemeton. Du hast hier keine Chance. Dreh um. }
+
+Plh_75 { Melde dich am besten bei Jendrik. Obwohl du zum Ruinenlager gehörst, stehen wir tief in deiner Schuld. }
+
+Plh_84 { Hey. }
+
+Plh_85 { Treib hier keinen Unsinn. Dann kann es dir hier ganz gut gehen. }
+
+Plh_86 { Was muss ich über Nemeton wissen? }
+
+Plh_87 { Was sind hier die Regeln? }
+
+Plh_88 { In Nemeton gibt es drei Viertel, die für Leute wie dich zugänglich sind. }
+
+Plh_89 { Direkt am Westtor ist der Marktplatz. Da kannst du alles kaufen, was du so brauchen könntest. Oder auch verkaufen, wenn du ein paar Münzen nötig hast. }
+
+Plh_90 { Bei den Kämpfern kannst du Schutz suchen, wenn dir jemand an die Wäsche will. Aber eigentlich ist das ein Ort für Kämpferinnen und Kämpfer Nemetons, nicht für Neulinge. Du findest die Kämpferfamilie direkt neben dem Marktplatz. }
+
+Plh_91 { Und dann gibt es noch die Handwerker, die findest du in der Nähe der Hinkelsteine, am südlichsten Teil des Lagers. So wie du aussiehst, könntest du da vielleicht Arbeit finden. }
+
+Plh_92 { Eigentlich ist das selbsterklärend. }
+
+Plh_93 { Lass deine Finger von Dingen, die dir nicht gehören. Geh nicht einfach irgendwelche Häuser rein. Manche reagieren da nicht gerade nett drauf. }
+
+Plh_94 { Und lass dich auf keinen Fall in eine Schlägerei verwickeln. Gerdwin achtet sehr darauf, dass sich niemand in Nemeton prügelt. }
+
+Plh_95 { Wenn du dir doch mal etwas zu Schulden kommen lässt, dann geh zu Gerdwin im Kämpferviertel. Er kann dir deine Missetaten vergeben. }
+
+Plh_96 { Gegen eine kleine Spende an Nemeton, versteht sich. }
+
+Plh_98 { Hier ist alles sicher. Gute Arbeit. }
+

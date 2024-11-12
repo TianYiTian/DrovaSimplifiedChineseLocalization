@@ -1,0 +1,13 @@
+Title { - Pause - }
+
+Continue { Weiterspielen }
+
+QuitApp { Spiel beenden }
+
+LoadLatest { Letzten Spielstand }
+
+ToMainMenu { Zum Hauptmenü }
+
+Language { Sprache }
+
+PleaseWait { Bitte warte, das Spiel wird gespeichert }

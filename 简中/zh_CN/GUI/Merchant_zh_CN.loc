@@ -1,0 +1,27 @@
+title_splitstack { 分配物品 }
+
+popup_balanceMoney { 用硬币支付 }
+
+popup_giveForFree { 你确定不想要任何回报吗？ }
+
+popup_valueAboveTrader { 你的商品价值高于商人的商品价值。<br><br>你想赠送差价给他，还是用硬币补足？ }
+
+popup_valueAboveTrader_NoCurrency { 你的货物价值高于商人的货物价值。<br><br>你愿意赠送差价给他吗？ }
+
+popup_valueBelowTrader { 商人要求至少支付$TRADEVAR:RightTableValue$枚硬币的赔偿。 }
+
+popup_generic { 你想要完成交易吗？ }
+
+title { 交易 }
+
+Value { 货物价值 }
+
+Spend { 赠送 }
+
+Exchange { 交换 }
+
+ExchangeOnly { 仅限交易 }
+
+Comment_NoCoins { 我不接受硬币。 }
+
+SellWholeStack { 添加/移除交易物品堆叠。 }

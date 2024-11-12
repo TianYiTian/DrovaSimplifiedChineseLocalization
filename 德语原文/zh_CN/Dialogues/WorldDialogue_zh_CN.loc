@@ -1,0 +1,208 @@
+Plh_0 { Hey, Andarta. Ich hab dir diesen Ring besorgt. Nur für dich. }
+
+Plh_1 { ... für mich? Wer bist du überhaupt? }
+
+Plh_3 { Ich bin Tuz, und ... ich finde dich echt toll. }
+
+Plh_4 { *wird rot* Also ... ich weiß gar nicht, was ich sagen soll ... }
+
+Plh_6 { JAAAA! }
+
+Plh_7 { LOS GEHT'S! }
+
+Plh_8 { Wir gehen weiter! }
+
+Plh_10 { Hmmmm ... ich weiß ja nicht. }
+
+Plh_11 { Glaub mir, du wirst es nicht bereuen! }
+
+Plh_15 { Heute um 21:00 Uhr kämpft $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ gegen $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_16 { ... ist das ein Hinweis? }
+
+Plh_17 { Die Form des Symbols scheint an die Runenzirkel angelehnt zu sein. }
+
+Plh_18 { Das Symbol läuft unten spitz zu, wie die schwarzen Stacheln, die hier verwendet wurden. }
+
+Plh_19 { Seltsam geformtes Symbol. Bestimmt steht es irgendwie mit der Forschung hier in Verbindung. }
+
+Plh_20 { Das Material fühlt sich komisch an, wenn ich es berühre. }
+
+Plh_22 { Alleine bekomme ich den Schutt hier nicht weggeschafft. }
+
+Plh_23 { Scheint nicht zu funktionieren. }
+
+Plh_24 { Das funktioniert nicht. }
+
+Plh_25 { Nichts. }
+
+Plh_26 { Ich hätte nicht mitkommen sollen ... }
+
+Plh_27 { Wo ist dieser Schatz nur? }
+
+Plh_29 { Ich muss zuerst den Schutt wegbringen. }
+
+Plh_34 { Hier wird der Schutt entleert. }
+
+Plh_35 { Ich muss meine Spitzaxt ausrüsten. }
+
+Plh_36 { Ich brauche eine Fackel. }
+
+Plh_37 { Der Talisman ... reagiert. }
+
+Plh_38 { Der Talisman vibriert ... }
+
+Plh_39 { Der Talisman fühlt sich warm an ... }
+
+Plh_40 { In Gedenken an Caius Cassius Helios, Runenwirker der 5. Generation. }
+
+Plh_41 { Hier liegt Lucius Aemilius Tribune, Meister des Runenwirkens, Begründer der Runenforschung. }
+
+Plh_42 { Hier liegt Flavius Augustus, Anführer der Schlacht gegen den ersten Göttlichen. }
+
+Plh_43 { Ich muss zuerst den Schutt wegbringen. }
+
+Plh_44 { Heute kämpft Bady gegen Gra. }
+
+Plh_45 { Wisse um die ersten drei und trete vor, um die Tiefen der Runenmagie zu ergründen. }
+
+Plh_46 { Ein leichter Sog geht von dem Objekt aus. }
+
+Plh_47 { Hier wird sich wohl auf einen Krieg vorbereitet ... }
+
+Plh_48 { Du spürst ein Kribbeln überall am Körper. Eine unglaubliche Macht geht von dem Objekt aus ... }
+
+Plh_49 { Massig Kratz- und Bissspuren sind an der Palisade. }
+
+Plh_50 { Das Schild ist mit Löchern und Spalten übersät, als hätte man etwas daran festgemacht. }
+
+Plh_51 { Ein Rabe mit einer Triskele darunter. }
+
+Plh_52 { Zwei freundschaftlich schüttelnde Hände, mit einer Münze darüber. }
+
+Plh_53 { Es zeigt den Griff und den Ansatz einer Schwertklinge mit dem Raben Nemetons darüber. }
+
+Plh_54 { Eine Sichel mit dem Raben Nemetons darüber. Hier scheinen die Druiden zu sein. }
+
+Plh_55 { Es zeigt einen Amboss mit dem Raben Nemetons darüber. Es scheint für Handwerk zu stehen. }
+
+Plh_56 { Hier ist etwas ... }
+
+Plh_57 { Oh, was ist das denn? }
+
+Plh_58 { Da hat jemand was versteckt ... }
+
+Plh_59 { Rote, blutartige magische Kraft schimmert im mittleren Bereich. }
+
+Plh_60 { Das muss das Banner des Ruinenlagers sein. Ich frage mich, wofür die Spirale steht. }
+
+Plh_61 { Die rote Markierung auf dem Stein könnte eine Warnung sein ... }
+
+Plh_62 { Was könnte nur die Macht besitzen, etwas so Großes mit dieser Gewalt vom Himmel zu werfen? }
+
+Plh_63 { Hau drauf! }
+
+Plh_64 { Ich hoffe, es wird ein interessanter Kampf. }
+
+Plh_65 { Wir finden schon was. }
+
+Plh_67 { Ich hab meinen Funken, endlich! }
+
+Plh_68 { Du hast es dir verdient. }
+
+Plh_69 { Ich gehöre endlich zu euch. }
+
+Plh_70 { Du bist schon lange ein Vertrauter von uns. }
+
+Plh_71 { Jetzt gehöre ich aber richtig zu euch. Endlich! }
+
+Plh_72 { Das sieht aus wie ein Teil einer Rune. }
+
+Plh_73 { Das war's mit dir. }
+
+Plh_74 { Die Eier - wir müssen die Eier zerstören. }
+
+Plh_75 { Stirb! }
+
+Plh_76 { Elende Brut! }
+
+Plh_77 { Verdammt, aus den Eiern kommen noch mehr von denen! }
+
+Plh_78 { Die Eier, wir müssen die Eier zerstören! }
+
+Plh_79 { Da ist ihre Brut - ich weiß, dass sie hier irgendwo ist! }
+
+Plh_80 { Verdammt, stirb endlich! }
+
+Plh_81 { Sterbt! }
+
+Plh_82 { Verschwindet endlich! }
+
+Plh_83 { Jetzt bist du dran! }
+
+Plh_84 { Leide! }
+
+Plh_85 { Los, hau schon zu! }
+
+Plh_86 { Jaaa, zeigt es uns! }
+
+Plh_87 { Halt dich nicht zurück! }
+
+Plh_88 { WUUUUH! }
+
+Plh_89 { Volles Pfund aufs Maul! }
+
+Plh_90 { JAWOLLO! BLUT! }
+
+Plh_91 { Schläge muss es setzen! }
+
+Plh_92 { Klatschen muss es! }
+
+Plh_93 { Ich bin schon ganz aufgeregt. }
+
+Plh_94 { Wer wohl gewinnt? }
+
+Plh_95 { Jetzt fangt schon an, euch zu prügeln ... }
+
+Plh_96 { Aaaah ... jetzt wird entspannt. }
+
+Plh_97 { Ich hab auf dich gesetzt! Hau zu! }
+
+Plh_98 { Fangen die auch bald an, sich zu hauen? }
+
+Plh_99 { Bald geht's los. }
+
+Plh_100 { Keine Lust mehr auf Warterei ... }
+
+Plh_101 { Bald fängt der nächste Kampf an. }
+
+Plh_102 { Ich freue mich schon auf den nächsten Kampf. }
+
+Plh_103 { Mistvieh! }
+
+Plh_104 { Friss das! }
+
+Plh_105 { Komm her, du Fußwärmer! }
+
+Plh_106 { Aus euch mach ich Leder! }
+
+Plh_127 { Da ist das Biest! }
+
+Plh_128 { Wir sind Olafs Rache! }
+
+Plh_129 { Dein Kopf wird meine Wand dekorieren! }
+
+Plh_130 { Immer drauf! }
+
+Plh_132 { Da bewegt sich nichts mehr. }
+
+Plh_133 { Das wäre erledigt. }
+
+Plh_134 { Du bleibst jetzt am Boden. }
+
+Plh_135 { Das war zu einfach. }
+
+Plh_136 { Hätten wir das. }
+
+Plh_140 { Heute findet kein Kampf statt. }
+

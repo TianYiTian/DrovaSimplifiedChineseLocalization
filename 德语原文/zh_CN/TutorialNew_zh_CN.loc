@@ -1,0 +1,4 @@
+LevelUp { Du bist eine Stufe aufgestiegen!<br>Bei jedem Stufenanstieg wirst du geheilt und erhältst 4 Lernpunkte.<br>Bei einem Lehrer kannst du deine Lernpunkte einsetzen, um Attribute zu erhöhen und Talente zu lernen.<br>Für manche Talente oder auch Waffen benötigst du Kampfkraft als Voraussetzung.<br>Kampfkraft ist die Summe deiner Attribute. }
+
+FirstConsFlow { Du hast eine Schriftrolle gefunden.<br>Öffne mit $INPUTANIM:OpenAbilities$ das Fähigkeitenmenü.<br>Dort kannst du sie ausrüsten.<br>Schriftrollen verbrauchen sich nach einmaliger Verwendung.<br>Sie können eine große Hilfe sein, wenn du es auf einen starken Gegner abgesehen hast. }
+

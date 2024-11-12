@@ -1,0 +1,14 @@
+Entry_01 { Ratten sind bei Bernold im Keller, und jemand soll sie für ihn wegschaffen. Als Belohnung gibt er mir einige Münzen. Sollte sich lohnen. }
+
+Entry_02 { Ich bin im Keller. Jetzt muss ich nur noch die Ratten loswerden. }
+
+Entry_03 { Die Ratten im Keller sind tot. Bernold wird sich darüber freuen. }
+
+Entry_03_A { Die Ratten kommen durch ein Loch aus einer Höhle in Bernolds Keller. Er würde sich sicher freuen, wenn ich mich auch darum kümmere. }
+
+Entry_03_B { Die Ratten in der versteckten Höhle sind tot. Wenn ich mich auch um die anderen Ratten im Keller gekümmert habe, sollte ich mich bei Bernold melden. }
+
+Entry_04 { Bernold hat sein Wort gehalten. Er hat mir die Münzen gegeben, und sein Problem ist gelöst. }
+
+Title { Ratten! }
+

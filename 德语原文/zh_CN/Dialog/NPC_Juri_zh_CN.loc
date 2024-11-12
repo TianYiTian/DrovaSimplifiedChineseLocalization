@@ -1,0 +1,30 @@
+Plh_13 { Hey $GVAR:EVars_Player.Name$, du bist dran. Ab in die Arena. }
+
+Plh_30 { Wenn du in der Arena kämpft willst, meld dich bei Antonius Proximus. Er organisiert die Kämpfe in der Arena. }
+
+Plh_31 { Hab schon von dir gehört, $GVAR:EVars_Player.Name$. Spricht sich rum, wenn jemand zu den Gezeichneten gehört. Blut und Stahl! }
+
+Plh_32 { Gerade steht ein besonderer Kampf zwischen Bady und Gra an. Danach wird die Arena wieder für die Gezeichneten geöffnet. }
+
+Plh_33 { Wer sind die Gezeichneten? }
+
+Plh_35 { Das sind Krieger, die für Antonius Proximus kämpfen. Erfahrene Kämpfer der Arena, nur die Besten. }
+
+Plh_36 { Kann ich auch ein Kämpfer werden? }
+
+Plh_37 { *mustert dich* Möglich wäre es, aber du musst schon gut kämpfen können. Proximus entscheidet. }
+
+Plh_38 { Nach dem Kampf mit Bady und Gra werden hier wieder Kämpfe stattfinden. Streng dich an, dann hast du auch eine Chance. }
+
+Plh_40 { Hab auf dich gewettet. Viel Erfolg heute gegen $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_41 { Habe $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ oft kämpfen gesehen. Sie sucht den Nahkampf. Also bleib auf Distanz. Viel Erfolg. }
+
+Plh_42 { Gegen $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ ist es schon heftig. Musst aufpassen. Der Nebel ist ihre Stärke. Und sie ist ungeschlagen. Würde immer auf sie wetten. }
+
+Plh_43 { Ich werde gewinnen. }
+
+Plh_44 { Ebru kämpft immer mit seinen Reißern. Sie zu besiegen bringt nichts, da er sie immer wieder zurückholen kann. Hau Ebru voll aufs Maul. }
+
+Plh_46 { Das war ein Kampf! Ich freue mich, wenn wieder jeden Tag Kämpfe in der Arena stattfinden. Zwischen den Gezeichneten geht es immer rund! }
+

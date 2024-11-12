@@ -1,0 +1,298 @@
+Plh_0 { *atmet schwer* }
+
+Plh_1 { Was waren das für Viecher? }
+
+Plh_2 { Bist du verletzt? }
+
+Plh_3 { Verfluchte Spriggas. Sie werden immer stärker in letzter Zeit ... ich ... brauche 'nen Augenblick ... hoffe, sie haben dir nicht zu hart zugesetzt. }
+
+Plh_5 { Verdammte Spriggas. Sogar die Bäume haben sich gegen uns verschworen. Manchmal glaube ich, dass Drova selbst uns ausrotten will ... }
+
+Plh_6 { Wer bist du eigentlich? }
+
+Plh_8 { Mein Name ist Jendrik. Ich bin Holzfäller. Wie die meisten anderen. Naja ... wer noch hier ist. }
+
+Plh_9 { Soll ich mit anpacken? }
+
+Plh_10 { Cengiz will, dass du an der Brücke mitarbeitest. }
+
+Plh_11 { Schnapp dir $GVAR:QuestVars_GettingInvolved _Config.AmountOfLogWood$ Stücke Rundholz und bring sie zum Abbundplatz südlich von hier. }
+
+Plh_12 { Und wie repariert man eine Brücke ohne Holz? Ich muss erst mal was hinschaffen, sonst stehen alle mit leeren Händen da. Und wer muss Holz hacken? GANZ ALLEINE? }
+
+Plh_14 { Das sieht doch gut aus. Jetzt kommt die richtige Arbeit! Fangen wir an! }
+
+Plh_16 { Wie viel Holz brauchen wir? }
+
+Plh_17 { Ich hab Holz dabei. }
+
+Plh_18 { Hier, nimm den Holzspalter. }
+
+Plh_19 { Der linke Baumstamm gehört dir, der rechte mir. Nimm die Axt in die Hand, benutz den Baumstamm, dann legen wir los! }
+
+Plh_20 { *stöhnt* Nun, übertreiben sollte ich es nicht. Das macht der Rücken nicht mehr mit. Aber solange ich eine Axt halten kann, werde ich diesem Wald zeigen, wer der Stärkere ist! }
+
+Plh_21 { Wer sind diese Leute, die abgehauen sind? }
+
+Plh_24 { Und dann noch Gero. Nicht gerade der Hellste, aber was der am Kessel zubereitet hat, war lecker. So gut werde ich wohl nie wieder essen. }
+
+Plh_27 { Ich werde jedenfalls weder den Holzfällern noch Nemeton den Rücken zukehren und abhauen. }
+
+Plh_30 { Warum sind die denn abgehauen? }
+
+Plh_32 { Warum sind sie nicht nach Nemeton gegangen? }
+
+Plh_33 { Haben die Hoffnung verloren. Lieber sind sie Hauer im Ruinenlager. Hab gehört, dass man Schulden anhäuft, wenn man dort arbeitet, und dann lassen sie einen nicht mehr weg ... }
+
+Plh_35 { Nemeton? Die nehmen nicht jeden. Müssten sie eigentlich, wenn sie nicht ausbluten wollen, aber ... naja, die sind halt misstrauisch. }
+
+Plh_36 { Ich denke ja gern an meine Zeit zurück, bevor ich Holzfäller geworden bin. Da war ich Arenakämpfer. }
+
+Plh_38 { Ich glaube, das Ruinenlager werde ich mir auch anschauen ... }
+
+Plh_39 { Ich muss nach Nemeton. }
+
+Plh_40 { Ich bin noch nicht sicher ... lasse mich treiben. }
+
+Plh_42 { Wenn du dort Gero begegnest, sag ihm, dass ich seine Mahlzeiten vermisse. Warum musste er auch abhauen ... Jetzt haben wir alle mehr zu tun, und von Agilos Fraß will ich gar nicht anfangen ... }
+
+Plh_43 { Musst du? Die nehmen nicht jeden. Viel Spaß, wenn du die überzeugen willst, dass sie dich brauchen ... selbst einen Kämpfer wie mich würden die nur mit dem Arsch anschauen. }
+
+Plh_44 { Wie ein Blatt im Sumpf? Dann mal viel Glück. Einzelkämpfer machen es nicht lange in Drova ... }
+
+Plh_46 { Hast du einen Rat, wie ich in Drova am besten vorankomme? }
+
+Plh_48 { Woher bekomme ich bessere Ausrüstung? }
+
+Plh_49 { Hm ... im Ruinenlager nehmen sie dich mit Kusshand, geben dir Essen und ein Dach über dem Kopf. Aber wenn du dich mit ihnen einlässt und Schulden machst, haben sie dich am Kragen. }
+
+Plh_50 { Cengiz kann dir vernünftige Kleidung geben, wenn du dich nützlich machst. Alles ist besser als die Lumpen, die du trägst. }
+
+Plh_51 { Wie komme ich zum Ruinenlager? }
+
+Plh_52 { Wie komme ich nach Nemeton? }
+
+Plh_53 { Gibt es noch andere Orte wie diesen hier? }
+
+Plh_54 { Ich glaube, wir haben genug Holz gehackt. }
+
+Plh_57 { Da willst du wirklich hin? Hmpf. Ich dachte, ich hätte deutlich genug davon abgeraten ... }
+
+Plh_58 { Wäre eigentlich nicht so schwierig. Wenn die Brücke unbeschädigt wäre ... jetzt musst du erst zum Ruinenlager, dann Richtung Süden. }
+
+Plh_59 { Ja, unabhängige Höfe ... aber auch Plünderer ... du könntest auf der anderen Seite des Flusses noch Höfe finden, aber die erreichst du gerade nicht so einfach. Besser, du gehst am Ruinenlager vorbei und dann von außen rum. }
+
+Plh_60 { Das ist genug Holz für heute. Abgehackt ist abgehakt, sag ich immer. }
+
+Plh_62 { Triff mich am Abbundplatz. }
+
+Plh_63 { Hey. Arbeit heißt Arbeit, weil sie nicht Freizeit ist, sag ich immer! }
+
+Plh_65 { Wir sehen uns! }
+
+Plh_67 { Ich muss gerade arbeiten. }
+
+Plh_68 { Gut, du bist bereit. "Nur ein gespaltenes Holz ist ein gutes Holz." Altes Holzfäller-Sprichwort. Also, pass auf ... }
+
+Plh_70 { Ist das nicht toll, dieses Holz hacken? Wie das Beil da reinknallt und die Fetzen fliegen? Mich beruhigt das ja immer. }
+
+Plh_71 { Nemeton ... da geht es entspannter zu. Die sind besser geschützt, die wollen das Land der Sagen schaffen. Aber du kommst nicht so einfach rein. Mit jemandem, der für dich spricht, ist es leichter. Eine Hand wäscht die andere und so. }
+
+Plh_72 { Aber für wirklich gute Ausrüstung und Waffen bist du hier falsch. Irgendwo in der Nähe von unserem Lager sind die beiden Streithähne Blaan und Carima. Streiten sich immer, was die beste Waffe ist. Vielleicht können die dir weiterhelfen. }
+
+Plh_73 { Wenn du sonst noch was wissen willst, sag Bescheid. }
+
+Plh_74 { "Reißt du die Spriggas morgens raus, kommst du abends heil nach Haus'", sag ich immer! }
+
+Plh_75 { Haha, nein, das wäre doch zu leicht! }
+
+Plh_77 { Hast du dabei auch eine Axt benutzt? }
+
+Plh_79 { Weißt du, ich hab mit Fäusten gekämpft. Waffen? Die hatten nur die Feiglinge in der Arena. Und nicht lange - erst hab ich ihnen die Waffen abgenommen, dann ihnen die Scheiße aus dem Leib geprügelt. }
+
+Plh_80 { Wenn ich sie dann im Schwitzkasten hatte, haben sie begeistert aufgegeben! Manchmal würde ich das gern noch mal erleben, aber ... Tja, diese Zeiten kommen wohl nicht wieder. }
+
+Plh_81 { Wieso bist du jetzt kein Kämpfer mehr? }
+
+Plh_82 { Sollten wir nicht weiterarbeiten? }
+
+Plh_83 { Irgendwann macht der Körper es nicht mehr mit. Irgendwann fängt man an, zu verlieren. Und ... dann geht's einfach nicht mehr. Ist halt so. *runzelt die Stirn* }
+
+Plh_84 { Du machst aber noch einen starken Eindruck. }
+
+Plh_85 { Kann ich mir vorstellen. Lass uns weiterarbeiten. }
+
+Plh_86 { *schleift weiter* Aber genug von mir. Was hast du denn hier vor? }
+
+Plh_87 { Haha, danke! Das Hacken hält die Form! Aber ... naja ... da war noch was anderes ... }
+
+Plh_88 { Sie hieß Sorcha. Wenn ich nicht in der Arena war, war ich in ihrem Bett. Und dann hab ich mir eingeredet, dass daraus mehr werden könnte ... }
+
+Plh_89 { Ja, ich war scheißdämlich. Blind. Wollte aufhören zu kämpfen, und bei meinem letzten Kampf kam sie nicht. Auch danach nicht. Dann hab ich sie gefunden ... in den Armen des verdammten Gra ... ein anderer Kämpfer. Starker Typ. }
+
+Plh_90 { Was hast du dann gemacht? }
+
+Plh_91 { Das geht mich eigentlich nichts an. Lass uns arbeiten. }
+
+Plh_92 { Lassen wir die Vergangenheit ruhen. Es ist noch viel zu tun ... }
+
+Plh_93 { Was denkst du denn? Wollte Gra erwürgen. Das ... war vielleicht etwas überhastet. Er hat mit seiner Axt Snaga Kleinholz aus mir gemacht. Und dann waren er und Sorcha weg ... }
+
+Plh_94 { Danach hatte ich die Schnauze voll von der Arena und dem Ruinenlager. Bin ziellos durch Drova gezogen, wurde dann von Reißern gejagt ... und bin hier gelandet. Cengiz hat mir eine Chance gegeben. }
+
+Plh_95 { Jetzt bin ich hier einer der Holzfäller. Ist nicht wie so ein schöner Arenakampf, aber nach einem langen Tag weiß ich trotzdem, was ich geleistet habe. }
+
+Plh_96 { Mit dir geht das Holz hacken jetzt so gut von der Hand, ich hab kaum noch Rückenschmerzen! }
+
+Plh_97 { *mustert deine Hände* Die eine Hand ganz hinten am Stiel, die andere vorne. So hast du Kontrolle und Kraft gleichzeitig. }
+
+Plh_104 { Ist das nicht langsam genug Holz? }
+
+Plh_105 { Glauben ist nicht wissen - und scheißen ist nicht pissen! Egal, es reicht für heute. }
+
+Plh_106 { Danke für deine Hilfe. Hast was gut bei mir. Holzfällen hält fit. Siehst schon kräftiger aus als vorher. }
+
+Plh_107 { (Holz hacken) }
+
+Plh_108 { Bald haben wir's. Gut, dass du noch nicht außer Puste bist. }
+
+Plh_109 { Also, ich mache das hier ja wirklich gern. Merkst du ja. Ist aber nicht für jeden. Hoffe, es hauen nicht noch mehr Leute ab ... }
+
+Plh_110 { So ein bisschen zieht's ja schon im Rücken. Drova ist halt kein Jungbrunnen! Aber wer weiß ... wenn aus Drova das Land der Sagen wird, dann wird alles besser. }
+
+Plh_111 { Das Ding wird langsam stumpf. *nimmt einen Schleifstein und führt ihn an der Klinge entlang* }
+
+Plh_112 { *packt den Schleifstein wieder weg* So, damit schneide ich jetzt wieder durch Holz wie durch Butter. *grinst* }
+
+Plh_113 { Ansonsten musst du einfach die Augen offenhalten und mit Leuten reden. So gut kenne ich mich auch nicht aus, ich bin meistens hier. }
+
+Plh_114 { Das Holz hackt sich nicht von selbst, sag ich immer! }
+
+Plh_115 { Nächste Runde! Schauen wir, wer stärker ist, du verdammtes Stück Holz! *holt aus* }
+
+Plh_116 { *wischt sich den Schweiß von der Stirn* }
+
+Plh_124 { *hebt die Axt hoch über seinen Kopf und atmet ein* }
+
+Plh_125 { Wie kann ich stärker werden? }
+
+Plh_132 { Hast du das Holz dabei? }
+
+Plh_135 { Worauf wartest du? Nimm die Axt in deine Griffel und benutz den Holzscheit neben meinem! }
+
+Plh_136 { Eigentlich stutzt Larea die Knospen zurecht. Aber wenn man es versäumt - was Larea offenbar getan hat, verflucht - dann laufen die Spriggas rum und hauen zu. }
+
+Plh_137 { Die Spriggas werden dann auch noch größer! Zum Glück ist mir noch kein ausgewachsenes Exemplar begegnet. Könnte ungemütlich werden ... }
+
+Plh_138 { *fasst sich an die Schulter* Ich muss zurück zum Abbundplatz. Wollte eigentlich nur neues Holz holen. Und den Rest kennst du ja ... }
+
+Plh_140 { Ich mache mich jetzt dran, die Brücke zu reparieren. Wenn du mich nicht siehst, sehe ich aber vielleicht dich, haha! }
+
+Plh_148 { Komm mit. }
+
+Plh_150 { Immerhin hab ich jetzt mehr Ruhe beim Arbeiten. Kann mich ganz dem Baum widmen, den ich kleinmache ... und dem Zwitschern der Vögel lauschen ... zwischen den Schlägen. }
+
+Plh_151 { Hände ein Stück auseinander halten und in einem steilen Winkel treffen. Kräftig ausholen und ... voll aufs Rundholz! Los! }
+
+Plh_152 { Der Jubel beim Einmarsch ... das Johlen, wenn ich den Gegner besiegt hatte ... das fehlt mir ja schon ein wenig ... }
+
+Plh_153 { Gut, ist deine Entscheidung. Den Weg nach Westen lang. Dann kann dir eigentlich nichts passieren. Bei der Gabelung gehst du geradeaus weiter, dann kannst du das Ruinenlager nicht verfehlen. }
+
+Plh_154 { Ach ja, ich weiß noch, als ich das alles gelernt habe. "Die Zeit ist ein reißender Fluss", sagt man ... }
+
+Plh_155 { Und den Frauen dort kannst du nicht über den Weg trauen, die brennen sofort mit einem anderen durch. }
+
+Plh_156 { Da ist doch noch jemand beim Abbundplatz und hilft. }
+
+Plh_157 { Und was machst du jetzt? }
+
+Plh_158 { Du meinst Jalina? Nichts für ungut ... die ist halb so schnell wie ich. Keine große Hilfe. }
+
+Plh_161 { Wir müssen kämpfen, schnapp dir eine Waffe und hilf uns! }
+
+Plh_162 { Danke für deine Hilfe. Du hast gut gekämpft. }
+
+Plh_163 { Wenigstens auf Nemeton können wir uns noch verlassen, wenn es hart auf hart kommt. Dank euch leben wir noch. }
+
+Plh_164 { Bin überrascht, dass sich das Ruinenlager überhaupt für uns interessiert. Wahrscheinlich war das deine eigene Entscheidung ... }
+
+Plh_165 { Man muss die Spriggas stutzen, wenn sie noch klein sind. Die wachsen so schnell. }
+
+Plh_167 { Geht's dir gut? }
+
+Plh_168 { Die bekommen mich nicht weich! Muss aber sagen, dass es knapper war, als mir lieb ist. }
+
+Plh_169 { Merlind und Jalina haben was Besseres verdient. Nicht das. }
+
+Plh_171 { Pass auf dich auf. }
+
+Plh_172 { Ist bei Cengiz alles gut? }
+
+Plh_173 { Was denkst du denn? Er gibt sich die Schuld für den Tod seiner Frau Merlind. Läuft eh schon alles scheiße, und dann das ... }
+
+Plh_174 { Die Brücke steht, wir haben Schutz. Noch mal wird das nicht passieren. *leise zu sich selbst* Hoffentlich. }
+
+aboutOtherQuests { Ich will Holz kaufen. }
+
+Plh_176 { Wir haben nicht viel, weil wir die Brücke reparieren müssen, aber ich verkaufe, was wir nicht brauchen. }
+
+Plh_178 { Denkst du, das reicht schon? Mmmh, könnte sein. }
+
+Plh_180 { Welche Vögel haben dir das gezwitschert? Schon lange her, aber stimmt. Werde aber nie wieder da hochgehen. }
+
+Plh_181 { Wie ich sehe, hast du dich für Nemeton entschieden. }
+
+Plh_182 { Gehörst jetzt zum Ruinenlager, wie ich sehe. Finde ich auch besser als Nemeton, aber sag's niemandem. }
+
+Plh_183 { Sicherheit, Vertrauen und eine Familie. Die braucht jeder irgendwann. Gute Entscheidung. }
+
+Plh_184 { Hab gehört, du warst schon mal auf dem Plateau im Norden? }
+
+Plh_185 { Wie bist du da aufs Plateau gekommen? }
+
+Plh_187 { Warum willst du da nie wieder hoch? }
+
+Plh_190 { Nördlich von hier gibt es eine Höhle, an dem Schrein vorbei übers Wasser, und du bist da. Ist schon 'ne Weile her, dass ich dort war, aber durch die Höhle kam man dorthin. }
+
+Plh_191 { Da oben ist was komisch. Sieht aus wie hier, aber alles ist ... viel? Überall Pflanzen, komische Wesen, und es riecht auch anders. Ich will nicht mehr kämpfen, sondern in Ruhe hier arbeiten. }
+
+Plh_193 { Ich schaue mich da mal um. }
+
+Plh_194 { Pass auf dich auf. }
+
+Plh_196 { Verkaufst du auch Holz? }
+
+Plh_197 { Klar, ohne dich wären wir hier vermutlich draufgegangen. Aber kostenlos gibt's das trotzdem nicht. }
+
+Plh_198 { Und kenne mich gut mit Schlössern aus. Kann man gut hier gebrauchen. *grinst* }
+
+Plh_202 { Warst du mal bei dem Plateau hier in der Nähe? }
+
+Plh_205 { Ein bisschen was muss da schon her. Hab selbst auch was hergeschleppt. Da, wo ich den Baum gefällt habe, sollte noch etwas rumliegen. }
+
+Plh_206 { Ich hab gerade einen Baum gefällt und zerteilt, als mich diese Biester überrascht haben. }
+
+Plh_211 { Komm mit. }
+
+Plh_214 { Lass uns mehr arbeiten und weniger reden. }
+
+Plh_215 { Hey, entspann dich. Klingst ja schon fast wie Agilo. }
+
+Plh_216 { Noch ein paar Scheite, dann kann ich das Holz zur Brücke bringen. }
+
+Plh_217 { Insgesamt sind drei Leute abgehauen. }
+
+Plh_218 { Finlay zuerst. Kein Verlust, der ist sowieso 'ne faule Sau. }
+
+Plh_219 { Kurz danach ist Kessia auch abgehauen. Die war eigentlich immer fleißig. Auf die konnte man sich verlassen. Schade drum. }
+
+Plh_220 { Agilo ist zwar nicht weggegangen, aber der muss jetzt kochen. Hat eigentlich immer mit mir Holz geschlagen. }
+
+Plh_221 { Wenn du bei der Taverne ankommst, musst du nach Osten durchs Moor. Und sobald du riesige Holzpalisaden siehst, hast du Nemeton gefunden. }
+
+Plh_222 { Aber wenn du kämpfen willst, musst du auch flink sein. In der Arena dachten immer alle, dass ich nur draufschlagen kann. }
+
+Plh_223 { Wenn keiner damit rechnet, nutzt du genau diesen Moment aus und sprintest nach vorn. Damit verringerst du deine Distanz zum Gegner, oder du baust mehr Distanz auf. Das kann dir den Arsch retten. }
+
+Plh_224 { Wenn du noch mehr von einem alten Kämpfer wissen willst, sag nur Bescheid. Ich kann dir zeigen, wie du stärker wirst. }
+

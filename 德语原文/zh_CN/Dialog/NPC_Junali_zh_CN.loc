@@ -1,0 +1,112 @@
+Plh_3 { (Gespräch beenden) }
+
+Plh_4 { Verzieh dich, ich hab zu tun. Die Arbeit an den Palisaden überwacht sich nicht von selbst. }
+
+Plh_8 { Weißt du etwas über die gestohlenen Waffenlieferungen? }
+
+Plh_9 { Und wenn es so wäre? }
+
+Plh_31 { Ich bin neu hier und suche Arbeit. }
+
+Plh_32 { Bei mir gibt's keine. Versuch es bei der Kämpferfamilie am Westtor. Dort werden immer neue Hände gebraucht. }
+
+Plh_127 { Die Arbeit an der Palisade ist gerade so rechtzeitig fertig geworden! Jetzt wird entspannt. }
+
+Plh_137 { Ah ja, die Geschichte ... }
+
+Plh_138 { Dann würde ich es gern hören. }
+
+Plh_140 { Ich weiß, dass meine Arbeiter die letzte Lieferung für Chunnaic übernommen haben. Aber wenn ich dir helfen soll, dann hilfst du erst mal mir. }
+
+Plh_141 { Chunnaic wollte, dass einer von ihnen die Lieferung zu Fias Lager bringt. Die Handwerker waren beschäftigt. }
+
+Plh_142 { Wer genau? }
+
+Plh_144 { Hm. Weiß nicht mehr. }
+
+Plh_146 { Und du meinst, du hast alles im Griff, wenn du nicht mal das noch weißt? }
+
+Plh_147 { Wer genau sind deine Arbeiter? }
+
+Plh_148 { Dann quatsch halt selbst mit ihnen ... }
+
+Plh_150 { Aiko, Kellan und Mumme. Lauf einfach die Palisaden hier am Osttor entlang, dann solltest du sie ohne Probleme finden. }
+
+Plh_151 { Aber lenk sie nicht zu lang ab! Die sollen arbeiten, nicht quatschen. }
+
+Plh_153 { Halt hier die Stellung und warte, bis ich wiederkomme. Wenn jemand was will, sag ihnen, dass ich gleich wieder da bin. }
+
+Plh_154 { Und wehe, du haust einfach ab! Dann erzähl ich dir gar nichts, klar? }
+
+Plh_155 { Warte hier. }
+
+Plh_156 { Gleich. }
+
+Plh_157 { Wo zum Göttlichen warst du? Hab ich nicht gesagt, dass du hierbleiben sollst? }
+
+Plh_158 { Karotte hat Hilfe beim Grenzstein gebraucht ... }
+
+Plh_159 { Ähm ... na ja ... }
+
+Plh_160 { Was interessiert mich Karotte! }
+
+Plh_161 { Stammel nicht so rum! }
+
+Plh_162 { Du solltest hier warten. Sonst nichts. Wenn du nicht mal das schaffst - wofür bist du dann zu gebrauchen? }
+
+Plh_163 { So, da bin ich wieder. Das Eierbier ist fertig und wird meine Jungs wieder munter machen! }
+
+Plh_164 { Ist das geheime Rezept meiner Großmutter. Wenn du irgendwann zu uns gehörst, verrate ich es dir vielleicht. }
+
+Plh_165 { Wegen der Waffenlieferung ... }
+
+Plh_166 { Dann haben wir auch nichts mehr über die Waffenlieferungen zu besprechen! Hau ab! }
+
+Plh_167 { Meine Arbeiter brauchen dringend Eierbier, sonst geht die Laune in den Keller. Kannst du so was brauen? }
+
+Plh_168 { Zeigst du mir, wie ich Eierbier herstellen kann? Deine Leute scheinen es zu mögen. }
+
+Plh_169 { Du gehörst zu uns, also - ja. }
+
+Plh_170 { Es ist eigentlich ganz einfach. Wirf alle Zutaten in den Topf, lass alles aufkochen. Schon ist das Eierbier fertig. Die Zutaten kennst du ja. *lächelt* }
+
+Plh_172 { Ich bin hier die Meisterin des Holzes. Eine der drei Handwerksmeister in Nemeton. }
+
+Plh_173 { Nein. }
+
+Plh_174 { Ähm ... natürlich. }
+
+Plh_175 { Du bist nicht besonders gut im Lügen. }
+
+Plh_176 { Hab ich mir gedacht ... }
+
+Plh_177 { Und was geht dich das an? Du gehörst ja nicht mal zu uns. }
+
+Plh_178 { Ich will die Sache aufklären, um mich bei Angus zu bewähren. }
+
+Plh_179 { Ich will die Sache aufklären, weil ich zu euch gehören will. }
+
+Plh_180 { Hm. Würde er sicher gut finden. }
+
+Plh_181 { Das wollen viele von denen, die vor Nemeton sitzen. }
+
+Plh_182 { Gut, du sollst deine Chance kriegen. }
+
+Plh_183 { Ich sag's nicht gern, aber das wird einer meiner Jungs gewesen sein. }
+
+Plh_184 { Angus meinte, dass du meine Hütte verbessern kannst. }
+
+Plh_185 { Gute Arbeit. Dass Kendrick sowas abzieht, hätte ich nicht gedacht. Hab schon gehört, dass es jetzt deine Hütte ist. Verdient. }
+
+Plh_186 { Ich möchte gerne ein besseres Bett. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ Münzen geben) }
+
+Plh_187 { Ich möchte gerne eine Werkbank. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ Münzen geben) }
+
+Plh_188 { Ich würde gerne einen Rennofen haben. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ Münzen geben) }
+
+Plh_191 { Das sieht gut aus, ich kümmere mich drum. Morgen sollte es da sein. }
+
+Plh_192 { Wenn du die Münzen hast. }
+
+Plh_193 { Wenn du die Münzen hast, kann ich dir helfen. }
+

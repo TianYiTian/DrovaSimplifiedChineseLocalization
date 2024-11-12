@@ -1,0 +1,102 @@
+Movement_Gamepad { Benutze $MOVEMENT$, um dich zu bewegen. }
+
+Movement_Keyboard { Drücke $MOVEMENT$, um dich zu bewegen. }
+
+LookDirection { Schau dich um, indem du die Maus bewegst. Deine Blickrichtung ist unabhängig von deiner Laufrichtung. Wenn du entgegen deiner Laufrichtung schaust, geht dein Charakter rückwärts und ist langsamer. }
+
+LookDirection_Gamepad { Wenn sich dein Charakter bewegt, schaut er in Laufrichtung, außer du nutzt $INPUTANIM:LookX$, um dich umzuschauen. Wenn du entgegen deiner Laufrichtung schaust, geht dein Charakter rückwärts und ist langsamer. }
+
+Perception_01 { Halte die $INPUTANIM:PerceptionMode$ gedrückt, um dich genauer umzuschauen. Damit kannst du hinter Objekte oder durch den Nebel schauen. }
+
+Perception_01_Gamepad { Aktiviere den Untersuchungsmodus, indem du $INPUTANIM:PerceptionMode$ drückst. Damit kannst du hinter Objekte oder durch den Nebel schauen. }
+
+Perception_02 { Wenn du dich genauer umschaust, kannst du Dinge aufdecken, die sonst nicht sichtbar wären, zum Beispiel Fußspuren. }
+
+ChangeStance { Drücke $INPUTANIM:DrawWeapon$, um deine Waffe zu ziehen oder wegzustecken. Nutze $INPUTANIM:Attack_Primary$ mit gezogener Waffe, um anzugreifen. }
+
+Interact { Nutze $INPUTANIM:Interact$, um mit Leuten oder Gegenständen zu interagieren. Du kannst nur interagieren, wenn deine Waffe nicht gezogen ist.<br>Waffe ziehen/wegstecken mit $INPUTANIM:DrawWeapon$. }
+
+Perception_03 { Manche Objekte lassen sich genauer untersuchen. Halte $INPUTANIM:PerceptionMode$ gedrückt, bis das Auge über deinem Kopf gefüllt ist. }
+
+Dodge { Drücke $INPUTANIM:Dodge$, um in Bewegungsrichtung auszuweichen. Ausweichen kostet Ausdauer. Ausdauer wird unterhalb deines Charakters angezeigt. }
+
+FirstHeal { Du hast eine Heilpflanze gefunden.<br>Öffne mit $INPUTANIM:Inventory$ das Inventar.<br>Dort kannst du Heilgegenstände in deine Schnellleiste ziehen oder direkt mit $INPUTANIM:Interact$ benutzen.<br>$ICON:Heal$ Heilgegenstände heilen dich über Zeit. }
+
+SwitchWeapon { Du hast eine Waffe eines neuen Typs gefunden. In Drova gibt es einige verschiedene Waffentypen. Probiere sie aus, um zu sehen, welcher Waffentyp am besten zu dir passt.<br>Du hast 2 frei belegbare Waffensets, die du mit $INPUTANIM:SwapWeaponSet$ wechseln kannst. }
+
+Perception_03_Controller { Aktiviere den Untersuchungsmodus, indem du den $INPUTANIM:PerceptionMode$ drückst. Stelle dich nah an ein Objekt und sieh mit $INPUTANIM:LookX$ in die Richtung des Objektes, um es zu untersuchen. }
+
+Abilities_02 { Du hast eine Fähigkeit erlernt! Diese wurde bereits automatisch ausgerüstet. Öffne mit $INPUTANIM:OpenAbilities$ das Fähigkeitenmenü, um sie dir genauer anzuschauen oder sie auf einen anderen Ringmenü-Slot zu legen. Im Spiel kannst du die aktive Fähigkeit über das Ringmenü ($INPUTANIM:RingMenu$) ändern. }
+
+Abilities_02_Controller { Du hast eine Fähigkeit erlernt! Diese wurde bereits automatisch ausgerüstet. Öffne mit $INPUTANIM:Inventory$ das Menü und navigiere über $INPUTANIM:PrevPanel$ und $INPUTANIM:NextPanel$ zum Fähigkeiten-Tab. Dort kannst du dir deine neue Fähigkeit genauer anschauen oder sie auf einen anderen Ringmenü-Slot legen. Im Spiel kannst du die aktive Fähigkeit über das Ringmenü ($INPUTANIM:RingMenu$) ändern. }
+
+BattleBuddies_Blocks { Halte $INPUTANIM:Block$ gedrückt, um zu blocken. Jeder Treffer, den du blockst, zieht Ausdauer statt Leben ab. Ist deine Ausdauer verbraucht, kannst du nicht länger blocken. }
+
+BattleBuddies_Blocks_Label { Erfolgreiche Blocks }
+
+BattleBuddies_Combos { Drücke nach einem Angriff  im richtigen Moment $INPUTANIM:Attack_Primary$, um erneut anzugreifen. Durch die Nutzung von Kombos kannst du generell schneller angreifen und verursachst mehr Schaden. }
+
+BattleBuddies_Combos_Label { Erfolgreiche Kombos }
+
+BattleBuddies_Spells { Du hast genug Fokus für deine Fähigkeit gesammelt. Das kannst du auch an der Fähigkeitenmarkierung an der Fokusbar erkennen. Setze nun deine Fähigkeit mit $INPUTANIM:UseSpell$ ein. }
+
+BattleBuddies_Spells_Label { Erfolgreiche Zauber }
+
+BattleBuddies_GetFlow { Die Fokusleiste zeigt dir unterhalb deines Lebensbalkens deinen aktuellen Fokus an. Im Kampf generiert jeder Treffer auf einen Gegner Fokus. Wirst du getroffen, verlierst du welchen. Nutzt du deinen Fokus nicht, dann geht er verloren, bis auf den Grundfokus. }
+
+FirstFood { Du hast Nahrung gefunden.<br>Öffne mit $INPUTANIM:Inventory$ das Inventar.<br>Dort kannst du Nahrung in deine Schnellleiste ziehen oder direkt mit $INPUTANIM:Interact$ benutzen.<br><br>$ICON:Food$ Nahrung heilt dich langsam über Zeit, doch die Regeneration ist pausiert, wenn du volles Leben hast.<br><br>Sorge dafür, dass du immer gut gesättigt bist. Sammle Rezepte und koche dir am Lagerfeuer Essen. }
+
+FirstGoodFood { Du hast reichhaltige Nahrung zu dir genommen.<br>Viele Gerichte in Drova verleihen passive Effekte, während du gesättigt bist.<br>Doch sei vorsichtig. Wenn du weitere Nahrung zu dir nimmst, wird der Satt-Effekt überschrieben. Warte am besten immer, bis der Satt-Effekt ausläuft, bevor du etwas Neues isst.<br><br>Es ist ratsam, immer einen Satt-Effekt aktiv zu haben, damit sich deine Lebenspunkte passiv regenerieren. }
+
+FirstWeapon { Du hast eine Waffe gefunden.<br>Öffne mit $INPUTANIM:Inventory$ das Inventar.<br>Dort kannst du deine Waffe mit $INPUTANIM:Interact$ ausrüsten.<br><br>Du hast zwei Waffensets zur Auswahl, die du mit $INPUTANIM:SwapWeaponSet$ jederzeit wechseln kannst. }
+
+FirstNote { Du hast eine Schrift gefunden.<br>Alle deine Schriften werden im Tagebuch unter dem Schriften-Tab gesammelt. Dort kannst du sie jederzeit erneut lesen. }
+
+FirstNote_Gamepad { Du hast eine Schrift gefunden.<br>Öffne mit $INPUTANIM:Inventory$ das Menü und navigiere über $INPUTANIM:PrevPanel$ und $INPUTANIM:NextPanel$ zum Tagebuch-Tab. Alle deine Schriften werden unter dem Schriften-Tab gesammelt. Dort kannst du sie jederzeit erneut lesen. }
+
+NeedMunition { Um eine Fernkampfwaffe im Kampf zu verwenden, musst du sie mit $INPUTANIM:Block$ laden. }
+
+FirstRangeWeapon { Du hast eine Fernkampfwaffe gefunden. <br>Rüste diese im Inventar $INPUTANIM:Inventory$ aus. <br>Um sie verwenden zu können, musst du passende Munition über das Inventar ausrüsten. }
+
+Journal { Du hast einen neuen Tagebucheintrag.<br>Öffne mit $INPUTANIM:Journal$ das Tagebuch.<br>Dort kannst du jederzeit den aktuellsten Stand deiner Quest nachschauen. }
+
+Journal_Gamepad { Du hast einen neuen Tagebucheintrag.<br>Öffne mit $INPUTANIM:Inventory$ das Menü und navigiere über $INPUTANIM:PrevPanel$ und $INPUTANIM:NextPanel$ zum Tagebuch-Tab.<br>Dort kannst du jederzeit den aktuellsten Stand deiner Quest nachschauen. }
+
+FirstConsFlow_Gamepad { Du hast eine Schriftrolle gefunden.<br>Öffne mit $INPUTANIM:Inventory$ das Menü und navigiere über $INPUTANIM:PrevPanel$ und $INPUTANIM:NextPanel$ zum Fähigkeiten-Tab. Dort kannst du die Schriftrolle ausrüsten.<br>In schweren Kämpfen können sie dir eine große Hilfe sein. Horten verschafft dir keine Vorteile. }
+
+FirstThrow { Du hast einen Gebrauchsgegenstand erhalten.<br>Öffne mit $INPUTANIM:Inventory$ das Inventar.<br>Dort kannst du ihn in deine Schnellleiste ziehen. }
+
+Stealing { Die Bewohner von Drova achten auf ihre Besitztümer. Du kannst versuchen, sie zu bestehlen. Achte aber darauf, nicht entdeckt zu werden.<br>Du siehst anhand des Mauszeigers, ob eine Interaktion eine Straftat ist oder nicht.<br> }
+
+Stealing_Gamepad { Die Bewohner von Drova achten auf ihre Besitztümer. Du kannst versuchen sie zu bestehlen. Achte aber darauf, nicht entdeckt zu werden.<br>Du siehst anhand des Interaktions-Symbols, ob eine Interaktion eine Straftat ist oder nicht. }
+
+Crafting { Am Feuer kannst du kochen und Tränke herstellen. Es gibt noch weitere Handwerksstationen, bei denen du Fallen, Ausrüstung und Wurfgegenstände herstellen kannst.<br>Manche Rezepte kannst du im Handwerk-Menü $INPUTANIM:CraftingMenu$ ohne Handwerksstation herstellen. }
+
+CloseTutorial { Ausblenden }
+
+CloseTutorial_Gamepad { Schließen (Halte $INPUTANIM:UISubmit$) }
+
+Abilities_03 { Du hast deine erste Fähigkeit ausgerüstet. Um deine Fähigkeiten zu wechseln, halte $INPUTANIM:RingMenu$ gedrückt, bis du die Fähigkeit ausgewählt hast, die du aktiv nutzen möchtest. }
+
+FoodAndHeal { Nahrung und Heil-Gegenstände heilen dich beide über Zeit. Im Gegensatz zu Heil-Gegenstände heilt Nahrung dich zwar nur langsam, doch die Regeneration ist pausiert, wenn du volles Leben hast. Außerdem verleiht Nahrung zusätzliche Effekte, solange der Buff aktiv ist. }
+
+EngageCombat { Nur mit gezogener Waffe kannst du mit $INPUTANIM:Attack_Primary$ angreifen! }
+
+Statuseffects { Du bist in einen Dornenbusch reingelaufen und hast den Statuseffekt Bluten erhalten.<br>Es gibt verschiedene Statuseffekte. Sie werden rechts neben deinem Lebensbalken angezeigt.<br>Wenn du mit $INPUTANIM:Inventory$ das Menü öffnest, kannst du die Statuseffekte mithilfe des Tooltips genauer untersuchen. }
+
+Secondaries { Du hast einen Schild gefunden.<br>Er ist ein Nebenhand-Gegenstand, den du im Kampfmodus mit $INPUTANIM:Block$ verwenden kannst.<br>Wenn du keinen Nebenhand-Gegenstand ausgerüstet hast, führst du mit $INPUTANIM:Block$ eine Aktion aus, die einzigartig pro Waffentyp ist. }
+
+UsedHealItem { Du hast einen Heilgegenstand benutzt.<br>Du hast nun den Statuseffekt Heilung und erhältst in regelmäßigen Abständen Lebenspunkte zurück.<br>Du kannst auch mehrere Heileffekte gleichzeitig aktiv haben, allerdings immer nur einen pro Heilgegenstand. }
+
+PoiseBreak { Der Gegner liegt am Boden, da du seine Haltung gebrochen hast.<br>Haltung erkennst du anhand des gelben Balkens unterhalb des Lebensbalkens.<br>Nutze die Zeit, um ihm ordentlich zuzusetzen, dich zu heilen oder einen Gegenstand einzusetzen. }
+
+LookDirectionCombat { Im Kampf greifst du immer in Blickrichtung an.<br>Du siehst anhand des Pfeils unterhalb des Charakters, in welche Richtung du schaust.<br>Deine Blickrichtung steuerst du mit der Maus. }
+
+LookDirectionCombat_Gamepad { Im Kampf greifst du immer in Blickrichtung an.<br>Du siehst anhand des Pfeils unten am Charakter, in welche Richtung du schaust.<br>Deine Blickrichtung steuerst du mit $INPUTANIM:LookX$ }
+
+FirstTreasure { Du hast eine Schatzkarte gefunden.<br>Alle deine Schatzkarten werden im Tagebuch unter dem Schriften-Tab gesammelt. Dort kannst du sie jederzeit erneut anschauen. }
+
+FirstTreasure_Gamepad { Du hast eine Schatzkarte gefunden.<br>Öffne mit $INPUTANIM:Inventory$ das Menü und navigiere über $INPUTANIM:PrevPanel$ und $INPUTANIM:NextPanel$ zum Tagebuch-Tab.<br>Alle deine Schatzkarten werden im Tagebuch unter dem Schriften-Tab gesammelt. Dort kannst du sie jederzeit erneut anschauen. }
+
+FirstRecipe { Du hast ein Rezept gefunden. <br>Öffne mit $INPUTANIM:Inventory$ das Inventar. Dort kannst du das Rezept lernen, indem du es mit $INPUTANIM:Interact$ benutzt. }
+

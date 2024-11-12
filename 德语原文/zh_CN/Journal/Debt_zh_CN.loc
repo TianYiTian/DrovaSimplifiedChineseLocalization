@@ -1,0 +1,10 @@
+Title { Schulden sind nicht echt }
+
+Entry_01 { Lindon hat viele Schulden bei Friedel. Ich soll die Schuldnerliste von ihr besorgen, damit er sich von der Liste streichen kann. Friedel ist in der großen Ruine im oberen Viertel. }
+
+Entry_02A { Boris kann mir die Liste besorgen. Ich hab ihm $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ Münzen gegeben. Morgen kann ich sie bei ihm abholen. }
+
+Entry_03 { Ich habe die Schuldnerliste von Friedel. Jetzt muss ich sie nur zurück zu Lindon bringen. }
+
+Entry_04 { Lindon hat die Liste und kann nun seine Schulden begleichen. Er hat mich für meine Arbeit entsprechend entlohnt. }
+

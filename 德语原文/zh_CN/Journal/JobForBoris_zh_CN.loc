@@ -1,0 +1,26 @@
+Title { Stimme von Boris fürs Ruinenlager }
+
+Entry_00 { Wenn ich Boris' Stimme für die Aufnahme ins Ruinenlager haben will, muss ich ein Paket von Asmus aus Nemeton abholen. Auf nach Nemeton! }
+
+Entry_01 { Boris hat mir drei Mal abgepacktes Rostmoos mitgegeben und gesagt, dass ich es hier an die Hauer verkaufen soll. Für nicht weniger als $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen pro Packung. Wenn ich das für ihn tue, bekomme ich seine Stimme. }
+
+Entry_02A { Kora und ich haben uns was vom Rostmoos geteilt, und ich habe ihr deshalb das Rostmoos für $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ Münzen verkauft. Die Differenz muss ich aus eigener Tasche zahlen. }
+
+Entry_02B { Kora hat mir das Rostmoos für $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen abgekauft. }
+
+Entry_03 { Cord hat mir eine Packung des roten Goldes für $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen abgenommen. }
+
+Entry_03_1 { Ich habe Grit Rostmoos verkauft. }
+
+Entry_03_2 { Ich habe Senga Rostmoos verkauft. }
+
+Entry_04 { Liandra hat mir für eine Portion Rostmoos $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen gegeben. }
+
+Entry_05 { Ich habe Boris überzeugt. Er wird für mich stimmen. Aber wenn ich zu seinem Trupp gehören will, muss ich die Leute in seinem Trupp und Eugen von mir überzeugen. }
+
+Entry_01B { Ich habe das Zeug nicht für Boris verkauft. }
+
+Entry_Sold { Ich habe alles verkauft und sollte Boris Bescheid sagen. }
+
+Entry_06 { Mog hat etwas Rostmoos, ich habe $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen dafür bekommen. }
+

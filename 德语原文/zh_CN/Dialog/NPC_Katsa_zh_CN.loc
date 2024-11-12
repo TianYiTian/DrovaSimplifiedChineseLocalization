@@ -1,0 +1,70 @@
+Plh_4 { Hey, wohin willst du? }
+
+Plh_1 { Das frage ich mich auch. }
+
+Plh_2 { An dir vorbei. }
+
+Plh_3 { Bist du bescheuert? In die Mine des Ruinenlagers kommt nur, wer ein Schreiben von Levin und Ausrüstung von Lothar hat! }
+
+Plh_20 { Weißt du, wie ich hier als Hauer auffallen kann? }
+
+Plh_21 { Du musst 'ne Menge Silber hauen. Levin wird dann auf dich aufmerksam. Er belohnt fleißige Hauer. }
+
+Plh_22 { Hey, du! }
+
+Plh_23 { Du willst raus? }
+
+Plh_24 { Ja, genau. }
+
+Plh_25 { Nein, ich bleibe hier. }
+
+Plh_26 { Gut. Dann rück die Hälfte von deinem Silber raus. }
+
+Plh_27 { Dann geh wieder rein und arbeite. }
+
+Plh_28 { Hier, nimm. (Hälfte abgeben) }
+
+Plh_29 { Ich bleibe doch lieber hier. }
+
+Plh_30 { Das sieht gut aus. Du kannst durch. }
+
+Plh_32 { Wie ich sehe, warst du schon bei Lothar. Du kannst rein. }
+
+Plh_33 { Hab gehört, vorhin sind ein paar Leute aus dem Lager zurückgekommen. }
+
+Plh_34 { Na endlich. Die Hauer haben mich schon mit Fragen gelöchert, wann Merik wieder Ausrüstung verkauft. }
+
+Plh_36 { *dreht sich zu dir* Na, du neues Gesicht? }
+
+Plh_38 { Das geht auch netter, Katsa. }
+
+Plh_39 { Eine Hand wäscht die andere. Du hältst dein Maul, was mein Geschäft mit Merik betrifft, und ich drücke bei dir ein Auge zu. Ich nehme dir weniger von deinem Silber ab. }
+
+Plh_40 { Levin will ab heute mehr Silber. *grinst* }
+
+Plh_41 { Ich hab dir gesagt, dass du dich aus meinen Angelegenheiten mit Merik raushältst. Sonst setzt es was. Hier ist dein Silber. Verzieh dich. }
+
+Plh_45 { Levin ist schon ungeduldig, weil nicht mehr so viel Silber kommt ... }
+
+Plh_46 { Halt dich an Kapo, wenn du mehr wissen willst. Das ist der Typ, der vorhin hier war, als du reingekommen bist. }
+
+Plh_47 { Glück auf! Komm mit, ich erklär dir, wie bei uns die Regeln sind. }
+
+Plh_48 { *grummelt* Hör besser auf Kapo ... }
+
+Plh_49 { Ah, du bist es. Weißt du ... ich sehe gerade ganz schlecht ... wenn du jetzt schnell durchgehst, dann kann ich dich nicht aufhalten. }
+
+Plh_50 { So ein Mist aber auch. *zwinkert* }
+
+Plh_51 { Für Jero. }
+
+Plh_52 { Verpiss dich. Wir wollen Leute wie dich hier nicht sehen. }
+
+Plh_53 { Wo ist denn das Silber? Hast du die ganze Zeit nur gepennt? Nächstes mal will ich Silber sehen. }
+
+Plh_54 { Du hast insgesamt $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ Silber gehauen, $GVAR:EVars_Katsa.SilverDefaultAmount$ Silber wandern in unsere Taschen, die restlichen $GVAR:EVars_Katsa.SilverAmountLeaveMine$ Silber gehören dir. }
+
+Plh_55 { Du hast insgesamt $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ Silber gehauen, $GVAR:EVars_Katsa.SilverAngryAmount$ Silber wandern in unsere Taschen, die restlichen $GVAR:EVars_Katsa.SilverAmountLeaveMine$ Silber gehören dir. }
+
+Plh_56 { Du hast insgesamt $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ Silber gehauen, $GVAR:EVars_Katsa.SilverFriendlyAmount$ Silber wandern in unsere Taschen, die restlichen $GVAR:EVars_Katsa.SilverAmountLeaveMine$ Silber gehören dir. }
+

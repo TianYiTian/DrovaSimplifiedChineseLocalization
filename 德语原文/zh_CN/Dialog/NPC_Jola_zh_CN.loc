@@ -1,0 +1,324 @@
+Plh_4 { Hey, dich habe ich hier noch nicht gesehen. Ich bin Jola. *lächelt* Also ... offen gesagt, du siehst nicht gerade gut aus. Brauchst du etwas? }
+
+Plh_0 { Du bekommst doch immer mit, wer beim Ruinenlager ein und aus geht, oder? }
+
+Plh_1 { Ich bin immer in der Nähe des Eingangs, ja. Warum? }
+
+Plh_2 { Hat Aldo in letzter Zeit das Lager verlassen? }
+
+Plh_3 { Aldo? Der Händler? Hm. Irgendwie verschwimmt gerade sein Gesicht vor meinem inneren Auge. Wenn du doch irgendwie meine Erinnerungen verbessern könntest ... klarer machen ... }
+
+Plh_5 { Verstehe. Wie viel? }
+
+Plh_6 { Vielleicht hilft dir eine Kopfnuss. }
+
+Plh_7 { Ich will Fulk einen Gefallen tun. Also? }
+
+Plh_8 { Endlich mal jemand, dem man nicht lang und breit erklären muss, was man will. Ich mach's kurz: $GVAR:QuestVars_TheDoppelgangers_Config.PriceForJola$ Münzen. }
+
+Plh_10 { Würde ich mir überlegen. Eine Kopfnuss ohne Kopf sollte schwierig werden. Geht schneller, als du glaubst ... }
+
+Plh_14 { Ich brauche deine Hilfe nicht. }
+
+Plh_17 { Was war nun mit Aldo? Rede! Oder muss ich dir erst noch eine verpassen? }
+
+Plh_18 { Ist ja gut. Hast mehr drauf, als ich dachte ... }
+
+Plh_19 { Hier sind die Münzen. Also? (Münzen geben) }
+
+Plh_21 { Das ist nicht genug. Komm wieder, wenn du mehr hast. }
+
+Plh_22 { Oh, es ist ein Wunder! Meine Erinnerungen werden wieder klarer! Also ... Aldo ... }
+
+Plh_23 { Kannst du mir nicht einfach sagen, ob du Aldo gesehen hast? }
+
+Plh_25 { Wegen Aldo ... }
+
+Plh_26 { Das war vor ein paar Tagen ... da ist Aldo abends in Richtung Osten aus dem Lager rausgegangen. Sah aus, als wollte er mit jemand anderem zu den Ruinen. Er wirkte ziemlich hastig und gestresst. }
+
+Plh_27 { Weißt du, wo sie hingegangen sind? }
+
+Plh_28 { Wer war die andere Person? }
+
+Plh_29 { Raus aus dem Lager. Mehr hab ich nicht gesehen. Er ist öfters bei den Ruinen rumspaziert. Folge einfach der Straße nach Nordosten, geh über den Fluss und schon siehst du sie. }
+
+Plh_30 { Keine Ahnung. Hatte einen Hut oder so was auf dem Kopf, und ich konnte das Gesicht nicht sehen. War ein Mann, da bin ich ziemlich sicher. Und die beiden schienen irgendwie miteinander vertraut zu sein. }
+
+Plh_31 { Hast du sonst noch was gesehen? }
+
+Plh_32 { Nein. Nur ... Moment, Aldo kam dann zurück, ging an mir vorbei. Ich hab ihn gefragt, wo sein Freund ist, aber er war völlig abwesend, hat mich ignoriert. Weiß nicht, was mit ihm los war, sonst plaudert er gern mit mir. }
+
+Plh_33 { In Ordnung. Hm ... }
+
+Plh_34 { Du hast einen guten Schlag, das muss ich zugeben. Sprich mit Kilian. Wir können Leute wie dich gebrauchen. In den Minen bist du immer willkommen. }
+
+Plh_35 { Was auch immer er da draußen gesehen hat ... es kann auch dir auflauern. Gute Waffe, dicke Rüstung, sonst bist du tot. Dieser Rat ist umsonst. }
+
+Plh_36 { Sag mal, bist du nicht letztens in der Dunkelheit völlig nackt aus dem Lager gerannt und keiner konnte dich einfangen? Das war ein Anblick, wie bei dir alles in der Nachtluft rumgewippt ist. }
+
+Plh_49 { Na, wie läuft's, Jola? }
+
+Plh_51 { Wenn du noch Arbeiter auftreiben kannst, schaff sie gern her. }
+
+Plh_54 { Was für Leute soll ich suchen? }
+
+Plh_55 { Wen kann ich denn fragen? }
+
+Plh_56 { Ich bringe dir neue Arbeiter. }
+
+Plh_57 { Wenn ich welche finden sollte, sage ich Bescheid. }
+
+Plh_59 { Sie sollen hauen können. Das reicht. }
+
+Plh_60 { Alle, die irgendwo rumlungern und in der Nase popeln. Bei Olafs Taverne stehen bestimmt ein paar arbeitslose Leute rum. }
+
+Plh_61 { Im Ruinenlager selbst könntest du Meluna überreden. Die hat eigentlich immer mitgehauen, liegt aber seit 'ner Weile auf der faulen Haut. }
+
+Plh_62 { Sehr gut! Wie gesagt, vier Leute wären genug. Schick sie direkt zu mir. }
+
+Plh_67 { Ich habe neue Arbeiter gefunden. }
+
+Plh_68 { Ja, es haben sich bereits Leute bei mir gemeldet! }
+
+Plh_69 { Ein Jurek von einem der Höfe ist vorbeigekommen. Der sieht aus, als könnte er gut anpacken. Genau solche Leute suche ich! }
+
+Plh_70 { Ruhan ist hergekommen. Er wirkt ein wenig schwächlich ... aber wir machen ihn stark! }
+
+Plh_71 { Dass sich Meluna noch mal meldet, hätte ich nicht gedacht! }
+
+Plh_72 { Da kam ein Agilo von den Holzfällern. Hat nach einem Gero gefragt. War motiviert, bei uns zu sein, aber wer dieser Gero ist, kann ich nicht sagen. }
+
+Plh_74 { Hervorragend! Durch deine Rekrutierung haben wir ein paar Leute mehr, die mit anpacken. Hier, soll ja nicht umsonst gewesen sein. Wie versprochen. *zwinkert* }
+
+Plh_76 { Ich brauche noch mehr Leute. Also halt Augen und Ohren offen! }
+
+Plh_91 { Komm an, schau dich um, und du wirst sehen, welche Vorzüge es hat, hier zu sein. }
+
+Plh_94 { In Drova gibt es zwei große Lager. Nemeton und uns, das Ruinenlager. Wir werden nicht ewig in diesen Trümmern leben ... wir wollen von hier verschwinden. Nicht nur aus den Ruinen, aus dieser Welt! }
+
+Plh_100 { Was ist das Ruinenlager? }
+
+Plh_103 { Wer ist Jero? }
+
+Plh_106 { Er hat lange Zeit an Nemeton geglaubt. Wollte hier ein Land aufbauen, wie in den Sagen. Doch dann hat er gesehen, dass es ein Irrweg ist. }
+
+Plh_109 { Aber ... ist das hier nicht das Land der Sagen? }
+
+Plh_112 { Lüge! Eine Lüge, die allen aufgetischt wird, die hierher kommen, ja sogar hierher WOLLEN. Drova ist ein Gefängnis, das dem Untergang geweiht ist. Aber noch können wir fliehen, bevor hier alles im Todesnebel versinkt ... }
+
+Plh_113 { Jero setzt alles daran, dass wir Drova verlassen können, statt einem Wahnbild nachzujagen. Und wir werden alles dafür tun, dass das gelingt. }
+
+Plh_119 { Wir suchen immer gute Hauer. Du hast auch etwas davon ... ein Dach über dem Kopf, gutes Essen, viele Münzen ... du verpflichtest dich zu nichts. Du kannst so lange arbeiten, wie du willst. }
+
+Plh_122 { Ich will in der Mine arbeiten. Auf dem Zettel steht, dass du zuständig bist? }
+
+Plh_125 { Was muss ich dort tun? }
+
+Plh_128 { Du arbeitest in einer Mine und baust Silber ab. Unter unserem Schutz. Wer bei uns Hauer ist, bekommt den Rücken freigehalten. In jeder Hinsicht. }
+
+Plh_129 { Ich habe neulich erst welche zur Mine gebracht ... }
+
+Plh_130 { Und willst kein Hauer sein? Na, dann hoffe ich, dass du es anderswo auch gut hast. Und dir dort keiner nachts die Kehle durchschneidet. }
+
+Plh_131 { Würde dir nicht empfehlen, den Weg allein zu suchen. Ist gefährlich. }
+
+Plh_133 { Wer ist Mottek? }
+
+Plh_134 { Wo genau finde ich Mottek? }
+
+Plh_136 { Mottek war Hauer. Jetzt ist er einer der Kämpfer des Ruinenlagers. Er hat in der Mine eine Silberader entdeckt und sich damit bei Levin empfohlen. Jetzt ist er einer von uns! }
+
+Plh_137 { Der gammelt wohl wieder irgendwo bei der Arena rum. Hat sich in den Kopf gesetzt, Arenakämpfer zu werden. Wenn du ihn findest, sag ihm, dass ich dich geschickt habe. }
+
+Plh_139 { Du folgst der Straße Richtung Nordosten. Irgendwann kommt ein Schrein, bei dem biegst du nach Osten ab und folgst einem Trampelpfad. }
+
+Plh_140 { Dann folgst du einfach dem Weg und solltest zur Mine kommen. Dort haben Banditen rumgelungert, sollten aber jetzt weg sein. }
+
+Plh_141 { Ich verstehe. Danke. }
+
+Plh_164 { Ich vermute, da hatte Eugen seinen Spaß mit dir. Sei nächstes Mal vielleicht etwas vorsichtiger, sonst verheddert sich was in den Büschen, haha! }
+
+Plh_165 { Ich will das Feuer nicht verpassen. Es ist endlich mal was los. }
+
+Plh_167 { Dann viel Glück bei deiner weiteren Suche. }
+
+Plh_168 { Er ist eigentlich immer so ruhig, aber die beiden haben sich offensichtlich gestritten. }
+
+Plh_169 { Hey! Du gehörst jetzt zu Eugens Leuten, oder? }
+
+Plh_170 { Ganz genau. }
+
+Plh_171 { Woher weißt du das? }
+
+Plh_172 { Schön für dich. Und wo wir schon dabei sind ... }
+
+Plh_173 { Die Dinge sprechen sich hier im Lager schnell rum. }
+
+Plh_174 { Kannst du ihn etwas fragen, wenn du ihn das nächste Mal siehst? }
+
+Plh_175 { Worum geht's? }
+
+Plh_176 { Frag ihn doch selbst. }
+
+Plh_177 { Na ja, Eugen kommt selten hier vorbei ... eigentlich nur, wenn er betrunken auf die Jagd geht. }
+
+Plh_178 { *wird rot* Ich kann nicht! }
+
+Plh_179 { Und ... ich würde ihn gern näher kennenlernen ... wenn du verstehst. }
+
+Plh_180 { Du stehst auf ihn? }
+
+Plh_181 { ... hä? }
+
+Plh_182 { Nicht so laut! }
+
+Plh_183 { Ich kann nicht einfach zu ihm gehen und ihm sagen, dass ich mit ihm reden will. }
+
+Plh_184 { Aber wenn er mal vorbeikommt ... wofür du sorgen könntest ... }
+
+Plh_185 { Na gut. Mache ich. }
+
+Plh_186 { Vergiss es. Sowas musst du selbst erledigen. }
+
+Plh_187 { Danke! }
+
+Plh_188 { Oh ... *schaut zu Boden* }
+
+Plh_189 { Hier, weil du mir helfen willst. Eugen liebt das Zeug. Aber verrate nicht, dass es von mir ist. }
+
+Plh_190 { Dann vergiss es einfach. }
+
+Plh_199 { Die Expedition ist wieder da! Wir reden später. }
+
+Plh_200 { Hmm, eigentlich müsste Mottek hier in der Nähe sein. Er wollte zurück in die Mine gehen und könnte dich mitnehmen ... }
+
+Plh_201 { Das heißt Levin hat hier das sagen? }
+
+Plh_202 { Levin bestimmt, ob jemand ins obere Viertel kann oder nicht, aber wir folgen Jero. Der ist unser Anführer. Levin ist der erste Schritt zu ihm. }
+
+Plh_203 { Im Moment brauchen wir vier Leute. Bekommst auch für jedes Paar Hände $GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$ Münzen. }
+
+Plh_204 { Du hast es überlebt, das ist wirklich gut. Meld dich bei Kilian, er wartet auf dich. }
+
+Plh_205 { Was ist hier passiert? }
+
+Plh_207 { Ich beeile mich. }
+
+Plh_208 { Nemeton hat tatsächlich versucht, uns anzugreifen. Wollten sich ins Lager schmuggeln, aber wir haben sie erkannt. Und dann haben wir gekämpft. }
+
+Plh_209 { Wir haben zwar gewonnen, aber es könnte noch ein größerer Angriff folgen ... }
+
+Plh_210 { Ich komme wieder. (Gespräch beenden) }
+
+Plh_211 { Du weißt, wo du mich findest. }
+
+Plh_212 { Hab schon viele Gesichter gesehen, aber an deins erinnere mich nicht. Bist wohl das erste Mal hier? }
+
+Plh_213 { Ich muss unbedingt nach Nemeton. }
+
+Plh_216 { Ich soll diesen Stein einem Druiden zeigen. }
+
+Plh_217 { Ich will mit einem Druiden dort sprechen. }
+
+Plh_219 { Gut zu wissen. Wo finde ich eure Druiden? }
+
+Plh_222 { Wo finde ich Jeros Klingen? }
+
+Plh_229 { Boris hat überall seine Finger drin. Er ist ein guter Kämpfer, aber unberechenbar. Denke, er verdient sich ein paar Münzen mit ... nicht so netten Sachen. Was genau, weiß ich aber nicht. }
+
+Plh_230 { Eugen ist eine Legende in Drova, der stärkste Krieger. Mit seiner Axt besiegt er alles und jeden. }
+
+Plh_231 { Ich hab gehört, du kannst mich zur Mine bringen? }
+
+Plh_233 { Du kannst auch selbst zur Mine laufen, aber das ist nicht ungefährlich. }
+
+Plh_234 { Ich bin neu in Drova und suche Nemeton. }
+
+Plh_236 { Nemeton findest du hier nicht. Das ist das Ruinenlager. Was willst du in Nemeton? }
+
+Plh_237 { Zurück nach Hause. Weg von Drova, hier können wir uns kein Leben aufbauen. Jero wird uns retten, er wird uns die Freiheit bringen. }
+
+Plh_239 { Dann brauchst du nicht durchs Moor zu gehen. Druiden haben wir hier auch. Früher waren wir ein Teil von Nemeton, aber wir haben uns vor einiger Zeit von diesen Spinnern losgesagt. }
+
+Plh_240 { In der Akademie. Aber die ist nur für Mitglieder des Ruinenlagers. }
+
+Plh_243 { Wenn du ein Teil des Ruinenlagers werden willst, musst du Jeros Klingen überzeugen, dich aufzunehmen. Boris und Eugen. Außerdem musst du zu einem Trupp der beiden gehören. }
+
+Plh_244 { Jedenfalls hat er hier viel Einfluss. Du findest seine Hütte gleich westlich von hier, in der Nähe der Taverne. }
+
+Plh_245 { Leider verschwendet er inzwischen seine Kraft beim Saufen in der Taverne. Ist gelangweilt von allem. Aber immer auf der Suche nach einer Herausforderung. }
+
+Plh_246 { Er ist unser Anführer, er ist unser Retter. }
+
+Plh_247 { Er hat andere überzeugt, dass sie sich abspalten müssen, und so wurde das Ruinenlager gegründet ... Eine Zuflucht für alle, die sich von Nemeton nicht mehr blenden lassen. }
+
+Plh_248 { Erklär mir einfach den Weg. }
+
+Plh_249 { Pass auf dich auf und lass dich nicht überfallen. Wenn du dir unsicher bist, such Mottek. }
+
+Plh_250 { Wenn du ein Bett suchst - die Hauer schlafen alle in der alten Mine gleich östlich vom Eingang. Dort kannst du dir ein Bett nehmen. }
+
+Plh_251 { Mir egal, für wen du hier was tust. Informationen haben ihren Preis. }
+
+Plh_252 { Gibt es hier irgendwelche Lehrer, die mich trainieren können? }
+
+Plh_254 { Es gibt genug gute Kämpfer hier, aber die meisten werden dich nur unterrichten, wenn du zum Ruinenlager gehörst. }
+
+Plh_255 { Ich empfehle dir die Arenakämpfer. Du findest sie, wenn du durch die Taverne läufst, vorbei an der Arena. Und nimm Münzen mit. }
+
+Plh_256 { *mustert dich* }
+
+Plh_257 { Hey, du! }
+
+Plh_258 { Hast dich anscheinend für Nemeton entschieden. Keine gute Entscheidung. }
+
+Plh_259 { Darf ich ins Ruinenlager? }
+
+Plh_260 { Nemeton passt besser zu mir. }
+
+Plh_261 { Ich will in Drova bleiben und hier in Frieden leben. }
+
+Plh_262 { Wir wollen keinen Stress mit Nemeton, haben eigene Ziele. Ihr könnt hierbleiben und machen, was ihr wollt. }
+
+Plh_263 { Ist deine Entscheidung. Aber wäre nicht meine. }
+
+Plh_264 { Du darfst rein. Kannst handeln, wetten, saufen. Aber erwarte nicht, dass die Kämpfer gut auf dich zu sprechen wären. Komm auf eigene Gefahr rein. }
+
+Plh_265 { Nemeton-Abschaum! Verschwinde von hier! }
+
+Plh_266 { Steck die Waffe weg, Florin. Jero hat nur gesagt, dass keiner von Nemeton in den Auwald darf. Wir wollen keinen Krieg. }
+
+Plh_267 { *grml* }
+
+Plh_268 { *atmet tief durch* Was willst du hier? }
+
+Plh_269 { Ich bin zum Handeln gekommen. }
+
+Plh_270 { Ich will mir Kämpfe in der Arena anschauen. }
+
+Plh_271 { Ich gehöre zu Proximus' Kämpfern. }
+
+Plh_274 { Ich kenne dich. Du bist doch $GVAR:EVars_Player.Name$! }
+
+Plh_275 { Dein Kampf gegen Liandra war legendär. Hätte nicht gedacht, dass du gewinnst. }
+
+Plh_276 { Du hast es ihr richtig gezeigt! }
+
+Plh_277 { ... und gewonnen! }
+
+Plh_278 { *hustet* Florin! Denk an deine Haltung. }
+
+Plh_279 { Verzeihung! }
+
+Plh_280 { Du kannst rein. Aber pass auf dich auf. Nemeton ist kein Freund des Ruinenlagers. }
+
+Plh_281 { Hab dich noch nicht in der Arena kämpfen sehen. }
+
+Plh_282 { Proximus hat von $GVAR:EVars_Player.Name$ gesprochen. }
+
+Plh_284 { Eigentlich gut. Aber wir brauchen mehr Hauer in unserer Mine. Das Silber haut sich nicht von allein. }
+
+Plh_285 { Sie war angefressen, aber das soll mir egal sein. }
+
+Plh_286 { Du kannst rein, aber mach keinen Stress! }
+

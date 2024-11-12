@@ -1,0 +1,28 @@
+WellLadder_Name { Brunnen }
+
+Plh_0 { *Ein tiefer Brunnen. Du schaust hinein. Dort ist nur Schwärze.* }
+
+Plh_2 { Hallo! }
+
+Plh_3 { Hallo ... hallo ... }
+
+Plh_4 { (Brunnen untersuchen) }
+
+Plh_5 { *Du siehst etwas ... scheint Wasser zu sein.* }
+
+Plh_6 { *Du schaust in den Brunnen und kannst den Boden erkennen. Ist gar nicht so tief. Du könntest runterklettern.* }
+
+Plh_8 { (runterklettern) }
+
+Plh_9 { $GVAR:EVars_Player.Name$ ist toll! }
+
+Plh_10 { ... ist voll ... ist voll ... }
+
+Plh_11 { (Münze reinwerfen) }
+
+Plh_13 { *Du siehst die Münze in der Schwärze verschwinden. Jetzt bist du eine Münze ärmer.* }
+
+Plh_15 { Gibt man ihm aufs Maul, ruft der Hauer ... }
+
+Plh_16 { ... aua ... aua ... }
+

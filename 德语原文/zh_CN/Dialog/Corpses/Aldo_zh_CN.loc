@@ -1,0 +1,146 @@
+Plh_0 { *Die Haut der Person ist sonnengebräunt, am linken Ohr trägt sie einen Ohrring, und die blonden Haare sind blutverschmiert.* }
+
+Plh_1 { (Taschen des Toten durchsuchen) }
+
+Plh_2 { (Kopf untersuchen) }
+
+Plh_3 { *Du entdeckst eine Kopfwunde. Dort ist viel Blut ausgetreten, das nun das Haar verklebt. Diese Verletzung hat offensichtlich zum Tod geführt.* }
+
+Plh_4 { (versuchen, den Toten zu identifizieren) }
+
+Plh_8 { *Dir kommt die Person bekannt vor. Der Händler Aldo im Ruinenlager ... die Gesichtszüge, die Augen. Das muss er sein.* }
+
+Plh_9 { *Du schaust dir die Leiche genau an und hältst dabei die Luft an. Am blassen Arm ist eine lange Narbe ... älter und gut verheilt.* }
+
+Plh_10 { (Körper genauer untersuchen) }
+
+Plh_11 { *Die Leiche ist blutverkrustet. Du kannst klebrige, blonde Haare und links einen Ohrring ausmachen. Ein Geruch süßer Fäulnis schlägt dir entgegen.* }
+
+Plh_17 { *Ein totes Schaf. Es sieht aus, als hätte es irgendwas gefressen, das es nicht vertragen hat.* }
+
+Plh_22 { *Vermutlich aus Verzweiflung.* }
+
+Plh_23 { *Sieht so aus, als hätte ein Schattenreißer vor Kurzem an diesem Schaf genagt.* }
+
+Plh_24 { *Ruhe in Frieden.* }
+
+Plh_25 { *Es atmet noch.* }
+
+Plh_26 { Ganz ruhig bleiben. Bald ist es vorbei. (Hand auflegen) }
+
+Plh_27 { Ich bereite ihm besser ein schnelles Ende. (Waffe ziehen) }
+
+Plh_28 { *Vor dir liegt ein Schaf in einer Blutlache. Es sieht aus, als wäre es vor Kurzem angegriffen worden und mit letzter Kraft hierher geflüchtet.* }
+
+Plh_29 { *Das Schaf schaut dich kurz an und wirkt dankbar für die Wärme, die du ihm bietest.* }
+
+Plh_30 { *Sein Kopf fällt zu Boden und es haucht sein letztes Leben aus.* }
+
+Plh_31 { *Du stößt dem Schaf mit deiner Waffe direkt ins Herz.* }
+
+Plh_32 { *Ein totes Schaf. Sieht aus, als wäre es verdurstet.* }
+
+Plh_33 { *Armes Tier.* }
+
+Plh_34 { *Auf dem Boden liegt ein Toter. Er hat einen schwarzen Vollbart und gebräunte Haut. Eine Narbe verläuft über sein Nasenbein.* }
+
+Plh_40 { Das ist doch Tristan! }
+
+Plh_41 { *Bei genauerer Betrachtung erkennst du tatsächlich Tristan. Er scheint Opfer wilder Tiere geworden zu sein.* }
+
+Plh_42 { *Die Form der Wurzel erinnert dich an ein Wildschwein. Soll es den Keiler symbolisieren? Du spürst, dass etwas versucht, dein Inneres zu erreichen.* }
+
+Plh_43 { (Talisman anbringen) }
+
+Plh_45 { *Du bringst den mit deinem Blut markierten Talisman an der Wurzel an und spürst plötzlich eine starke Verbindung in deinem Inneren. Irgendetwas versucht, dein Bewusstsein zu erreichen.* }
+
+Plh_46 { *Es kommt dir vor, als würdest du in der Ferne den lauten Schrei eines Wildschweins hören, aber Diemo neben dir scheint nicht darauf zu reagieren. Plötzlich reagiert dein Funken und dreht Kreise um dich.* }
+
+Plh_47 { *Will der Funke dir was sagen? Er wirkt ganz aufgeregt.* }
+
+Plh_48 { Was ist mit dir? }
+
+Plh_49 { Ich verstehe dich nicht ... }
+
+Plh_50 { *Der Funke leuchtet mal stärker, mal schwächer, als würde er versuchen, zu kommunizieren. Will er, dass du auch die anderen Wurzeln besuchst?* }
+
+Plh_52 { *Die Wurzel sieht aus, als hätte ein Bär in letzter Zeit daran gekratzt. Aber die Frischlinge wirken unverletzt.* }
+
+Plh_53 { *Als du den Talisman anbringst, wird es kurz sehr warm in deinem Bauch. Deine Sicht wird schwarz, aber du fühlst dich nicht desorientiert, sondern sicher.* }
+
+Plh_54 { *Vor deinem inneren Auge siehst du nichts als Schwarz. Aus der Dunkelheit wächst ein Licht, und aus dem Licht kommt ein großes Wildschwein auf dich zu.* }
+
+Plh_55 { *Es bleibt vor dir stehen und mustert dich. Du spürst, dass das Wildschwein dir nichts Böses will, während es dich prüfend anschaut.* }
+
+Plh_56 { (herantreten und die Hand nach dem Wildschwein ausstrecken) }
+
+Plh_57 { (nichts tun) }
+
+Plh_58 { *Du streckst deine Hand nach dem Wildschwein aus. Es lässt dich seine Nase berühren, und in dem Moment, als deine Finger es erreichen, schießen tausend warme Gefühle durch deine Hand in deine Brust.* }
+
+Plh_59 { *Das Wildschwein dreht sich um, bleibt dann kurz stehen, um über seine Schulter einen letzten Blick auf dich zu werfen. Dann stößt es einen lauten Schrei in den Himmel, rennt zurück ins Licht, das sich zu Dunkelheit auflöst.* }
+
+Plh_60 { Was war das denn gerade? }
+
+Plh_61 { War das der Große Keiler ...? }
+
+Plh_62 { *Du sprichst die Frage laut aus, aber niemand ist da, um sie zu beantworten. Das warme Gefühl verlässt dich - so schnell, wie es gekommen war ... und du findest dich vor der Mutterwurzel wieder.* }
+
+Plh_64 { *An dieser Wurzel sind weniger Frischlinge als an der in der Zuflucht.* }
+
+Plh_65 { *Du bringst deinen Talisman an, und in dem Moment, als du es tust, löst sich einer der Frischlinge von der Wurzel und schaut sich irritiert um.* }
+
+Plh_66 { *bemerkt dich und wirkt ängstlich* Quieeeek! Quieeek! }
+
+Plh_67 { Keine Sorge, Kleiner. Ich tu' dir nichts. }
+
+Plh_68 { (sich aufbauen) BRAAAWRG! }
+
+Plh_69 { *Der Frischling entspannt sich, aber wirkt immer noch etwas reserviert.* }
+
+Plh_70 { (langsam nähern und streicheln) }
+
+Plh_71 { (nichts tun) }
+
+Plh_72 { *Langsam und vorsichtig nähert deine Hand sich dem Frischling. Er guckt dich mit seinen großen Augen an, aber sieht nicht so aus, als hätte er Angst.* }
+
+Plh_73 { *Du kommst in Reichweite des Frischlings und streichelst ihm liebevoll über den Kopf. Er lehnt sich nachdrücklich gegen deine Hand und sieht sehr entspannt aus.* }
+
+Plh_74 { *Plötzlich dreht sich der Frischling um und rennt davon.* }
+
+Plh_75 { *Für eine kurze Weile mustert ihr euch gegenseitig.* }
+
+Plh_76 { *wirkt völlig panisch und zittert* Iiiiehk! Ieeehk! }
+
+Plh_77 { *Du spürst, dass der Frischling tief in den Düsterwald läuft. Aber du weißt nicht, was er vorhat. Dann ist die Verbindung, die du zu dem Frischling gefühlt hast, schlagartig weg.* }
+
+Plh_78 { *Eine Leiche liegt vor dir. Es ist Teigen.* }
+
+Plh_79 { Ruhe in Frieden ... vergib mir. }
+
+Plh_80 { Der Trottel hat es tatsächlich alleine versucht ... }
+
+Plh_81 { *In seinen leblosen Augen siehst du einen schockierten, verängstigten Todesblick. An seinem Körper hat wohl schon Wild genagt.* }
+
+Plh_83 { *Ein lebloser Körper liegt vor dir.* }
+
+Plh_84 { *Es ist Ruhan aus der Taverne. Sieht aus, als hätte ihn irgendein Wildtier mit Schnabel auseinander gepickt.* }
+
+Plh_85 { *Du erkennst den Toten nicht. Sieht aus, als hätte ihn Wild zerrissen.* }
+
+Plh_86 { Ich hab doch gesagt, dass das einer von den Spinnern aus diesem Lager sein muss ... }
+
+Plh_87 { Der Frischling ist grade von dieser ekelhaften Wurzel gesprungen ... }
+
+Plh_88 { Ich würde das Ding nicht mal für hundert Münzen anfassen ... }
+
+Plh_89 { *Ein Toter ... er trägt einen Bogen auf dem Rücken, hat eine Augenklappe und sieht aus, als wäre er von Reißern zerfleischt worden.* }
+
+Plh_90 { (Ist das ... Faol?) }
+
+Plh_92 { *Als du dir die Leiche genauer anschaust und ihr ins Gesicht blickst, merkst du, dass es Faol sein muss. Der Jäger aus Olafs Taverne.* }
+
+Plh_93 { (Leiche durchsuchen) }
+
+Plh_95 { (Leiche durchsuchen) }
+

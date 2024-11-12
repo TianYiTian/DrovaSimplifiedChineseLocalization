@@ -1,0 +1,205 @@
+talent_sword_01 { 简单的剑术 }
+
+talent_sword_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]的伤害，并学会处决技能。 }
+
+talent_sword_02 { 训练有素的剑术 }
+
+talent_sword_02_desc { 增加造成的伤害[DamageValuePercent]，并解锁一个3连击攻击。 }
+
+talent_sword_03 { 精湛的剑术 }
+
+talent_sword_03_desc { 改善你的战斗姿态，使造成的伤害增加[DamageValuePercent]。 }
+
+talent_sneak_01 { 潜行 }
+
+talent_sneak_01_desc { 你可以更好地潜行，敌人更难察觉到你。 }
+
+talent_shield_02 { 训练有素的盾战 }
+
+talent_shield_02_desc { 完美的格挡会使敌人短暂昏迷。 }
+
+talent_shield_01 { 简单的盾牌战斗 }
+
+talent_shield_01_desc { 你现在可以用你的盾牌完美格挡了。 }
+
+talent_shield_01_additionale_headline { 完美格挡 }
+
+talent_shield_01_additionale_desc { 如果你在即将被击中时进行格挡，你会完成一次完美的格挡，消耗较少的耐力。 }
+
+talent_spear_01 { 简单的矛战 }
+
+talent_spear_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]造成的伤害，并学会武器技能穿刺。 }
+
+talent_spear_02 { 训练有素的矛斗术 }
+
+talent_spear_02_desc { 增加造成的伤害 [DamageValuePercent]，并使普通长矛攻击恢复 [StaminaValueAbsolut] 耐力。 }
+
+talent_spear_03 { 精湛的长矛战斗 }
+
+talent_spear_03_desc { 提升你的战斗姿态，增加造成伤害[DamageValuePercent]，每次命中产生的耐力[StaminaValueAbsolut]。 }
+
+talent_dagger_01 { 简单的短剑战斗 }
+
+talent_dagger_01_desc { 优化你的战斗姿态，使造成的伤害提高[DamageValuePercent]，并学会武器技能感染。 }
+
+talent_dagger_02 { 训练过的匕首战斗 }
+
+talent_dagger_02_desc { 增加造成的伤害[DamageValuePercent]，每击生成的专注值[FocusValueAbsolut]。 }
+
+talent_dagger_03 { 精湛的匕首战斗 }
+
+talent_dagger_03_desc { 提升你的战斗姿态，增加造成的伤害[DamageValuePercent]和每次命中生成的专注值[FocusValueAbsolut]。 }
+
+talent_bow_01 { 简易弓箭战 }
+
+talent_bow_02 { 大师级弓箭战斗 }
+
+talent_bow_01_additionale_headline { 强力射击 }
+
+talent_bow_01_additionale_desc { 使你能够在瞄准弓箭时，在正确时刻射出一支强大的箭矢，造成[WeaponDamagePercent]武器伤害。 }
+
+talent_bow_01_desc { 增加造成的伤害[DamageValuePercent]，并且你可以使用弓施放强力射击。 }
+
+talent_bow_02_desc { 增加造成的伤害[DamageValuePercent]，你可以更快地瞄准，并且你学会武器技能重击。 }
+
+talent_slingshot_01 { 简单的投石战斗 }
+
+talent_slingshot_02 { 精湛的弹弓战斗 }
+
+talent_slingshot_01_desc { 增加造成的伤害[DamageValuePercent]，增加姿态伤害[PoiseValuePercent]，并学会武器技能“弹射”。 }
+
+talent_slingshot_02_desc { 增加[DamageValuePercent]的伤害和[PoiseValuePercent]的姿态伤害。 }
+
+talent_axe_01 { 简易斧战 }
+
+talent_axe_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]的伤害，并学会武器技能嗜血。 }
+
+talent_axe_02 { 训练有素的斧战 }
+
+talent_axe_02_desc { 增加造成的伤害[DamageValuePercent]，并解锁第3次连击攻击。 }
+
+talent_axe_03 { 精湛的斧战 }
+
+talent_axe_03_desc { 改善你的战斗姿态，并增加造成的伤害[DamageValuePercent]。 }
+
+talent_alchemy { 酿造药水 }
+
+talent_alchemy_desc { 你可以制作药水，这些药水可以在战斗中帮助你或提升你的属性。 }
+
+talent_lockpicking_01 { 复杂的锁破解 }
+
+talent_lockpicking_01_desc { 没有城堡能再阻挡你。 }
+
+talent_extractsecretion { 提取秘密 }
+
+talent_extractsecretion_desc { 在某些动物身上，你可以提取分泌物。分泌物是制作药水和手工艺品所需的材料。 }
+
+talent_tearclaws { 克拉伦人撤退 }
+
+talent_tearclaws_desc { 你可以拔掉动物的爪子和牙齿。爪子可以出售，牙齿可以用于手工艺。 }
+
+talent_smith_01 { 手工艺 }
+
+talent_smith_01_desc { 你可以制作不同的辅助工具。 }
+
+talent_smith_02 { 精湛的工艺 }
+
+talent_smith_02_desc { 你可以制作危险的陷阱、辅助工具和弹药。 }
+
+talent_stripfur { 撤退 }
+
+talent_stripfur_desc { 你可以剥下动物的皮毛。皮毛可以出售或用于手工制作。 }
+
+talent_shield_CritAfterBlock { 失去平衡 }
+
+talent_shield_CritAfterBlock_desc { 完美格挡一次攻击后，你的下一次攻击必定暴击。 }
+
+talent_shield_flow_afterblock { 就这些吗？ }
+
+talent_shield_flow_afterblock_desc { 完美格挡一次攻击，你将生成[FocusValueAbsolut]点专注值。 }
+
+talent_axe_adddmgflow { 战场冲锋 }
+
+talent_axe_adddmgflow_desc { 斧头攻击每次命中额外生成[FocusValueAbsolut]点专注。 }
+
+talent_axe_critonpoise { 临终恩典 }
+
+talent_axe_critonpoise_desc { 第一次对[破绽]状态的敌人使用[斧]攻击时，必定暴击。 }
+
+talent_axe_decreasestamina { 全力冲刺 }
+
+talent_axe_decreasestamina_desc { 重型斧攻击消耗的[StaminaValuePercent]耐力更少。 }
+
+Talent_Daggers_CritAfterDodge { [惊喜效果] }
+
+Talent_Daggers_CritAfterDodge_desc { 闪避后的第一次刀剑攻击获得[CritPercent]的暴击率提升。 }
+
+Talent_Daggers_DecreaseFlow { 全神贯注！ }
+
+Talent_Daggers_DecreaseFlow_desc { 使用技能后，你将获得[FocusValueAbsolut]点专注值。 }
+
+Talent_Daggers_RegenerateStamina { 高效打击 }
+
+Talent_Daggers_RegenerateStamina_desc { 普通刀击恢复 [StaminaValueAbsolut] 耐力。 }
+
+Talent_Sword_NextSpellLesserFlow { 机会主义者 }
+
+Talent_Sword_NextSpellLesserFlow_desc { 在用剑造成暴击后，[FocusValuePercent] 的专注点数将被返还给下一次施放的技能。 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { 重击 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { 重剑攻击消耗[StaminaValuePercent]更少的耐力。 }
+
+Talent_Sword_AddCritChance { 精确度 }
+
+Talent_Sword_AddCritChance_desc { 剑攻击有[CritValuePercent]的几率造成暴击。 }
+
+Talent_Spear_GenerateFlow { 集中攻击 }
+
+Talent_Spear_GenerateFlow_desc { 每次对同一敌人使用长矛攻击，生成的[FocusValueAbsolut]会增加。 }
+
+Talent_Spear_MoreDmgOnHead { 顶级性能 }
+
+Talent_Spear_MoreDmgOnHead_desc { 长矛的尖端额外造成最多[DamageValuePercent]的伤害。 }
+
+Talent_Spear_PoiseOnCrit { 剧毒尖刺 }
+
+Talent_Spear_PoiseOnCrit_desc { 长矛的暴击会额外毒害敌人。 }
+
+Talent_Bow_InstantAfterDodge { 快速抽取 }
+
+Talent_Bow_InstantAfterDodge_desc { 闪避后，你可以无需瞄准发射箭矢。 }
+
+Talent_Bow_IncreaseCritDamage { 一击即中 }
+
+Talent_Bow_IncreaseCritDamage_desc { 使用弓造成暴击时，伤害增加[DamageValuePercent]。 }
+
+Talent_Sling_MultipleProjectiles { 双倍装填 }
+
+Talent_Sling_MultipleProjectiles_desc { 有[TriggerPercent]的几率发射两枚子弹而不消耗额外弹药。 }
+
+Talent_Sling_AddDmgOnPoise { [Schleudertrauma] }
+
+Talent_Sling_AddDmgOnPoise_desc { 当你用套索打破敌人的姿态时，你对他的下一次攻击将造成[DamageValuePercent]的额外伤害。 }
+
+Talent_Sling_Ricochet_Name { 反弹 }
+
+Talent_Sling_Ricochet_Desc { 发射一枚弹射物，造成[WeaponDamagePercent]伤害，并在附近敌人之间弹射。 }
+
+Talent_Sling_HeavyShot_Name { 重击射击 }
+
+Talent_Sling_HeavyShot_Desc { 强力射击造成[WeaponDamagePercent]伤害，并使敌人昏迷[StunTime]秒。 }
+
+teachers { 老师 }
+
+talent_mining_desc { 你在采矿时获得更多产量。 }
+
+talent_mining_01 { 矿石开采 1 }
+
+talent_mining_02 { 矿石开采 2 }
+
+talent_mining_03 { 矿石开采 3 }
+
+talent_mining_04 { 矿石开采 4 }
+
+talent_mining_05 { 矿石开采 5 }

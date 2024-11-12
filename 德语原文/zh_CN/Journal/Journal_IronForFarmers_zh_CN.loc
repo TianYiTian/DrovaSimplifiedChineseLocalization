@@ -1,0 +1,6 @@
+Title { Raseneisensteine für die Bauern }
+
+Entry_01 { Jurek und Jerzy haben sich gerade in die Haare gekriegt, als ich angekommen bin. Ich soll ihnen beim Sammeln von $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ Stück Raseneisensteinen helfen. Es liegt hier irgendwo auf den Feldern rum. }
+
+Entry_02 { Nachdem ich den beiden Streithähnen ihre Raseneisensteine gebracht habe, sind sie zufrieden mit meiner Arbeit und werden Georg davon erzählen. }
+

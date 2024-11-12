@@ -1,0 +1,64 @@
+Plh_0 { *Das Skelett vor dir hält die Hände vor der Brust zusammen. Es schaut hoch und wirkt fast, als ob es dich anblicken würde.* }
+
+Plh_1 { (Hände des Skeletts öffnen) }
+
+Plh_2 { (Blick erwidern) }
+
+Plh_4 { *Als du die Hände des Skeletts berührst, durchströmt dich für einen Moment eine merkwürdige Präsenz. Doch dann zieht sie sich schnell wieder zurück. Du kannst die Finger des Skeletts nicht bewegen.* }
+
+Plh_5 { *Du starrst zum Skelett zurück. Je länger du es anblickst, desto stärker fühlst du dich von ihm angezogen.* }
+
+Plh_6 { *Du wagst es nicht, den Blick von dem Skelett abzuwenden. Du bist voll konzentriert und merkst nicht einmal, wie sich deine Hände langsam denen des Skeletts nähern ...* }
+
+Plh_7 { (weiter den Blick erwidern) }
+
+Plh_8 { (Blick abwenden) }
+
+Plh_9 { *Dich durchströmt ein plötzliches Gefühl des Verlustes, als du den Blick abwendest.* }
+
+Plh_10 { *Du schaust weiter dem Skelett in die Augen. Spürst eine Bewegung an deinen Händen. Dann schließt sich deine Hand um einen seltsam geformten Gegenstand.* }
+
+Plh_11 { *Plötzlich fühlst du dich erfrischt und lebendig. Das Skelett scheint dich nun nicht mehr anzuschauen.* }
+
+Plh_12 { *Vor dir siehst du eine merkwürdige Laterne. In ihrer Nähe hörst du ein leises Flüstern und Stöhnen.* }
+
+Plh_13 { (Laterne berühren) }
+
+Plh_14 { (Skelettfossil geben) }
+
+Plh_15 { *Um die Laterne herum sind drei Skelette, die dir bekannt vorkommen. Sie alle sind der Laterne zugewandt und halten leere Hände vor sich.* }
+
+Plh_19 { *Die Laterne wackelt leicht, als du sie berührst. Dabei quietscht die Kette, an der die Laterne befestigt ist. Es kommt dir vor wie ein Klageschrei.* }
+
+Plh_20 { *Als du dem ersten Skelett das Fossil in die Hand drückst, siehst du etwas wie eine Erinnerung ...* }
+
+Plh_21 { *Wieder durchströmt dich eine Erinnerung, als du dem Skelett das Fossil in die Hand legst ...* }
+
+Plh_22 { *Du gibst dem letzten verbliebenen Skelett das Fossil. Wieder siehst du eine Erinnerung ...* }
+
+Plh_23 { *Du liegst an einem Teich und spürst große Schmerzen. Der Moment ist fast gekommen. Jemand hält deine Hand.* }
+
+Plh_24 { *Du spürst, wie etwas deinem Körper entweicht. Hörst einen Aufschrei. Die Hand, die deine gehalten hat, entfernt sich.* }
+
+Plh_25 { *Du schaust an dir herunter und siehst tausende Kaulquappen, die vor dir auf dem Boden zappeln. Sie versuchen, zum Teich zu kommen.* }
+
+Plh_26 { *Plötzlich bist du wieder du selbst, und das Skelett vor dir versinkt im Boden. Du hörst ein erleichtertes Seufzen ...* }
+
+Plh_27 { *Du bist ein Steinmetz. Dein ganzes Leben lang hast du Felsen geformt und Statuen erschaffen. Du hast dich selbst immer damit gerühmt, einem Stein ein Leben einzuhauchen.* }
+
+Plh_28 { *Du hast immer mehr Zeit mit deiner Arbeit verbracht. Deine Familie verließ dich deswegen. Eines Tages bist du über deiner Arbeit eingeschlafen.* }
+
+Plh_29 { *Als du erwachst, kannst du dich nicht rühren. Du siehst nichts und hörst nichts. Auf dir liegt etwas. Dir wird bewusst, dass du mit deinem Kunstwerk verschmolzen bist.* }
+
+Plh_30 { *Du stehst in einem Keller. Um dich herum erklingt Stöhnen und Schluchzen. Du fühlst dich müde ...* }
+
+Plh_31 { *Da sind andere. Du trittst zu einem. Forderst ihn auf, dir in die Augen zu schauen. Nur wer deinen Blick lang genug erwidern kann, hat Hoffnung auf Besserung.* }
+
+Plh_32 { *Dem Mann vor dir fallen die Augen zu. Er atmet mühevoll. Wieder einer, bei dem sich die Behandlung nicht lohnt. Als du dich umschaust wenden alle die Blicke ab.* }
+
+Plh_33 { *Du kommst wieder zu dir. Nachdem das letzte Skelett im Boden verschwunden ist, erhebt sich ein neues Skelett. Es streckt dir einen Ring entgegen.* }
+
+Plh_34 { (Ring nehmen) }
+
+Plh_35 { *Als du den Ring an dich nimmst, spürst du, dass in ihm eine große Macht schlummert. Dein Herzschlag beschleunigt sich, das Blut pumpt mächtig durch deinen Körper.* }
+

@@ -1,0 +1,42 @@
+Entry_Created { Neuer Tagebucheintrag }
+
+Entry_Updated { Tagebuch aktualisiert }
+
+OthersUpdated { +$JOURNAL:Others$ weitere }
+
+Tab_Quests_Finished { Erledigt }
+
+Tab_Quests_Running { Aktuell }
+
+Tab_Letters { Schriften }
+
+Group_Bandits { Ruinenräuber }
+
+Group_Nemeton { Nemeton }
+
+Group_RuinCamp { Ruinenlager }
+
+Group_Tavern { Taverne }
+
+Group_Woodcamp { Holzfäller }
+
+Group_World { Welt }
+
+Group_Unsorted { Unsortiert }
+
+Group_Magielager { Zuflucht }
+
+Group_RedTower { Der Rote Turm }
+
+Group_Mine { Mine }
+
+Group_MainQuest { Hauptquest }
+
+Group_Dungeon_Library { Bibliothek }
+
+Group_Dungeon_City { Stadt im Düsterwald }
+
+Group_Dungeon_Auwald { Auwald-Plateau }
+
+Group_TreasureMaps { Schatzkarten }
+

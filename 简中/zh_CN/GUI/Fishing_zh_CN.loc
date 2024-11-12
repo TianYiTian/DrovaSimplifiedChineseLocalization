@@ -1,0 +1,1 @@
+FishingTutorial { 尝试保持在蓝色区域上方的针上。<br>$INPUT:Lockpick_Left$: 向左移动针。<br>$INPUT:Lockpick_Right$: 向右移动针。<br>一旦绿色条满，你就抓到了鱼。如果红色条满了，鱼就会逃走。 }

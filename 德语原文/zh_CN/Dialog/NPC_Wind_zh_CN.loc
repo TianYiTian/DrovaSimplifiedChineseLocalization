@@ -1,0 +1,171 @@
+Plh_6 { Ich bin Wind. Hast wohl so viel Pech wie wir alle gehabt. Trotzdem ... willkommen. }
+
+Plh_7 { Wo sind wir hier? }
+
+Plh_8 { Wie bist du hierher gekommen? }
+
+Plh_9 { *zuckt mit den Schultern* Unter der Erde. }
+
+Plh_10 { Habe in der Taverne gesoffen. Mit so einem Typen, der viel vertragen hat. Jedenfalls mehr als ich ... und dann bin ich mit fiesen Kopfschmerzen hier aufgewacht. }
+
+Plh_12 { Weißt du, was wir hier machen sollen? }
+
+Plh_13 { Die suchen irgendwas. Wir stellen die ganze Ruine auf den Kopf, wühlen in jedem Dreckhaufen. Muss wertvoll sein. }
+
+Plh_14 { Was ist? }
+
+Plh_16 { Hey, das sind echt schöne Symbole auf den Boden. }
+
+Plh_19 { Es ist so weit. Wir wollen ausbrechen und brauchen deine Hilfe. }
+
+Plh_20 { *runzelt die Stirn* Da habe ich doch was ... einen Augenblick ... }
+
+Plh_22 { Wir treffen uns dort. }
+
+Plh_30 { Hey, Wind, du bist gut nach Hause gekommen? }
+
+Plh_31 { Ja ... es ist so schön, wieder hier zu sein! Danke noch mal. }
+
+Plh_34 { Hätte ein kleines Pfeifchen dringend nötig ... du hast nicht zufällig noch etwas Rostmoos irgendwo? }
+
+Plh_35 { Aber klar doch. (lügen) }
+
+Plh_36 { Die haben mir ALLES weggenommen ... }
+
+Plh_37 { Nein. Wie hätte ich das auch verstecken sollen? }
+
+Plh_38 { Wirklich!? Und du hast auch 'ne Pfeife? Wir könnten abends uns schön was durchziehen, wenn die Wachen beim Essen sind. }
+
+Plh_39 { Zu schade. Wenigstens das könnten sie uns noch geben. Essen, schön und gut, aber der Kopf braucht doch auch was ... }
+
+Plh_40 { Stimmt wohl, man sieht dir an, dass du nichts hast ... }
+
+Plh_41 { *seufzt* Was ich nicht alles für eine ordentlich gestopfte Pfeife geben würde ... }
+
+Plh_42 { Willst du wissen WIE ich die Pfeife reingeschmuggelt habe ... (lügen) }
+
+Plh_43 { Ähm ... ich glaube, so genau will ich das gar nicht wissen ... }
+
+Plh_44 { Tut mir leid. War nur ein Witz. Ich habe natürlich nichts. }
+
+Plh_45 { *runzelt die Stirn* Gar nicht lustig. Wir haben hier unten nur noch Hoffnung. Damit spielt man nicht. }
+
+Plh_46 { Hab immer mal bisschen Besteck mitgehen lassen. Wollte daraus ein paar Skulpturen machen ... irgendwie muss man sich ja ablenken ... }
+
+Plh_47 { Schau, die hier ... die könntest du als Dietriche benutzen. Wird nicht leicht, damit ein Schloss aufzubekommen, aber könnte gehen. Sag nur keinem, dass sie von mir sind! Ich warte bei den anderen. }
+
+Plh_48 { Hast du auch alles gesehen? }
+
+Plh_49 { Ja ... Lanzo ist echt komplett ausgetickt. Hat die arme Bruna so fürchterlich vermöbelt. Ich würde ihm am liebsten ... aber ... na ja ... }
+
+Plh_50 { Wieso machen wir so was noch? }
+
+Plh_51 { Was meinst du? }
+
+Plh_52 { Gewalt. Schläge, Tritte, der ganze Scheiß. Bringt doch nichts! }
+
+Plh_53 { Oder wir lügen und täuschen! Gewalt bringt doch nichts. Vor allem in Unterzahl. }
+
+Plh_54 { Wenn wir hier rauskommen wollen, werden wir auch Gewalt brauchen. }
+
+Plh_55 { Aber NUR mit Gewalt kommen wir nicht weit. Auf die Mischung kommt es an. }
+
+Plh_56 { Und wenn wir eine Gelegenheit zum Ausbruch finden würden ... wärst du dabei? }
+
+Plh_58 { Ich ... vielleicht. Also nur ohne Gewalt. Zumindest will ich das nicht machen müssen. Ich muss nachdenken ... geht so schwer ohne Rostmoos ... }
+
+Plh_59 { Und wie weit hat es dich gebracht? }
+
+Plh_60 { Jaja, rausgekommen bin ich noch nicht, ich weiß. Danke für den Hinweis ... }
+
+Plh_61 { Wir sind im Nachteil, auch mit Lügen und Täuschen. }
+
+Plh_62 { Jetzt wirklich? Ach, ich weiß nicht, ich weiß nicht ... }
+
+Plh_63 { Die Wachen haben sich gerade zurückgezogen. Jetzt oder nie! }
+
+Plh_64 { Wir haben gestern darüber gesprochen ... }
+
+Plh_65 { Sind die anderen auch dabei? }
+
+Plh_66 { Ja, aber ich würde gern länger darüber nachdenken! }
+
+Plh_67 { Ja alle. Ich muss nur eine Tür aufbekommen ... }
+
+Plh_68 { Dafür ist es zu spät. Ich muss nur noch eine Tür aufbekommen ... }
+
+Plh_69 { Ich hab alle Dietriche verbraucht, hast du noch welche? }
+
+Plh_70 { Ein paar habe ich noch. Hier. Ich hoffe, es klappt ... }
+
+Plh_71 { Endlich wieder frische Luft ... }
+
+Plh_72 { Ich weiß es noch nicht. }
+
+Plh_73 { Was wirst du mit deiner Freiheit anstellen, $GVAR:EVars_Player.Name$? }
+
+Plh_74 { Ich gehe zurück zu meiner Fraktion. }
+
+Plh_75 { Ich schau mir das Relikt genauer an. }
+
+Plh_76 { Lass dich einfach von dem Wind tragen, ich werde zurück zu meinem Freund Pwyll gehen. Du findest mich nördlich der Taverne. Komm doch mal vorbei. }
+
+Plh_77 { Die werden dich sicher vermisst haben. Tut gut, wieder unter Freunden zu sein. }
+
+Plh_78 { Haben uns genug dafür buddeln lassen. Ich will davon nichts mehr wissen, aber ich hoffe, dir wird es helfen. }
+
+Plh_79 { Irgendjemand hat irgendwann mal angefangen ... }
+
+Plh_80 { *guckt dich mit roten Augen an, aber scheint dich nicht zu erkennen* }
+
+Plh_81 { Hey, Wind, alles klar bei dir? }
+
+Plh_82 { Wie viele Pfeifen haust du dir so rein? }
+
+Plh_83 { ... eeeeeehhhh, $GVAR:EVars_Player.Name$? Du bist's! }
+
+Plh_84 { Wie leicht man hier an Rostmoos kommt! Wie im Traum. Magst du 'nen Pfeifchen? }
+
+Plh_85 { Na klar, sonst rauchst du noch alles weg. }
+
+Plh_86 { Nee, lass mal stecken. }
+
+Plh_87 { Ist echt gutes Zeug. }
+
+Plh_88 { Wo ist denn Pwyll? }
+
+Plh_89 { Lassen die euch nicht rein? }
+
+Plh_90 { Nee, die sind total unentspannt. Pwyll meinte, es wäre in ihrer Nähe trotzdem am sichersten. Ich mag es hier. *grinst über beide Backen* }
+
+Plh_91 { Pwyll? Ach so, ja, der ist weg. Hab letztens abends 'ne üble Pfeife geraucht, da kam er zu mir und meinte, er müsste sich verabschieden. Schade, aber der wandert halt gern rum. }
+
+Plh_92 { Hab ihm hinterhergeschaut, wie er weggegangen ist. Könnte schwören, dass er sich in Nebel aufgelöst hat ... aber war sicher das Pfeifchen. }
+
+Plh_94 { Oh. }
+
+Plh_95 { Na? }
+
+Plh_96 { Na ja ... wir sehen uns, Wind. }
+
+Plh_97 { Jo. }
+
+Plh_98 { Ich bin immer hier. }
+
+Plh_99 { Wir wollen hier raus, können gut deine Hilfe gebrauchen. }
+
+Plh_100 { Ich hab noch etwas Rostmoos. }
+
+Plh_101 { Klar gerne. Man wie ich das vermisst habe. Teilen wir uns eine Pfeife? }
+
+Plh_102 { Immer gerne. }
+
+Plh_103 { Es ist alles für dich. }
+
+Plh_104 { Ok, Moment ... }
+
+Plh_106 { Es tut gut an der Luft zu sein ... }
+
+Plh_107 { *grinst* Danke dir. }
+
+Plh_108 { Das habe ich vermisst. Jetzt brauche ich eine Pause. }

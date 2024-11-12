@@ -1,0 +1,6 @@
+Title { Fleisch für die Hauer }
+
+Entry_01 { Shona, die für das Essen zuständig ist, möchte, dass ich ihr $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ Stücke rohes, sehniges Fleisch von den Buddlerschweinen in der Mine besorge. }
+
+Entry_02 { Mit dem Fleisch hat Shona ein neues Gericht gekocht. Das wird die Hauer eine Weile mit gutem Essen versorgen. }
+

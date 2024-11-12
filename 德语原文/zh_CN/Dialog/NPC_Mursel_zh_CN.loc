@@ -1,0 +1,170 @@
+Plh_4 { Hey, du. War'n harter Tag? Siehst erschöpft aus. }
+
+Plh_0 { Sehr, sehr gern ... }
+
+Plh_1 { Wo ist der Haken? }
+
+Plh_2 { Jetzt nicht. }
+
+Plh_5 { Kein Haken. Wer arbeitet, soll sich auch ausruhen. Gönn dir einfach eine Auszeit. }
+
+Plh_6 { Na gut. Wenn du müde bist, kannst du jederzeit wieder herkommen und dich hinhauen. }
+
+Plh_8 { Na, schön geschlafen? *grinst* Das macht dann $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ Silber. }
+
+Plh_9 { Hmpf. Hier, für heute Nacht. ($GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ Silber geben) }
+
+Plh_10 { Ich hab keine $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ Silber. }
+
+Plh_11 { Einen Scheißdreck bekommst du von mir. }
+
+Plh_13 { So gefällt mir das. Du bist ein guter Hauer. Immer fleißig hauen. *grinst* }
+
+Plh_15 { Das hättest du dir überlegen sollen, bevor du hier schläfst. Jetzt hol ich mir, was mir zusteht. }
+
+Plh_16 { Dann nehme ich mir, was mir zusteht. }
+
+Plh_17 { Noch mal legst du dich nicht mit mir an. Ich hab mir übrigens schon das Silber genommen, das mir zusteht. }
+
+Plh_18 { Hmmpf. *grml* Na gut, du kannst hier schlafen. }
+
+Plh_19 { Hmmmpf. Was ist? }
+
+Plh_20 { Agnessa braucht Erholung. Du lässt sie jetzt ein paar Tage ausruhen. }
+
+Plh_21 { Was? Die Alte schuldet mir 'nen Batzen Silber, das ich ihr für neue Ausrüstung geliehen habe. Ist doch nicht mein Problem, dass sie seit zwei Tagen verletzt rumhockt! }
+
+Plh_22 { Muss ich dir erst wieder eine aufs Maul geben? }
+
+Plh_23 { Na gut. Vergiss es einfach. (Gespräch beenden) }
+
+Plh_24 { Grrrrmpf. Gut, du hast gewonnen. Ich drücke bei Agnessa ein Auge zu. Aber das heißt nicht, dass ich mein Silber nicht wiederhaben will, sobald sie wieder arbeiten kann! }
+
+Plh_25 { Schon getan. }
+
+Plh_27 { Such dir einfach ein Bett und hau dich hin. }
+
+Plh_28 { Du willst Silber fürs Schlafen? Levin hat gesagt, wir kriegen einen Schlafplatz gestellt. }
+
+Plh_29 { Stimmt doch, hattest einen Schlafplatz. Und ist Levin hier? Nein. Bezahl den guten Mursel, und wir bleiben Freunde. }
+
+Plh_30 { Wenn du Agnessa nicht in Ruhe lässt, dann kriegst du Stress mit mir. }
+
+Plh_31 { Du willst mir Stress machen? }
+
+Plh_32 { Du willst noch mal eine verpasst bekommen? Immer wieder gerne. }
+
+Plh_33 { Lass Agnessa endlich in Ruhe! (Waffe ziehen) }
+
+Plh_34 { Ruh dich ruhig aus, ich kümmere mich um euch Hauer. }
+
+Plh_35 { Wie viel Silber schuldet Agnessa dir? }
+
+Plh_36 { Ich hab ihr $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ Silber geliehen. Sie kam dann angekrochen und meinte ... }
+
+Plh_37 { Hier, $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ Silber. Damit sind Agnessas Schulden beglichen. }
+
+Plh_38 { *grinst breit* So gefällt mir das. Na gut, ich lasse Agnessa in Ruhe. Und da soll jemand sagen, ich wäre kein vernünftiger Typ! }
+
+Plh_39 { Dann bring auch genug Silber mit! }
+
+Plh_40 { Du schon wieder. *seufzt* }
+
+Plh_44 { Hmpf. Du bist's. }
+
+Plh_45 { Können wir das nicht anders lösen? }
+
+Plh_46 { Silber löst alles. Rück's raus, oder du lernst mich kennen. }
+
+Plh_47 { Ich hoffe, du hast deine Lektion gelernt. Von mir kriegst du kein Silber. }
+
+Plh_48 { Ab jetzt schlafe ich umsonst hier, klar? }
+
+Plh_49 { Jajaja. Hab schon verstanden. }
+
+Plh_50 { Questhilfe ... }
+
+Plh_51 { Weißt du, dass es einen geheimen Schlafplatz in der Mine gibt? }
+
+Plh_52 { Aha. Und übrigens, wenn du ganz tief in die Mine gräbst, gibt's einen Ausgang aus Drova. }
+
+Plh_53 { Aber- }
+
+Plh_54 { Ich hab keine Zeit für Märchen. Geh arbeiten! }
+
+Plh_55 { Hey! Du schuldest mir noch Münzen! Noch mal kommst du mir nicht davon! }
+
+Plh_56 { Du arme Sau hattest ja nicht mal Silber dabei. Hau schon ab und geh arbeiten. }
+
+Plh_57 { Ich hoffe, du denkst nicht immer an die Tracht Prügel, wenn du hier schläfst. Sollst dich doch erholen, hehe. *grinst* }
+
+Plh_59 { Dieser Emko war schon immer ein Arschloch. Aber wir müssen wieder an die Arbeit. Das Silber schürft sich nicht von selbst. Leider. }
+
+Plh_60 { Wie wär's, ich gebe dir $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ Silber und dafür muss ich nie wieder zahlen? }
+
+Plh_61 { So wie du aussiehst, bleibst du eh nicht lange hier. Machen wir es so. *grinst* }
+
+Plh_62 { Gut, hier die $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ Silber. Du lässt mich ab jetzt in Ruhe. }
+
+Plh_63 { *grinst sehr breit* Ah, stimmt! Ich hatte ja so eine Nachricht von Levin bekommen, dass du eine Ausnahme bist. }
+
+Plh_64 { Sag mal, willst du mich verarschen? Bring genug Silber mit! }
+
+Plh_65 { Du kannst hier so viel schlafen, wie du willst. Ruh dich aus, wann auch immer du Erholung brauchst. *zwinkert dir zu* }
+
+Plh_68 { Hahaha, hast du gesehen, wie die Pisser im Dreck lagen? }
+
+Plh_69 { Du hast die richtige Entscheidung getroffen. Und weil Mursel so ein Guter ist, darfst du jetzt umsonst hier schlafen. }
+
+Plh_70 { Und du zahlst jetzt doppelt, Emko. *grinst* }
+
+Plh_71 { Ihr seid der letzte Abschaum. }
+
+Plh_72 { Wenn ihr nicht versucht hättet, mich abzuziehen, wäre das anders gelaufen. }
+
+Plh_73 { Das hast du dir selbst eingebrockt. }
+
+Plh_74 { *läuft rot an* Du ... DU ...! }
+
+Plh_75 { Das war doch nicht persönlich gemeint. Wir sind hier unten doch alle Kumpel! }
+
+Plh_76 { Hau einfach ab. Hier ist alles gesagt. }
+
+Plh_77 { So eine Scheiße ... }
+
+Plh_78 { Ihr beiden Ratten wisst jetzt, wo ihr hingehört! Mein Silber gehört MIR und ihr bekommt davon NICHTS! }
+
+Plh_79 { Ist ja gut ... }
+
+Plh_80 { Danke für nichts. }
+
+Plh_82 { Wir haben hier für euch Hauer ein Bettenhaus gebaut. Da ist es gemütlich und warm. Leg dich hin, erhol dich. Danach geht die Arbeit leichter. }
+
+Plh_83 { *mit piepsiger Stimme* "Bitte, bitte, Mursel! So kann ich nicht arbeiten! Ich geb dir das auch sofort zurück!" }
+
+Plh_84 { Erst machst du mit einem Aufstand auf dicke Hose, und dann haust du einfach ab. Ganz schön peinlich. }
+
+Plh_85 { Ich sehe mal darüber hinweg ... ihr Hauer habt manchmal komische Ideen. }
+
+Plh_86 { Du wolltest mit mir gegen diese dummen Hauer kämpfen, und dann rennst du einfach weg? }
+
+Plh_87 { Das will ich sehen! }
+
+Plh_88 { Und dann ist sie zu blöd zum Hauen ... }
+
+Plh_89 { Vergiss es. Wenn sich hier rumspricht, dass ich für so 'ne dumme Agnessa ein Auge zudrücke, dann nimmt mich keiner mehr ernst. }
+
+Plh_90 { Kannst du bei Agnessa nicht ein Auge zudrücken? Sie hat wirklich üble Schmerzen. }
+
+Plh_91 { Können wir Agnessas Problem denn irgendwie anders lösen? }
+
+Plh_92 { Klar, die Lösung ist ganz einfach. }
+
+Plh_93 { Keine Chance. }
+
+Plh_94 { Sie soll das Silber rausrücken, das ich ihr geliehen habe. Dann verstehen wir uns wieder prächtig. }
+
+Plh_95 { Kannst also beruhigt schlafen. }
+
+Plh_96 { Was ist? Geh hauen oder schlafen. Mir doch egal. }
+

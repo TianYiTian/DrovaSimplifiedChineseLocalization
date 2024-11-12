@@ -1,0 +1,10 @@
+Title { Der alte Mann am Markt }
+
+Entry_01 { Ich habe einen alten Mann getroffen, der verschiedene Sachen vom Markt möchte. Er hat mich gebeten, ihm $GVAR:QuestVars_OldMan_Config.AmountApple$ Äpfel, $GVAR:QuestVars_OldMan_Config.AmountDagger$ Brotmesser, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ Quellwurz und ein Bärenfell zu besorgen. Er sagt, ich kann alles auf dem Markt bekommen. }
+
+Entry_02 { Femke will mir das Bärenfell nicht verkaufen. Er meinte, dass ich den alten Mann statt eines Bärenfells ein Schafsfell andrehen kann. Der würde das ja nicht merken. }
+
+Entry_03 { Enya meinte, dass Femke sein Fell unter seinem Verkaufsstand lagert. Nachts könne ich ja mal vorbeischauen ... }
+
+Entry_04 { Ich habe dem alten Mann sein Zeug gegeben, er war sehr glücklich. }
+

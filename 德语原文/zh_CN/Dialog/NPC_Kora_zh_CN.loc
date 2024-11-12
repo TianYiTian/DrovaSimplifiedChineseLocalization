@@ -1,0 +1,258 @@
+Plh_4 { Hey, du. Ich mag deine Augen. Sie strahlen wie Sterne am Himmel. }
+
+Plh_6 { Ja, ich bin gerade im Ruinenlager angekommen. }
+
+Plh_7 { Ich will eigentlich nach Nemeton. }
+
+Plh_8 { Nemeton ist noch ein gutes Stück weg. Da musst du durchs Moor. Gefährlicher Weg. }
+
+Plh_9 { Ich bin auch noch nicht so lange hier. Aber hier sind sehr viele Leute, die mir ins Auge springen. Viel Auswahl. *zwinkert* }
+
+Plh_11 { Brauchst du etwas Rostmoos? }
+
+Plh_12 { Rostmoos? Ich bin zwar noch nicht lange hier, aber das Zeug kenne ich. *grinst* }
+
+Plh_14 { Ich möchte nur wissen, ob du jetzt etwas brauchst. }
+
+Plh_15 { Du interessierst dich wohl nicht für das Rostmoos ... }
+
+Plh_16 { Ich würde welches nehmen ... aber ich habe gerade nicht genug Münzen, fürchte ich ... }
+
+Plh_17 { Das Rostmoos kostet $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen. }
+
+Plh_18 { Nun ... Ich könnte dir $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ Münzen bieten ... und wir rauchen es dann gemeinsam? }
+
+Plh_19 { Klingt gut. }
+
+Plh_20 { Nein, ich will das Zeug nicht rauchen. }
+
+Plh_21 { Dann lass mich schnell die Münzen zählen ... hier. $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ Münzen. }
+
+Plh_22 { Danke. }
+
+Plh_23 { Gutes Rostmoos. Die Arbeit in der Mine ist dann gar nicht mehr so hart, wenn man es abends rauchen kann. Sorgt auch für guten Schlaf. Aber keine Sorge, die Wirkung lässt schnell nach. Danke, dass du mir was gebracht hast! }
+
+Plh_24 { Ich fühle mich ganz entspannt. }
+
+Plh_25 { Und, merkst du schon etwas? }
+
+Plh_26 { Wieso genau bist du ins Ruinenlager gegangen? }
+
+Plh_27 { Willst du hier für immer Erz hauen? }
+
+Plh_28 { Hier lebt es sich ganz gut. Ein Dach über dem Kopf, ein Essen auf dem Tisch, und manchmal Rostmoos in der Lunge. Man kann es schlechter in Drova haben. Viel schlechter. }
+
+Plh_29 { Selbst wenn ich wollte, das macht mein Rücken nicht ewig mit! }
+
+Plh_30 { Am liebsten hätte ich eine Taverne. Abends mit den Leuten reden ... ihre Sorgen anhören, ihnen Getränke hinstellen ... und sie sollte mir gehören. Dann gibt es dort ein ganz besonderes Getränk, das ich erfinde: Kora-Korn! *lächelt und schaut in die Ferne* }
+
+Plh_31 { Ja, ich glaube, die Wirkung verflüchtigt sich ... }
+
+Plh_32 { Ich habe die Mischung auch dünn gemacht. Man muss es sich einteilen, sonst reicht es nicht mal für heute. }
+
+Plh_35 { Wir reden später, Kora. }
+
+Plh_36 { Hast du schon Cord das Rostmoos angeboten? Der wird gern was kaufen. Glaube, er bringt gerade das Silber hoch ins obere Viertel. Schwarze, verfilzte Haare. Wenn du ihn nicht siehst, wirst du ihn von Weitem riechen ... }
+
+Plh_37 { War nett, dich kennenzulernen. Komm doch mal wieder vorbei! }
+
+Plh_38 { Du verhandelst wohl nicht gern? Gut, hier nimm $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen. Sieht so aus, als hätte Boris schon seinen schlechten Einfluss auf dich gewirkt. }
+
+Plh_40 { Hey. }
+
+Plh_41 { Hier, vielleicht tröstet dich das Rostmoos etwas. }
+
+Plh_42 { Was? ... umsonst? Das habe ich noch nie erlebt. Ich glaube, wir können gute Freunde werden. Komm, wir rauchen es zusammen. }
+
+Plh_43 { Schade. Aber dann kann ich länger rauchen. Du wirkst so nett, du gibst es mir einfach so ... ich frage mich, warum so jemand mit Boris abhängt. Der ist kein guter Einfluss. }
+
+Plh_44 { Lass mich das Rostmoos schnell vorbereiten ... Nimm den ersten Zug. }
+
+Plh_45 { Sag mal, kennst du Aldo? }
+
+Plh_46 { Aldo? Klar. Er war der erste, der mich hier aufgenommen hat. Wir haben meinen ersten Abend hier in Bernolds Schenke verbracht, und er hat mir ein Bier nach dem anderen ausgegeben. Dafür bin ich ihm echt dankbar. }
+
+Plh_47 { Verhält sich Aldo in letzter Zeit komisch? }
+
+Plh_48 { Warum bist du Aldo so dankbar? }
+
+Plh_49 { Mit Aldo soll etwas sein? Lass mich nachdenken ... }
+
+Plh_50 { Nun ... ich habe ihn seit unserem Abend nicht mehr so oft gesehen und wir haben uns auch abends nicht getroffen. Vielleicht ist er traurig, weil sein Bruder wieder weggegangen ist. }
+
+Plh_51 { Fulk meint, dass mit Aldo etwas nicht stimmt. Was meinst du? }
+
+Plh_53 { Aldo hat einen Bruder? }
+
+Plh_54 { Einen Zwillingsbruder. Der hat ihn besucht. Aldo hat mir erzählt, dass die beiden damals unzertrennlich waren und er hat sich drüber aufgeregt, dass sie andauernd für dieselbe Person gehalten wurden. Aber kurz nachdem sie in Drova angekommen sind, sind sie unterschiedliche Wege gegangen. }
+
+Plh_59 { Ich kannte hier niemanden, und alle waren ungehobelt. Aldo hat mir geholfen, mich hier zurechtzufinden, alles gezeigt, mir die Leute vorgestellt. Er ist ein Kämpfer ... aber auf eine andere Art. }
+
+Plh_60 { Gibt es irgendwas, woran man Aldo gut von seinem Bruder unterscheiden kann? }
+
+Plh_61 { In Bernolds Schenke hat er mir all seine Narben und die Geschichten dazu erzählt. Ich durfte sie sogar anfassen. Die schönste Narbe war an seinem Arm ... wie ein Gemälde. *wird etwas rot* }
+
+Plh_65 { Die juckt immer wieder mal, und er meint, dass er dann immer an mich denken muss. *grinst* }
+
+Plh_67 { *grinst* Ich denke aber, dass mit Aldo nichts ist. Pass auf dich auf. }
+
+Plh_69 { Aldo ist tot. Es tut mir leid. }
+
+Plh_70 { Ich habe schlechte Nachrichten und weiß nicht, ob du sie wirklich hören willst ... }
+
+Plh_71 { *ihre Augen werden wässrig* ... tot? }
+
+Plh_77 { Nicht Aldo. }
+
+Plh_78 { Ich habe Neuigkeiten, was Aldo angeht ... }
+
+Plh_79 { Ich muss nachdenken. Das mit Aldo nimmt mich sehr mit. }
+
+Plh_82 { Hast du etwas, das gegen eine Bisswunde hilft? }
+
+Plh_83 { Eine Bisswunde? Von einem Tier hier? Das kann ernst werden. Was ist passiert? }
+
+Plh_84 { Eine Freundin wurde von einem Reißer gebissen und ist sehr geschwächt. }
+
+Plh_85 { Es geht um Larea. Sie ist zu stolz und will sich von niemandem helfen lassen. }
+
+Plh_88 { Hier, ich habe eine Heilsalbe. Die kannst du einfach auftragen, dann sollte es schnell besser werden. Lauf am besten gleich los, so was kann schnell tödlich enden. }
+
+Plh_89 { Larea? Oh nein! Und typisch, diese sture, alte Ziege ... ich hab ihr gesagt, dass ihr Stolz sie noch umbringt ... }
+
+Plh_90 { Ich war lange bei den Holzfällern, hab mich dort um die Verletzungen gekümmert. Und glaub mir, da war viel zu tun. Es war aber immer sicher, Nemeton war da. Aber als die Brücke eingestürzt ist, habe ich jede Nacht Angst gehabt, dass ich sterben muss. }
+
+Plh_92 { Was Aldo betrifft ... }
+
+Plh_93 { Ich schaue mich mal um ... }
+
+Plh_94 { Baltus und ich sind von den Holzfällern hierher geflüchtet. Es gefällt mir hier gut. }
+
+Plh_96 { Baltus ist aber nicht mehr bei dir? }
+
+Plh_98 { Ich weiß nicht, wo genau er ist. Vor ein paar Tagen ist er aufgebrochen und wollte in der Taverne zum Kopflosen Reißer südlich vom Ruinenlager was trinken gehen. }
+
+Plh_100 { Ich kann die Augen nach ihm offenhalten. }
+
+Plh_101 { Er kommt schon zurück. }
+
+Plh_102 { Ich selbst schaue mich im Ruinenlager nach ihm um. Aber wenn er zurück wäre, wüsste ich es eigentlich. Er müsste schon noch bei der Taverne sein ... }
+
+Plh_103 { Du hast bestimmt recht. Mit Baltus würde sich niemand anlegen wollen. }
+
+Plh_104 { Ich habe Baltus getroffen. }
+
+Plh_107 { Baltus und ich wurden in einer Mine eingesperrt. Wir sind aber entkommen. }
+
+Plh_109 { Hier, nimm ein paar Münzen. Kauf dir ein Bier bei Bernold. Es könnte beim Vergessen helfen. Sowas wünsche ich niemandem. }
+
+Plh_110 { Nicht so voreilig. Also ... }
+
+Plh_111 { Ich bin müde. }
+
+Plh_112 { Woah, ich sehe Farben. }
+
+Plh_113 { Aldo wollte Sicherheit, also hat er sich dem Ruinenlager angeschlossen, aber sein Bruder wollte diese ganze Welt kennenlernen. Zwillinge sind eben nicht immer exakt gleich ... }
+
+Plh_114 { Es geht um Aldo, oder? Ich kann in deinem Blick sehen, dass es schlimm ist ... aber ich muss es wissen. Sag schon! }
+
+Plh_116 { *sie wird von Schluchzen geschüttelt* Jetzt können wir nicht mehr ... wir wollten doch ... }
+
+Plh_117 { Sag mir nicht, was passiert ist. Ich könnte es nicht ertragen. Ich hoffe nur, wer auch immer damit zu tun hatte, wird von den Reißern zerfleischt. Tag für Tag. Bis in die Ewigkeit. *sie wendet sich ab* }
+
+Plh_118 { Die Holzfäller sind ohne mich aufgeschmissen. Wer weiß, welche Tinkturen die noch anrühren und damit mehr schaden als helfen ... }
+
+Plh_119 { Bringt uns die Freiheit! }
+
+Plh_120 { Haben sie es geschafft? Ist der Göttliche gefangen? }
+
+Plh_121 { Pass für mich auf Eugen auf. }
+
+Plh_122 { Eugen hat es unversehrt zurück geschafft! }
+
+Plh_124 { Hey, du! Stimmt es, dass ihr den Göttlichen gesehen habt? }
+
+Plh_125 { Ja, es stimmt. }
+
+Plh_126 { Ich habe ihn nicht nur gesehen, ich habe ihn besiegt. }
+
+Plh_127 { Unglaublich. Der Göttliche hatte wohl die Gestalt eines Wildschweins angenommen und konnte das Licht regelrecht aufsaugen? }
+
+Plh_128 { Du warst das? }
+
+Plh_129 { Wie unheimlich! }
+
+Plh_130 { Es war auch unheimlich. Ich hatte Angst. }
+
+Plh_131 { Unheimlich ist mein zweiter Name. }
+
+Plh_132 { Hätte ich auch gehabt! }
+
+Plh_133 { Es ist schön, dich zu kennen ... "Unheimlich" ... }
+
+Plh_134 { Wer von euch hat dem Göttlichen den Rest gegeben? }
+
+Plh_135 { Wir alle gemeinsam. Keiner von uns hätte es alleine geschafft. }
+
+Plh_136 { Ich. }
+
+Plh_137 { Ja, die Gemeinschaft ... so wichtig. }
+
+Plh_138 { *reißt die Augen auf* D-du? }
+
+Plh_139 { Bald wird Jero uns hier rausbringen. }
+
+Plh_141 { Darf ich deine Muskeln anfassen? }
+
+Plh_142 { Klar. *zu ihr gehen, Arm anwinkeln und Muskel anspannen* }
+
+Plh_143 { Nein. }
+
+Plh_144 { *berührt den Muskel* So stark ... }
+
+Plh_145 { Och. Schade. }
+
+Plh_146 { Ich hoffe, wir sehen uns mal wieder! }
+
+Plh_147 { Hey, mir geht's gerade nicht so gut wegen der Sache mit Baldo. }
+
+Plh_148 { Nimm's mir nicht übel, aber ich wäre jetzt lieber etwas allein ... Trotzdem, danke. }
+
+Plh_149 { Da ist mein Held. *wird etwas rot* }
+
+Plh_150 { Na, stehst du wieder? *grinst* }
+
+Plh_151 { Ich hab dich aus Bernolds Schenke rauslaufen sehen ... und du warst ... komplett nackt. *wird rot* }
+
+Plh_152 { War nicht der schlechteste Anblick, muss ich sagen. *schmunzelt* }
+
+Plh_153 { Ich bin Kora. Bist du neu hier? }
+
+Plh_154 { Wieso bist du von den Holzfällern geflüchtet? }
+
+Plh_155 { Ich bin schon etwas länger hier, noch vor dem Beben. Das Jaulen der Reißer ... jede Nacht. Ich konnte es nicht mehr hören. Es war einfach zu unsicher. }
+
+Plh_156 { Jedenfalls habe ich hier schon viele neue Freunde gefunden. Ich weiß, wie ich an Leute rankomme und man sich amüsiert. *grinst* }
+
+Plh_157 { Ich hab dein Tagebuch gefunden. }
+
+Plh_158 { (Schweigen) }
+
+Plh_159 { Hey, hat dir niemand beigebracht, dass man sowas nicht macht? Aber für dich mach ich 'ne Ausnahme, weil du mir gefällst. *zwinkert* }
+
+Plh_160 { An dem Abend hatten wir alle viel Spaß. *schmunzelt* }
+
+Plh_161 { Du meinst abgesehen von seinem charmanten Charakter? Hmmm, lass mich überlegen.. }
+
+Plh_162 { Habe schon mit ihm gesprochen, warst du auch dort? }
+
+Plh_164 { Wenn du vielleicht dort vorbeikommst, schick ihn zurück. Sonst versäuft er noch die ganzen Münzen. }
+
+Plh_165 { Er wurde in einer Mine eingesperrt. Ich konnte ihn und die anderen retten. }
+
+Plh_166 { Zum Glück warst du dort, ohne dich wäre er wahrscheinlich dort gestorben. }
+
+Plh_167 { Gero ist in der Mine. Möchte dort Silber hauen. Sprich am besten mit Jola, sie bringt die Hauer immer zur Mine. Der Weg soll gefährlich sein. }
+
+Plh_168 { Ich suche jemanden namens Gero. Agilo meinte, er ist zum Ruinenlager gegangen. }
+

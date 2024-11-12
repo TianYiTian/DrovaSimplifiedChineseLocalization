@@ -1,0 +1,364 @@
+Plh_4 { Plh_4 }
+
+Plh_0 { Hm? Wer bist du? Verirrt, oder? Ich habe dich hier noch nie gesehen, und einen Funken hast du auch nicht. }
+
+Plh_1 { Einen was? }
+
+Plh_2 { Warum soll ich mich verirrt haben? }
+
+Plh_3 { Ich bin $GVAR:EVars_Player.Name$. }
+
+Plh_5 { Dein Funken! Alle hier haben einen. }
+
+Plh_6 { Nicht, dass du dich verirrt hast. Du GEHÖRST zu den Verirrten. Weil du keinen Funken hast. }
+
+Plh_7 { Dann grüß dich, $GVAR:EVars_Player.Name$. Hier kommen selten Fremdlinge vorbei, weißt du? }
+
+Plh_9 { Was machst du hier? }
+
+Plh_10 { Wer bist du? }
+
+Plh_24 { Ich werde den Frischlingen helfen! }
+
+Plh_26 { Er steht beim Eingang zum Lager am blubbernden Kessel. Es wäre eine große Hilfe, wenn du das Essen von ihm zu den Frischlingen bringst. }
+
+Plh_29 { Also ... ich könnte WIRKLICH Hilfe gebrauchen. Die Frischlinge sind extrem wichtig für uns. }
+
+Plh_30 { Wegen der Frischlinge ... }
+
+Plh_31 { Ich hab die Frischlinge gefüttert. }
+
+Plh_34 { Gut, dann können wir sie bald freilassen, damit sie im Düsterwald leben können. *begutachtet alle Frischlinge und zählt sie* Du bist da, und du auch ... }
+
+Plh_41 { Wo ist eigentlich Rea ...? }
+
+Plh_43 { Alle vier Frischlinge haben was gegessen. }
+
+Plh_45 { Dann sind meine Schützlinge jetzt alle gestärkt. Lass uns zusammen zum Rand des Lagers gehen und sie verabschieden. }
+
+Plh_47 { *er bemerkt dich, aber ignoriert dich demonstrativ* }
+
+Plh_48 { Wir sollten warten, bis alle angekommen sind. }
+
+Plh_49 { Das war's, meine Kleinen. Bea, Nea, Lea, Rea - rennt in den Wald! }
+
+Plh_50 { Der erste Wurf, den ich freilasse, seit die Mutter befleckt wurde ... Ich hoffe, dass sie es schaffen. }
+
+Plh_52 { Wir Menschen besitzen eine große Macht, doch nutzen sie oft für die falschen Dinge. Wenn der Große Keiler uns annehmen soll, müssen wir ihm unsere Barmherzigkeit zeigen. }
+
+Plh_53 { (streicheln) Mach's gut, Kleiner. }
+
+Plh_54 { Jetzt hau schon ab. }
+
+Plh_55 { *gibt dir einen traurigen Blick* Oink, oink! }
+
+Plh_57 { Mein Name ist Taron. Ich bin hier der Säer. Also für diese Racker zuständig. Inzwischen weiß ich alles über die Frischlinge. }
+
+Plh_58 { Eine Gestalt des Chaos und Todes. Die Mutter ist befleckt und schwächt meine Frischlingsaat. Ohne die Saat müssen wir befürchten, dass der Große Keiler wütend wird. }
+
+Plh_61 { Ich versuche, die Frischlinge zu schützen, da die Mutter die Frischlinge nicht mehr richtig ernähren kann, solange sie befleckt ist. Der Düsterwald wird immer gefährlicher, die Frischlingsaat immer schwächer. }
+
+Plh_63 { Die jüngste Frischlingsaat ist schwächer als üblich. Roarke wollte für sie Kraftfutter anmischen. Und ich muss so schnell wie möglich herausfinden, wie ich die Mutter bereinigen kann. }
+
+Plh_64 { Wenn ich sie finde, dann schaue ich, was ich machen kann. }
+
+Plh_65 { *blinzelt* Das wäre großartig! }
+
+Plh_67 { Wie überlebt ihr hier in diesem dunklen Wald? }
+
+Plh_68 { Siehst du die Kleidung, die ich trage? Den Funken an meiner Seite? In diesem Wald lebt der Große Keiler, einer der Göttlichen. }
+
+Plh_69 { Auch die Frischlingsaat ist ein Teil davon. Wir ziehen sie hier groß und lassen sie dann in den Düsterwald frei, um den Großen Keiler glücklich zu stimmen. }
+
+Plh_70 { Einer der Göttlichen. Ein mächtiges Wesen. Dieser Wald ist seine Domäne. }
+
+Plh_71 { Was ist der Große Keiler? }
+
+Plh_72 { Frischlingsaat ... was meinst du damit? }
+
+Plh_74 { Ich bin der Säer. Wenn die Frischlinge an der Mutter geboren werden, bleiben sie mit ihr verbunden. Danach kümmere ich mich um sie. }
+
+Plh_81 { Rea ist sehr verspielt und es kann sein, dass sie sich irgendwo versteckt. Such überall! }
+
+Plh_82 { Was wir erlebt haben, hat jeden Zweifel zerstreut. }
+
+Plh_83 { Ihr glaubt an etwas, das ihr nicht mal gesehen habt? }
+
+Plh_84 { *der Frischling legt den Kopf schief an und schaut zu Taron* }
+
+Plh_85 { Jetzt tut nicht so! Ihr wisst genau, dass ihr gehen müsst! }
+
+Plh_86 { *der Frischling guckt zu dir* }
+
+Plh_87 { *der Frischling lässt sich streicheln und wendet sich dann den anderen Frischlingen zu* }
+
+Plh_88 { Ich werde euch auch vermissen ... }
+
+Plh_91 { Nea, du schafft es! Ich glaube an dich! }
+
+Plh_92 { Das war's. Sie sind weg ... }
+
+Plh_93 { Danke, $GVAR:EVars_Player.Name$. }
+
+Plh_94 { Danke, Verirrter. }
+
+Plh_95 { Du bist zwar neu hier, aber du hast mir geholfen. Der Wald wird das nicht vergessen. Ich gehe zurück zur Mutter. Es muss einen Weg geben, sie zu reinigen ... es muss einfach ... }
+
+Plh_103 { Kommt mit, meine Kleinen! }
+
+Plh_104 { Roarke sagt, dass es noch einen vierten Frischling geben sollte. }
+
+Plh_105 { Also, ich muss eigentlich jetzt arbeiten. }
+
+Plh_106 { Arbeiten. }
+
+Plh_107 { Jemand, der zu tun hat ... }
+
+Plh_108 { Kann ich dir irgendwie helfen? }
+
+Plh_109 { Nein. }
+
+Plh_110 { Was sind das für Frischlinge, die hier rumlaufen? }
+
+Plh_111 { Nun gut, ich gehe dann mal. }
+
+Plh_112 { Magst du Frischlinge? *deutet ein Lächeln an* }
+
+Plh_113 { Du züchtest sie? }
+
+Plh_114 { Du kennst dich offenbar gut damit aus. }
+
+Plh_115 { Mhm. }
+
+Plh_116 { *wird ein wenig rot* Ich mache das schon ziemlich lange ... }
+
+Plh_117 { Lief eigentlich immer ganz gut. Die Frischlinge sind größer und kräftiger geworden, fast alle kamen durch. Bis Anatoli diese Gestalt gesehen hat ... }
+
+Plh_118 { Was ist diese Gestalt? }
+
+Plh_119 { Dann verzichtet halt auf die Frischlinge. }
+
+Plh_120 { Wir wissen nicht genau, woher die Gestalt kommt oder was sie ist. Aber sie stört die Harmonie des Düsterwaldes und schadet der Frischlingsaat. }
+
+Plh_121 { Klingt, als ob ihr Hilfe braucht. }
+
+Plh_122 { Vielleicht ist an deiner Vermutung was dran. }
+
+Plh_123 { Was ist die Mutter? }
+
+Plh_124 { Hat die Mutter etwas mit dieser Wurzel da zu tun? }
+
+Plh_125 { Die Mutter erschafft die ganzen Wurzeln für die Saat im Düsterwald. Und der Große Keiler erfüllt den Wald und die Mutter mit Leben. }
+
+Plh_126 { Du hörst also zu! Sehr gut. }
+
+Plh_128 { Danke noch mal für deine Hilfe mit den Frischlingen. }
+
+Plh_130 { Aber ich habe einfach keine Zeit, mich richtig um die Frischlinge zu kümmern. Das tut richtig weh, aber ich kann nicht alles gleichzeitig machen! Könntest du mir vielleicht helfen? }
+
+Plh_131 { Du willst mir wirklich helfen? Das wäre sehr nett von dir. }
+
+Plh_133 { Ach, verdammt! Ich hab vergessen, dir zu sagen, dass du Rea auch noch füttern musst. Sie bleibt eigentlich immer in meiner Nähe, und ich wollte mich um sie kümmern, aber ich hab selbst einfach keine Zeit ... }
+
+Plh_134 { Klingt so, als müsste ICH das erledigen. }
+
+Plh_136 { Ich bin sicher, dass die Gestalt die Mutter befleckt. Diemo glaubt das nicht. Aber ICH kümmere mich um die Frischlinge, ICH werde es ja wohl wissen! }
+
+Plh_137 { Sag ich doch! }
+
+Plh_138 { Glückwunsch. Hast es ja doch geschafft. Sind wir dann hier fertig? Die Saat erzieht sich nicht von alleine. }
+
+Plh_139 { *trippelt nervös mit dem Fuß auf dem Boden* }
+
+Plh_140 { Nicht jetzt. }
+
+Plh_8 { Weißt du, wie ich mit Bertine reden kann? }
+
+Plh_11 { Hm? Bertine? }
+
+Plh_13 { Irgendwie muss man doch mit ihr reden können ... }
+
+Plh_14 { Ich kenne mich nur mit Tieren aus. Leute sind komisch. Frag lieber Roarke, der kommt irgendwie mit allen zurecht. }
+
+Plh_15 { Ich kann dir nur noch sagen, dass Bertine immer Cay böse anfunkelt. Als hätte der ihr was getan ... der kleine Cay ... }
+
+Plh_142 { Ich brauche deine Hilfe bei etwas ... }
+
+Plh_143 { Aber wir haben hier keine Münzen ... ich kann dich dafür also nicht bezahlen ... ich hoffe, das ist kein Problem. }
+
+Plh_144 { Der Große Keiler und der Düsterwald werden sich dir erkenntlich zeigen. Da bin ich mir sicher. }
+
+Plh_145 { *guckt dich irritiert und vorwurfsvoll an, aber geht nicht darauf ein* }
+
+Plh_146 { *wird rot* ... Ach, stimmt. Wie konnte ich nur vergessen, dir von Rea zu erzählen! Weißt du, eigentlich wollte ich mich selbst um sie kümmern. Gut, dass du so aufmerksam warst. }
+
+Plh_147 { Meine kleinen Schützlinge ... alle weg ... }
+
+Plh_148 { Was fehlt Cay denn? }
+
+Plh_150 { Wenn ich das wüsste, könnte ich ihm helfen! }
+
+Plh_151 { Ich hab alles versucht. Eigentlich sollte er das blühende Leben sein. Aber er liegt hier nur rum und ist völlig kraftlos. }
+
+Plh_152 { *streichelt ihn vorsichtig* Armer Cay. Ich würde dir so gern helfen ... }
+
+Plh_157 { Der Große Keiler hat Cay schon einmal gerettet. Aber jetzt ist er weg. Und mit ihm der Düsterwald. }
+
+Plh_158 { Ich bleibe bei dir, Cay. Alles wird gut. }
+
+Plh_160 { *Cay schmiegt den Kopf in Tarons Hand und atmet flach* }
+
+Plh_162 { Du hast deinen Funken wiederbekommen? }
+
+Plh_165 { *du spürst, wie dein Funke auf Cay reagiert - er will Cay helfen* }
+
+Plh_166 { ... natürlich! }
+
+Plh_167 { Cay hat eine besondere Bindung zum Düsterwald! Dein Funke ist das Einzige, was davon noch übrig ist! }
+
+Plh_168 { Vielleicht kannst du Cay so helfen! Solange der Funke an seiner Seite ist, scheint es ihm besser zu gehen. }
+
+Plh_169 { Wenn Cay das hilft, dann soll mein Funken ihn begleiten. }
+
+Plh_170 { Das ist mein Funken. Der gehört nur mir. }
+
+Plh_171 { So glücklich hab ich Cay nicht gesehen, seit wir aus dem Düsterwald geflohen sind! }
+
+Plh_172 { *zu Cay* Siehst du, Cay. Alles wird gut. Ich hab's dir gesagt. }
+
+Plh_174 { W-was? Du tauchst hier auf, kurz danach wird unsere Heimat zerstört, und jetzt willst du nicht mal Cay helfen, obwohl du es könntest!? }
+
+Plh_175 { Gut. Der Funke soll an Cays Seite bleiben. }
+
+Plh_176 { Vergiss es. Der Funke hat MICH ausgewählt. Nicht Cay. }
+
+Plh_177 { Du bist ein herzloses Biest. Eine ... schreckliche Gestalt. Verschwinde! }
+
+Plh_179 { Verschwinde. Ich will dich nicht sehen. }
+
+Plh_180 { Bea ... Nea ... keiner hat es geschafft ... }
+
+Plh_181 { *bemerkt dich* Du bist es ... }
+
+Plh_182 { Gerade keine Zeit. Der kleine Cay ist alles, was mir von meinen Schützlingen geblieben ist. Ich will jeden Moment mit ihm verbringen, solange ich noch kann. }
+
+Plh_184 { Ich fürchte, für Cay geht es auf das Ende zu. Ich weiß nicht weiter. Es müsste irgendwas geben, das ihm neue Kraft gibt, irgendwas vom Großen Keiler. }
+
+Plh_185 { Alles wird gut, Cay. Taron ist da. }
+
+Plh_193 { Vielleicht kann mein Funke Cay helfen? }
+
+Plh_195 { Schau sie dir an. Ohne mich würden sie nicht lange durchhalten. }
+
+Plh_196 { Diemo und ich tun, was wir können. Aber es ist nicht leicht ... }
+
+Plh_197 { Was?! Das geht doch nicht! Wir müssen etwas gegen diese Gestalt unternehmen! }
+
+Plh_198 { Er hat die Form eines Wildschweins angenommen, deshalb passen wir uns an ihn an und kümmern uns um die Frischlinge. Wir hoffen, dass er uns so als Teil des Waldes akzeptiert. }
+
+Plh_199 { Wir nennen ihn den Großen Keiler, weil wir davon ausgehen, dass er die Form eines Wildschweins angenommen hat. Aber gesehen hat ihn noch niemand. }
+
+Plh_200 { Was meinst du, wie wir hier überleben konnten? Nur dank des Großen Keilers. }
+
+Plh_201 { Einen Wurf Frischlinge bezeichnen wir als Frischlingsaat. }
+
+Plh_203 { Deshalb ist es auch so wichtig, dass ich schnell herausfinde, wie ich die Mutter bereinige ... }
+
+Plh_204 { *Er guckt Taron mit riesigen Augen an* }
+
+Plh_205 { Ich werde dich auch vermissen, Nea. }
+
+Plh_206 { Ihr hattet es nicht leicht, das weiß ich. Aber ihr gehört raus in die Freiheit. Zusammen mit den anderen Ebern. }
+
+Plh_207 { *Der Frischling neigt den Kopf zur Seite und sieht irritiert aus. Als ob er es nicht verstehen würde* }
+
+Plh_208 { Eines Tages weißt du, was ich meine. Wenn du ein großer, starker Eber bist. Vielleicht sehen wir uns dann wieder! *schaut hilfesuchend zu dir* }
+
+Plh_209 { (an ihn herantreten und an die Schulter fassen) Nea wird es schaffen, Taron. Ganz sicher. }
+
+Plh_210 { Du musst loslassen, Taron. Der Frischling kommt schon klar. }
+
+Plh_211 { Ja, du hast recht ... }
+
+Plh_212 { Nur einen Moment noch. }
+
+Plh_213 { *Er kniet sich nieder und umarmt den kleinen Frischling. Nimmt ihn ein letztes Mal auf den Arm und wippt ihn gemütlich hin und her* Alles wird gut werden, Nea. }
+
+Plh_214 { *vorsichtig setzt er den Frischling wieder ab und Nea strahlt ihn hoffnungsvoll an* }
+
+Plh_215 { Und jetzt geh. Ich weiß, dass du es kannst! }
+
+Plh_216 { Quieeeek! Quieeek! }
+
+Plh_220 { Ach, und Cay brauchst du nicht zu füttern, der gehört nicht zur neuesten Saat. Das ist der kleine Frischling, der Birka nicht von der Seite weicht. Er ist etwas ganz Besonderes. }
+
+Plh_221 { Was ist mit Cay, lässt du ihn nicht frei? }
+
+Plh_223 { Cay? Nein, er wird bei uns bleiben. Er ist nicht wie die anderen Frischlinge. Außerdem würde er nie von Birkas Seite weichen. }
+
+Plh_224 { Ich hoffe, dass der Wurf es gut haben wird ... }
+
+Plh_226 { Das stimmt. Es freut mich, dass du jetzt auch zu uns gehörst. Vielleicht greifst du mir ja irgendwann noch mal mit meiner Saat unter die Arme. Oder wer weiß ... }
+
+Plh_227 { Mein Frischlingsfreund! Schön, dass du mich besuchen kommst. }
+
+Plh_228 { Ich gehöre jetzt wohl auch zu den Verbundenen. }
+
+Plh_229 { Freunde der Frischlinge und des Großen Keilers sind meine Freunde und immer willkommen! }
+
+Plh_230 { Die sind toll. Ich kümmere mich um sie. }
+
+Plh_231 { Meine kleinen Schützlinge. Sie laben an der Mutter. Die Mutter versorgt sie mit Kraft und gebärt sie. Der Große Keiler schenkt der Mutter seine Kraft. Ein Kreislauf der Natur. }
+
+Plh_232 { Unglaublich ... ich hätte nicht gedacht, dass es so etwas geben kann. }
+
+Plh_233 { Was ... die Wurzel gebärt Frischlinge!? }
+
+Plh_234 { Es gibt viel in dieser Welt, was wir uns nicht vorstellen konnten ... bis wir es gesehen haben. }
+
+Plh_235 { Natürlich. Sie gehören doch zu der Mutter. Ohne ihre Wurzeln würden sie außerdem nicht überleben können. }
+
+Plh_236 { Genau genommen kümmere ich mich nur um sie. Die Zucht erledigt die Mutter. }
+
+Plh_237 { Wenn du es ihnen gebracht hast, komm zurück zu mir. Du findest mich immer hier bei der Mutter. }
+
+Plh_238 { Der frechste Racker. Könntest du sie bitte auch suchen und hierher bringen? }
+
+Plh_239 { Nee, die ist ein bisschen ... durchgedreht, seit Anatoli tot ist. Sitzt nur noch rum oder schreit die Leute an. Oder beides gleichzeitig. }
+
+Plh_240 { Vielleicht hast du ja sogar das Talent zum Säer! }
+
+Plh_241 { Gehen wir. }
+
+Plh_242 { Taron ... die Frischlinge wirken schwach. Bist du sicher, dass sie es alleine schaffen? }
+
+Plh_244 { Dass du dich um sie sorgst, zeigt mir, dass du ein guter Mensch bist. Aber sie müssen es schaffen. Die Mutter will es so. Wir haben alles für sie getan, was wir konnten. Jetzt liegt es an ihnen. }
+
+Plh_245 { Was macht Cay denn besonders? }
+
+Plh_246 { Verstehe. }
+
+Plh_247 { Ich bin mir sicher, dass Birka dir das gern irgendwann erzählt. Sie und Cay sind so was wie beste Freunde. Jedenfalls hat Cay eine besondere Bindung zum Großen Keiler. }
+
+Plh_248 { Möge der Große Keiler über meine Kleinen wachen. }
+
+Plh_249 { Danke, Verirrte. }
+
+Plh_250 { Es freut mich, dass du die Kleinen auch so schätzt. Sie sind ein wahres Geschenk, weißt du? *lächelt* }
+
+Plh_251 { Die Kleinen brauchen unbedingt ihr Futter. Roarke hat es sicher schon für sie vorbereitet. }
+
+Plh_252 { *Cay rappelt sich auf und sieht glücklich aus, als der Funke an seine Seite fliegt* }
+
+Plh_254 { Also gut ... Cay, hier, der Funke wird dir Kraft geben. }
+
+Plh_255 { Quieeeek! Quieeek! }
+
+Plh_256 { Danke, $GVAR:EVars_Player.Name$! Ich werde es nicht vergessen. Und Cay ganz bestimmt auch nicht. *lächelt* }
+
+Plh_257 { Barmherzigkeit ist eine unsere Tugenden. Merk sie dir, wenn du nächstes Mal mit Diemo sprichst. *schaut nach oben* }
+
+Plh_259 { Wir Menschen können dem Großen Keiler nichts anhaben. Ich hab keine Zeit für diese Hirngespinste, ich muss mich um die neue Saat kümmern. }
+
+Plh_260 { Ich will euch warnen, mein Lager will den Großen Keiler einfangen! }
+

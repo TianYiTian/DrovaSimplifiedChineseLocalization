@@ -1,0 +1,11 @@
+LevelUp { 升级了！ }
+
+NotEnoughFightingStrength { 战斗力不足 }
+
+NoAmmoWarning { 没有弹药 }
+
+ReloadWarning { 重新装填 }
+
+SpellAlreadyKnown { 技能已掌握 }
+
+NeedsQuiver { 需要箭袋 }

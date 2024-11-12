@@ -1,0 +1,11 @@
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: Schnellleiste zuweisen }
+
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$ Schnellleiste zuweisen }
+
+Inventory_GarbageToggle_show { Müll einblenden }
+
+Inventory_GarbageToggle_hide { Müll ausblenden }
+
+Inventory_MarkAsGarbage { Item als Müll markieren }
+
+GarbageFeedback { Müllfilter aktiv }

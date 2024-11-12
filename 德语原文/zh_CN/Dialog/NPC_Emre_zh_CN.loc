@@ -1,0 +1,60 @@
+Nickname { Schlange }
+
+Plh_5 { Geh schon rein. Schlange hat ein Auge auf dich. }
+
+Plh_6 { Was ist denn da drin? }
+
+Plh_7 { So viele Münzen, wie du nur brauchen kannst. }
+
+Plh_8 { Ich kriege einfach so Münzen? }
+
+Plh_9 { Na klar. Friedel gibt dir gern was. }
+
+Plh_10 { Ist dein Name wirklich Schlange? }
+
+Plh_11 { Klar. Meine Mutter hat mich Schlange genannt. }
+
+Plh_12 { Echt jetzt? Deine Mutter hat dich so genannt? }
+
+Plh_13 { Sag mal, bist du auf den Kopf gefallen oder so was? }
+
+Plh_14 { Glaub mir, du willst meinen echten Namen nicht rausfinden. }
+
+Plh_15 { Wenn du Münzen brauchst, geh rein und rede mit Friedel. }
+
+Plh_16 { So, so, du dachtest also, du könntest dir einfach Münzen leihen und dann damit abhauen? }
+
+Plh_17 { Rück die $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ Münzen raus, die du Friedel schuldest, sonst hau ich dich zu Feuerholz. }
+
+Plh_18 { Rück die $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ Münzen raus, die du Friedel schuldest, sonst hau ich dich zu Feuerholz. }
+
+Plh_19 { Schon gut, schon gut. Nimm. ($GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ Münzen geben) }
+
+Plh_20 { Schon gut, schon gut. Nimm. ($GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ Münzen geben) }
+
+Plh_21 { Komm doch und hol dir die Münzen. }
+
+Plh_22 { Was? So viel hab ich mir aber nicht geliehen! }
+
+Plh_23 { Echt jetzt? }
+
+Plh_24 { Du denkst, Friedel will einfach nur ihre Münzen zurück? Wie soll sie dann Gewinn machen? Schon für die blöde Frage sollte ich dir den Kopf einschlagen. }
+
+Plh_25 { Geht doch. Nächstes Mal zahlst du gefälligst ohne Fragen. }
+
+Plh_27 { Ich hatte gehofft, dass du das sagst. *grinst* }
+
+Plh_28 { Willst du mich verarschen? Du hast nicht genügend Münzen dabei! Dann muss ich dir wohl eine Lektion erteilen. }
+
+Plh_29 { Eigentlich hab ich dich gewarnt, aber du wolltest nicht hören. Jetzt lernst du mich wirklich kennen! }
+
+Plh_30 { Ich bin EMRE! Und ich verteile überall da Schellen, wo Münzen fehlen! }
+
+Plh_31 { Du hast mich gut erwischt. }
+
+Plh_32 { Verschwinde von hier. }
+
+Plh_33 { Es geht nichts über ein Feierabendbier. }
+
+Plh_34 { Ein schöner Abend, um in Bernolds Schenke zu sitzen. Auch Schlange gönnt sich mal eine Auszeit. }
+

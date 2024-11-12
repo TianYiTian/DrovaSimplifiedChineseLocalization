@@ -1,0 +1,22 @@
+Title { Der Weg zum Roten Turm }
+
+Entry_00_Nemeton { Es gibt eine Runenreise, über die wir mithilfe des Großen Keiler und dem Machtkristall in den Roten Turm kommen. Dafür hat der Große Keiler aber nicht genug magische Kraft. Ich soll in der Bibliothek der Vergangenen nach Informationen suchen, ob es noch weitere Machtkristalle in Drova gibt. }
+
+Entry_00_Ruinenlager { Wir konnten die Tür des Roten Turms nicht öffnen. Die Kraft des Großen Keilers hat nicht ausgereicht. Damit wir mehr Energie bekommen, soll ich in der Bibliothek der Vergangenen nach Information suchen, ob und wo noch Machtkristalle in Drova zu finden sind. }
+
+Entry_01 { Habe herausgefunden, dass es noch weitere Machtkristalle gibt. Einer befindet sich offenbar nördlich vom Holzfällerlager auf einem Plateau. }
+
+Entry_02 { Ich habe einen Machtkristall gefunden. Es soll noch einen tief im Düsterwald westlich vom Ruinenlager geben. }
+
+Entry_03 { Die Kraft würde reichen, aber die Machtkristalle sind nicht aufgeladen. Tief im Moor, südöstlich von Nemeton, haben die Vergangenen damals die Machtkristalle aufgeladen. Ich muss mich dort mal umschauen. }
+
+Entry_04_1_NemetonQuest { Wir haben die aufgeladenen Machtkristalle und den Großen Keiler. Wir sind bereit für den Roten Turm! Ich soll Mombert im Druidenhaus Bescheid geben. }
+
+Entry_04_2_NemetonQuest { Mombert ist bereit. Roter Turm, wir kommen! Wir werden Drova zum Land der Sagen machen! }
+
+Entry_04_3_NemetonQuest { Alles ist bereit, ich sollte mich gut vorbereiten. Es gibt kein Weg zurück! Wenn ich bereit bin, soll ich mich bei Molvina melden. }
+
+Entry_04_1_RuinenlagerQuest { Alles ist bereit, ich sollte mich gut vorbereiten. Es gibt keinen Weg zurück! Wenn ich bereit bin, soll ich mich bei Jero melden. }
+
+Entry_05 { Wir sind im Roten Turm, es hat funktioniert! }
+

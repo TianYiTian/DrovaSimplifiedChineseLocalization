@@ -1,0 +1,182 @@
+Plh_4 { Die Müdigkeit beschwert meine Seele und meinen Körper ... lass mich in Frieden ... meine Seele braucht Frieden ... }
+
+Plh_2 { Reißer. Hmm ... gefährlich. Deren Hauer hinterlassen mehr als nur Wunden. Ein spezieller Heiltrank kann gegenwirken, aber der ist schwierig herzustellen ... }
+
+Plh_6 { Du sagtest, du bist ein Heilkundiger? }
+
+Plh_7 { Ich habe die Heilpflanzen und die Erdwurzel dabei. }
+
+Plh_8 { Sehr gut. Die Heilsalbe stellst du folgendermaßen her: Erdwurzel anschneiden und sie zusammendrücken, um ihre Kernflüssigkeit rauszudrücken. Die solltest du aber nicht anfassen, wenn du deine Finger behalten willst. }
+
+Plh_9 { Sei gegrüßt! }
+
+Plh_10 { Sei gegrüßt, Freund des Daseins! Du hast ein freundliches Gesicht, das sehe ich sofort! }
+
+Plh_11 { Ich bin $GVAR:EVars_Player.Name$. }
+
+Plh_12 { Ich weiß nicht, ob ich das verraten will ... }
+
+Plh_13 { Dann warte ich vielleicht lieber, bis du Gedanken lesen kannst ... }
+
+Plh_14 { Ah, dann grüße ich dich, $GVAR:EVars_Player.Name$. Es ist mir immer eine Freude, neue Leute kennenzulernen, die die Göttlichen als würdig erachten, diesen Ort schöner zu machen! }
+
+Plh_15 { Oho, ich mag Geheimnisse! Aber pass auf, dass du nicht ZU geheimnisvoll bleibst. Schließlich brauchen wir alle gute Freunde, nicht wahr? }
+
+Plh_16 { Das könnte schon bald passieren! Ich habe gestern eine neue Pilzart entdeckt. Die sind blau. Gedanken sind auch blau, oder? Ich muss sie nur noch kochen! Die Pilze, meine ich. }
+
+Plh_17 { Eigentlich sollte ich schon in Nemeton sein. Aber so eine Pause hat ja schon etwas für sich. Ich habe sogar schon einen Schmetterling gesehen! }
+
+Plh_19 { Du willst nach Nemeton? }
+
+Plh_20 { Hier ist traditionell das Ende meiner Route. Ich kenne jede Ecke von Drova, die schönen und die gefährlichen! Und meine Route ist nun perfekt! Schon die letzten fünf Sommer konnte ich das ganze Land ohne schlimme Begegnungen bereisen. }
+
+Plh_21 { Dann lausche ich lieber in mich hinein! Und treffe neue Leute wie dich! Also ... neue Leute, die mir keine Schaufel oder so grässliche Sachen in die Hand drücken wollen! }
+
+Plh_23 { Ich bin ganz bei mir. *schließt die Augen und atmet tief ein* }
+
+Plh_24 { Du bist auch Imker? }
+
+Plh_25 { Der beste Freund der Bienen in ganz Drova! Meine Bienenstöcke sind überall verteilt. Auf jeder Route kümmere ich mich um die kleinen Summsen und ernte ihren Honig. }
+
+Plh_28 { Kennst du etwas, das die schwärende Wunde eines Reißerbisses heilen könnte? }
+
+Plh_29 { Ich muss jemandem bei einer Verletzung helfen ... }
+
+Plh_30 { Dann bring diesen jemand her! }
+
+Plh_32 { Diese jemand möchte nicht, dass irgendwer von ihrer Verletzung erfährt. }
+
+Plh_33 { Nun gut. Selbst schuld, sag ich mal. Wie fortgeschritten ist die Verletzung denn? }
+
+Plh_34 { Eine pochende Wunde. }
+
+Plh_37 { Ah, Pochen. Nicht gut. Dann liegt der Biss schon einige Stunden zurück, und was auch immer die Reißer da reingebissen haben, breitet sich aus. Nicht gut, nicht gut. Kann man nicht riskieren, auf Heilung zu warten ... }
+
+Plh_38 { Verzage nicht! Es mag schlimm klingen, und das Leben dieser mysteriösen Person mag am seidenen Faden hängen, aber du hast Bombus gefunden. Bombus, der Heiler! }
+
+Plh_39 { Schwäche ... die dann nicht besser wird. Nicht gut, nicht gut. Will nicht sagen, dass es gleich der Anfang vom Ende ist, aber abwarten sollte man nicht. }
+
+Plh_42 { Ein Gefühl von Schwäche. }
+
+Plh_46 { Hör zu. Ich kann dir eine Heilsalbe herstellen, die den Reißerbiss gut behandelt. Dafür brauche ich $GVAR:QuestVars_OnlyOneThingHelps_Config.AmountOfHealthPlant$ Heilpflanze und eine Erdwurzel. Aber warte damit nicht zu lange ... im Interesse der verletzten Person. }
+
+Plh_47 { Ich bringe dir alles. }
+
+Plh_48 { Erdwurzel? Die hilft? }
+
+Plh_49 { Die Zutaten habe ich alle schon. }
+
+Plh_50 { Worauf wartest du dann noch? }
+
+Plh_52 { Erdwurzel an sich ist giftig und sollte NIEMALS auf eine Wunde gelegt werden. Aber wenn man sie verkocht und mit den richtigen Zutaten kombiniert, entfaltet sie ganz neue Wirkungen! Aber nur dann! }
+
+Plh_53 { Die Erdwurzel wirfst du dann in den Kessel und kochst sie durch, zusammen mit den anderen Zutaten. Muss gar nicht so lange sein. Danach kannst du die verkochte Erdwurzel rausfischen. }
+
+Plh_55 { Ich habe die Salbe hergestellt. }
+
+Plh_56 { Sehr gut, aber was willst du hier damit? Bring es zur verletzten Person! }
+
+Plh_59 { Die dicke Salbe musst du nur noch auf die Wunde auftragen. Sie sollte schnell wirken. Ansonsten hat die Natur dieser Person eben ein anderes Schicksal auferlegt, und das können wir Sterblichen nicht ändern, tja. }
+
+Plh_61 { Was hält die Zukunft für das Holzfällerlager bereit? }
+
+Plh_62 { Ich kenne sie schon lange, und ... ich mache mir Sorgen. Sie werden immer weniger. Es sind gute Leute, allesamt, aber ihr Vertrauen schwindet ... Cengiz muss sich um so viel kümmern, und jetzt muss er sich auch noch Sorgen um Larea machen. Sie wollte eigentlich längst zurück sein. }
+
+Plh_63 { Mir fehlt sie auch. *grinst* Sie ist eins mit dem Auwald, aber auf ganz andere Weise als ich. Sie verschmilzt mit der Wildnis, regelrecht, als bräuchte sie keine Menschen. Ach, ich wünschte, das könnte ich auch ... }
+
+Plh_64 { Sie ist Jägerin, wollte Wasserratten nördlich von hier jagen. Dann ist sie meist ein paar Tage unterwegs. Aber durch das Erdbeben sind die Ratten wahrscheinlich in alle Richtungen verstreut ... }
+
+Plh_65 { Wo wollte Larea hin? }
+
+Plh_66 { *atmet tief aus* War noch was? Ach so, das meintest du nicht. Ich warte hier, bis die Brücke repariert ist. Auf keinen Fall werde ich von meiner bewährten Route abweichen und irgendwelchem Gekreuch in die Arme laufen! Oder deren Krallen. }
+
+Plh_68 { *schaut verträumt ins Leere* }
+
+Plh_69 { Zum Glück halten meine getrockneten Heilkräuter lange. Irgendwann werden sie die Brücke schon repariert bekommen. Solange ich nicht selbst einen Hammer in die Hand nehmen muss, bin ich zufrieden. }
+
+Plh_73 { Oh ja! Die Natur von Drova hat so viele wunderbare Sachen zu bieten. Hier, schau mal! }
+
+Plh_75 { In welchem Stadium ist die Verletzung? }
+
+Plh_76 { Ich bin Bombus. Fahrender Händler, Imker, Heilkundiger. Meine Hände führen das Licht der Sonne und meine Augen sind benetzt von Tau. Ist Drova nicht ein wunderbarer Ort? }
+
+Plh_77 { Was ich allerdings nicht bin, ist ein Gedankenleser, daher wirst du mir ganz altmodisch sagen müssen, wer du eigentlich bist! }
+
+Plh_78 { Und wenn man sie trocknet und mit der richtigen Menge Pfeifenkraut mischt, kann man herausfinden, wie der Sonnenuntergang schmeckt und hört die Sterne vorbeiflitzen! }
+
+Plh_80 { *singt* Meine Bienen, meine Bienen! Sie schenken mir Honig! Der ist so wohlig! Den kann ich lieben! }
+
+Plh_81 { *singt* Lange war ich nicht mehr da, aber bald kommt wieder der Papa! }
+
+Plh_101 { Von was für Bienen hast du da gesungen? }
+
+Plh_102 { Das Biest ist tot. Es war ein Bär. }
+
+Plh_105 { Moment ... Imker? }
+
+Plh_106 { Natürlich! Meine Bienenstöcke sind in ganz Drova verteilt. Ohne mich wäre die Natur hier längst zugrunde gegangen! }
+
+Plh_107 { Ich hatte mich als Imker vorgestellt. Schon vergessen? *zwinkert* }
+
+Plh_108 { Vielleicht kannst du das Biest zur Strecke bringen? Das würde sie sicher freuen! }
+
+Plh_109 { Irgendein Biest ist bei meinen Bienenstöcken hinter der Scheune. Es ist fürchterlich! }
+
+Plh_110 { Oh, wirklich? Beeindruckend, wirklich beeindruckend!. Ich danke dir herzlichst! Und meine Summsen natürlich auch! }
+
+Plh_111 { Dann fließt jetzt wieder der Honig zur Taverne! Oder ich genieße hier noch ein wenig die Aussicht ... mal sehen, mal sehen. }
+
+Plh_113 { Birka meint, dass sie Honig von dir braucht. }
+
+Plh_114 { *murmelt* Ja, ja, das würde ich gern! Bombus, Bombus, du hast dir wieder was eingebrockt. }
+
+Plh_116 { Der Bär bei den Bienenstöcken? Der ist schon tot. }
+
+Plh_117 { Da müsste doch so viel mehr drin sein! Der Bär hat wirklich viel von meinem Honig gefressen ... Oh weh! }
+
+Plh_118 { Ja, ähm, böser Bär. }
+
+Plh_119 { Ich muss was gestehen, Bombus ... das war ich. }
+
+Plh_120 { Ich sage ja immer: Bier her, Bier her, dann tanzt der Bär hier! }
+
+Plh_121 { Nun, ich kann froh sein, dass er lieber Honig frisst als mich. }
+
+Plh_122 { Du? Aber $GVAR:EVars_Player.Name$! Das ... also ... Bombus wird nicht einfach so wütend, aber SO EINE FRECHHEIT! ICH WERDE ... ICH WERDE ... }
+
+Plh_123 { Jetzt guck nicht so ängstlich. Ist nicht schlimm. Ich hoffe, es hat gemundet. }
+
+Plh_124 { Bombus hat nämlich vorgesorgt. Nur ich weiß, wo alle meine Bienenstöcke stehen. Da ist noch mehr als genug Honig, wenn du weißt, wo du gucken musst. *zwinkert* }
+
+Plh_125 { Oh nein, meine Bienen werden sich schütteln vor Furcht! Wenn sie so den Honig produzieren, wird der ungenießbar sein! }
+
+Plh_126 { Ein rötliches Kraut kann Gifte aus dem Körper vertreiben. }
+
+Plh_127 { Ein anderes, violettes Kraut. Kann jemanden blau anlaufen lassen. Es gibt sogar welche, die den Geist erhellen, ist das nicht absolut wunderbar? }
+
+Plh_128 { Kein Problem für mich. }
+
+Plh_129 { Ich sehe, was ich machen kann. }
+
+Plh_130 { Das freut mich! }
+
+Plh_131 { Gut fürs Geschäft, aber auch gut für meine Gesundheit! }
+
+Plh_132 { Die gute Larea ist wieder da! Ohne sie zu treffen, hätte ich meine Route auch nicht fortsetzen wollen. Da fällt dem alten Bombus ein Stein vom Herzen! }
+
+Plh_133 { Ich hab sie mit deiner Heilsalbe gerettet. Aber das darfst du niemandem sagen! }
+
+Plh_135 { Alles hat ein gutes Ende. }
+
+Plh_136 { Hast du was anderes erwartet? Larea ist eine fähige Jägerin. }
+
+Plh_137 { Dachte ich mir doch, dass du was damit zu tun hattest! }
+
+Plh_138 { Keine Sorge, Bombus ist der beste Geheimnisbewahrer Drovas. Meine Lippen sind versiegelt! }
+
+Plh_139 { Zum Glück! Oh, oh, was hab ich mir schon schlimme Sachen ausgemalt ... }
+
+Plh_140 { Von Larea kann ich noch den einen oder anderen Trick lernen, jaja! }
+
+Plh_141 { Meine alten Knochen sagen mir, dass irgendjemand nicht ganz unbeteiligt daran war ... }
+

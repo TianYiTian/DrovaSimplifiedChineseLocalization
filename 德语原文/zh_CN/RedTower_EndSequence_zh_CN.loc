@@ -1,0 +1,312 @@
+Plh_0 { Schaut euch das an ... der Todesnebel. Er breitet sich aus! }
+
+Plh_1 { Was ist passiert? Sind die Monolithen ... }
+
+Plh_2 { $GVAR:EVars_Player.Name$ ... ja! }
+
+Plh_3 { Können uns die Göttlichen irgendwie helfen? }
+
+Plh_4 { Es muss doch eine Möglichkeit geben? }
+
+Plh_8 { *Unvermittelt überkommt dich eine unglaubliche Wut. Alle deine Muskeln verkrampfen sich, dein Herzschlag wogt durch deinen Körper, der Atem wird wie aus einem Blasebalg aus dir gepresst.* }
+
+Plh_11 { Der Todesnebel hat fast Nemeton erreicht! }
+
+Plh_12 { Die Monolithen sind nicht mehr aktiv! }
+
+Plh_13 { Der Runenzirkel ... er hat die Monolithen mit magischer Kraft versorgt! Durch den Kampf muss die Verbindung unterbrochen worden sein ... nun wird der Nebel uns verschlucken. }
+
+Plh_14 { Wir müssen schnell den Runenzirkel wiederherstellen. So können wir den Nebel aufhalten! }
+
+Plh_15 { Das ist verrückt! Ich bräuchte eine Ewigkeit, um seine Geheimnisse zu entschlüsseln. Alles wiederherzustellen ... nein ... wir sind ... }
+
+Plh_16 { Nemeton ... es war alles umsonst? Mein Bruder Jero ... }
+
+Plh_17 { Können wir die Göttlichen nutzen, um in unsere Heimat zu gelangen? Können wir noch flüchten? }
+
+Plh_18 { Ich ... ich weiß es nicht. Unmöglich, dass ich es so schnell weiß ... ich muss erst herausfinden, wie das funktioniert. }
+
+Plh_19 { Es heißt, dass der Nebel erschienen ist, als der dritte Göttliche gefangen wurde. Wenn die Göttlichen frei sind, vertreiben sie den Nebel ... vielleicht. }
+
+Plh_20 { Wir lassen die Göttlichen frei. Das ist unsere einzige Chance. }
+
+Plh_21 { Wir brauchen die gefangenen Göttlichen. Nur mit ihnen können wir Nemeton ... }
+
+Plh_23 { Wir müssen die Göttlichen freilassen, sonst werden wir hier und jetzt sterben. Und dann alle Menschen in ganz Drova! }
+
+Plh_24 { Wir müssen die Runengefäße zerstören. Los, keine Zeit verlieren! }
+
+Plh_25 { Ich habe etwas gefunden ... in den Kammern des letzten Anführers der Vergangenen ... }
+
+Plh_26 { Was redest du da? }
+
+Plh_27 { Ich hoffe, du weißt, was du da tun willst, $GVAR:EVars_Player.Name$ ... Aber versuch es. Was können wir tun? }
+
+Plh_28 { Drivanius hat einen Helm entwickelt, mit dem er mit den Göttlichen kommunizieren konnte. }
+
+Plh_29 { Platziert den Keiler in ihrer Mitte und ... versucht, Ruhe zu bewahren. }
+
+Plh_33 { Aber wir würden überleben! Der Todesnebel wird uns sonst verschlingen! }
+
+Plh_34 { Ich habe den Großen Keiler dabei ... }
+
+Plh_35 { Molvina! }
+
+Plh_36 { Molvina kann gerade nicht entscheiden. Wir müssen es tun. Also? }
+
+Plh_37 { (die Wut erwidern, fester zupacken, schreien) }
+
+Plh_39 { (möglichst ruhig bleiben) }
+
+Plh_40 { *Die Wut ist überwältigend. Du spürst den heißen Fluss der göttlichen Macht durch deine Arme und deinen Körper rasen.* }
+
+Plh_42 { *Die Wut ist überwältigend. Du spürst den heißen Fluss der göttlichen Macht durch deine Arme und deinen Körper rasen.* }
+
+Plh_43 { *Gedanken erfüllen deinen Kopf, breiten sich aus, überwältigen dich.* }
+
+Plh_44 { *Alle Momente, in denen du dich hilflos gefühlt hast, während dir oder anderen Unrecht angetan wurde ...* }
+
+Plh_45 { *Herausforderungen, denen du nicht gewachsen warst. Augenblicke, in denen du dich selbst verflucht hast ... wie auch die ganze Welt und das Leben selbst ...* }
+
+Plh_46 { *Du musst daran denken, wie der Natur und ihren Bewohnern rücksichtslos geschadet wurde ...* }
+
+Plh_47 { *Ein Gedanke wächst immer weiter, bis er dich ausfüllt. Du stehst wieder im Düsterwald, auf der Lichtung mit dem ersten Baum. Du spürst den Ursprung der Wut ...* }
+
+Plh_48 { *Der Große Keiler steht vor dir. Unzählige tote Eber und Frischlinge um ihn herum. Er fühlt sich hilflos, schwach, voll unglaublicher Wut, während er in das Gefäß in deinen Händen gezogen wird.* }
+
+Plh_49 { *Als deine Sinne schwinden, fühlst du sengende Hitze zwischen deinen Händen und einen endlosen Schrei aus deiner Kehle aufsteigen, und dann - Stille ...* }
+
+Plh_50 { *Du greifst nach dem Runengefäß. Deine linke Hand berührt die Rune der Wahrheit, deine rechte Hand die Rune der Freundlichkeit.* }
+
+Plh_51 { *Du atmest tief ein und konzentrierst dich auf die Kraft, die zwischen deinen Händen liegt.* }
+
+Plh_52 { *Du entspannst dich und atmest aus ...* }
+
+Plh_53 { *Vor dir erscheinen die Geister der gefangenen Göttlichen. Ihre Kraft wütet nicht mehr. Sie ist langsam, kalt und dunkel. Berechnend. Gefangen.* }
+
+Plh_54 { *Die Texte von Drivanius schießen dir in den Kopf. "Wie soll ich ihnen nur beweisen, dass ich ihr Vertrauen verdiene?"* }
+
+Plh_55 { *Im nächsten Moment überkommen dich starke Zweifel. Bist du stark genug, um dich den Göttlichen zu stellen? Du fühlst dich schwach. Der Anblick der Göttlichen macht dir Angst.* }
+
+Plh_56 { *Deine Erinnerungen geben dir Kraft. Dir wird bewusst, was du alles erlebt hast. Die Macht der Göttlichen ist nun wie ein Windhauch für dich. Sie hüllt dich warm ein.* }
+
+Plh_57 { *Die Bilder deiner Erinnerungen durchfluten dich mit Liebe und Glück. Dir wird warm. Du fühlst dich geborgen.* }
+
+Plh_58 { *Die Kraft in dir und die der Göttlichen ist identisch. Das erkennst du nun. So wie sie. Ihr blickt euch an - wie in einen Spiegel.* }
+
+Plh_60 { (Augen öffnen) }
+
+Plh_61 { $GVAR:EVars_Player.Name$?! Hast du es geschafft? Von dir ist eben die Macht eines Göttlichen ausgestrahlt! }
+
+Plh_62 { Es ist vollbracht. Die Göttlichen vertrauen mir. Zerstört die Gefäße. }
+
+Plh_63 { Darwin ... das Göttliche ist in UNS. Wir müssen sie freilassen, sofort! }
+
+Plh_64 { Wir sind endlich da! Dort vorne sind die Runengefäße. Die Göttlichen gehören uns! }
+
+Plh_65 { Es war alles umsonst ... wir haben versagt. }
+
+Plh_66 { $GVAR:EVars_Player.Name$, du nimmst den Großen Keiler. Und wir andere verteilen uns - jeder eins! }
+
+Plh_67 { Der Todesnebel hat fast Nemeton erreicht. Molvina ... was sollen wir tun?! }
+
+Plh_69 { Aber ich habe gelesen, dass die Vergangenen große Angst vor dem Zorn der Göttlichen hatten ... }
+
+Plh_70 { Ich brauche das Runengefäß des Keilers - mit ihm hatte ich schon Kontakt. }
+
+Plh_71 { Mombert, das Göttliche ist in UNS. Wir müssen sie freilassen, sofort! }
+
+Plh_72 { (du erinnerst dich an die Werte der Zuflucht ... an die Tugend der Verbundenheit) }
+
+Plh_73 { (nach Hilfe suchend umschauen) }
+
+Plh_74 { *Du spürst, wie deine Einsamkeit sich auflöst. Die Kraft der Göttlichen strahlt nun heller. Sie fließt wieder, und du spürst eine vertraute Wärme von ihr ausgehen.* }
+
+Plh_75 { (du erinnerst dich an die Tugend des Mutes und all die Herausforderungen, die du bisher bewältigt hast) }
+
+Plh_76 { (umschauen ... weinen) }
+
+Plh_77 { (du erinnerst dich an die Tugend der Barmherzigkeit und an die Momente, in denen du Schwächeren helfen konntest) }
+
+Plh_78 { Ihr habt es gehört! Zerstört die Gefäße! $GVAR:EVars_Player.Name$, übernimm du den Großen Keiler! }
+
+Plh_80 { Molvina ... was jetzt? }
+
+Plh_81 { $GVAR:EVars_Player.Name$, was sollen wir tun?! }
+
+Plh_82 { Wir müssen den Runenzirkel wiederherstellen! }
+
+Plh_85 { Was richtet der Todesnebel an? }
+
+Plh_86 { Er wird alles zerstören. Uns. Alles Leben. Die Monolithen haben ihn all die Zeit ferngehalten. Das ist vorbei. Alles ist vorbei. }
+
+Plh_87 { ... verloren. }
+
+Plh_88 { Das könnte funktionieren. Es MUSS funktionieren. }
+
+Plh_90 { Endlich geschafft! Wir haben sie ... }
+
+Plh_91 { Schaut euch das an! Irgendwas stimmt nicht! Der Todesnebel! }
+
+Plh_92 { Der Todesnebel? }
+
+Plh_100 { Das stimmt. Aber wir haben keine Wahl. Wie viel Zorn die Göttlichen auf uns richten, können wir nicht wissen. Aber im Todesnebel werden wir sicher vergehen. }
+
+Plh_101 { Wir müssen auch den Großen Keiler freilassen. }
+
+Plh_102 { Es ist unsere letzte Möglichkeit. TUT ES! }
+
+Plh_103 { Wir müssen es tun. Sofort! }
+
+Plh_105 { Endlich, mit den Göttlichen haben wir genug magische Kraft ... }
+
+Plh_106 { Was ... was ist das? }
+
+Plh_107 { Der Todesnebel hat fast Nemeton erreicht ... er wird alles verschlucken. Jero - was sollen wir tun?! }
+
+Plh_110 { Jero, was sollen wir tun? }
+
+Plh_111 { Es ist eine Möglichkeit ... aber sie wird uns alles nehmen. Vielleicht gibt es eine andere Möglichkeit ... eine bessere ... }
+
+Plh_112 { Wenn wir die Göttlichen freilassen, war alles umsonst. Wir können nie wieder nach Hause ... }
+
+Plh_113 { Aber tun wir es nichts, sterben wir sicher. }
+
+Plh_114 { Wir müssen sie freilassen. Uns bleibt dann wenigstens noch unser Leben. }
+
+Plh_115 { Ohne dich wären wir in der Mine gestorben. }
+
+Plh_116 { Dich brauchen wir beim Ruinenlager. }
+
+Plh_117 { Jemanden mit Köpfchen können wir gebrauchen. }
+
+Plh_118 { Mit dir kann man gut jagen! Auf uns! }
+
+Plh_119 { Jeros Klingen stimmen für dich. Willkommen im Ruinenlager. }
+
+Plh_121 { Ein guter Kampf ... mit einem würdigen Sieger. }
+
+Plh_122 { $GVAR:EVars_Player.Name$ hat gewonnen! }
+
+Plh_126 { Na, Cay, hast du mit $GVAR:EVars_Player.Name$ gespielt? }
+
+Plh_127 { Endlich können wir wieder Holz hacken! }
+
+Plh_130 { Willkommen im Ruinenlager! }
+
+Plh_131 { Dass jemand Eugen besiegt ... }
+
+Plh_132 { Gut gekämpft! Aber du musst noch viel lernen! }
+
+Plh_133 { Hey, das war nur Glück! }
+
+Plh_134 { Gut gekämpft! }
+
+Plh_135 { Die Expedition in den Düsterwald wird hart. Wir müssen zusammenhalten. }
+
+Plh_136 { Wir schaffen das schon. Wir sind eine gute Truppe! }
+
+Plh_137 { Für die Freiheit! Für Jero! }
+
+Plh_138 { Du gehörst zu den besten Kämpfern! }
+
+Plh_139 { Du hast uns die Machtkristalle gebracht. }
+
+Plh_140 { Die Freiheit ist nah! }
+
+Plh_144 { Du gehörst jetzt zu Nemeton. Du bist ein Teil der Familie. }
+
+Plh_145 { Ohne dich hätten wir Kendrick nicht überführt. }
+
+Plh_147 { Der Düsterwald ist gefährlich. Wir müssen zusammenhalten. }
+
+Plh_148 { Ich werde nie wieder Angst haben. Ich werde kämpfen. }
+
+Plh_149 { Ich glaube an dich, Karotte. Und an dich, $GVAR:EVars_Player.Name$! }
+
+Plh_150 { Wir tun alles für unsere Familie. Für unsere Liebsten. }
+
+Plh_151 { Du bist dran, Luten! }
+
+Plh_152 { Das war unfair! }
+
+Plh_153 { Kinder, Kinder - dafür sind wir nicht hier. }
+
+Plh_154 { Es geht heute um $GVAR:EVars_Player.Name$. Du bist jetzt ein Hüter Nemetons! }
+
+Plh_155 { Das feiern wir! }
+
+Plh_156 { Du hast Nemeton einen großen Dienst erwiesen ... }
+
+Plh_157 { Nicht nur Nemeton, uns allen. }
+
+Plh_158 { Trage den Runenstein mit Stolz. }
+
+Plh_159 { Wir beide haben es geschafft. Gradan wäre stolz ... }
+
+Plh_161 { *Du siehst nichts. Niemand kann dir hier helfen. Du bist allein.* }
+
+Plh_163 { PREISET $GVAR:EVars_Player.Name$! }
+
+Plh_164 { Wir haben überlebt, dank dir. }
+
+Plh_166 { Ich bin endlich wieder bei Georg und kann dort arbeiten. }
+
+Plh_167 { Als wir in Not waren, hast du uns beigestanden! }
+
+Plh_168 { Ich auch, aber meine verdammte Schulter tut weh! }
+
+Plh_169 { Unserer Schwester geht es besser, danke. }
+
+Plh_170 { Dank dir. }
+
+Plh_171 { (die Kraft deiner Erinnerungen annehmen) }
+
+Plh_174 { *Eine Erinnerung dringt leise zu dir durch. Ein Quieken? Du hörst eine liebliche Stimme: "In der Zuflucht im Einklang mit den Göttlichen."* }
+
+Plh_175 { *Die Göttlichen fühlen nun deine Stärke. Und du spürst, dass sie zögern ... die Göttlichen ordnen sich dir unter. Du fühlst dich mächtig, du kannst tun, was du willst.* }
+
+Plh_176 { (du unterwirfst die Göttlichen deinem Willen, verlangst ihre Kraft für dich allein) }
+
+Plh_177 { *Du wendest deine Macht gegen die Göttlichen ... und ... sie unterliegen dir ...* }
+
+Plh_178 { Du hast meine Kammern gefunden. Das freut mich. Endlich eine Person, die das Wissen, das ich gesammelt habe, anwenden kann. Wissen, dem ich mein ganzes Leben gewidmet habe ... }
+
+Plh_179 { Ich habe meine Aufzeichnungen verstecken müssen, damit sie nicht in falsche Hände fallen. Wer sie findet, musste ihrer würdig sein und verstehen, was ihre Tragweite ist. Mein Volk ist fehlgeleitet worden und ... aber das ist eine andere Geschichte. }
+
+Plh_180 { Aber du, $GVAR:EVars_Player.Name$, du bist hier. Du bist würdig. Du hast meine Forschung fortgeführt, was mir nicht gelungen ist. Du wirst diese Welt verändern. Zum Guten. Ich weiß es. Leb wohl. }
+
+Plh_184 { Es war alles so seltsam ... ich ... ich weiß nicht ... was passiert ist. }
+
+Plh_185 { Was ist geschehen? Du musst doch etwas erfahren haben? Was sollen wir jetzt tun? }
+
+Plh_187 { Wir müssen die Gefäße zerstören! }
+
+Plh_190 { Mit den Göttlichen ... kommunizieren?! Was soll uns das bringen? }
+
+Plh_191 { Ich werde es herausfinden. Das ist unsere beste Chance. }
+
+Plh_193 { Ich habe die Kraft der Göttlichen mit eigenen Augen gesehen. Lassen wir sie frei, legen sie ganz Drova in Schutt und Asche. Dessen bin ich mir sicher. }
+
+Plh_195 { Vielleicht kann ich die Göttlichen beruhigen? }
+
+Plh_196 { *Dir wird schwarz vor Augen.* }
+
+Plh_197 { *Du spürst, dass sie dich nicht als Freund empfangen. Und fühlst dich fremd.* }
+
+Plh_198 { *Nach kurzer Zeit wird dir bewusst, was für eine große Einsamkeit von den Göttlichen ausgeht und auf dich übergeht. Du schaust dich nach deinen Freunden um, aber du siehst nur Dunkelheit.* }
+
+Plh_199 { *... aber nur kurz ... dann bündeln sie ihre Macht, überstrahlen deine und zwingen dich in die Knie.* }
+
+Plh_200 { *Langsam kommst du wieder zu Sinnen ...* }
+
+Plh_201 { (deine Erinnerungen anschauen) }
+
+Plh_203 { *Die Göttlichen sind stärker als du.* }
+
+Plh_204 { Keine Ahnung, aber niemand sonst eine gute Idee! }
+
+Plh_207 { Wir haben jetzt keine Zeit mehr, uns zu bemitleiden. Wir müssen die Runengefäße zerstören! }
+
+Plh_208 { Verdammt, wir hätten auf Olaf hören sollen ... Vielleicht hätten er und seine Ruinenräuber eine Lösung gefunden. }
+

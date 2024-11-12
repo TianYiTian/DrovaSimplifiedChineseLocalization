@@ -1,0 +1,15 @@
+NewGame { 新游戏 }
+
+LoadGame { 加载游戏 }
+
+Continue { 继续游戏 }
+
+Options { 选项 }
+
+QuitGame { 结束 }
+
+StartGame { 开始 }
+
+Back { 返回 }
+
+Credits { 鸣谢 }

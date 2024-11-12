@@ -1,0 +1,9 @@
+draw { 绘画 }
+
+delete { 删除 }
+
+move { 移动 }
+
+close { 关闭 }
+
+confirm { 确认 }

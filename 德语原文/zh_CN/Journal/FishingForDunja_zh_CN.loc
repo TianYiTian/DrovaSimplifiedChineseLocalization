@@ -1,0 +1,8 @@
+Title { Fische für Dunja }
+
+Entry_01 { Dunja benötigt für ihre Fischsuppe $GVAR:QuestVars_FishingForDunja_Config.AmountFish$ Fische. Es soll welche im Apfelhain geben. }
+
+Entry_02 { Ich habe Dunja ihren Fisch gebracht und bekomme dafür morgen meine Fischsuppe. }
+
+Entry_03 { Die Fischsuppe ist fertig. }
+

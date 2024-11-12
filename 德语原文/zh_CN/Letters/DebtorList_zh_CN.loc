@@ -1,0 +1,10 @@
+Mog { Mog schuldet mir $GVAR:QuestVars_Debt_Config.MoneyFromMog$ Münzen. }
+
+Meluna { Da Meluna beklaut wurde, schuldet auch sie $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ Münzen. }
+
+Lindon { Lindon hat sich viel erlaubt.<br>Er schuldet mir $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ Münzen. }
+
+Bady { Selbst der ehrenhafte Bady hat sich mit $GVAR:QuestVars_Debt_Config.MoneyFromBady$ Münzen verschuldet. }
+
+Lore { Lore hat $GVAR:QuestVars_Debt_Config.MoneyFromLore$ Münzen Schulden. }
+

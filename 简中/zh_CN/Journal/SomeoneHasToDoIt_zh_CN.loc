@@ -1,0 +1,7 @@
+Title { 总得有人做这件事！ }
+
+Entry_01 { Agilo不得不负责做饭，而我需要从地窖里给他拿些苹果，这样他才能继续工作。地窖位于Agilo东北方向的小山上。 }
+
+Entry_02 { 显然有人偷了地租，阿吉洛为此非常生气。昨晚里面似乎还有更多的存货。他说食物会变得紧缺，我应该给他带去$GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$个浆果。 }
+
+Entry_03 { 阿吉洛现在在修桥。 }

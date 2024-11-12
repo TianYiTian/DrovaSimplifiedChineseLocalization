@@ -1,0 +1,208 @@
+Plh_4 { Ich verkaufe gerade nichts, komm heute Abend wieder. }
+
+Plh_0 { Willkommen bei mir, bei Merik! Hier kriegst du alles, was das Hauerherz begehrt. Bessere Angebote findest du nirgendwo - weder in der Mine, noch im Rest von Drova! }
+
+Plh_1 { Hast du etwas, womit man weniger hört? }
+
+Plh_2 { Der Krach in der Mine, was? Ja, der kann einen wirklich in den Wahnsinn treiben, dieses Krachen ... zum Glück habe ich einen Gehörschutz im Sortiment. }
+
+Plh_3 { Na? Was darf's diesmal sein? }
+
+Plh_5 { Du siehst ja kräftig aus, aber ist Hauen anstrengend? Raubt es nicht deine Kraft? Das geht auch anders! }
+
+Plh_6 { Gut, ich nehme die Spitzhacke. ($GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ Silber geben) }
+
+Plh_7 { Ich möchte nicht. }
+
+Plh_8 { Eine weise Entscheidung! *grinst breit, ein Stück Gold an seinem Zahn blitzt auf* }
+
+Plh_10 { Wir haben ein Geschäft. *grinst* Hier - gutes Hacken! }
+
+Plh_11 { Augenblick, du hast nicht genug Silber! Komm wieder, wenn du bezahlen kannst. }
+
+Plh_12 { Der SILBERBRECHER ist da! Die besonders gehärtete Spitze wurde bei Vollmond mit einer magischen Schicht bedeckt und fährt wie nix durch Silber! }
+
+Plh_13 { Verdammt teuer ... }
+
+Plh_14 { Ach was! Rechne es durch. Jeder Schlag verbraucht die halbe Kraft, du kannst doppelt so viel Silber hauen. Ich müsste das Doppelte verlangen! }
+
+Plh_15 { Was ist am Silberbrecher besser als bei einer herkömmlichen Spitzhacke? }
+
+Plh_16 { Alles! Alles ist besser! Das vorherige Modell hatte Probleme bei der Reaktion mit dem Silber, aber das haben wir in den Griff gekriegt! }
+
+Plh_18 { Der Silberbrecher ist auch nur eine Spitzhacke in anderer Farbe, oder? }
+
+Plh_19 { Was? Das ist das Ergebnis der Forschungsarbeit von einer Ewigkeit! Was willst du mir da unterstellen?! *ihm läuft eine einzelne Schweißperle die Stirn runter* }
+
+Plh_20 { Wo ist der Haken bei der Sache? }
+
+Plh_21 { Ich verkaufe keine Haken - nur Hacken, hahaha! Vielleicht musst du dich erst einleben hier ... }
+
+Plh_22 { Nein, danke. Ich gehe jetzt. (Gespräch verlassen) }
+
+Plh_23 { *knirscht mit den Zähnen* Gut, du willst es offenbar besser wissen. Komm ruhig angekrochen, wenn du dich halb tot geschuftet und es dir anders überlegt hast. }
+
+Plh_24 { Zeig mir deine Ware. }
+
+Plh_25 { Wegen deines Angebots mit der Spitzhacke ... }
+
+Plh_26 { Na, hast du es dir anders überlegt? Der Silberbrecher wartet nur darauf, von dir eingesetzt zu werden! }
+
+Plh_27 { Hör zu, du gefällst mir, und ich mache eine Ausnahme - du bekommst den Silberbrecher günstiger. $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ Silber! }
+
+Plh_28 { Gut, ich nehme die Spitzhacke. ($GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ Silber geben) }
+
+Plh_29 { Die Spitzhacke ist kaputt ... }
+
+Plh_30 { Unmöglich! Hast du sie auch richtig herum gehalten? Hast du sie gut gepflegt? War dein Schlagwinkel passend? Die halten ein Leben lang! }
+
+Plh_31 { Vielleicht habe ich was falsch gemacht ... }
+
+Plh_32 { Willst du mich verarschen? Du hast mich abgezogen! }
+
+Plh_33 { Ich sollte dir einfach eine aufs Maul geben. (Rauferei starten) }
+
+Plh_34 { Aber das macht doch nichts! Für nur $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ Silber bekommst du direkt eine Neue von mir! Musst sie nur richtig benutzen. }
+
+Plh_35 { Ganz ruhig. Ich nehme die Meinung meiner Kunden sehr ernst. Aber deine Unterstellung muss ich mir nicht gefallen lassen! }
+
+Plh_36 { Deine Spitzhacke ist sofort kaputt gegangen! }
+
+Plh_37 { Die Spitzhacke ist schon wieder kaputt! }
+
+Plh_38 { Das kann nicht sein! Benutzt du sie korrekt? Das ist noch nie passiert, ich kann es mir nicht erklären! }
+
+Plh_39 { Du verkaufst Ausschussware! }
+
+Plh_40 { Wir regeln das anders. Mit Fäusten. (Rauferei starten) }
+
+Plh_41 { Du Mistkerl. Vergiss es einfach. (Gespräch beenden) }
+
+Plh_42 { Na gut. Nimm. ($GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ geben) }
+
+Plh_43 { Vergiss es. }
+
+Plh_44 { Sehr, sehr gut. Und diesmal richtig rum halten, ja? }
+
+Plh_45 { Du hast nicht genügend Silber! }
+
+Plh_46 { Wir müssen an unserer Geschäftsbeziehung arbeiten. }
+
+Plh_47 { Wie du willst. Etliche meiner Kunden schwören auf den Silberbrecher. Aber wenn du lieber härter schuftest ... }
+
+Plh_48 { Du denkst, dass ich noch eine kaufe, du Abzocker? Ich bring dir jetzt Manieren bei. (Rauferei starten) }
+
+Plh_49 { Ach ja? Diese Sprache beherrsche ich! }
+
+Plh_50 { Arrghh. Mein Arm ... }
+
+Plh_51 { Ich glaube, es gab da ein kleines Missverständnis zwischen uns. Lass uns von vorne anfangen. *grinst* }
+
+Plh_53 { Du hast mich verarscht und bezahlst mit Silber. }
+
+Plh_54 { Her mit Silber, sonst gibt's noch mehr auf die Kauleiste. }
+
+Plh_55 { *hebt beide Hände hoch* He, he, ganz ruhig. Wir können uns einigen. Hier, nimm. }
+
+Plh_56 { Eigentlich sollte ich mit dir keine Geschäfte machen. Aber ich muss von was leben ... }
+
+Plh_57 { Hey, ich hab keine Zeit. Ich bin nachher wieder da und verkaufe dir was. }
+
+Plh_60 { Klaust du hier Sachen? }
+
+Plh_61 { Ich muss weiter. }
+
+Plh_63 { Verschwinde. Das geht dich nichts an. }
+
+Plh_65 { Levin würde interessieren, was ihr hier macht ... }
+
+Plh_66 { Was geht hier vor? }
+
+Plh_68 { Überleg dir gut, was du irgendwem erzählen willst ... }
+
+Plh_70 { *schaut zu Katsa* }
+
+Plh_71 { Wir kümmern uns darum, dass ihr Hauer genug Sachen bekommt. Merik holt sie hier ab und verkauft sie dann an euch. }
+
+Plh_72 { Also schmuggelt ihr Sachen in die Mine? }
+
+Plh_73 { Kann ich euch helfen? }
+
+Plh_76 { *arbeitet weiter* }
+
+Plh_77 { Niemand muss wissen, was wir hier machen. Wie wär's, du hältst die Fresse und hast was gut bei mir. }
+
+Plh_78 { Ich schaue weg, wenn du nächstes Mal wegschaust, wenn ich raus will. }
+
+Plh_79 { Levin würde das nicht gefallen. }
+
+Plh_80 { *grinst* Also gut. Abgemacht. Aber du kommst nur EINMAL umsonst raus. Und wenn Levin herausfindet, was du hier gesehen hast, dann weiß ich, wer verantwortlich ist. }
+
+Plh_81 { Hey. Ich bin Merik, aber hab gerade keine Zeit. Komm nachher zu meinen Stand, dann kann ich dir was verkaufen. }
+
+Plh_82 { Na gut. Nimm. ($GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ geben) }
+
+Plh_83 { Du hast mir doch schon alles weggenommen! }
+
+Plh_84 { Damit kannst du hauen, als wäre es kein Stein, sondern Holz! Vertrau mir! Hauen war nie schöner! }
+
+Plh_85 { Hm. Wirklich? }
+
+Plh_86 { Höre ich da Unglauben? Meiner Ware kannst du vertrauen! }
+
+Plh_87 { Na gut, dann gib mir mal eins von den Dingern. }
+
+Plh_88 { Gern! Und wenn du mehr Ausrüstung brauchst, komm zu mir! }
+
+Plh_89 { Ah, wir hatten bislang noch nicht das geschäftliche Vergnügen! *grinst breit* }
+
+Plh_90 { Indem du eine MEINER neuen und verbesserten Spitzhacken verwendest! *hebt eine Spitzhacke hoch* }
+
+Plh_91 { Das alles für den geringen Preis von $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ Silber! Und damit treibe ich mich selbst in den Ruin! Wie sieht's aus? }
+
+Plh_93 { Hast du auch etwas ... Besonderes im Sortiment? }
+
+Plh_94 { Ich? Natürlich nur, was hier liegt. Schließlich darf ich hier nicht alles verkaufen, was es gibt. *guckt links und rechts über seine Schulter* }
+
+Plh_95 { Dann gebe ich mein Silber woanders aus ... }
+
+Plh_96 { Gut. Trotzdem danke. }
+
+Plh_97 { *senkt die Stimme* Natürlich möchte ich aber auch niemanden enttäuschen und mit leeren Händen weggehen lassen. }
+
+Plh_98 { Denk dran: Ist das Leben als Hauer zu dreckig, komm zu Merik! }
+
+Plh_99 { Für dich habe ich noch ein paar ... andere Sachen. Guck ruhig noch mal genauer. }
+
+Plh_100 { Hier schlägt das Hauerherz groß! Zugreifen! }
+
+Plh_101 { Spitzhacke abgenutzt? Kein Problem! Kommt zu Merik! }
+
+Plh_102 { Gewinne, Gewinne, Gewinne! }
+
+Plh_103 { Zwei Spitzhacken zum Preis von drei! }
+
+Plh_104 { Meriks Stand! Es gibt nur den einen! Kommt vorbei! }
+
+Plh_106 { Verkaufst du auch was anderes als den Silberbrecher? }
+
+Plh_107 { Aber natürlich! Bei Merik bekommst du alles, was das Hauerherz begehrt! }
+
+Plh_108 { Du willst mir drohen? Sei mal vorsichtig ... }
+
+Plh_109 { *schaut dich grimmig an* Halt dich einfach raus. }
+
+Plh_111 { Ist dir das Hauerleben zu dreckig, komm zu Merik, lach dich bei den Preisen scheckig! }
+
+Plh_112 { Und das Einleben wäre mit dem Silberbrecher so viel leichter! Aber das wirst du merken. }
+
+Plh_113 { Wie wäre es mit einem Rabatt? Deinen nächsten Silberbrecher verkaufe ich dir für $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ Silber. Einmaliges Angebot! }
+
+Plh_114 { Der Griff besteht aus Nachtholz und schmiegt sich nur so in deine Handfläche. Mit dem Silberbrecher kostet dich jeder Schlag nur halb so viel Ausdauer! Doppelt so viel Silber, selbe Arbeit! }
+
+Plh_115 { Vergiss die Spitzhacke von gestern - hol dir noch heute den Silberbrecher! }
+
+Plh_116 { Damit sind deine Lauscher beruhigt. Und deine Nerven. Kostet auch nicht viel! }
+
+Plh_117 { Hier in der Mine handeln wir nicht Münzen, sondern mit Waren. Wir tauschen sie! }
+

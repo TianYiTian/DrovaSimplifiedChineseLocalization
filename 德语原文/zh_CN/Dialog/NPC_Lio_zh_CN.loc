@@ -1,0 +1,114 @@
+Plh_5 { Dein Gesicht ist mir schon im Traum erschienen. Ich wusste, dass du zu mir kommen wirst. Ich bin Lio, Runenweber von Nemeton. }
+
+Plh_6 { Was ist ein Runenweber? }
+
+Plh_8 { Ich stelle Runensteine her. Sie sind gefüllt mit der Kraft eines Göttlichen. Mit ihnen können wir also Zauber wirken, die direkt aus dem Reich der Göttlichen stammen. }
+
+Plh_10 { Wie genau macht ein Runenweber das? }
+
+Plh_20 { Karotte und $GVAR:EVars_Player.Name$. Ihr habt den Großen Keiler nach Hause gebracht und seine Kraft geteilt. Sie wird euch nun beistehen. }
+
+Plh_21 { Göttlicher! Segne diesen Runenstein. Er sei Behälter deiner Macht! Eine Ader der Magie! }
+
+Plh_24 { Dein Runenstein wird an dich gebunden, und erst mit deinem Tod wird das Band zerstört. }
+
+Plh_30 { Es ist so weit. Endlich! }
+
+Plh_32 { Verschmelze mit dem Göttlichen! Werde eins mit dieser Rune! Sie wird Teil deines Körpers! }
+
+Plh_35 { Das Ritual ist abgeschlossen. Ein Runenstein ist an Karotte und einer an $GVAR:EVars_Player.Name$ gebunden. }
+
+Plh_36 { Ohne einen Zauber ist ein Runenstein machtlos. Lio wird euch einen ersten Spruch auf eure Runensteine sprechen. }
+
+Plh_38 { Karotte, komm zu mir. }
+
+Plh_40 { Hier, nimm deinen Runenstein und trage ihn in Ehren, Karotte. }
+
+Plh_41 { *hält den Runenstein fest* Der kribbelt in meiner Hand. }
+
+Plh_42 { Das ist die Bindung, die der Stein mit dir eingegangen ist. Nur du kannst diesen Runenstein benutzen. }
+
+Plh_44 { (bewegen) }
+
+Plh_46 { Dein Runenstein - die Kraft des Großen Keilers - ist nun ein Teil von dir. }
+
+Plh_47 { Gut gemacht, Lio. Du hast dir eine Pause verdient. }
+
+Plh_48 { Karotte und $GVAR:EVars_Player.Name$, ein Runenstein bedeutet Verantwortung. Ihr steht jetzt für Nemeton. Jede eurer Taten wird der Gemeinschaft zugesprochen. Seid euch dessen bewusst. }
+
+Plh_49 { Ich werde meinen Runenstein in Ehren halten. }
+
+Plh_50 { Karotte, melde dich bei Henik. Deine nächste Aufgabe wartet schon. Und du, $GVAR:EVars_Player.Name$, bleibst hier. Wir müssen etwas besprechen. }
+
+Plh_52 { $GVAR:EVars_Player.Name$, jetzt du. }
+
+Plh_19 { Wir beginnen ... }
+
+Plh_55 { Stell dir die Macht eines Göttlichen wie ein Spinnennetz vor. Als Runenweber muss ich mich auf diesen verschlungenen Wegen zurechtfinden. Es verlangt Übung, und es kostet viel Kraft. }
+
+Plh_56 { Wir müssen auf Molvina warten. }
+
+Plh_57 { Für Nemeton! }
+
+Plh_58 { Ich werde dich nicht enttäuschen. }
+
+Plh_61 { Der Moment ist gekommen. Wir werden damit in den Roten Turm kommen. }
+
+Plh_64 { Wir brauchen magische Kraft und können mit einer Runenreise die Barriere des Roten Turms überwinden und hineingelangen. }
+
+Plh_67 { Nein. Sie haben starke Krieger und mit Jero einen gefährlichen Anführer. Aber dank des Machtkristalls und des Großen Keilers haben wir eine Chance. *grinst* }
+
+Plh_68 { Wenn Jero das wüsste ... aber wir sind es, die es schaffen, Zugang zum Roten Turm zu bekommen. }
+
+Plh_69 { Der Rote Turm ist im Ruinenlager. Greifen wir sie an? }
+
+Plh_71 { Die Reise wird enorm viel Kraft brauchen. Die Macht des Großen Keilers ist begrenzt, da wir ihn im Runengefäß eingesperrt haben. }
+
+Plh_72 { Können wir den Göttlichen nicht befreien und seine Kraft nutzen? }
+
+Plh_73 { Dann würde er seinen Zorn auf uns richten. Wir würden die Kontrolle verlieren, und Gradan wäre umsonst gestorben ... }
+
+Plh_74 { Der Machtkristall! Er kann die Kraft der Göttlichen in sich aufnehmen, und wir können sie für die Runenreise nutzbar machen. }
+
+Plh_75 { Wir müssen herausfinden, ob es weitere Machtkristalle gibt. Mombert, du musst einen Weg finden, wie wir sie mit göttlicher Kraft füllen können. }
+
+Plh_76 { In diesem Machtkristall ist keine göttliche Kraft mehr. Wir müssen ihn wieder damit erfüllen. Allerdings ist es unmöglich, dass ein einzelner Kristall genug davon halten kann. }
+
+Plh_77 { Wie bekommen wir genug Kraft? }
+
+Plh_78 { Es gibt eine kleine Gruppe, die sich Ruinenräuber nennen. Ich weiß, dass sie schon mal in dieser Bibliothek waren ... }
+
+Plh_79 { Es gibt wahrscheinlich nur einen Ort, wo es mehr Informationen über die Existenz der Machtkristalle gibt - eine uralte Bibliothek ... sie befindet sich in den Ruinen. Wo genau, wissen wir nicht. }
+
+Plh_80 { Ich werde euch nicht enttäuschen. }
+
+Plh_85 { Als Hüter von Nemeton brauchst du eine vernünftige Rüstung. }
+
+Plh_86 { Ich kann dir eine leichte Rüstung geben - macht dich beweglicher, aber schützt dich nicht so gut. Oder eine schwere Rüstung, die dich besser schützen wird, wenn du getroffen wirst. }
+
+Plh_87 { Die Magie, die uns umgibt, ist überall. Ich kann dir auch eine unserer druidischen Rüstungen geben. Sie schützt dich zwar nicht ganz so gut, aber dafür verstärkt sie die Verbindung mit deinem Geist. }
+
+Plh_88 { Ich möchte die leichte Rüstung. }
+
+Plh_89 { Ich möchte die schwere Rüstung. }
+
+Plh_90 { Ich möchte die magische Rüstung. }
+
+Plh_91 { Kämpfe für Nemeton. Kämpfe für unseren Traum. }
+
+Plh_92 { So siehst du schon besser aus. Wenn du neue Waffen benötigst, wirst du bei Chunnaic fündig. Und du kannst dir bei Lio neue Zauber in deinen Runenstein weben lassen. }
+
+Plh_93 { Ich habe schon länger Kontakt mit einer Reija aufgenommen. Die Bibliothek interessiert uns schon, seit wir den Machtkristall haben. Sie kann uns dort hinbringen. }
+
+Plh_94 { $GVAR:EVars_Player.Name$, das ist eine sehr wichtige Aufgabe. Ich denke, du bist bereit dafür. Wir brauchen alle Informationen, die du über die Kristalle finden kannst. }
+
+Plh_95 { Was machst du hier in der Höhle? }
+
+Plh_96 { Was ist mit deinen Augen? }
+
+Plh_97 { Ich lebe hier, forsche an der Magie. Der Verbindung von Geist und Kraft. Ohne zu kämpfen, kannst du auch keine magische Kraft aufbauen. }
+
+Plh_99 { Magische Kraft hat ihren Preis. Ich verliere mein Augenlicht und sterbe von innen. Aber sterben müssen wir alle. }
+
+Plh_100 { Sie hält sich im Moment bei der Taverne auf. Triff dich dort mit ihr, und sag ihr, dass ich dich geschickt habe. }
+

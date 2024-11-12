@@ -1,0 +1,16 @@
+Plh_5 { Ah, ein neues Gesicht. Ich bin Frithjof. Hab ein paar interessante Sachen, die du bei mir kaufen kannst. Schau dich einfach mal um. *grinst* }
+
+Plh_7 { Na, willst du was kaufen? }
+
+Plh_9 { Wenn du was brauchst ... du weißt, wo du mich findest. }
+
+Plh_11 { Woher bekommst du deine ganzen Sachen? }
+
+Plh_12 { Ach, ich habe so meine Wege. Manchmal liegen die Sachen einfach so rum oder flinke Finger helfen dir an ihre Truhen zu kommen. Für $GVAR:EVars_Frithjof.MoneyForLearning$ Münzen kann ich dir zeigen, wie du Truhen öffnen kannst. }
+
+Plh_14 { Wenn du die $GVAR:EVars_Frithjof.MoneyForLearning$ Münzen hast *grinst* }
+
+Plh_15 { Hier sind die Münzen ($GVAR:EVars_Frithjof.MoneyForLearning$ Münzen geben) }
+
+Plh_17 { *grinst* Ich halte mein Wort. }
+

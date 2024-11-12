@@ -1,0 +1,206 @@
+talent_sword_01 { Einfacher Schwertkampf }
+
+talent_sword_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Hinrichten. }
+
+talent_sword_02 { Trainierter Schwertkampf }
+
+talent_sword_02_desc { Erhöht den verursachten Schaden um [DamageValuePercent] und schaltet einen 3. Kombo-Angriff frei. }
+
+talent_sword_03 { Meisterlicher Schwertkampf }
+
+talent_sword_03_desc { Verbessert deine Kampfhaltung und erhöht den verursachten Schaden um [DamageValuePercent]. }
+
+talent_sneak_01 { Schleichen }
+
+talent_sneak_01_desc { Du kannst besser schleichen und Gegner nehmen dich schwieriger wahr. }
+
+talent_shield_02 { Trainierter Schildkampf }
+
+talent_shield_02_desc { Der perfekte Block betäubt Gegner kurz. }
+
+talent_shield_01 { Einfacher Schildkampf }
+
+talent_shield_01_desc { Du kannst ab jetzt mit deinem Schild perfekt Blocken. }
+
+talent_shield_01_additionale_headline { Perfekter Block }
+
+talent_shield_01_additionale_desc { Wenn du kurz vor dem Treffer blockst, führst du einen perfekten Block aus, der wenig Ausdauer verbraucht. }
+
+talent_spear_01 { Einfacher Speerkampf }
+
+talent_spear_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Durchbohren. }
+
+talent_spear_02 { Trainierter Speerkampf }
+
+talent_spear_02_desc { Erhöht den verursachten Schaden um [DamageValuePercent] und lässt normale Speerangriffe [StaminaValueAbsolut] Ausdauer regenerieren. }
+
+talent_spear_03 { Meisterlicher Speerkampf }
+
+talent_spear_03_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und die generierte Ausdauer pro Treffer auf [StaminaValueAbsolut]. }
+
+talent_dagger_01 { Einfacher Dolchkampf }
+
+talent_dagger_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Infektion. }
+
+talent_dagger_02 { Trainierter Dolchkampf }
+
+talent_dagger_02_desc { Erhöht den verursachten Schaden um [DamageValuePercent] und den generierten Fokus pro Treffer um [FocusValueAbsolut]. }
+
+talent_dagger_03 { Meisterlicher Dolchkampf }
+
+talent_dagger_03_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und den generierten Fokus pro Treffer um [FocusValueAbsolut]. }
+
+talent_bow_01 { Einfacher Bogenkampf }
+
+talent_bow_02 { Meisterlicher Bogenkampf }
+
+talent_bow_01_additionale_headline { Mächtiger Schuss }
+
+talent_bow_01_additionale_desc { Ermöglicht es dir, beim Zielen mit dem Bogen im richtigen Moment einen mächtigen Schuss abzugeben, der [WeaponDamagePercent] Waffenschaden verursacht. }
+
+talent_bow_01_desc { Erhöht den verursachten Schaden um [DamageValuePercent] und du kannst mit dem Bogen einen Mächtigen Schuss wirken. }
+
+talent_bow_02_desc { Erhöht den verursachten Schaden um [DamageValuePercent], du kannst schneller zielen und du lernst die Waffenfähigkeit Wuchtschuss. }
+
+talent_slingshot_01 { Einfacher Steinschleuderkampf }
+
+talent_slingshot_02 { Meisterlicher Steinschleuderkampf }
+
+talent_slingshot_01_desc { Erhöht den verursachten Schaden um [DamageValuePercent], den Haltungsschaden um [PoiseValuePercent] und du lernst die Waffenfähigkeit Ricochet. }
+
+talent_slingshot_02_desc { Erhöht den verursachten Schaden um [DamageValuePercent] und den Haltungsschaden um [PoiseValuePercent]. }
+
+talent_axe_01 { Einfacher Axtkampf }
+
+talent_axe_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Blutrausch. }
+
+talent_axe_02 { Trainierter Axtkampf }
+
+talent_axe_02_desc { Erhöht den verursachten Schaden um [DamageValuePercent] und schaltet einen 3. Kombo-Angriff frei. }
+
+talent_axe_03 { Meisterlicher Axtkampf }
+
+talent_axe_03_desc { Verbessert deine Kampfhaltung und erhöht den verursachten Schaden um [DamageValuePercent]. }
+
+talent_alchemy { Tränke brauen }
+
+talent_alchemy_desc { Du kannst Tränke herstellen, die dir im Kampf helfen oder deine Werte verbessern. }
+
+talent_lockpicking_01 { Komplizierte Schlösser knacken }
+
+talent_lockpicking_01_desc { Kein Schloss ist mehr sicher vor dir. }
+
+talent_extractsecretion { Sekret extrahieren }
+
+talent_extractsecretion_desc { Bei bestimmten Tieren kannst du Sekrete extrahieren. Sekrete werden für Tränke und Handwerk benötigt. }
+
+talent_tearclaws { Krallen ziehen }
+
+talent_tearclaws_desc { Du kannst Tieren die Krallen und Zähne ziehen. Krallen können verkauft und Zähne für Handwerk genutzt werden. }
+
+talent_smith_01 { Handwerk }
+
+talent_smith_01_desc { Du kannst verschiedene Hilfsmittel herstellen. }
+
+talent_smith_02 { Meisterliches Handwerk }
+
+talent_smith_02_desc { Du kannst gefährliche Fallen, Hilfsmittel und Munition herstellen. }
+
+talent_stripfur { Fell abziehen }
+
+talent_stripfur_desc { Du kannst Tieren das Fell abziehen. Felle können verkauft oder für Handwerk genutzt werden. }
+
+talent_shield_CritAfterBlock { Aus dem Gleichgewicht }
+
+talent_shield_CritAfterBlock_desc { Blockst du einen Angriff perfekt, trifft dein nächster Angriff kritisch. }
+
+talent_shield_flow_afterblock { War das alles? }
+
+talent_shield_flow_afterblock_desc { Blockst du einen Angriff perfekt, generierst du [FocusValueAbsolut] Fokus. }
+
+talent_axe_adddmgflow { Kampfrausch }
+
+talent_axe_adddmgflow_desc { Axtangriffe generieren zusätzlich [FocusValueAbsolut] Fokus pro Treffer. }
+
+talent_axe_critonpoise { Letzte Gnade }
+
+talent_axe_critonpoise_desc { Der erste Axtangriff gegen Gegner mit gebrochener Haltung trifft immer kritisch. }
+
+talent_axe_decreasestamina { Voller Schwung }
+
+talent_axe_decreasestamina_desc { Schwere Axtangriffe verbrauchen [StaminaValuePercent] weniger Ausdauer. }
+
+Talent_Daggers_CritAfterDodge { Überraschungseffekt }
+
+Talent_Daggers_CritAfterDodge_desc { Der erste Dolchangriff direkt nach dem Ausweichen hat eine um [CritPercent] erhöhte Chance auf kritische Treffer. }
+
+Talent_Daggers_DecreaseFlow { Voll fokussiert! }
+
+Talent_Daggers_DecreaseFlow_desc { Nach dem Einsatz einer Fähigkeit, erhältst du [FocusValueAbsolut] Fokus. }
+
+Talent_Daggers_RegenerateStamina { Effiziente Hiebe }
+
+Talent_Daggers_RegenerateStamina_desc { Normale Dolchangriffe regenerieren [StaminaValueAbsolut] Ausdauer. }
+
+Talent_Sword_NextSpellLesserFlow { Opportunist }
+
+Talent_Sword_NextSpellLesserFlow_desc { Nach einem kritischen Treffer mit dem Schwert werden [FocusValuePercent] der Fokuskosten von der nächsten gewirkten Fähigkeit zurückerstattet. }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { Harte Hiebe }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { Schwere Schwertangriffe verbrauchen [StaminaValuePercent] weniger Ausdauer. }
+
+Talent_Sword_AddCritChance { Präzision }
+
+Talent_Sword_AddCritChance_desc { Schwertangriffe haben eine [CritValuePercent] höhere Chance, kritisch zu treffen. }
+
+Talent_Spear_GenerateFlow { Konzentrierte Hiebe }
+
+Talent_Spear_GenerateFlow_desc { Jeder Speerangriff gegen denselben Gegner erhöht den generierten Fokus um [FocusValueAbsolut]. }
+
+Talent_Spear_MoreDmgOnHead { Spitzen-Leistung }
+
+Talent_Spear_MoreDmgOnHead_desc { Die Spitze des Speers verursacht zusätzlich bis zu [DamageValuePercent] mehr Schaden. }
+
+Talent_Spear_PoiseOnCrit { Giftige Spitze }
+
+Talent_Spear_PoiseOnCrit_desc { Kritische Treffer mit dem Speer vergiften zusätzlich den Gegner. }
+
+Talent_Bow_InstantAfterDodge { Schnellziehen }
+
+Talent_Bow_InstantAfterDodge_desc { Nach dem Ausweichen kannst du einen Pfeil abfeuern, ohne zu zielen. }
+
+Talent_Bow_IncreaseCritDamage { Mitten ins Schwarze }
+
+Talent_Bow_IncreaseCritDamage_desc { Kritische Treffer mit dem Bogen verursachen [DamageValuePercent] mehr Schaden. }
+
+Talent_Sling_MultipleProjectiles { Doppelte Ladung }
+
+Talent_Sling_MultipleProjectiles_desc { Es besteht eine Chance von [TriggerPercent], dass zwei Projektile abgefeuert werden ohne zusätzliche Munition zu verbrauchen. }
+
+Talent_Sling_AddDmgOnPoise { Schleudertrauma }
+
+Talent_Sling_AddDmgOnPoise_desc { Wenn du mit der Schlinge die Haltung eines Gegners brichst, fügt dein nächster Angriff gegen ihn [DamageValuePercent] mehr Schaden zu. }
+
+Talent_Sling_Ricochet_Name { Ricochet }
+
+Talent_Sling_Ricochet_Desc { Schleudert ein Projektil, welches [WeaponDamagePercent] Schaden verursacht und auf nahe Gegner abprallt. }
+
+Talent_Sling_HeavyShot_Name { Wuchtschuss }
+
+Talent_Sling_HeavyShot_Desc { Starker Schuss der [WeaponDamagePercent] Schaden verursacht und Gegner für [StunTime] Sekunden betäubt. }
+
+teachers { Lehrer }
+
+talent_mining_desc { Du erhältst mehr Ausbeute beim Abbau von Erz. }
+
+talent_mining_01 { Erzabbau 1 }
+
+talent_mining_02 { Erzabbau 2 }
+
+talent_mining_03 { Erzabbau 3 }
+
+talent_mining_04 { Erzabbau 4 }
+
+talent_mining_05 { Erzabbau 5 }
+

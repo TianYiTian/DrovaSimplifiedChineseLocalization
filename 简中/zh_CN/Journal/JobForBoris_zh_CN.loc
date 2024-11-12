@@ -1,0 +1,25 @@
+Title { 废墟营地的Boris配音 }
+
+Entry_00 { 如果我想要博里斯的声音用于录音，我必须从内梅顿的Asmus那里取回一个包裹。前往内梅顿！ }
+
+Entry_01 { Boris给了我三包干苔藓，并告诉我应该在这里卖给Hauer。每包售价不低于[$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$]硬币。如果我为他这么做，我会得到他的声音。 }
+
+Entry_02A { Kora和我分享了一些锈苔，因此我以$GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$枚金币的价格卖给了她。差额我得自己掏腰包支付。 }
+
+Entry_02B { Kora 以 [$GVAR:QuestVars_JobForBoris_Config.PricePerJoint] 个硬币的价格买走了我的锈苔。 }
+
+Entry_03 { 科德从我这里拿走了一包红金，价格是$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$硬币。 }
+
+Entry_03_1 { 我卖掉了[Grit Rostmoos]。 }
+
+Entry_03_2 { 我卖掉了森加·罗斯穆斯。 }
+
+Entry_04 { Liandra给了我一份烤蘑菇，价格是[QuestVars_JobForBoris_Config.PricePerJoint]硬币。 }
+
+Entry_05 { 我说服了鲍里斯，他会为我投票。但要想加入他的队伍，我必须说服他队伍里的人和尤金。 }
+
+Entry_01B { 我没有把东西卖给鲍里斯。 }
+
+Entry_Sold { 我已经卖掉了所有东西，应该通知鲍里斯。 }
+
+Entry_06 { 莫格给了些锈苔，我得到了$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$枚硬币作为报酬。 }

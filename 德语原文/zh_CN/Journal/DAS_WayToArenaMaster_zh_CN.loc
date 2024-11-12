@@ -1,0 +1,44 @@
+Title { Blut und Stahl in der Arena }
+
+Entry_00_Eugen { Eugen hat mir erzählt, dass ich Münzen und Ruhm in der Arena verdienen kann. Ich soll mich bei Antonius Proximus melden, wenn ich Interesse habe. }
+
+Entry_00_Boris { Boris hat mir erzählt, dass ich Münzen und Ruhm in der Arena verdienen kann. Ich soll mich bei Antonius Proximus melden, wenn ich Interesse habe. }
+
+Entry_00_Nemeton { Es gibt eine Arena im Ruinenlager, und wenn ich dort kämpfen will, soll ich mich bei Angus melden. }
+
+Entry_00_Nemeton_Start { Angus lässt mich erst in der Arena kämpfen, wenn ich Kati und Fester besiegt habe. }
+
+Entry_00_Nemeton_Kati { Kati war kein Problem für mich. }
+
+Entry_00_Nemeton_Fester { Ich habe fester als Fester zugeschlagen. Er hatte keine Chance. }
+
+Entry_01_Nemeton { Ich darf für Nemeton in der Arena kämpfen. Antonius Proximus leitet die Kämpfe. Wenn ich antreten will, soll ich mich bei ihm melden. }
+
+Entry_01_A { Bevor ich für Proximus in der Arena kämpfen kann, muss ich ihm zeigen, dass ich es draufhabe. Ich soll Mog besiegen, er ist meistens irgendwo am Trainieren. }
+
+Entry_01_AA { Proximus will mich als Kämpfer haben. Ich soll ihn nach dem abendlichen Kampf vor der Arena treffen. }
+
+Entry_01_B { Ich gehöre jetzt zu den Kämpfern von Proximus. Ich darf erst in der Arena kämpfe, wenn ich Carima, Blaan und Dark besiegt habe. }
+
+Entry_02 { Blaans Zweihandwaffe war nicht stark genug. Der Sieg gehörte mir. }
+
+Entry_03 { Carima konnte sich nicht hinter ihrem Schild verstecken. Ich habe gewonnen. }
+
+Entry_04 { Ich habe Mog besiegt und sollte Proximus Bescheid sagen. }
+
+Entry_05 { Ich habe Dark besiegt. }
+
+Entry_07 { Endlich! Ich darf vor Publikum in der Arena kämpfen. Ich muss gegen Ebru kämpfen und soll Proximus meine $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ Startmünzen geben. }
+
+Entry_08 { Mein erster Sieg. Und alle haben es gesehen! Mein nächster Gegner ist Liandra. Ich sollte mich gut vorbereiten und Proximus meine $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ Startmünzen geben. }
+
+Entry_09 { Ich habe Liandra besiegt und muss jetzt gegen die "Dunkle" kämpfen. Noch ein Gegner, dann trete ich gegen die Arenameisterin an. Proximus erwartet meine $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ Startmünzen. }
+
+Entry_10 { Die Menge war außer sich! Endlich gegen die Arenameisterin Ada. Ich kann es schaffen. Proximus verlangt für den finalen Kampf $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ Münzen. }
+
+Entry_11 { Ich bin Arenameister und habe die unbesiegte Ada geschlagen. Jetzt bin ich ganz oben! }
+
+Entry_07_AcceptArenaFight { Ich habe Proximus meinen Einsatz gegeben und muss am nächsten Tag um 21 Uhr abends in der Arena sein! }
+
+Entry_06_RepeatLose { Ich habe verloren und soll mich bei Proximus für eine Revanche melden. }
+

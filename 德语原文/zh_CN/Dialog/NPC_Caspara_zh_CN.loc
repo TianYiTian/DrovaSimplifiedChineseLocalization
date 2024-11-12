@@ -1,0 +1,83 @@
+Plh_5 { Wer bist du? }
+
+Plh_6 { Was macht der Kater hier? }
+
+Plh_7 { Was ist denn hier? }
+
+Plh_8 { Ich bin Caspara. Jägerin und Fährtenleserin. Hab 'ne ganze Weile auf Georgs Hof gearbeitet. Aber jetzt bin ich hier. }
+
+Plh_9 { Wenn ich das wüsste. Scheint hungrig zu sein. Aber Reißerfleisch will er nicht. Nur Fisch. Wählerisches Vieh ... }
+
+Plh_10 { Hast du die Palisaden gesehen? Die RIESIGEN, UNÜBERWINDLICHEN Palisaden? Klingelt's? *lächelt* }
+
+Plh_11 { Was willst du? }
+
+Plh_12 { Kennst du dich gut mit Fallen aus? }
+
+Plh_18 { Gar nicht so lange her. Ich war da die einzige Jägerin und Kämpferin. }
+
+Plh_19 { Aber seit der Sache mit der Brücke und dem Erdbeben ... Ich sag mal so, ich wäre gerade lieber auf der anderen Seite der Palisade. }
+
+Plh_20 { Wo ist Georgs Hof? }
+
+Plh_21 { Wieso denkst du, dass es schlimmer wird? }
+
+Plh_22 { Willst du da hin? Georg wird dich nur in die Arbeit dort einspannen, glaub mir. }
+
+Plh_23 { Ich merke das. Überall. Ist wie so ein Summen in der Luft. Einige Tiere werden wilder, andere verkriechen sich. Als würde ein Sturm nahen ... }
+
+Plh_24 { Da wäre es ganz gut, von den Palisaden Nemetons geschützt zu sein. }
+
+Plh_25 { Wie willst du nach Nemeton reinkommen? }
+
+Plh_26 { Ich bin eine fähige Jägerin. Ich kann Tiere ausweiden, Fallen bauen und jede noch so kleine Fährte aufnehmen. }
+
+Plh_27 { Aber diese verfluchten Wachen interessiert das alles nicht. DIE sollte ich ausweiden ... }
+
+Plh_28 { Aber wenn dich das nicht abhält, folge dem Weg Richtung Nordosten, direkt am Fluss entlang. Kannst ihn eigentlich nicht verfehlen. }
+
+Plh_42 { Kannst du mir etwas über die Jagd beibringen? }
+
+Plh_43 { Klar. Ich könnte. Aber das wird dich was kosten. Nichts ist umsonst im Leben. *zwinkert* }
+
+Plh_45 { Bring mir etwas übers Jagen bei. }
+
+Plh_52 { Du warst mal bei Georgs Hof? }
+
+Plh_56 { Na, hast du schon den kleinen Kater gesehen? *lächelt* Der flitzt hier rum. }
+
+Plh_59 { Ich kenne mich sehr gut mit Fallen aus. Meine Art zu jagen. Die retten dir da draußen den Arsch. }
+
+Plh_60 { Chunnaic braucht so jemanden ... }
+
+Plh_62 { Chunnaic kenne ich. Und sie weiß genau, dass ich eine Meisterin auf diesem Gebiet bin. Sie kann gern bei mir anklopfen ... }
+
+Plh_63 { Aber diese Wache am Tor, Palina, will mich nicht durchlassen. }
+
+Plh_65 { Ich kümmere mich darum. Komm nachher zum Tor. }
+
+Plh_66 { Du meinst, du bekommst das hin? Hätte nichts dagegen ... }
+
+Plh_67 { Caspara, du kommst hier nicht rein. Ich habe es dir schon mal gesagt. }
+
+Plh_68 { Na gut, ihr könnt rein. }
+
+Plh_69 { Hey, Palina, das hier ist Caspara. Ich soll sie zu Chunnaic bringen. }
+
+Plh_70 { *mustert Caspara* Wenn du das sagst, $GVAR:EVars_Player.Name$. Ich erkläre dir die Regeln ... }
+
+Plh_71 { Wir haben es eilig. Ich helfe ihr, dass sie sich hier zurechtfindet. }
+
+Plh_74 { Hier sind die $GVAR:EVars_Caspara.TrainingCost$ Münzen, bring mir was bei. }
+
+Plh_75 { Die Münzen wirst du schnell wieder reinholen. Was willst du lernen? }
+
+Plh_77 { $GVAR:EVars_Caspara.TrainingCost$ Münzen und ich bringe dir das Jagen bei. }
+
+Plh_81 { Zu Chunnaic finde ich auch so. Ich war schon öfters bei ihr. }
+
+Plh_93 { Ich bin eine Jägerin, ich lebe davon. Schau dir alles an. }
+
+Plh_94 { Hast du Waren zum Verkaufen? }
+
+Plh_95 { Hab mal gesehen, wie es im Moor hier rumläuft. Sah ziemlich gefährlich aus. Aber bis jetzt hat er ja überlebt. }

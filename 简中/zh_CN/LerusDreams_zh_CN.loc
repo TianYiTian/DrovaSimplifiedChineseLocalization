@@ -1,0 +1,13 @@
+MadWoman_Name { 疯女人 }
+
+Percept_Skeleton_00 { 这里有两具骷髅相拥而卧。一具是成年人的，显然还有一具是孩子的。很可能这是母亲。 }
+
+Percept_Skeleton_01 { （检查儿童骨骼） }
+
+Percept_Skeleton_02 { *你把骨头稍微移到一边，发现下面有一个开关。* }
+
+Percept_Skeleton_03 { (按下开关) }
+
+Percept_Grave_00 { 对不起。我本该在那里的。 }
+
+Percept_Grave_01 { 石板严重刮花，无法辨认。 }

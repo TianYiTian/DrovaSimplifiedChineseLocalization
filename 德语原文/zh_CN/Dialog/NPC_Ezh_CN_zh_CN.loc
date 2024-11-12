@@ -1,0 +1,214 @@
+Plh_5 { Nach hier unten verirrt sich selten jemand. Wie bist du hergekommen? }
+
+Plh_8 { Wo bin ich hier? }
+
+Plh_9 { *grinst* Du bist bei uns Ruinenräubern gelandet. Damit gehörst du zu den wenigen Leuten, die von diesem Ort wissen. }
+
+Plh_10 { Mein Name ist Ede. Ich hab mein Leben der Suche nach Artefakten der Vergangenen verschrieben. Faszinierend und wertvoll ist der Kram auch. }
+
+Plh_13 { Hier, hat das mitgebracht. Scheint von Olaf zu sein. }
+
+Plh_14 { Ich hab dir gesagt, dass es nur eine Frage der Zeit ist, bis uns jemand findet. }
+
+Plh_15 { Mrm. Dann hattest du wohl doch recht. }
+
+Plh_16 { *runzelt die Stirn* Von Olaf also? Zeig mal her. }
+
+Plh_17 { Hey, was gibt's? }
+
+Plh_18 { Ich soll dir das Relikt hier zeigen. }
+
+Plh_19 { *schaut sich das Relikt an* }
+
+Plh_21 { Ich glaube, ich hab mich noch nicht vorgestellt. }
+
+Plh_23 { Du hast doch sicher die alten Ruinen gesehen, die es in ganz Drova gibt. Das Ruinenlager hat sich auch in ihnen breitgemacht. Das sind die Überreste der Vergangenen. }
+
+Plh_24 { Was meinst du mit Vergangenen? }
+
+Plh_25 { Vor langer Zeit war das ihre Kolonie. Die haben hier Silber und anderes Zeug abgebaut. }
+
+Plh_26 { Anderes Zeug? Was meinst du damit? }
+
+Plh_27 { Was genau tut ihr hier? }
+
+Plh_28 { Wir durchsuchen die Ruinen nach Schätzen. Und wenn wir welche auftreiben, verkaufen wir sie in Nemeton oder im Ruinenlager. }
+
+Plh_31 { Und? Was sagst du? }
+
+Plh_34 { Merkwürdig ... }
+
+Plh_35 { Es ist ein Relikt der Vergangenen. Das muss ich genauer untersuchen. Dauert aber. }
+
+Plh_37 { Schon mal Runenmagie gesehen? Die kommt von den Vergangenen. Sie haben die Macht der Göttlichen dafür genutzt. }
+
+Plh_38 { Trotzdem sind sie untergegangen. Keiner weiß, warum. }
+
+Plh_39 { Vielleicht finden wir es irgendwann raus ... }
+
+Plh_42 { Ich hab ein weiteres Relikt gefunden. }
+
+Plh_43 { Lass mich das mal anschauen. }
+
+Plh_44 { Der Wert ist schwer zu schätzen. Sagen wir, ich gebe dir ... }
+
+Plh_45 { $GVAR:QuestVars_Brutus_Config.BrutusMineReward$ Münzen. }
+
+Plh_46 { Sollte dir mal so was in die Hände fallen ... seltene Relikte, alte Schrifttafeln, so was halt ... komm zu uns, wir machen dir einen guten Preis. }
+
+Plh_47 { Das kommt mir irgendwie bekannt vor ... }
+
+Plh_48 { Ich habe eine Vermutung ... das werde ich mir bei Gelegenheit mal näher anschauen. }
+
+Plh_49 { Deine Münzen bekommst du jetzt schon. Gute Arbeit. }
+
+Plh_50 { Die anderen sollten mittlerweile wissen, dass du uns hilfst. Schau bei Amella vorbei - sie ist echt gut mit Schwert und Schild. Vielleicht kann sie dir ein paar Tricks beibringen. }
+
+Plh_51 { Was sind das für alte Relikte? }
+
+Plh_53 { Genau das versuchen wir herauszufinden. Je mehr wir davon finden, desto mehr lernen wir über sie. }
+
+Plh_54 { Hier sind deine Münzen. }
+
+Plh_55 { Die drei Relikte, die du gefunden hast, sind Teile von einem Schlüssel. Es müssten tatsächlich ... hm ... }
+
+Plh_56 { ... es müssten insgesamt sieben Teile sein. Einen Augenblick ... }
+
+Plh_57 { Sie passen zusammen! Da könnte der Durchbruch sein! }
+
+Plh_58 { Ja. Vielleicht. Lass mich in meinen Notizen nachsehen ... }
+
+Plh_59 { Wer ist Drivanius? }
+
+Plh_60 { Warum soll ich mit Olaf sprechen? }
+
+Plh_61 { Rede einfach mit Olaf. Der wird dir alles über Drivanius erklären. Ich muss mir das in Ruhe anschauen. }
+
+Plh_63 { Ede und seine Relikte ... was der bei denen alles zu entdecken glaubt. Für mich sieht das Zeug alles gleich aus. }
+
+Plh_64 { Kenne dich noch nicht. Ich bin Zoltan. Schön, dass du mithilfst. Die Ruinen sind groß. }
+
+Plh_65 { Wenn du willst, kann ich dir paar Tricks mit der Axt beibringen. Beste Waffe. Hat ordentlich Wumms, aber ist nicht zu schwer. Praktisch in den Ruinen. }
+
+Plh_66 { Du meinst, wir kommen Drivanius näher? }
+
+Plh_67 { $GVAR:EVars_Player.Name$, sprich mit Olaf und sag ihm, dass wir wahrscheinlich Drivanius auf die Spur gekommen sind. }
+
+Plh_68 { Sehr gut, sehr gut! Nur noch drei Stück übrig! }
+
+Plh_69 { Hier, hast du dir verdient. }
+
+Plh_70 { Hör zu, ein paar von den Gegenständen in unserer Sammlung können wir auch benutzen, bevor sie zerfallen. Könnten dir da draußen helfen. }
+
+Plh_71 { Natürlich musst du sie abkaufen. Aber wir machen dir natürlich auch einen Freundschaftspreis. *zwinkert mit seinem Auge* }
+
+Plh_72 { Das fünfte Stück ...  nur noch zwei, dann ist der Kreis geschlossen! Mach weiter so. }
+
+Plh_73 { Die Siegelsteine scheinen mit dem Pantheon der Vergangenen in Verbindung zu stehen. Sieben Götter. Sieben Siegel. Aber was es genau bedeutet ... }
+
+Plh_74 { ... das kann ich noch nicht sagen. }
+
+Plh_75 { Dank dir sind wir jedenfalls weitergekommen. Wenn wir dir noch was beibringen könnten - Reija hat den Kampf mit dem Dolch perfektioniert. Seit Monko weg ist, ist sie in sich gekehrt, aber vielleicht hilft sie dir. }
+
+Plh_76 { Hast du was rausgefunden? }
+
+Plh_77 { Nur noch eins jetzt! Ich kann es kaum glauben, nach all der Zeit. }
+
+Plh_78 { Dieses Relikt muss der Schlüssel sein, mit dem man ins Heiligste von Drivanius gelangt ... wo er seine Forschungen angestellt hat. }
+
+Plh_79 { Drivanius hat seine Arbeit unter Verschluss gehalten. Ein Geheimniskrämer. Was für Wissen und Schätze in seiner geheimen Kammer auf uns warten müssen ... }
+
+Plh_81 { Du hast es geschafft! Die Münzen hast du dir verdient! }
+
+Plh_82 { Gib mir einen Moment ... }
+
+Plh_83 { Es ist komplett. }
+
+Plh_84 { Endlich haben wir es geschafft. }
+
+Plh_85 { Sieh nur, diese kleinen Edelsteine in den Siegeln. Er wirkt so ... schwach? }
+
+Plh_86 { Sieh nur, einige der Edelsteine in den Siegeln leuchten, andere nicht. }
+
+Plh_87 { Schau! Die Edelsteine in den Siegeln leuchten! Es scheint also schon zu funktionieren. }
+
+Plh_89 { Hier, nimm das Siegel. }
+
+Plh_90 { *flüstert* Wenn jemand die Kammer von Drivanius finden und öffnen kann, dann du. }
+
+Plh_91 { Aber was ist mit den Edelsteinen im Siegel? }
+
+Plh_92 { Sie sollten alle leuchten, steht in den Schriften. Drivanius war wohl sehr gläubig, es könnte also irgendwie mit ihren Göttern zusammenhängen. Mehr weiß ich auch nicht. }
+
+Plh_93 { Ich werde das Rätsel der Kammer lüften. }
+
+Plh_94 { Ich glaube an dich. }
+
+Plh_95 { Erzähl niemanden davon, aber schau, was ich dir anbieten kann. Was bringen uns diese ganzen Sachen, wenn wir hier in Drova gefangen sind? }
+
+Plh_97 { Hast du Neuigkeiten, was die Relikte angeht? }
+
+Plh_98 { Ich konnte ein paar Texte zusammensetzen. Irgendwo im Norden muss ein großer Kampf stattgefunden haben. Er hat Drivanius betroffen ... }
+
+Plh_99 { Nicht direkt. Aber ich bin mir sicher, dass noch welche in den Ruinen hier zu finden sind. }
+
+Plh_100 { Halte unterwegs immer nach ihnen Ausschau. Gerade dort, wo seit Ewigkeiten niemand war ... }
+
+Plh_101 { Du hast alle Ruinen durchsucht? Vielleicht hat jemand einen Stein gefunden? Schau dich bei Händlern und Gaunern um, würde ich sagen. }
+
+Plh_104 { Bring mir ruhig mehr Relikte der Vergangenen. }
+
+Plh_105 { Sprich erst mit Olaf. Du musst alles verstehen. }
+
+Plh_106 { Äxte sind nichts für mich. }
+
+Plh_107 { Ich komme drauf zurück. }
+
+Plh_108 { Da unten ist es gefährlich. Je besser du kämpfen kannst ... }
+
+Plh_109 { Unglaublich! }
+
+Plh_110 { *gähnt* Bin müde. Lass uns an der Theke weiterreden. }
+
+Plh_111 { Für die Bezahlung immer gerne. }
+
+Plh_112 { Ich bin letztens wieder über die Prachtstücke unserer Sammlung gestoßen ... Finde das letzte Relikt, und du wirst Augen machen. }
+
+Plh_113 { Ich habe die Kammer von Drivanius gefunden. }
+
+Plh_114 { WAS!! Wo sind sie, was hast du gefunden? Raus mit der Sprache! }
+
+Plh_115 { Sie liegt unter dem Roten Turm, man kann sie über den Tempel von Sol erreichen. }
+
+Plh_116 { Und was war da? }
+
+Plh_118 { Es war alles voll mit Forschungen. Zuletzt hat er an diesem Nexushelm gearbeitet. }
+
+Plh_119 { Das Einzige, mit dem ich was anfangen konnte, war dieser komische Helm hier. }
+
+Plh_120 { Zeig mal her! Hm, ohne seine Aufzeichnungen verstehe ich davon gar nichts. Was hast du noch herausgefunden? }
+
+Plh_121 { Am besten schaust du selbst danach. }
+
+Plh_122 { Ich hab da nicht viel verstanden. }
+
+Plh_123 { Ich werde den anderen Bescheid sagen. Nexushelm ... mhm. Wenn es das Letzte war, an dem er gearbeitet hat, wird es sich hoffentlich noch als nützlich erweisen. }
+
+Plh_124 { Spätestens, wenn ihr es tatsächlich irgendwie in den Roten Turm schaffen solltet. }
+
+Plh_126 { $GVAR:EVars_Player.Name$? Was machst du denn noch hier? }
+
+Plh_127 { Ich wollte nachschauen, ob du etwas Interessantes herausgefunden hast. }
+
+Plh_128 { War gerade in der Gegend und dachte, ich schau mal vorbei. }
+
+Plh_129 { Ja, es gibt viele interessante Schriften und Experimente in diesen Kammern. Drivanius hat nicht nur interessante Beobachtungen in Drova gemacht, sondern sogar in den Sternen ... }
+
+Plh_130 { Allerdings ist der Nexushelm wohl sein Versuch gewesen, die Situation in Drova in den Griff zu bekommen. Ich hoffe, du wirst damit mehr Erfolg haben als er. }
+
+Plh_131 { Ich hoffe, der Nexushelm wird dir noch irgendwie helfen. Wir werden zu Drivanius Kammer gehen. }
+
+Plh_134 { Wenn wir irgendwo Antworten finden können, dann im Roten Turm. Dort kann dir vielleicht der Nexushelm irgendwie helfen. }
+
+Plh_135 { Plh_135 }
+

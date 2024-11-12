@@ -1,0 +1,192 @@
+Plh_5 { Komm mit. }
+
+Plh_7 { Siehst nicht gerade aus, als könntest du kämpfen. Aber gut ... ich vielleicht auch nicht. }
+
+Plh_8 { Ich hab zu tun, also fass dich kurz. }
+
+Plh_9 { Du brauchst also jemanden, der kämpfen kann? }
+
+Plh_10 { Genau! }
+
+Plh_11 { Aber ICH werde sie aufhalten. Ich brauche nur jemanden, der mir dabei den Rücken freihält. }
+
+Plh_12 { Ich kann dir den Rücken freihalten. }
+
+Plh_13 { Dann hoffe ich mal, dass du jemanden findest. }
+
+Plh_14 { *mustert dich* Hm. Ich glaube, die Frösche sind dir überlegen. Du könntest sie aber ablenken, während ich sie abmurkse. }
+
+Plh_15 { Du! Du könntest sie ablenken! Müsstest gar nichts selbst tun! }
+
+Plh_16 { Denk an die armen Schafe! Du würdest sie retten! Und sollst auch nicht leer ausgehen. }
+
+Plh_17 { Gut, ich komme mit zu den Fröschen. }
+
+Plh_18 { Endlich! Ich stehe mir hier schon die Beine in den Bauch. }
+
+Plh_19 { Lass uns nicht noch mehr Zeit verlieren. }
+
+Plh_20 { Die Frösche beim Teich im Süden? Die sind tot. }
+
+Plh_21 { ... du hast sie ganz alleine getötet? Endlich sind die Mistviecher tot! }
+
+Plh_22 { Hier, du hast der Heide einen großen Gefallen getan. Danke. }
+
+Plh_24 { Da sind die Frösche. Mach dich bereit, denen zeigen wir's! }
+
+Plh_25 { Auf sie! }
+
+Plh_26 { Bringen wir es hinter uns. }
+
+Plh_27 { Los! }
+
+Plh_28 { Nemeton hilft mir nicht, ich muss das jetzt durchziehen. }
+
+Plh_29 { Die Frösche im Süden sind tot. }
+
+Plh_30 { Diese Frösche verpesten die Gegend mit ihrem Gestank. }
+
+Plh_31 { Das war gute Arbeit mit den Mistviechern. }
+
+Plh_32 { Was bei den ...? Die sind ja schon tot. Ich könnte schwören, dass die vorhin noch da waren. }
+
+Plh_33 { Ach, du meintest die Frösche hier? Das war ich. }
+
+Plh_35 { *grinst* Endlich kann ich ... äh, können die Frösche den Schafen nichts mehr anhaben. Und auch sonst niemandem! }
+
+Plh_36 { Hey! Das wollte ICH gerade einsammeln. }
+
+Plh_37 { Pech gehabt. Ich war zuerst da. }
+
+Plh_38 { Was willst du damit? }
+
+Plh_39 { Was will ich wohl mit Rostkraut? Hm? Es rauchen, was denn sonst! }
+
+Plh_40 { Ich weiß es wirklich nicht. Was willst du mit dem Rostkraut? }
+
+Plh_41 { Bist du erst seit gestern in Drova? Rostkraut wird zu Rostmoos verarbeitet. Und Rostmoos lässt dich all deine Sorgen und Ängste vergessen, wenn du es rauchst. Gutes Zeug. }
+
+Plh_42 { Und jetzt gib mir das verdammte Rostkraut! }
+
+Plh_43 { Nimm es, wenn du es unbedingt haben willst. ($GVAR:QuestVars_FrogsAndRustmoss.AmountOfRustmossKlepped$x Rostkraut geben) }
+
+Plh_44 { *sein Blick wird finster* Lass mich in Ruhe ... }
+
+Plh_45 { Danke! Ich muss das Zeug verhökern, um über die Runden zu kommen. }
+
+Plh_46 { Wer bezahlt für so was? }
+
+Plh_47 { Wie auch immer. Ich muss weiter. }
+
+Plh_48 { Delani. Arbeitet auf Georgs Hof. Die braucht immer was vom Rostkraut und zahlt nicht schlecht. }
+
+Plh_49 { Lass dich nicht aufhalten. }
+
+Plh_50 { Dir ging es gar nicht um die Heide und die Schafe, oder? }
+
+Plh_51 { Was interessieren mich Schafe. Die kann man nicht rauchen. }
+
+Plh_52 { Ich hab zu tun. Wir sehen uns. }
+
+Plh_53 { Natürlich meinte ich die! Weil hier das ganze Rostkraut wächst. }
+
+Plh_54 { Du hast dir das ganze Rostkraut hier unter den Nagel gerissen! Rück das Zeug wieder raus! }
+
+Plh_59 { Wenn nichts ist, lass mich in Ruhe. Ware liefert sich nicht von allein. }
+
+Plh_60 { Was macht ihr denn hier? }
+
+Plh_61 { Ah, du bist es. }
+
+Plh_62 { Hm? Was willst du? }
+
+Plh_63 { Wonach sieht's denn aus? }
+
+Plh_64 { Wir warten. }
+
+Plh_65 { Das hab ich bemerkt. }
+
+Plh_66 { Worauf wartet ihr? }
+
+Plh_67 { Auf Krieger aus Nemeton. }
+
+Plh_68 { Weißt du, was du nicht bemerkt hast? }
+
+Plh_69 { Die Brücke zu den Holzfällern ist wieder unsicher. Ich weiß nicht, was da los ist, aber es verschwinden immer wieder Leute. }
+
+Plh_70 { Ich hab keine Lust, zu verschwinden! }
+
+Plh_72 { Solange die Lage nicht sicher ist, bleiben wir hier. Delani will uns nicht losschicken und noch eine Lieferung verlieren. }
+
+Plh_73 { Bin ich froh, dass sich jemand um die Brücke gekümmert hat. Jetzt kann ich wieder arbeiten. }
+
+Plh_74 { Die Brücke ist wieder sicher. }
+
+Plh_75 { Wirklich? }
+
+Plh_76 { Dann können wir ja morgen weiter! }
+
+Plh_77 { Und morgen endlich wieder was verdienen! }
+
+Plh_78 { Jetzt hör auf damit! Das ist MEIN Zeug! }
+
+Plh_79 { Dann hast DU das ganze Rostkraut eingesackt! Rück es raus! }
+
+Plh_80 { Ich hab das Zeug nicht mehr. }
+
+Plh_81 { Was ist? Willst du mir wieder mein Rostkraut wegnehmen? Hau schon ab. }
+
+Plh_82 { Obwohl ... }
+
+Plh_83 { *rülpst* Das tut gut. }
+
+Plh_84 { War hier eine Gruppe von Leuten vom Ruinenlager, unterwegs Richtung Moor? }
+
+Plh_85 { Wir hatten erst Angst, dass sie uns angreifen. Der eine von ihnen sah aus wie ein Bär. Wollten aber nur wissen, wie sie am besten durch das Moor kommen. }
+
+Plh_86 { Gehörst du auch zu ihnen? }
+
+Plh_87 { Haben gut gezahlt, und ich kann endlich in Ruhe trinken. }
+
+Plh_88 { Wo genau sind sie hingegangen? }
+
+Plh_89 { Wenn du die Information willst, kostet dich das $GVAR:QuestVars_LoadCrystals_Config.PriceInformationMoorlagerhof$ Münzen. }
+
+Plh_90 { Du hast schon Münzen bekommen, also sag an. }
+
+Plh_91 { Werd nicht frech, ich kann es mir auch mit Gewalt rausfinden. }
+
+Plh_92 { Hey, hey, ganz ruhig. Ich habe die Information jemandem gegeben, aber wenn du sie haben willst, kostet das halt. Fair. }
+
+Plh_93 { Gut, hier sind die $GVAR:QuestVars_LoadCrystals_Config.PriceInformationMoorlagerhof$ Münzen, erzähl schon. }
+
+Plh_94 { Letzte Warnung. Und letzte Chance für dich. }
+
+Plh_95 { Mir reicht's. Ich denke, ein paar Schläge tun dir gut. }
+
+Plh_96 { Hey, das war doch ... }
+
+Plh_97 { Komm runter, ist ja gut ... }
+
+Plh_98 { Wenn du ins tote Moor willst, solltest du von Nemeton nach Süden gehen. Viele gefährliche Viecher dort, aber von da aus solltest du sicher hinkommen. }
+
+Plh_99 { Irgendwann geht es hoch zu Nemeton, da musst du dann Richtung Osten gehen und kommst ins Fleischmoor. Dort war ich auch noch nie, aber dort wollten deine Leute hin. }
+
+Plh_100 { Ach, weil du gezahlt hast, gebe ich dir einen kleinen Tipp. Wenn du unten im Moor bist und ganz nach Osten läufst, kommt irgendwann so ein komischer Hinkelstein. Magischer Ort. Vielleicht interessant für dich. }
+
+Plh_101 { Du hast ja echt keine Münzen. Na gut, ich bin ja nicht so ... }
+
+Plh_102 { Pass auf dich auf, im Moor gibt es schon genug Leichen. }
+
+Plh_103 { Ihr könnt nur mit Gewalt eure Probleme lösen, dreckiges Ruinenlager! }
+
+Plh_104 { Diese verdammten Frösche schnappen sich bald alle Schafe in der Heide. Letztens erst haben sie eins in einem Stück verschluckt! }
+
+Plh_105 { Bald kann man nicht mal mehr die Trampelpfade benutzen, ohne dass einen so ein Scheißfrosch anspuckt! }
+
+Plh_106 { Warum hast du eine Froschmaske auf? }
+
+Plh_108 { Quak! Quak! Das klingt nicht richtig! }
+
+Plh_110 { Die Froschmaske brauche ich nicht mehr. Kannst du haben. }
+

@@ -1,0 +1,96 @@
+Plh_5 { Na, bist du neu hier? }
+
+Plh_6 { Mein Name ist Enya. Willkommen in Nemeton. Bei mir kannst du alles kaufen, was du auf dem Feld und von der Natur bekommst. }
+
+Plh_7 { Als die letzte Waffenlieferung verschwunden ist ... wo warst du da genau? }
+
+Plh_8 { Was? Wieso verdächtigst du mich? Ich hab damit nichts zu tun. }
+
+Plh_10 { Wo die Waffen verschwunden sind, hab ich rote Haare gefunden ... }
+
+Plh_11 { Aha. Rote Haare. Und das heißt natürlich, dass Enya es gewesen sein muss? Rothaarige Leute sind ja ohnehin schuld. Am schlechten Wetter, Reißerbissen und dem Untergang der Vergangenen! }
+
+Plh_12 { Kendrick und Angus würden nur gern wissen, was passiert ist ... }
+
+Plh_13 { Du hast nichts zu verbergen, oder? Wo warst du, als die Lieferung angekommen ist? }
+
+Plh_14 { Klar wollen sie das ... }
+
+Plh_15 { *blinzelt* Kann ich dir sagen. }
+
+Plh_16 { An dem Abend bin ich zur Taverne gegangen. Da war ich dann die ganze Nacht. Sagen wir, es war feucht-fröhlich ... }
+
+Plh_17 { Wer war noch da? }
+
+Plh_18 { Dann will ich das mal glauben. }
+
+Plh_19 { Einige. Aber zuletzt hab ich mit Palina gesprochen, bevor ich gegangen bin. }
+
+Plh_20 { Zufrieden? Frag lieber Harvey oder Swenn. }
+
+Plh_23 { Dich hat bestimmt Kendrick auf mich angesetzt, oder? Der Spinner lässt uns einfach keine Ruhe! }
+
+Plh_24 { Hab gesehen, dass du mit dem Alten gesprochen hast. Na, wollte er dir auch von seinen Heldentaten damals erzählen? Wenn er damit anfängt, ist er nicht zu bremsen ... }
+
+Plh_25 { Ich soll ihm ein paar Sachen besorgen ... }
+
+Plh_26 { Und das tust du? Nett von dir. Äpfel mag er ... na komm - hier hast du vier davon. Sag ihm aber nicht, dass sie von mir sind. }
+
+Plh_27 { Der alte Mann braucht ein Bärenfell, aber Femke will seins nicht verkaufen. }
+
+Plh_28 { Behauptet er immer noch, dass er den Bären mit eigenen Händen erwürgt hat? Blödsinn. Das Fell hat er beim Glücksspiel gewonnen. Die feige Sau hat noch keinen Fuß in die Wildnis gesetzt, kauft seine Waren immer bei Jägern. }
+
+Plh_29 { Ich glaube nicht mal, dass er wirklich ein Bärenfell hat ... }
+
+Plh_30 { Doch, er hat eins. Versteckt er in seinem Stand, und wenn er prahlen will, holt er es raus und erzählt seine Lügengeschichte. }
+
+Plh_31 { Wo bewahrt er das Bärenfell auf? }
+
+Plh_32 { Willst du es klauen? Du weißt, dass das in Nemeton hart geahndet wird ... }
+
+Plh_34 { Natürlich nicht. }
+
+Plh_35 { *verengt die Augen zu Schlitzen* Ich glaub' dir nicht. Zieh mich da nur nicht mit rein. Wenn du wirklich klaust, weiß ich von nichts. }
+
+Plh_36 { Besitzt er wirklich ein Bärenfell? }
+
+Plh_37 { Ja. Läuft die ganze Zeit damit rum. Hat es wahrscheinlich wie wir alle am Stand gelagert. }
+
+Plh_39 { Hast du zufällig ein Relikt der Vergangenen? }
+
+Plh_40 { Woher weißt du davon!? }
+
+Plh_42 { Heißt das ja? }
+
+Plh_43 { Hm. Kann sein. Aber meinst du, ich würde es verkaufen, wenn ich eins hätte? }
+
+Plh_45 { Was? }
+
+Plh_46 { Oh, nichts. }
+
+Plh_47 { Ich kann dir nicht helfen. Frag wen anders. }
+
+Plh_48 { ... es ist wunderschön ... }
+
+Plh_49 { Du wolltest einfach so meinen Kelch klauen, ja? Sag mal, spinnst du?! }
+
+Plh_51 { Verkaufst du mir das Relikt? }
+
+Plh_52 { Du willst es unbedingt haben, ja? }
+
+Plh_53 { So viel ist es eigentlich nicht wert. Aber der Versuch, es zu klauen, kostet dich $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForRelic$ Münzen. }
+
+Plh_55 { Also gut. Gib mir das Relikt. ($GVAR:QuestVars_TheLiesOfLocke_Config.PriceForRelic$ Münzen geben) }
+
+Plh_57 { Dann bring genug Münzen mit! }
+
+Plh_58 { *grinst* Warum nicht gleich so, hm? Na gut, ich vergesse die Sache. }
+
+Plh_59 { Beide solltest du beim Lager finden. Bring die Waren ins Lager. }
+
+Plh_60 { Wo finde ich Harvey oder Swenn? }
+
+Plh_61 { Obwohl ... Harvey hab ich länger nicht mehr gesehen. Findest ihn bestimmt in seiner Hütte hinterm Bettenhaus. }
+
+Plh_62 { Ich muss jetzt weiterarbeiten. }
+

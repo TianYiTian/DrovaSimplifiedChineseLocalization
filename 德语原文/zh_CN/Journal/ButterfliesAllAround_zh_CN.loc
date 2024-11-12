@@ -1,0 +1,10 @@
+Title { Hilfe im Hain }
+
+Entry_01 { Kerr will, dass ich für ihn $GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$ besondere Schmetterlinge im Heiligen Hain fange. Man erkennt sie wohl an ihren besonderen Flügeln. }
+
+Entry_02 { Ich habe alle Schmetterlinge bei mir. }
+
+Entry_03 { Kerr war froh über meine Hilfe. Er hat mir eine Belohnung gegeben. }
+
+Entry_00 { Ein Druide im Heiligen Hain braucht Hilfe bei irgendwas. Der Heilige Hain ist im Norden Nemetons. Ich komme dorthin indem ich die Brücke nach Osten bei der Lagerhalle nehme. }
+

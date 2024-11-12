@@ -1,0 +1,25 @@
+SleepBuff { 休息好了 }
+
+SleepBuffDescription { 提高你的移动速度[MovementPercent]。 }
+
+Poison { 中毒 }
+
+PoisonDescription { 减慢你的移动速度 [MovementPercent]。 }
+
+Bleeding { 出血 }
+
+BleedingDescription { 你定期失去生命值。 }
+
+SleepBuff_T2 { 休息得很好 }
+
+Veil_Name { 黑焰 }
+
+Veil_Desc { 你正在持续受到伤害。 }
+
+Intoxicated_Name { 醉酒 }
+
+Intoxicated_Desc { 你感觉一切都有点模糊不清... }
+
+NoFood_Name { 空肚子 }
+
+NoFood_Desc { 这是一份食物，可以填饱你的肚子。当你吃饱后，如果生命值有所减少，随着时间的推移，你会逐渐恢复生命值。 }

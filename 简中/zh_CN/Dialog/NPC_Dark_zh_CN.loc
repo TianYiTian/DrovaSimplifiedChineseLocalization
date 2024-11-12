@@ -1,0 +1,59 @@
+Plh_5 { 嘿，新面孔。 }
+
+Plh_6 { 你是在说我吗？ }
+
+Plh_7 { 你想做什么？ }
+
+Plh_9 { 嘿，我现在也在竞技场战斗。 }
+
+Plh_14 { *轻蔑地看着* Proximus现在什么破烂都收了... }
+
+Plh_16 { 这关我什么事？你是想让我现在为你跳个欢快的舞蹈，还是怎么的？ }
+
+Plh_18 { 你有什么问题？ }
+
+Plh_20 { 关你屁事。 }
+
+Plh_21 { *咧嘴笑* 来赌一把吧！就像一场大战一样！谁输了，就付30个硬币。怎么样？还是说你就是只胆小的猪？ }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? 少于$GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$枚金币我连床都不想下。我们改成$GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$吧！ }
+
+Plh_23 { 我押$GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$币。 }
+
+Plh_25 { 这正合我意，开始吧。 }
+
+Plh_26 { 我没有那么多硬币。 }
+
+Plh_27 { 我们简单地训练一下吧。 }
+
+Plh_28 { 嘿，那就努力赚金币吧。你可以在矿井里干活。 }
+
+Plh_29 { 我看起来需要训练吗？没有硬币就没有战斗。那你有点竞技场的感觉了。*咧嘴笑* }
+
+Plh_30 { 让我们训练吧。 }
+
+Plh_31 { 另外，$GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ 枚金币？ }
+
+Plh_33 { 你自己忘了吧。 }
+
+Plh_35 { 打得好！你还是很有潜力的。 }
+
+Plh_36 { 尝试不错，但你还需多多学习。而且你还欠我金币。 }
+
+Plh_38 { 你会得到报应的。 }
+
+Plh_39 { 我没有足够的硬币。 }
+
+Plh_40 { 这是你的硬币。 }
+
+Plh_41 { 我喜欢这个。如果你想再次战斗，请告诉我。 }
+
+Plh_42 { 这些硬币不够。吐出来吧！ }
+
+Plh_43 { 你本该早点考虑的。你会看到它带来的好处的…… }
+
+Plh_45 { 这是你的硬币。如果你在竞技场战斗，会获得更多。 }
+
+Plh_48 { 没有硬币，我不和你打。债务是荣誉问题。*咧嘴笑* }
+
+Plh_50 { 这是你从我这里还能得到的硬币。 }

@@ -1,0 +1,746 @@
+Plh_5 { Hey, du, pass auf. Ab hier beginnt das tote Moor. Und Nebel zieht auf. Dort drin wird es gefährlich. }
+
+Plh_1 { Was machst du hier? }
+
+Plh_2 { Wer bist du? }
+
+Plh_3 { Du musst Henik sein. Ich komme von Bonny. }
+
+Plh_4 { *grummelt* Bonny? Was will sie? }
+
+Plh_7 { Bonny verkauft mir erst Bier, wenn ich dich nach Hause bringe. }
+
+Plh_8 { Da gibt's eine einfache Lösung: du hilfst mir, und ich gehe nach Hause. }
+
+Plh_11 { Wonach sieht's ... denn aus? Durchatmen ... lange macht man es nicht im toten Moor. Gefährlich dort. }
+
+Plh_12 { Du bist wohl nicht auf den Kopf gefallen. Sagen wir es mal so, wenn du mir hilfst, werfe ich ein paar Münzen in deine Richtung. So wie du aussiehst, kannst du das gebrauchen. *zwinkert* }
+
+Plh_13 { Was springt für mich dabei raus, wenn ich dir helfe? }
+
+Plh_15 { Du willst mich einfach allein mit der Sache lassen? *grml* }
+
+Plh_16 { Was ist denn eine Alraune?! }
+
+Plh_22 { Eine Alraune ist eine lebendige Pflanze, die sehr selten ist und im Gegensatz zu den meisten anderen Pflanzen flüchtet, wenn man sie ernten will. }
+
+Plh_23 { Ich habe eine Alraune gefunden, nur konnte ich sie nicht fangen, weil alles voll mit Neblingen war. Wenn der Nebel aufzieht, kommen die. }
+
+Plh_24 { Wofür brauchst du die Alraune? }
+
+Plh_25 { Hast du nicht gesagt, das Moor ist zu gefährlich für jemanden wie mich? }
+
+Plh_26 { Also, wie würde das alles ablaufen? }
+
+Plh_30 { Für dich allein schon. Aber ich kann dich beschützen. Bleib einfach bei mir und dir wird nichts passieren. }
+
+Plh_31 { Wie gesagt, die Alraune flüchtet, wenn man ihr zu nah kommt. Das heißt, man muss sie einfangen. Du wirst dich aufs Fangen konzentrieren, ich mache die Viecher platt. }
+
+Plh_32 { Sehr gut. Wir müssen jetzt in das tote Moor. Ab hier wird's wirklich gefährlich. Kommt mit. }
+
+Plh_41 { Hmpf. Meld dich, wenn du deine Meinung änderst. }
+
+Plh_43 { Wegen der Hilfe ... }
+
+Plh_44 { *setzt sich hin und seufzt* Gut, du musst nicht kämpfen, und es wird auch nicht gefährlich für dich. }
+
+Plh_47 { Ich soll dir eine Stärkung von Bonny geben. }
+
+Plh_48 { Ah, genau das brauche ich. Hilft gegen die Schmerzen! }
+
+Plh_49 { Gut, wir brauchen zwei Leute, um die Alraune zu fangen. }
+
+Plh_50 { Was gibt's? }
+
+Plh_54 { Ich habe eine Nachricht von Bonny für dich. }
+
+Plh_55 { Will ich sie wirklich hören? }
+
+Plh_56 { Ja. }
+
+Plh_57 { Nein. }
+
+Plh_58 { Dann raus damit. }
+
+Plh_59 { Ich denke, ich höre es lieber von ihr selbst. *grinst* }
+
+Plh_60 { Sie hat gesagt, dass sie dich vermisst und dass sie sich auf deine Rückkehr freut. }
+
+Plh_61 { Kann mir nicht vorstelle, dass Bonny es so formuliert hat, aber ich verstehe schon. }
+
+Plh_62 { Sie sagte, wenn du nicht bald wieder zu Hause bist, kannst du im Sumpf versinken. }
+
+Plh_63 { Klingt nach ihr. Sie weiß schon, was sie sagt. }
+
+Plh_64 { Nett klingt das nicht. }
+
+Plh_65 { Du solltest vielleicht tun, was sie sagt. }
+
+Plh_66 { Wäre vielleicht kein Fehler ... }
+
+Plh_67 { In meinen Ohren schon. }
+
+Plh_69 { Was machst du jetzt hier? }
+
+Plh_70 { *seufzt* Ich könnte deine Hilfe brauchen. }
+
+Plh_98 { Du könntest mir bei etwas helfen, wo du schon da bist ... }
+
+Plh_99 { Ich brauche eine Alraune und du brauchst Hilfe bei der Sache mit den Waffenlieferungen. Klingt nach 'nem Geschäft? }
+
+Plh_100 { Ich möchte sie jemandem schenken. Einer Person, die mir ... was bedeutet. Beim Fest des Feuers. }
+
+Plh_103 { Lass mich raten: Bonny. }
+
+Plh_104 { Lohnt sich der ganze Aufwand NUR für eine Alraune? }
+
+Plh_105 { *wird rot* Ähm. Ja. Kann ich offenbar nicht verheimlichen ... }
+
+Plh_106 { NUR? Bonny liebt die Alraune. Du solltest sehen, wie sie lächelt, wenn sie eine sieht ... }
+
+Plh_107 { Du hast was von Neblingen erzählt. }
+
+Plh_109 { Ich hab dir ja gesagt, dass die Alraune schreit, wenn man ihr zu nahe kommt. Der Schrei kann dich locker umbringen, wenn du dich nicht schützt. }
+
+Plh_112 { Wie? Tödlich? }
+
+Plh_113 { Ein Schrei kann mich töten? }
+
+Plh_114 { Brauchst keine Angst zu haben! Dir passiert nichts. Du brauchst nur diesen Ohrenschützer. Konzentriere dich einfach darauf, die Alraune zu fangen. }
+
+Plh_115 { Einfach? Und was ist mit den Neblingen? }
+
+Plh_116 { Was soll ich tun, wenn ich sie gefangen habe? Schreit sie nicht weiter? }
+
+Plh_117 { Was hast du auf dem Weg für Magie benutzt? }
+
+Plh_118 { Keine Sorge, ich kümmere mich darum, dass dir keins zu nahe kommt. Konzentrier dich einfach nur darauf, die Dreckspflanze zu fangen. }
+
+Plh_119 { Wenn du sie gefangen hast, musst du ihr auf den Kopf hauen, damit sie bewusstlos wird. }
+
+Plh_120 { Magie? Du meinst den Runenstein? Der wird durch ein Ritual an eine Person gebunden und ermöglicht es, die Kraft des Göttlichen durch ihn zu kanalisieren. }
+
+Plh_124 { Nur ich kann diesen Runenstein hier benutzen und die Kraft kontrollieren, die du "Magie" nennst. }
+
+Plh_125 { Kann ich auch so einen Runenstein bekommen? }
+
+Plh_126 { So ein mächtiges Artefakt bekommt man nicht einfach so. In Nemeton haben nur Wenige diese Ehre. Aber genug gelabert, lass uns endlich die Alraune fangen. }
+
+Plh_128 { Hier war sie zuletzt. Ist zwischen meinen Fingern durchgerutscht. Wendiges Vieh. }
+
+Plh_129 { Das ist ein Witz? }
+
+Plh_131 { Na ja, eigentlich nicht. Hab selbst noch nie eine Alraune gesehen. Unsere Druidin Helma hat mir erzählt, dass eine Alraune aufhört zu schreien, wenn man ihr ordentlich eins auf die Rübe gibt. }
+
+Plh_132 { Und du weißt selbst nicht, ob das stimmt? }
+
+Plh_133 { Na gut, ich versuche es. }
+
+Plh_134 { Drova ist voller Überraschungen. Das ist doch auch schön! }
+
+Plh_135 { Ich halte dir den Rücken frei. Die Viecher beobachten uns, ich spüre es. Also Beeilung. }
+
+Plh_136 { Und wenn das nicht reicht? }
+
+Plh_137 { Hm. Weiß nicht. Noch eine? }
+
+Plh_140 { Ich habe eine Alraune. Wenn du willst, kannst du diese haben. }
+
+Plh_141 { Ah, das ist ja tatsächlich eine Alraune. Ich hab sie mir irgendwie ... na ja ... beeindruckender vorgestellt. }
+
+Plh_142 { Du hast mir sehr geholfen. Leute wie dich brauchen wir in Nemeton! Du solltest uns beitreten. }
+
+Plh_143 { Also, wegen der Waffenlieferung ... }
+
+Plh_144 { Zeit für meine Belohnung. }
+
+Plh_145 { Die hast du dir verdient. Triff mich beim Ausschank in Nemeton, dann reden wir darüber. }
+
+Plh_154 { Schau an! Wir haben es in einem Stück zurück geschafft. }
+
+Plh_155 { Hier ist die Alraune. }
+
+Plh_158 { Ah ja, ich erinnere mich. Wolltest Bier umsonst haben. }
+
+Plh_159 { Ah, dann warst du es. Hier, das Bier! Ich halte mein Wort! }
+
+Plh_160 { Ich habe nicht umsonst geholfen. }
+
+Plh_161 { Ja, Henik und ich haben's krachen lassen. }
+
+Plh_162 { Ohne dich wäre ich wohl nicht in einem Stück zurückgekommen. }
+
+Plh_164 { Was habt ihr eigentlich im Moor gemacht? }
+
+Plh_165 { Ähm ... also ... wir haben ... }
+
+Plh_166 { ... eine Alraune gesucht. }
+
+Plh_167 { ... eine Spur von Neblingen verfolgt, damit sie keine Leute angreifen. }
+
+Plh_168 { ... tja, was haben wir gemacht ... }
+
+Plh_169 { Wofür brauchst du denn eine Alraune? Du kennst dich doch überhaupt nicht mit Kräutern aus. }
+
+Plh_170 { Ja! Genau! Gefährliche Neblinge, äußerst ... gefährlich! }
+
+Plh_171 { Ja? }
+
+Plh_172 { Na ja, also ... }
+
+Plh_173 { Es ist doch bald das Fest des Feuers und ... }
+
+Plh_174 { *wird rot* Willst du mir etwa... einen Talisman schenken? Oh. Du hättest doch nicht ... *lächelt warm* Danke. }
+
+Plh_175 { So was. Früher hättest du die alleine platt gemacht. }
+
+Plh_176 { Nun, die Neblinge waren schon sehr aggressiv und ... viele waren es auch! }
+
+Plh_180 { Danke, dass du Henik geholfen hast. Er ist zwar stark, aber manchmal ein echter Dickkopf. }
+
+Plh_181 { Gut, dass du nicht erzählt hast, was ich alles für eine Alraune getan habe. Das soll eine Überraschung werden. Wenn ich sie ihr beim Fest des Feuers gebe ... sie wird sich so freuen. }
+
+Plh_182 { Also ... ich muss dann mal los. Hab noch Arbeit. *schaut zu dir* Wenn du Bier willst, komm zu mir. }
+
+Plh_183 { Im Sumpf hast du dich bewährt. Ich kann dir gern zeigen, wie man mit der Axt kämpft. Wir können hier gute Kämpfer brauchen. }
+
+Plh_184 { Das mit der Alraune hättest du für dich behalten können. Das sollte eine Überraschung beim Fest des Feuers werden. Na ja, hat sie sich jetzt schon gefreut. *grinst* }
+
+Plh_185 { Danke. Wir sehen uns beim Fest des Feuers. }
+
+Plh_187 { Halt die Ohren steif! }
+
+Plh_195 { Bonny. Ich möchte beim Fest des Feuers daraus einen Talisman für sie basteln. }
+
+Plh_196 { Wem willst du dann die Alraune schenken? }
+
+Plh_197 { Ähm, ich war im Moor ... und dort waren ... also ich habe dort was gesucht ... }
+
+Plh_198 { Ich weiß, dass du was gesucht hast. Was denn? }
+
+Plh_199 { Ach, nicht so wichtig. Nur eine Kleinigkeit fürs Fest des Feuers. }
+
+Plh_200 { Hat Molvina dich geschickt? }
+
+Plh_201 { Ja! Genau! *wischt sich Schweiß von der Stirn* }
+
+Plh_202 { Gut, dass alles geklappt hat. }
+
+Plh_204 { So, geschafft. Endlich raus aus dem Sumpf. *klopft auf seine Tasche* Die Alraune ist sicher verstaut. Auf nach Nemeton. }
+
+Plh_210 { Wir sollten schnell rausfinden, wie wir hier weiterkommen. }
+
+Plh_212 { Hier, deine Belohnung. Hol dir was Schönes bei Bonny. }
+
+Plh_214 { Na? Diesmal gibt's keinen Lärm. Weit und breit keine Alraune. Dafür gute Musik! }
+
+Plh_217 { Komm mit. }
+
+Plh_218 { Ich hab dich gesucht, wollte mit dir über die Waffenlieferungen reden. }
+
+Plh_219 { Hm? Mumme hatte die vorbeigebracht, und ich hab ihn ins Lager gelassen. Keine Ahnung, wer die geklaut hat. }
+
+Plh_220 { Können wir jetzt endlich über die Waffenlieferung reden? }
+
+Plh_221 { Hm? Wieso mit mir? Was hab ich damit zu tun? }
+
+Plh_222 { Komm, wir gehen zu Fia und reden mit ihr. Vielleicht lässt sie uns einen Moment ins Lager und wir finden dort was Interessantes. }
+
+Plh_223 { Ich will mit dir über die Waffenlieferung sprechen. }
+
+Plh_225 { Das wäre geklärt. }
+
+Plh_226 { Ähm, also ... }
+
+Plh_227 { *seufzt* Ich hab jetzt schon oft gesagt, dass die nie angekommen sind. }
+
+Plh_229 { Ah, ja. Natürlich, deine Belohnung. Komm, wir gehen zu Fia. }
+
+Plh_232 { Sicher, dass du hier alles gefunden hast? Vielleicht guckst du dich nochmal um. }
+
+Plh_233 { Guck dich hier aufmerksam um. Irgendwas muss doch hier sein ... }
+
+Plh_238 { Ich hab Wache gehalten. Mumme war da und hat die Waffen einsortiert. Hab ich selbst gesehen. }
+
+Plh_239 { Was? *knirscht mit den Zähnen* }
+
+Plh_240 { Aber im Lager ist nichts. Ich bin doch nicht bescheuert. }
+
+Plh_241 { Dann sollte ich mich mal im Lager umschauen. }
+
+Plh_242 { Es könnte drinnen noch Beweise geben. }
+
+Plh_243 { Du? Einfach so? Auf keinen Fall! }
+
+Plh_244 { Fia, sei vernünftig. Wir wollen das doch alle aufklären, damit wir keinen Ärger mit Angus bekommen. Da kann eine Spur sein. Komm schon ... hilf uns ... tu mir bitte den Gefallen. }
+
+Plh_245 { Henik, du willst, dass ich eine Person im Lager rumschnüffeln lassen soll, die nicht zu Nemeton gehört? Spinnst du? }
+
+Plh_246 { Ich bin doch dabei und werde mal ordentlich auf die Finger klopfen, wenn es nötig ist. Mir vertraust du doch, oder? }
+
+Plh_247 { Gut. Aber nur kurz! Und wenn noch was verschwindet, bist du schuld, Henik! Ich weiß ganz genau, was alles im Lager ist! }
+
+Plh_248 { Glaub mir, ich werde mich nicht mit dir anlegen wollen. }
+
+Plh_249 { Los, schauen wir uns um. }
+
+Plh_250 { Ich bin ... Henik ... hatte einfach Pech, deswegen ruhe ich mich gerade ein bisschen aus. }
+
+Plh_251 { Denk an den Gehörschutz! Sonst platzt dir der Schädel. }
+
+Plh_252 { Ich muss eine Alraune fangen, aber das stellt sich als schwieriger raus als gedacht. }
+
+Plh_253 { Was ist das Fest des Feuers? }
+
+Plh_254 { Wir feiern den Beginn des neuen Jahres. Die Welt der Toten und der Lebenden sind sich dann nah. In Nemeton wird ein großes Feuer entzündet. Solltest du nicht verpassen. }
+
+Plh_255 { Wie genau kann ich dir dabei helfen? }
+
+Plh_256 { Mumme sagt, du kannst bezeugen, dass er die Waffen geliefert hat. }
+
+Plh_257 { Ach so. Ja, hat er. Hab ihn reingelassen und er hat alles einsortiert. Es war schon spät, auf jeden Fall war es dunkel, als er angekommen ist. }
+
+Plh_258 { In der Warenliste steht, dass keine Lieferung in dem Lager angekommen ist. }
+
+Plh_259 { Das klingt komisch. Fia wird angepisst sein, wenn sie merkt, dass da irgendwas nicht stimmt. }
+
+Plh_261 { Hmm ... vielleicht haben die roten Haare was mit der Sache zu tun. }
+
+Plh_263 { In der Warenliste steht, dass die Waren niemals angekommen sind. }
+
+Plh_264 { Das ist wirklich komisch. Ich kann mal mit Fia reden. Aber zuerst muss ich hier noch was erledigen. }
+
+Plh_266 { Ach, du meinst die Alraune im Sumpf? Die hab ich schon geholt. }
+
+Plh_267 { Hm? Du ganz allein? Dann gib sie mir, und wir können nach Nemeton. }
+
+Plh_268 { Wenn du mir die Alraune noch geben willst, ich warte hier. }
+
+Plh_270 { Du kannst diese Alraune haben. (geben) }
+
+Plh_271 { Wenn ich keine Alraune finde, wird es kein schönes Fest des Feuers ... }
+
+Plh_290 { Ich mag das Fest des Feuers. Vor allem kann so Zeit mit Bonny verbringen ... }
+
+Plh_292 { ... du weißt ja ... ich war damals im Sumpf, um für Bonny die Alraune zu besorgen. }
+
+Plh_293 { Wobei zauderst du gerade? }
+
+Plh_294 { Nach Gradans Tod habe ich mir geschworen, nie wieder zu zaudern. Sondern alles zu tun. }
+
+Plh_296 { Bei Bonny. Heute ist das Fest des Feuers. Das nächste Jahr steht bevor. Ich will es mit ihr verbringen und um den Segen des Rabengottes erbitten. }
+
+Plh_297 { Bonny und ich brauchen jemanden, der für den Rabengott die Segensworte spricht. Könntest du das für uns tun? }
+
+Plh_298 { Warum sagst du mir das? }
+
+Plh_300 { Was soll ich dafür tun? }
+
+Plh_301 { Wenn Bonny zustimmt, dann leisten wir unter den Augen des Rabengottes einen Schwur der Vereinigung, und du musst dabei folgende Worte sagen ... }
+
+Plh_302 { Der Rabe sei Zeuge dieser Vereinigung! }
+
+Plh_304 { Warum ich? }
+
+Plh_305 { Du hast mir mit der Alraune geholfen, und wir haben Seite an Seite gekämpft. Das hat ein Band zwischen uns geformt. }
+
+Plh_306 { Ich bin dabei. Lass uns zu Bonny gehen. }
+
+Plh_307 { Ich möchte damit nichts zu tun haben. }
+
+Plh_309 { *blinzelt* Nun gut. Ich kann dich nicht zwingen ... }
+
+Plh_312 { Hast du es dir anders überlegt? }
+
+Plh_315 { *atmet durch* Ich bin aufgeregter als gegen den Großen Keiler. }
+
+Plh_316 { Hey, ihr. Na, genießt ihr das Fest? Schade, dass Gradan nicht da ist ... aber immerhin weilt er beim Göttlichen. }
+
+Plh_317 { *atmet tief durch* Ich bin ein Kämpfer. Ich könnte jederzeit sterben. Aber ... als Gradan gestorben ist, bin ich mir dieser Angst erneut bewusst geworden. }
+
+Plh_318 { Welche Angst, Henik? }
+
+Plh_319 { Angst, dass wir hier nicht in Frieden leben können. Und die Angst ... dich nie wiederzusehen. }
+
+Plh_320 { *wird leicht rot* Du siehst mich jeden Tag. }
+
+Plh_321 { Das reicht mir nicht. }
+
+Plh_322 { *räuspert sich* Ich möchte dich WIRKLICH sehen. Und ... ich habe etwas für dich. }
+
+Plh_323 { *holt den Talisman aus der Tasche und zeigt ihn Bonny* }
+
+Plh_324 { Henik ... bei den Göttlichen ... ich habe gehofft, dass du ... ja, ja! Lass uns diesen Weg gemeinsam beschreiten. Du brauchtest wohl Unterstützung von $GVAR:EVars_Player.Name$ was? *lächelt* }
+
+Plh_328 { Jetzt? }
+
+Plh_331 { *löst schmatzend seine Lippen von ihr* }
+
+Plh_332 { *küsst sie* }
+
+Plh_334 { *zischt* Jetzt! *küsst Bonny weiter* }
+
+Plh_335 { Beim Kämpfen hättest du nicht so lange gezögert, aber hier hast du dir so viel Zeit gelassen, dass ich fast selbst gefragt hätte. *lacht* }
+
+Plh_336 { Dagegen hätte ich auch nichts gehabt. }
+
+Plh_337 { *schaut zu dir* Danke für deine Unterstützung. Aber jetzt würden Bonny und ich lieber allein sein. *grinst* }
+
+Plh_338 { Ich wünsche euch nur das Beste. }
+
+Plh_340 { *schaut zu Bonny* Jetzt feiern wir unser eigenes Fest des Feuers ... und es wird lodern. }
+
+Plh_341 { Jetzt nicht. Lass uns reden, wenn das Fest des Feuers vorüber ist. }
+
+Plh_348 { Sieht alles noch ruhig aus. Wird sich bald ändern. }
+
+Plh_352 { Mombert wartet schon auf die Kristalle. Hast du sie? }
+
+Plh_359 { Wenn du noch etwas trainieren willst bevor wir losgehen ... }
+
+Plh_361 { Nicht nötig. (Gespräch verlassen) }
+
+Plh_362 { Hast du das Runengefäß? }
+
+Plh_363 { Hier muss doch irgendwas sein ... }
+
+Plh_364 { Lass uns keine Zeit verlieren. Melde dich bei Mombert. }
+
+Plh_365 { Ich kann immer noch nicht ganz fassen, dass wir hier mit einem Göttlichen im Gepäck rumlatschen ... }
+
+Plh_370 { Und hast du was gefunden? }
+
+Plh_371 { Im oberen Teil wurden schwere Kisten gelagert, die sind jetzt aber weg. }
+
+Plh_372 { Das könnten die Waffen gewesen sein. Aber dann muss sie jemand von hier rausgeschmuggelt haben. }
+
+Plh_373 { Es lagen dort rote Haare ... }
+
+Plh_374 { Rothaarige? Alle meine Arbeiter haben rote Haare. Sind gute Arbeiter. }
+
+Plh_375 { Swenn, Harvey und Enya. Denen vertraue ich. Aber ... na ja, wer weiß. Tagsüber arbeiten sie hier und nachts sind sie bei Bonny und saufen. }
+
+Plh_376 { Aber das würde heißen, dass es eine Person war, die für dich arbeitet. Wer ist das alles? }
+
+Plh_377 { Zu Bonny an die Theke gehe ich jetzt auch. Hab erst mal genug getan ... }
+
+Plh_378 { Jetzt reicht es langsam. Raus aus meinem Lager! }
+
+Plh_379 { Fia, wir haben- }
+
+Plh_380 { Erst mal raus, hab ich gesagt! }
+
+Plh_381 { Schon gut. }
+
+Plh_383 { Also - habt ihr wenigstens auch was gefunden? }
+
+Plh_384 { Arbeitet hier irgendwer, die oder der rote Haare hat? }
+
+Plh_385 { Danke. }
+
+Plh_386 { Bonny wird sich freuen, dich zu sehen. }
+
+Plh_387 { Na hoffentlich. }
+
+Plh_388 { Ihr haut jetzt beide ab, ich hab noch zu tun. }
+
+Plh_389 { Ich bin noch dabei. }
+
+Plh_390 { Das beste Bier in ganz Drova! }
+
+Plh_393 { Da spaziert niemand einfach rein! }
+
+Plh_394 { Guck dich genau um. }
+
+Plh_396 { Neblinge sind allein schwach, aber sie sind nie allein. Man weiß nie, wo sie sind und was los ist. Der Nebel versteckt sie. }
+
+Plh_397 { Aber bei mir bist du in Sicherheit! Ich passe auf dich auf. }
+
+Plh_398 { Hey, Bonny, wir sind zurück! }
+
+Plh_399 { Diese Wurzeln sehen brüchig aus. }
+
+Plh_422 { Jetzt nicht. Ich muss mich um Karotte kümmern. }
+
+Plh_456 { Den Göttlichen?! Henik ... das ist gefährlich. Du weißt doch, was bei der letzten Expedition passiert ist ... }
+
+Plh_457 { Mombert ist unser Druide. Wir alle vertrauen ihm. Und mit $GVAR:EVars_Player.Name$ und dem Funken an unserer Seite kann uns nichts passieren. }
+
+Plh_458 { Dann will ich hoffen, dass du auch auf die anderen aufpasst ... und sie auf dich. Komm mir in einem Stück zurück, ja? }
+
+Plh_459 { Und du weißt ja, wie gut ich auf mich selbst aufpassen kann. *grinst* }
+
+Plh_460 { Bonny, ich muss eine Weile weg. Wir sollen den Göttlichen des Düsterwaldes für die Erbin des Moores finden. }
+
+Plh_461 { Sollten wir wirklich gegen einen Göttlichen kämpfen? }
+
+Plh_462 { Bei dir alles gut? }
+
+Plh_463 { Hast Angst, was? Ich doch auch. Aber es muss sein ... }
+
+Plh_464 { Ich will keine Brüder mehr begraben, ich will endlich Ruhe. So wie wir alle. }
+
+Plh_467 { *grinst* Habe an Bonnys leckeres Essen gedacht und freue mich darauf, endlich wieder zurück zu sein. }
+
+Plh_468 { Der Wald hier, er ist anders als das Moor. Wunderschön ... fremd. Bonny würde es hier gefallen. }
+
+Plh_469 { Bist du mit Bonny zusammen? }
+
+Plh_470 { Ich muss mich ausruhen für morgen. }
+
+Plh_471 { Morgen brauchst du deine Kraft. }
+
+Plh_473 { Na ja ... wir kennen uns schon ewig. Also, eigentlich sind wir nur Freunde, aber ich bin ihr bester Freund, und ich kenne sie besser als alle anderen. Äh, tut mir leid, ich labere. }
+
+Plh_474 { Viel Spaß euch beiden. }
+
+Plh_475 { Bring du am besten das Runengefäß zu Mombert. }
+
+Plh_477 { Mombert, bist du dir sicher? }
+
+Plh_478 { Pass auf dich auf. Wir kümmern uns um Mombert. }
+
+Plh_479 { Es muss mit dem Göttlichen zu tun haben, dessen Domäne hier ist ... schau dir das alles hier an. }
+
+Plh_480 { Ich versuche, Kontakt mit dem Göttlichen aufzunehmen ... }
+
+Plh_481 { Ich ... ich spüre etwas. }
+
+Plh_482 { Henik, etwas stimmt nicht. }
+
+Plh_483 { Ich spüre ihn, da ist etwas ... }
+
+Plh_484 { Argh, was ist das? ARGH! ES ... TUT WEH! }
+
+Plh_485 { Mombert?! }
+
+Plh_486 { Hass ... Schmerz ... Wut! Alles durchflutet mich! DAS muss der Göttliche sein! ER SIEHT MICH! }
+
+Plh_487 { Verflucht, was passiert hier?! }
+
+Plh_489 { W-was sind das für Viecher? }
+
+Plh_490 { Beschütz Mombert! }
+
+Plh_491 { Er lebt noch ... schwach, gerade so ... }
+
+Plh_493 { Wir müssen ihn zurückbringen. Wir brauchen Mombert! }
+
+Plh_494 { Wir müssen die Kristalle mit Magie erfüllen. }
+
+Plh_495 { Unsere Mission ist wichtiger. }
+
+Plh_496 { Ich kümmere mich alleine um die Kristalle. }
+
+Plh_497 { Wir brauchen Mombert. Ohne ihn können wir nichts mit den Kristallen anfangen. }
+
+Plh_498 { Und keine Widerrede! Wir bringen ihn zurück! }
+
+Plh_499 { Wir können $GVAR:EVars_Player.Name$ nicht allein lassen. }
+
+Plh_500 { Mombert muss nach Nemeton, wir haben keine Wahl. }
+
+Plh_501 { Pass auf dich auf, $GVAR:EVars_Player.Name$, diese Viecher haben was mit dem Göttlichen zu tun gehabt. Halte dich von den Göttlichen fern, damit dir nicht das gleiche wie Mombert passiert. }
+
+Plh_502 { Wenn es jemand schafft, dann $GVAR:EVars_Player.Name$. Wir bringen Mombert nach Nemeton! }
+
+Plh_503 { Ich werde die Kristalle mit magischer Kraft erfüllen. }
+
+Plh_505 { Bringt Mombert zurück. Ich passe hier auf. }
+
+Plh_506 { Sei vorsichtig! }
+
+Plh_510 { Ich habe zum Raben gebetet, dass er dich schützen soll. Und du lebst noch. }
+
+Plh_511 { Und Mombert gerade noch so. Karotte hat sich um ihn gekümmert. }
+
+Plh_512 { Was hat Mombert? }
+
+Plh_513 { Bist du bereit für den Roten Turm? }
+
+Plh_516 { Wenn ich das wüsste ... er ist komplett irre. Ich musste ihn zurückbringen. }
+
+Plh_517 { Wir sind bereit, Asmus. Wir werden Molvina und Mombert begleiten. }
+
+Plh_518 { Pass auf dich auf. }
+
+Plh_519 { Es tut mir leid, dass wir dich allein gelassen haben. }
+
+Plh_520 { Was ist? }
+
+Plh_521 { Wer sich Molvinas Befehlen widersetzt, handelt gegen Nemeton. Molvina gibt dir noch eine Chance. Du solltest sie nutzen. }
+
+Plh_522 { Die ganze Plackerei hat sich gelohnt. Der Rote Turm erwartet uns. }
+
+Plh_525 { Molvina ... du hast sie besiegt! Wir haben keine Anführerin mehr ... }
+
+Plh_526 { Was ... was machen wir ohne Molvina? }
+
+Plh_527 { ... }
+
+Plh_528 { Das war ein ordentlicher Kampf! So muss das sein! }
+
+Plh_530 { $GVAR:EVars_Player.Name$ war siegreich! Wir folgen nun $GVAR:EVars_Player.Name$! }
+
+Plh_531 { Aber ... }
+
+Plh_532 { $GVAR:EVars_Player.Name$! }
+
+Plh_533 { Wir dürfen das Urteil der Göttlichen nicht anzweifeln ... }
+
+Plh_534 { $GVAR:EVars_Player.Name$ steht das Recht zu, über Drova zu herrschen. }
+
+Plh_535 { Das kann nicht sein ... Molvina ... Drova ... was hast du getan ... }
+
+Plh_536 { Ich habe getan, was ich tun musste. }
+
+Plh_537 { $GVAR:EVars_Player.Name$! Jero hat dir vertraut. Du bist ihm gefolgt! Und du hast dich als würdig erwiesen, Drova anzuführen! }
+
+Plh_539 { Wir stehen gemeinsam im Roten Turm ... wir werden gemeinsam in Drovas Zukunft schreiten. }
+
+Plh_540 { Tötet diesen Abschaum von Nemeton ... }
+
+Plh_541 { W-was? Aber wir ... }
+
+Plh_543 { Wir folgen $GVAR:EVars_Player.Name$! Für Jero! Wir rächen ihn! Auf sie! BLUT! }
+
+Plh_545 { Wir stellen uns nicht gegen den Willen der Göttlichen. Wir folgen dir. }
+
+Plh_546 { Ich kenne dich nicht, und du gehörst nicht zu Nemeton. Was hast du mit der Waffenlieferung zu tun? }
+
+Plh_547 { Ich will mich Nemeton anschließen und Angus überzeugen. }
+
+Plh_548 { Ich bin halt neugierig und will helfen. }
+
+Plh_549 { Was ist denn mit der Waffenlieferung? }
+
+Plh_552 { Die Waffen sind geklaut worden. }
+
+Plh_553 { Hey, Fia, schau mal. Ich war im Moor und hab eine Alraune gefangen. Also, nicht ich alleine, sondern ... }
+
+Plh_554 { Henik, ich hab keine Zeit. Was willst du? }
+
+Plh_555 { Wegen der verschwundenen Waffenlieferungen ... }
+
+Plh_557 { *mustert dich* }
+
+Plh_558 { Es war etwas wirklich Dringendes! }
+
+Plh_559 { Wenn du Bier willst, komm zu mir. }
+
+Plh_560 { Hast du dir verdient. Freue mich, dass Molvina das auch gesehen hat. }
+
+Plh_561 { Ich habe jetzt auch einen Runenstein. }
+
+Plh_562 { Es kommt was auf uns zu. Wir brauchen gute Leute. Gute Kämpfer! }
+
+Plh_563 { Der Konflikt mit Nemeton und dem Ruinenlager wird schlimmer werden. Ich fürchte, es kommt zum Krieg. }
+
+Plh_564 { Was kommt auf uns zu? }
+
+Plh_565 { Aber ... }
+
+Plh_566 { Es wird wahrscheinlich nicht mehr lange dauern ... aber mit Karotte und dir haben wir eine Chance. }
+
+Plh_568 { Wir bekommen das alles schon hin. Ich bin ja da. }
+
+Plh_569 { Da hast du recht. }
+
+Plh_571 { Du schuldest mir noch was wegen der Alraune ... }
+
+Plh_572 { Stimmt, du hast recht. }
+
+Plh_573 { Hier, ehrliche Arbeit wird auch ehrlich bezahlt. }
+
+Plh_574 { Na? Du siehst anders aus. Zufriedener. Stärker. Glorreicher! }
+
+Plh_575 { Ich hab den Schwur geleistet und bin jetzt einer von euch. }
+
+Plh_576 { Angus und Molvina sind überzeugt von mir. Ich darf jetzt eine Nemeton-Rüstung tragen. }
+
+Plh_577 { Na, so was entgeht mir doch nicht! }
+
+Plh_578 { Hab schon auf dich gewartet. Damit wir zusammen anstoßen können! Auf dich! Ich lass ein Bier springen. }
+
+Plh_579 { Auf mich! (Bier trinken) }
+
+Plh_580 { Auf mich! (Wasser trinken) }
+
+Plh_581 { Du hast es faustdick hinter den Ohren! Wenn wir irgendwann mal auf eine Expedition gehen, dann leg ich für dich meine Hand ins Feuer. Ich weiß, du würdest dasselbe auch für mich tun. }
+
+Plh_582 { Genieß dein neues Leben. Jetzt kümmert sich die Erbin des Moores auch um dich. Für Nemeton! }
+
+Plh_583 { Für Nemeton! (salutieren) }
+
+Plh_587 { Ich muss mal mit dir sprechen. }
+
+Plh_588 { Na gut! Auf in die Schlacht. }
+
+Plh_589 { Jero hat mir alles gegeben ... ich muss unser Lager schützen. }
+
+Plh_591 { Nemeton ist meine Familie, ich lasse es nicht im Stich. }
+
+Plh_594 { Wir sollten nach den Runengefäßen schauen. }
+
+Plh_598 { Schau dir diese Symbole an. Ich kenne mich mit denen nicht aus ... aber die müssen doch etwas bedeuten. }
+
+Plh_599 { Wir haben Molvina gerächt! }
+
+Plh_600 { Jero ... er ist tot! Ich ... ich ... }
+
+Plh_601 { Was machen wir ohne Jero? }
+
+Plh_603 { $GVAR:EVars_Player.Name$! Molvina hat dir vertraut und du bist ihr gefolgt! Du hast dich als würdig erwiesen, über Drova zu herrschen! }
+
+Plh_604 { Tötet diesen Abschaum vom Ruinenlager ... }
+
+Plh_605 { MOLVINA!! }
+
+Plh_606 { Das kann nicht sein! }
+
+Plh_607 { $GVAR:EVars_Player.Name$! }
+
+Plh_609 { Vielleicht sind sie mit irgendwas verbunden ... }
+
+Plh_610 { Du möchtest die Lager wieder vereinen?! }
+
+Plh_611 { $GVAR:EVars_Player.Name$! Für ein vereintes Drova! }
+
+Plh_612 { Die Göttlichen haben gesprochen! }
+
+Plh_613 { Kniet vor Jeros Erben! $GVAR:EVars_Player.Name$! }
+
+Plh_614 { Der alte Streit musste enden ... }
+
+Plh_615 { Ich schwöre meine Treue. }
+
+Plh_616 { Meine Klinge gehört dir. }
+
+Plh_617 { Für $GVAR:EVars_Player.Name$! }
+
+Plh_618 { $GVAR:EVars_Player.Name$ ... ich fühle ... wie die magische Kraft ... flackert ... seit der Runenzirkel erloschen ist ... }
+
+Plh_619 { Irgenwas stimmt nicht ... }
+
+Plh_620 { Zur Spitze des Roten Turm! Los! }
+
+Plh_621 { Eugen, beruhig dich. }
+
+Plh_622 { Wie konnte das passieren? }
+
+Plh_623 { Das kann nicht sein ... Jero ... unsere Freiheit ... was hast du getan ... }
+
+Plh_624 { Wir folgen $GVAR:EVars_Player.Name$! Und wir tun es für Molvina! Wir rächen sie! Angriff! }
+
+Plh_625 { Diese Verräter haben uns keine andere Möglichkeit gelassen ... }
+
+Plh_626 { Für $GVAR:EVars_Player.Name$! }
+
+Plh_627 { Irgendwas stimmt nicht. Der Runenzirkel ... er ist zerstört worden, und es fließt keine magische Kraft mehr. Wir müssen zu den Runengefäßen! }
+
+Plh_628 { Zur Spitze, wie holen uns die Runengefäße. }
+
+Plh_630 { Ihr habt ihn gehört! Kniet nieder vor Molvinas Erbe! $GVAR:EVars_Player.Name$! }
+
+Plh_631 { Sag ... wie gehen wir nun mit ihnen um? }
+

@@ -1,0 +1,208 @@
+Plh_9 { Hast du das Paket von Asmus mitgehen lassen? }
+
+Plh_50 { Ich kann diese verlassenen Häuser nicht mehr sehen. }
+
+Plh_84 { Du siehst auch aus, als wärst du gerade hier angekommen. }
+
+Plh_85 { Sieh mich an, ich trage nur ein paar Lumpen und lungere in diesem verdammten verlassenen Viertel herum. Als wäre ich irgendein Nichtsnutz! Ich gehöre hier nicht her! }
+
+Plh_86 { Plh_86 }
+
+Plh_87 { Wieso denkst du, dass du hier nicht hingehörst? }
+
+Plh_88 { Wieso?! Weil ich mal ein Mitglied von Nemeton war! }
+
+Plh_89 { Meinen Arsch hab ich mir für die aufgerissen. Und wie danken sie es mir? Sie nehmen mir meine Rüstung, meine Waffe, einfach alles weg! Nicht mal was zu essen kriege ich noch beim Ausschank! }
+
+Plh_90 { Sie tun alle so, als würden sie mich gar nicht kennen! Als hätte ich nie zu ihnen gehört! }
+
+Plh_91 { Säcke. Die alle. }
+
+Plh_92 { Warum bist du denn rausgeworfen worden? }
+
+Plh_93 { Anscheinend ist es MEINE Schuld, dass irgendwelche dreckigen Banditen mich abziehen. Ich war Läufer für Asmus, hab Zeug zum Ruinenlager geliefert. }
+
+Plh_94 { Ich bin keine Niete im Kampf, aber gegen drei Leute hab ich auch keine Chance. }
+
+Plh_95 { Geht schlecht, wenn die mich umzingeln! }
+
+Plh_96 { Dann renn' eben weg, statt zu kämpfen. }
+
+Plh_97 { Drei gegen einen? Diese Ratten! }
+
+Plh_98 { Sag ich ja! Was soll ich da tun? }
+
+Plh_99 { Hab Asmus gewarnt, dass ich immer wieder von denen überrascht wurde und Verstärkung brauche. Meinte, er wird sich drum kümmern, aber kam was? }
+
+Plh_100 { Natürlich nicht! Aber am Ende bin ich schuld! }
+
+Plh_101 { Das ist wirklich nicht fair! }
+
+Plh_102 { Natürlich bist du schuld. }
+
+Plh_103 { Sag ich ja! Und dafür VERBANNEN sie mich! }
+
+Plh_104 { Was weißt du schon darüber?! }
+
+Plh_105 { Ich werd's jedem von ihnen zeigen. Ihrem eigenen Bruder wollten sie nicht helfen, und dann haben sie ihn fallen lassen. }
+
+Plh_106 { Aber ich hab's noch mal in Asmus' Bleibe krachen lassen. Er wollte mir nicht helfen, also habe ich es ihm heimgezahlt! Hab alles zertrümmert und noch was mitgehen lassen. Hat er verdient. }
+
+Plh_109 { Und was machst du jetzt? }
+
+Plh_110 { Was schon? Draußen werde ich von irgendwelchen Viechern zerfleischt. Und zu diesen Verrätern beim Ruinenlager gehe ich niemals! Die schlitzen dir die Kehle auf und lachen noch dabei. }
+
+Plh_111 { Wenigstens haben sie mich hier nicht auf den Scheiterhaufen gepackt. }
+
+Plh_112 { Wa-? Ach, verdammt, ich hätte dir gar nichts erzählen sollen. Ich warte nur, bis Asmus hier auftaucht und mich durchleuchtet. }
+
+Plh_113 { Asmus hat deinen Namen nicht erwähnt. }
+
+Plh_114 { Würdest du dich für ein paar Münzen von dem Paket trennen? }
+
+Plh_115 { Rück das Paket raus, sonst lernst du mich kennen. }
+
+Plh_116 { Was? Ich ... ich dachte, dass er sofort weiß, dass ich es war. Immerhin hat er doch dafür gesorgt, dass ich verbannt worden bin! }
+
+Plh_117 { Hm? Klar. Gib mir $GVAR:QuestVars_TheOutcast_Config.PackagePrice_Full$ Münzen, und es ist deins. Kann sowieso nichts damit anfangen. Und mit den Münzen komme ich 'ne Weile über die Runden. }
+
+Plh_118 { Du willst eine aufs Maul? Kannst du haben! Sag dann nicht, ich hätte dich nicht gewarnt! }
+
+Plh_119 { Dann zeig mal, was du kannst. (Waffe ziehen) }
+
+Plh_120 { Ich nehm's zurück. }
+
+Plh_121 { Du hast es nicht anders gewollt! Dann lass ich meine Wut eben an DIR aus! }
+
+Plh_122 { Du hast ein loses Mundwerk. Dann drücke ich noch mal ein Auge zu ... }
+
+Plh_124 { Bin ich froh, dass du das sagst. }
+
+Plh_125 { Also gut. Nimm die $GVAR:QuestVars_TheOutcast_Config.PackagePrice_Full$ Münzen und rück es raus. }
+
+Plh_126 { *grinst* So gefällt mir das. }
+
+Plh_127 { Dann bring auch genug Münzen mit! Verarschen kann ich mich selbst. }
+
+Plh_128 { Das Paket ist im Apfelhain. Guck dich bei dem Baum neben dem Holzstapel genauer um. Da kannst du es ausgraben. }
+
+Plh_129 { Wie? Ich soll mir jetzt die Hände schmutzig machen? }
+
+Plh_130 { Mit dir lässt sich vernünftig handeln. }
+
+Plh_131 { Ja. Sollst du. Ich sicher nicht. }
+
+Plh_132 { Kann ich nur zurückgeben. *grinst* }
+
+Plh_133 { Du willst schon wieder über die Sache reden? Ugh. }
+
+Plh_134 { Wegen des Pakets ... }
+
+Plh_135 { Lass uns die Sache mit dem Paket ein für alle Mal klären. (Waffe ziehen) }
+
+Plh_136 { Erst große Töne spucken, aber dann nicht austeilen können, was? }
+
+Plh_137 { Du kleiner Schisser provozierst mich erst und rennst dann weg. Echt peinlich. }
+
+Plh_138 { Ist ja gut, ist ja gut! Ich sag dir, was du wissen willst. }
+
+Plh_139 { Hättest du auch einfach sagen können. }
+
+Plh_141 { Hau schon ab. Ich will dich nicht mehr sehen. }
+
+Plh_144 { Seit ich verbannt worden bin, bin ich ihm aus dem Weg gegangen. Damit er nicht was heuchelt und sich rausredet. Immerhin hat ER mir keine Verstärkung gegeben! }
+
+Plh_145 { Er hätte dir bestimmt Verstärkung gegeben, wenn es möglich gewesen wäre. }
+
+Plh_146 { Klingt für mich, als solltest du dir seine Sicht anhören. }
+
+Plh_148 { Vielleicht hast du recht. }
+
+Plh_149 { Wenn ich nicht mit ihm rede, erfahre ich nie, ob meine Vermutung stimmt. }
+
+Plh_150 { Ach, scheiß drauf. Ich rede mit ihm. Er kann sein dummes Paket wiederhaben. Ich kann damit sowieso nichts anfangen. }
+
+Plh_151 { Ich warte bei Asmus auf dich. Und dann klären wir alles. }
+
+Plh_152 { Da bist du ja. Hast du das Paket gefunden? }
+
+Plh_153 { Sieht so aus. Ist es das hier? (geben) }
+
+Plh_155 { Ja, das ist es. Gut, dann wollen wir mal ... }
+
+Plh_156 { Ich weiß gar nicht so richtig, wie ich anfangen soll. Aber es muss sein! }
+
+Plh_160 { (mit Afrin rübergehen) }
+
+Plh_161 { Afrin! Da bist du ja! }
+
+Plh_162 { Nein, Asmus. Ich muss dir was sagen. }
+
+Plh_163 { Deine verwüstete Bleibe ... }
+
+Plh_165 { Ich ... war das. }
+
+Plh_166 { Du?! Was? Verdammt, WARUM? }
+
+Plh_167 { Weil die mich rausgeworfen haben! Ich reiße mir den Arsch für deine Lieferungen auf - und werde verbannt! Du hättest mir helfen können! Dich für mich stark machen! }
+
+Plh_169 { Deshalb bist du mir also aus dem Weg gegangen. Afrin, ich HABE mich für dich stark gemacht! Die wollten dich schon länger loswerden, ich habe für dich gesprochen! }
+
+Plh_170 { Angus wollte mir keine weiteren Männer für unser Geschäft zuweisen. Er hält nichts davon, das weißt du! Ich hab Molvina angefleht, dass sie dir vergeben soll. }
+
+Plh_171 { Aber sie haben mich überstimmt ... }
+
+Plh_172 { Wirklich? }
+
+Plh_173 { Ich schwöre es, beim Raben und bei meinen Eltern! Dachtest du wirklich, dass ich dich einfach so hängen lasse? Du solltest mich besser kennen nach all der Zeit. }
+
+Plh_174 { Verzeih mir, Asmus. Ich habe einen großen Fehler gemacht. }
+
+Plh_175 { Es tut mir so leid ... }
+
+Plh_176 { Alles ist in Ordnung, Afrin. Ich kann nachempfinden, was du für einen Dreck durchgemacht hast. }
+
+Plh_177 { Und mach dich nicht verrückt wegen der Zerstörung. Das sind nur ein paar kaputte Sachen. Ich nehm's dir nicht krumm. Lass uns lieber rausfinden, was an der Sache faul ist. }
+
+Plh_178 { Und wenn wir Beweise zu den Überfällen haben, legst du sie Molvina hin! Dann MUSS sie einsehen, dass sie dich nicht hätte verbannen sollen! }
+
+Plh_179 { Denkst du wirklich, dass sie mich wieder aufnehmen? }
+
+Plh_180 { Wenn die Beweise überzeugen, ja. Ich hole was zum Futtern aus dem Ausschank, wir räumen meine Bude auf, und du kannst auch hier schlafen. }
+
+Plh_181 { Danke, Asmus. Wirklich, es tut mir so leid! }
+
+Plh_185 { Ich denke mal, du hast Afrin bei der ganzen Sache geholfen, oder? }
+
+Plh_186 { Ach, ich hab eigentlich nur die richtigen Fragen gestellt. *grinsen* }
+
+Plh_187 { Er ist da von selbst draufgekommen. Also ... fast. }
+
+Plh_188 { Egal wie, immerhin streitet ihr nicht mehr. }
+
+Plh_189 { Blödsinn! Ohne $GVAR:EVars_Player.Name$ wäre ich niemals auf Asmus zugegangen. }
+
+Plh_190 { Das stimmt ... }
+
+Plh_191 { Wir reden gleich wegen der Sache mit dem Paket. Ich hab noch mehr Arbeit, wenn es dich interessiert. }
+
+Plh_198 { Ich gehe jetzt zu Asmus. Komm mit dem Paket dahin. }
+
+Plh_199 { Hast du das Paket? }
+
+Plh_200 { Ach ja? Erst willst du mich verprügeln und jetzt eine Lüge auftischen? Vergiss es. }
+
+Plh_201 { Ich glaube, Asmus hat dich überhaupt nicht verdächtigt. }
+
+Plh_202 { Kann das wirklich stimmen? Das würde ... alles ändern. }
+
+Plh_203 { Redet mal über die Sache. Vielleicht einigt ihr euch. }
+
+Plh_204 { Vergiss es. Ich will von dir nichts mehr hören. }
+
+Plh_205 { Ich wollte dir noch was sagen ... }
+
+Plh_206 { Danke für deine Hilfe. Vielleicht kann ich dank dir doch wieder ein Teil von Nemeton werden. }
+
+Plh_207 { Dank dir bin ich wieder Teil von Nemeton. Danke für alles! }
+

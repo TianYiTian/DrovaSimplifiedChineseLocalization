@@ -1,0 +1,84 @@
+Plh_5 { Schau mich an. Ich bin alt und blind. Ich brauche Hilfe. Du klingst jung und kräftig. Kannst du mir vier Äpfel, ein Brotmesser, drei Quellwurz und ein Bärenfell vom Markt kaufen? Ich bezahle dich auch dafür. }
+
+Plh_6 { Ich bin Gilwar. Glaub mir, ich würde dich gern in Ruhe lassen, aber gerade geht's nicht anders ... }
+
+Plh_7 { Hier, ich habe dein Zeug. (Bärenfell übergeben) }
+
+Plh_8 { Ich bin dir so dankbar. Nimm dir die Münzen aus einem Beutel, ich sehe sie nicht. }
+
+Plh_9 { Ohh, endlich ein Bärenfell. So weich. Ich sag dir, mein Leben ist schon hart genug. }
+
+Plh_10 { Es war ein junger Bär. }
+
+Plh_11 { Was ist mit meinen Münzen? }
+
+Plh_12 { (Alle $GVAR:QuestVars_OldMan_Config.AllMoney$ Münzen aus dem Beutel nehmen) }
+
+Plh_13 { ($GVAR:QuestVars_OldMen_Config.DefaultValue$ Münzen aus dem Beutel nehmen) }
+
+Plh_14 { Ich will keine Münzen. }
+
+Plh_17 { Ich weiß nicht, wann ich zuletzt eine warme Nacht hatte, aber heute ist es wieder so weit ... }
+
+Plh_18 { Du ... du schenkst mir das Fell einfach so? Diese Güte habe ich lange nicht mehr erlebt. Der Rabe möge über dich wachen. }
+
+Plh_20 { Hier, ich habe dein Zeug. (Schafsfell übergeben) }
+
+Plh_21 { *streicht über das Fell* Endlich ein Bärenfell! So weich, so schön ... aber ... auch so klein? Ist so ein Bär nicht größer? }
+
+Plh_22 { Bist du das wieder? }
+
+Plh_23 { Hallo? Hallo? Ist da wer? }
+
+Plh_24 { Ja. Ich. }
+
+Plh_25 { Nein. }
+
+Plh_27 { Ah! }
+
+Plh_28 { Hmpf. Verarschen kann ich mich selbst. }
+
+Plh_29 { Ich kann dich hören! }
+
+Plh_30 { Ja, ich bin hier ... }
+
+Plh_31 { Natürlich. Ich helfe dir. }
+
+Plh_32 { Dafür habe ich keine Zeit ... }
+
+Plh_33 { Es gibt hier also doch noch ordentliche Leute! Du findest alles hier auf dem Markt. }
+
+Plh_34 { Hmpf. Schade. Wenn du es dir anders überlegst - ich bin hier. Vielleicht findet sich jemand anderes noch ... }
+
+Plh_35 { Bist du schon lange hier? }
+
+Plh_36 { Wie bist du blind geworden? }
+
+Plh_37 { Hast du keine Familie, die dir helfen kann? }
+
+Plh_38 { Ha! Ich bin fast so alt wie Nemeton selbst! }
+
+Plh_39 { Würdest du es mir glauben, wenn ich sage, dass ich heldenhaft gekämpft habe, aber ich von meinen Feinden überwältigt und bestraft wurde? }
+
+Plh_40 { Meinst du, ich wäre hier, wenn ich eine hätte?! }
+
+Plh_41 { Du kannst dir nicht vorstellen, was ich hier schon alles erlebt habe. Als Nemeton noch großartig war ... der Ort, von dem keiner weggehen wollte ... }
+
+Plh_42 { Aber dann kam das Ruinenlager ... }
+
+Plh_43 { Molvina müsste mehr gegen das Ruinenlager tun. Sie ist schwach! Wie ihr Vater! Der war damals schon ein Feigling! }
+
+Plh_44 { Dann lassen wir das so stehen. }
+
+Plh_45 { Spricht für dich, dass du nicht alles glaubst, was man dir erzählt. Mich hat das Alter einfach eingeholt. }
+
+Plh_46 { Ja. }
+
+Plh_47 { Nein. }
+
+Plh_48 { Wegen deinem Zeug ... }
+
+Plh_50 { Ich bin noch dabei. }
+
+Plh_51 { Ich warte hier auf dich. }
+

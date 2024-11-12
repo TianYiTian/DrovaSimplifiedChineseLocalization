@@ -1,0 +1,16 @@
+Title { Verlorener Beutel }
+
+Entry_01 { Ein Händler namens Lobo hat mir angeboten, mich nach Nemeton reinzubringen, wenn ich ihm seinen "Beutel" wiederbringe. Im Apfelhain am Grenzstein ist ihm dieser Beutel ins Moor gefallen. }
+
+Entry_02 { Ich habe den Beutel, Lobo wird sich freuen. }
+
+Entry_03 { Lobo hat sich sehr gefreut. Er hat sich bereiterklärt, mich nach Nemeton reinzubringen. }
+
+Entry_04 { Endlich bin ich in Nemeton. }
+
+Entry_06 { Ich brauche Lobo nicht mehr, um nach Nemeton reinzukommen. }
+
+Entry_03_01 { Der Beutel ist Lobo egal, er möchte nur den roten, verzierten Stein dort drin haben. Soll ich ihn Lobo geben? }
+
+Entry_03_Cancel { Ich habe Lobo verprügelt und er will nichts mehr mit mir zu tun haben. }
+

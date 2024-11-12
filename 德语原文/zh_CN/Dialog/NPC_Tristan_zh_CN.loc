@@ -1,0 +1,138 @@
+Plh_5 { Endlich ein Mensch, der nicht wie ein Wildschwein aussieht! }
+
+Plh_12 { Du bist der Typ, der seine Zeche in der Taverne nicht zahlt! }
+
+Plh_13 { Was machst du hier? }
+
+Plh_14 { *knirscht mit den Zähnen* Ich wollte schon längst wieder zurück sein. Und bezahlen, ehrlich! Zum Lager, ein paar gute Geschäfte machen und verschwinden! }
+
+Plh_15 { Ich bin so ziemlich der Einzige, der hierher kommt. Mit den Spinnern kann man gute Tauschgeschäfte machen. }
+
+Plh_16 { Ich kann von Glück reden, dass ich an den Flammen vorbeigekommen bin. Ich sehe hier kaum mehr als dieser verdammte Diemo! Und dann geht im Wald auch noch eine "Gestalt" um, wie die es nennen ... }
+
+Plh_21 { Ich wurde vom Ruinenlager geschickt. }
+
+Plh_22 { Ich schaue mich hier erst mal weiter um. }
+
+Plh_25 { Du solltest dabei die Augen offenhalten. }
+
+Plh_26 { Übrigens, wenn du Ausrüstung brauchst, ich habe Interessante Sachen im Angebot. Du hast doch Münzen, oder? Bei mir bekommst du immer den besten Preis! *reibt sich die Hände* }
+
+Plh_27 { Ich bin Tristan, Händler und Reisender. }
+
+Plh_28 { Aber gerne doch. }
+
+Plh_31 { Ich komme aus der Taverne. Olaf war wirklich angefressen. }
+
+Plh_33 { Weißt du, wie ich den Göttlichen des Waldes finden kann? }
+
+Plh_34 { Du ziehst die Leute hier also ab? }
+
+Plh_35 { Letztens habe ich hier drei Erdwurzeln gegen drei Heiltränke getauscht. Das sind eben die Vorteile, wenn man sich als einziger Händler her traut. }
+
+Plh_37 { Den Göttlichen? Oder meinst du diese leuchtenden Wesen, die die meisten hier haben? Damit befasse ich mich nicht, die lassen sich nicht verkaufen. }
+
+Plh_38 { Was? Bei den Göttlichen, nein! Sie bieten das selbst an, und warum soll ich ablehnen? Ich kann doch nichts dafür, dass ich dann fetten Gewinn mache! Sie haben ja auch was davon! }
+
+Plh_39 { Ich weiß selbst nicht viel. Meistens verhandele ich mit Diemo oder Roarke. Die haben wohl den größten Einfluss. }
+
+Plh_40 { Was sollte ich über die Leute hier wissen? }
+
+Plh_41 { Was macht denn ein Händler so tief im Düsterwald? }
+
+Plh_42 { Ich wurde von Nemeton geschickt. }
+
+Plh_43 { Wüsste ich selbst gern. Ich wollte nicht lange hierbleiben. Schnell in den Düsterwald, ein paar gute Geschäfte machen und schnell wieder raus. War mein Plan. }
+
+Plh_44 { Am besten sprichst du mit Diemo darüber. }
+
+Plh_45 { Wer ist Diemo? }
+
+Plh_46 { Der Anführer in dieser Zuflucht hier. Oder auch die "Blindschleiche", wie ich ihn nenne. }
+
+Plh_47 { Wirst schon sehen, warum. Aber ... ähm, sag ihm besser nicht, dass ich ihn so nenne. }
+
+Plh_48 { Was für eine "Gestalt"? }
+
+Plh_49 { Wenn ich das mal wüsste! }
+
+Plh_51 { Gehört jedenfalls nicht in diesen Wald. Hat sich vielleicht verlaufen. Ich hab sie gesehen. Da hat mich was durch die Flammen angestarrt. Mit riesigen Augen. Und mit mehr als zwei ... }
+
+Plh_55 { Mach das. Und wenn du handeln willst, komm zu mir! }
+
+Plh_56 { Siehst du das schwarze Zeug dort links am Ufer? }
+
+Plh_57 { Tödliches Zeug. Die kleinste Berührung und, puff, vorbei. Die Einzigen, die da durch können, sind die Leute im Lager da vorne. }
+
+Plh_58 { Haben immer so ein Leuchtding dabei. Ich glaube, sie nennen es "Funke". }
+
+Plh_60 { Dann ist diese "Gestalt" aufgetaucht, wie sie es nennen. Während das Ding umgeht, setze ich keinen Fuß aus dem Lager. Dieser Diemo sagt, dass sie einen Plan haben, deshalb warte ich ab. }
+
+Plh_61 { Hab schon einige gute Geschäfte mit ihnen gemacht. Jedenfalls besser als mit diesem Boris aus dem Ruinenlager. Versucht ständig, den Preis ins Bodenlose zu drücken ... hmpf. }
+
+Plh_66 { Er war ziemlich angepisst, aber ich habe die Zeche bezahlt. }
+
+Plh_69 { Du hast meine Zeche bezahlt? Im Ernst? }
+
+Plh_70 { Er meinte, du schuldest ihm noch $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$. }
+
+Plh_72 { Ich brauchte deine Karte, um hierher zu finden. }
+
+Plh_73 { Du hast MEINE Karte benutzt? Weißt du eigentlich, wie teuer so eine Karte ist? }
+
+Plh_74 { Das kostet dich aber $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.RentForMap$ Münzen! Ich hör' ja wohl nicht richtig! MEINE Karte! }
+
+Plh_75 { Die Geschäfte laufen zwar gerade nicht schlecht, aber ich hab nur einige Tauschwaren. Olaf will bei so was nichts als klingende Münzen sehen. Alles andere interessiert ihn nicht ... }
+
+Plh_76 { Aber die Leute hier in der Zuflucht haben keine Münzen ... Sie wissen wahrscheinlich nicht mal, was das ist. Sie kommen mit allem möglichen Kram zu mir und tauschen. }
+
+Plh_77 { Spinnst du? Ich hab schon deine Zeche bezahlt! $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ Münzen! }
+
+Plh_78 { Na schön ... mir soll's egal sein. }
+
+Plh_79 { Schon gut, beruhig dich. }
+
+Plh_80 { Mit dir kann man wenigstens vernünftig handeln! }
+
+Plh_81 { Ich habe nicht genug Münzen ... }
+
+Plh_84 { Außerdem wird Olaf mir eh den Kopf abreißen, wenn ich wiederkomme. Hab einen fetten Deckel bei ihm. }
+
+Plh_85 { Jedenfalls bleibe hier, solange das Ding da draußen rummacht. }
+
+Plh_86 { Ich muss auch sehen, wo ich bleibe. Aber ich schätze, durch die Zeche sind wir wohl quitt ... }
+
+Plh_87 { Ach, scheiße ... nimm's mir nicht übel ... }
+
+Plh_88 { Aber das Ganze ist nicht so einfach ... }
+
+Plh_90 { Olaf ist bestimmt auch stinksauer, dass ich einfach abgehauen bin, ohne zu bezahlen ... }
+
+Plh_91 { Oh, verflucht, dann muss ich wohl wirklich dringend zurück. Hat er etwas gesagt? }
+
+Plh_92 { Dafür hab ich aber auch alles Mögliche im Angebot. }
+
+Plh_93 { Ich habe jetzt auch einen Funken. }
+
+Plh_94 { So ein Leuchtdings? Wo hast du das denn geklaut? }
+
+Plh_95 { Ich bin jetzt ein Teil der Zuflucht. }
+
+Plh_96 { Ich habe an einem Ritual teilgenommen, und da ist der Funke zu mir geflogen. }
+
+Plh_97 { Du? Jetzt kommst du mir aber nicht auch auf die Idee, mit Schweiß zu kochen, oder? }
+
+Plh_98 { Muss nachts praktisch sein, immer so eine Kerze auf der Schulter zu haben. }
+
+Plh_99 { So schlecht ist Frischlingschweiß statt Salz gar nicht ... }
+
+Plh_100 { Ich will nicht darüber reden. }
+
+Plh_101 { Ich glaube, ich muss kotzen ... }
+
+Plh_102 { Du hast das Zeug aber ... nicht ... wirklich gegessen oder ...? }
+
+Plh_103 { Dazu sage ich jetzt nichts. }
+
+Plh_105 { Hab schon einige gute Geschäfte mit ihnen gemacht. Jedenfalls besser als mit diesem Asmus ... der hat immer so ein verdächtiges Grinsen im Gesicht. }
+

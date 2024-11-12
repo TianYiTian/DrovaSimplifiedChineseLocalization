@@ -1,0 +1,446 @@
+Plh_4 { Was machst du hier? }
+
+Plh_0 { *blinzelt und mustert dich kurz* }
+
+Plh_2 { Wer bist du? }
+
+Plh_3 { Was ist das für ein Monster? Hast du das besiegt? }
+
+Plh_5 { *wirft dir eine Münze zu* }
+
+Plh_6 { Du hast mich nicht gesehen ... }
+
+Plh_8 { Ähm, danke? }
+
+Plh_9 { Es ist wirklich ziemlich dunkel hier ... }
+
+Plh_10 { Habe ich nicht? }
+
+Plh_11 { Du solltest aufpassen wo du dich rumtreibst, Übermut ist gefährlicher als das größte Monster ... *blickt zurück in den Tunnel* }
+
+Plh_17 { Hier geht es nach unten. Lass mich schnell den Weg für uns freimachen. }
+
+Plh_18 { Intent GoStage1 End }
+
+Plh_23 { Du hast es geschafft! Sehr gut! Ich hätte noch 'ne Weile gebraucht, um das hier zu knacken. *lächelt* }
+
+Plh_33 { Dort vorne, ein weiteres Tor. }
+
+Plh_37 { *ihre Augen blitzen auf* Du hast einen Machtkristall? }
+
+Plh_41 { Ist ein gutes Stück. Bleib in meiner Nähe. }
+
+Plh_62 { Kilian schickt mich, wir brauchen deine Hilfe. }
+
+Plh_63 { Mombert schickt mich, wir brauchen deine Hilfe. }
+
+Plh_84 { Wir sind fast da. Da ist die Bibliothek ... was von ihr übrig ist. }
+
+Plh_86 { Da sind wir. Die Bibliothek der Vergangenen. Ich bekomme hier immer eine Gänsehaut ... }
+
+Plh_87 { Das ist es. Das Herzstück der Bibliothek. Schauen wir, ob wir hier etwas über die Machtkristalle herausfinden. Ich hab leider noch keinen gesehen ... }
+
+Plh_88 { Hast du das gesehen? Die Statue hat sich bewegt! Warst du das? }
+
+Plh_89 { Ja. Ich habe das mit den Schaltern und Runen hier ausgelöst. }
+
+Plh_90 { *runzelt die Stirn* Ich dachte mir, dass es mit den Runen etwas auf sich haben muss. Aber ich konnte es bisher noch nie entschlüsseln ... }
+
+Plh_92 { Hast du eine Vermutung, was wir da unten finden? }
+
+Plh_93 { In einigen Texten habe ich was von ... Experimenten gelesen. Bevor du fragst: nein, ich weiß nicht, was das bedeutet. Also lass es uns herausfinden. }
+
+Plh_94 { Los! }
+
+Plh_96 { Geschafft, weiter. }
+
+Plh_99 { Wir haben es geschafft! Ich freue mich jedes Mal, wenn ich aus den Ruinen rauskomme, so sehr ich sie auch liebe. }
+
+Plh_105 { Wie hast du den Eingang gefunden? }
+
+Plh_106 { Mit viel Mühe. Ich hab schon fast alle Ruinen in Drova erkundet. So weit das möglich ist. }
+
+Plh_110 { All die Gedanken dieser Leute von damals ... niedergeschrieben, aber auch vom Verfall bedroht. Denk darüber nach ... wir stehen mitten in ihren Erinnerungen! }
+
+Plh_111 { Weißt du mehr über den Untergang der Vergangenen? }
+
+Plh_113 { Gefangen? Wo? }
+
+Plh_115 { In Drova. Wie wir alle. }
+
+Plh_116 { Das Ruinenlager empfindet genauso. Sie wollen auch weg von hier. Ich weiß aber, dass ihr anders denkt. Ihr wollt hier etwas aufbauen, in dieser Welt bleiben. }
+
+Plh_117 { Du und deine Leute ... ihr wollt auch einen Ausweg finden. Ihr glaubt daran. Aber für die Vergangenen hat diese Suche in den Untergang geführt, und ich glaube, dies ist auch euer Weg. }
+
+Plh_118 { Aber genug davon. Komm, wir gehen runter! }
+
+Plh_129 { Hast du was gefunden, das dir hilft? }
+
+Plh_130 { Ich kann mit den Schriften nichts anfangen. }
+
+Plh_131 { Ich schon. Es ist so spannend, zu lesen, was damals war. Sie haben etwas mit den Göttlichen gemacht ... ich glaube, sie haben sie richtig intensiv erforscht ... }
+
+Plh_132 { Ich glaube, die Bibliothek hat noch viele Geheimnisse, die ich nicht gefunden habe. Sie beschreiben Räume, die ich noch nie betreten habe. Und sicher gibt es noch mehr Schriften. }
+
+Plh_133 { Glaubst du, es gibt hier irgendwo einen Geheimgang? }
+
+Plh_134 { Schriften, die mir weiterhelfen können? }
+
+Plh_135 { Ich schau mich mal um. }
+
+Plh_136 { *seufzt* Ich habe jeden Winkel abgesucht, aber ich komme immer wieder zurück. Ich muss einfach etwas übersehen ... }
+
+Plh_137 { Das kann ich dir sagen, wenn wir sie gefunden haben. }
+
+Plh_140 { Sieht nicht wie eine Bibliothek aus ... }
+
+Plh_142 { Das sind die Überreste des oberirdischen Teils. Was hier gelagert war, hat die Natur längst vernichtet. Aber die wichtigen Schriften aus der Zeit von Drivanius haben sie unterirdisch gelagert. }
+
+Plh_143 { Wer war Drivanius? }
+
+Plh_144 { Der letzte Herrscher der Vergangenen in Drova. Mit ihm sind auch sie untergegangen. }
+
+Plh_145 { Wir müssen weiter. Lass uns später reden. }
+
+Plh_147 { Verfluchte Scheiße! Da kommen wir nicht mehr zurück ... }
+
+Plh_148 { Was haben die nur mit der Sprigga gemacht? }
+
+Plh_151 { Ja, verfluchte Scheiße! }
+
+Plh_152 { Wir finden schon einen Ausweg. }
+
+Plh_154 { Warte ... da hat sich doch was bewegt ... oder? }
+
+Plh_175 { Der DURCHGANG! Verdammt ... }
+
+Plh_193 { Hier stehen überall Statuen von einer Person, was bedeutet das? }
+
+Plh_194 { Das ist Cygnus, Gott des Wissens. }
+
+Plh_195 { Nicht die Göttlichen waren es, die die Vergangenen verehrt haben. Nein, sie haben eigene Gottesbilder mitgebracht ... mehrere sogar. Wir wissen nicht viel über sie, oft nur den Namen. }
+
+Plh_216 { Lass uns schnell hier raus! }
+
+Plh_217 { Was war DAS denn für ein Wesen? }
+
+Plh_218 { Ist schon Wahnsinn, was sich die Vergangenen alles ausgedacht haben. Verrückt und faszinierend ... }
+
+Plh_219 { Zum Glück sind wir rausgekommen ... }
+
+Plh_220 { Ich bleibe noch hier und ruhe mich aus. Ich sag Olaf immer, dass es sich lohnt, mit den Lagern zusammenzuarbeiten. Der Sturkopf will das nicht. Ha. }
+
+Plh_221 { Du arbeitest mit Olaf zusammen? }
+
+Plh_222 { Warum will er das nicht? }
+
+Plh_224 { *beißt sich auf die Lippen* Zusammenarbeit kann man das nicht nennen. Na ja, ich bin halt oft in der Taverne und da trifft man sich und redet ... }
+
+Plh_225 { Er hält sich aus dem Konflikt zwischen Nemeton und dem Ruinenlager raus. Aber nach der Zerstörung des Düsterwaldes begreift er bestimmt auch bald, dass er da nicht neutral bleiben kann ... }
+
+Plh_226 { Pass auf dich auf. }
+
+Plh_227 { Und gut gemacht. }
+
+Plh_232 { Es ist verschlossen ... so eine Konstruktion habe ich noch nie gesehen. Ob das was mit den komischen Sockeln auf sich hat? }
+
+Plh_233 { Keine Ahnung, wie die Dinger funktionieren ... }
+
+Plh_234 { Kannst du dich umschauen, ob du einen Hinweis dazu findest? }
+
+Plh_237 { *seufzt und wischt sich den Schweiß von der Stirn* Evi sieht wirklich übel aus, draußen ist ein absolutes Chaos. Ich konnte sie gerade so retten. }
+
+Plh_238 { Reija, ganz ruhig. Ich habe sie mir schon angeschaut, es ist nicht so schlimm. Sie wird es schaffen. Ich habe den Trank fertig, das wird ihr helfen. }
+
+Plh_241 { Ich habe keine Zeit. Schau dich um, hier geht alles drunter und drüber. }
+
+Plh_242 { Meld dich bei Olaf, er könnte deine Hilfe gebrauchen. }
+
+Plh_243 { Ich kümmere mich um Evi. }
+
+Plh_244 { Aber ich muss zur Bibliothek ... }
+
+Plh_246 { Wenn wir hier alles im Griff haben, können wir reden. Aber erst dann! }
+
+Plh_248 { Ich habe Olaf geholfen. }
+
+Plh_249 { *seufzt und wischt Blut an ihren Klamotten ab* Evi geht es einigermaßen, und Birka meinte, dass sie alles hier im Griff hat. }
+
+Plh_250 { Wie geht es dir? }
+
+Plh_251 { Weißt du, wo sich die Bibliothek der Vergangen befindet? }
+
+Plh_252 { Mir ist nichts passiert. Da kam ein riesiger Bär auf Evi zu, und ich konnte gerade noch dazwischengehen. }
+
+Plh_253 { Die Bibliothek? Was willst du dort? Oder besser gesagt, was wollt ihr dort? }
+
+Plh_260 { Wieder auf dem Weg zur Ruine, Reija? Oh, und diesmal nicht allein, wie ich sehe? }
+
+Plh_262 { Dass du jemanden aus dem Ruinenlager herbringst, überrascht mich trotzdem. }
+
+Plh_264 { Da hast du recht. Dann viel Erfolg bei euren mysteriösen Aufträgen. }
+
+Plh_265 { Mach's gut, Babsi. }
+
+Plh_266 { *schaut geistesabwesend in den Tunnel* }
+
+Plh_271 { Ist das ... ein Vergangener? Das ist ja unheimlich. Wieso bewegt der sich noch? }
+
+Plh_272 { Pass auf! }
+
+Plh_273 { Wir müssen aufpassen. Lass uns nach einem Ausgang suchen. }
+
+Plh_274 { Du kennst dich doch mit den Vergangenen aus?! }
+
+Plh_275 { Vielleicht werden sie von ihrer Runenmagie am Leben gehalten? Wobei ... als Leben kann man das kaum bezeichnen ... }
+
+Plh_276 { Wir sollten auf jeden Fall vorsichtig sein. }
+
+Plh_277 { Ja ... du hast recht. Die sind mir hier bisher noch nie begegnet. Darfst gern dicht hinter mir bleiben ... oder vor mir ... jedenfalls nah. }
+
+Plh_280 { Ah, diesen Mechanismus kenne ich ... einmal fest drücken und schon ... }
+
+Plh_284 { *liest* Hmm ... interessant ... }
+
+Plh_288 { Dort steht, dass sie die Kristalle im Moor mit magischer Kraft erfüllt haben. }
+
+Plh_294 { Du hast recht. Wir haben, was wir wollten. Lass uns gehen. }
+
+Plh_296 { Was ist DAS denn?! }
+
+Plh_297 { So ein Riesenteil hab ich ja noch nie gesehen ... }
+
+Plh_299 { Was ist das? Es ... bei den Göttlichen ... es erwacht zum Leben! }
+
+Plh_300 { Verdammt, mach dich bereit zu kämpfen! }
+
+Plh_301 { Lass uns lieber schnell weiterziehen ... }
+
+Plh_304 { Nur einen kurzen Moment noch ... }
+
+Plh_305 { Fertig - und los. }
+
+Plh_308 { Lass uns schnell weitergehen. Ich will herausfinden, was es hier noch zu entdecken gibt. }
+
+Plh_314 { Ich habe die Kombination aus den Texten. }
+
+Plh_315 { War nur ein glücklicher Zufall ... }
+
+Plh_316 { Dann ist dir wohl genau die richtige Schriftrolle in die Hand gefallen ... und ich blättere mir die Finger wund ... }
+
+Plh_317 { Dein Glück hätte ich auch gern ... aber jetzt sollten wir herausfinden, was da unten ist. Komm! }
+
+Plh_318 { Hast du was gefunden? Zeig mal her. }
+
+Plh_319 { Ja, hier. (Dokument geben) }
+
+Plh_320 { Das muss ich schnell zu meinen Leuten bringen! }
+
+Plh_321 { Na komm, lass mich einen Blick draufwerfen. Ich klaue es dir nicht. Versprochen. }
+
+Plh_322 { Na gut. (Dokument geben) }
+
+Plh_325 { Dort steht etwas von einem Ort, an dem magisch das Pflanzenwachstum beschleunigt wird. }
+
+Plh_327 { Wir sollten hier jetzt raus. }
+
+Plh_329 { Ja, stimmt. Steht angeblich auf dem Plateau im Auwald. Ich vermute, Monko war dorthin unterwegs. }
+
+Plh_331 { Wer ist Monko? }
+
+Plh_342 { Die Vergangenen waren gefangen und konnten nicht zurück in ihre Heimat. Früher fruchtbares Land ist verkümmert, zahme Tiere haben sich gegen die Menschen gewendet, die Leute haben gehungert. }
+
+Plh_343 { Ja ... wie mit dem Düsterwald ... auch die Vergangenen haben Göttliche gefangen und mit ihnen ... Experimente gemacht. Das steht in ihren Schriften. }
+
+Plh_344 { Die Runenweber und Gelehrten haben sich in den Roten Turm zurückgezogen und verbarrikadiert. Ihr Schutzzauber versiegelt den Roten Turm bis heute. }
+
+Plh_347 { Wir werden sehen, ob euch gelingt, wozu nicht einmal die Vergangenen in der Lage waren. Ihr Volk hat sich ebenfalls geteilt. Die Arbeiter haben sich gegen die Runenweber und Gelehrten gewendet. }
+
+Plh_348 { Drivanius hat versucht, sein Volk zu einen und aller Überleben sicherzustellen. Vielleicht war er damit zu spät. Vielleicht ist es misslungen. }
+
+Plh_350 { Was dann passiert ist, wissen wir nicht. Ich nehme an, dass alle gestorben sind. Ihre Aufzeichnungen enden. Niemand weiß, was wirklich im Roten Turm passiert ist. Deswegen möchten alle dort rein. }
+
+Plh_351 { Ich kenne diese Türen schon. Und einen Trick, mit dem man sie leicht aufbekommt. }
+
+Plh_352 { Die Lager brauchen mal wieder Hilfe, weil sie nichts allein hinbekommen. }
+
+Plh_353 { Dass du mit jemandem aus Nemeton reist, hätte ich trotzdem nicht erwartet. }
+
+Plh_365 { Bin gespannt, wie du die Stangen verbiegst. }
+
+Plh_366 { Und wie willst du das anstellen? }
+
+Plh_367 { Das wird nicht nötig sein. }
+
+Plh_374 { Aber sowas von "VERFLUCHTE SCHEISSE"! Wir sitzen fest! }
+
+Plh_375 { Wenn wir nicht selbst als Vergangene enden wollen, müssen wir das auch! }
+
+Plh_377 { Dann los. }
+
+Plh_379 { Die Tür, die den nächsten Gang versperrt, sollte ich aufbekommen. }
+
+Plh_383 { Ich muss zugeben, es war nicht schlecht, dich dabei zu haben. Vielleicht laufen wir uns ja noch mal über den Weg. }
+
+Plh_390 { Ich folge. }
+
+Plh_395 { Nirgendwo in ganz Drova befindet sich eine solche Sammlung von Schriften. Bedeckt mit dem Staub der Jahrhunderte ... }
+
+Plh_403 { Nun, ich war schon oft und lange in der Bibliothek und habe viel gelesen, um es selbst zu verstehen. Was ich bislang weiß ... }
+
+Plh_406 { Ich komme von Ede - er meint, du kannst mir was über Dolche beibringen? }
+
+Plh_408 { *runzelt die Stirn* }
+
+Plh_410 { Mhm. Hast dir hier einen guten Namen gemacht. Wenn du wirklich mit Dolchen kämpfen willst, bist du bei mir richtig. }
+
+Plh_411 { Zeig mir, wie ich besser mit Dolchen werde. }
+
+Plh_413 { Ich bin Reija, Ruinenräuberin hier unten. Was gibt's? }
+
+Plh_415 { Ede hat was von einem Monko erzählt ... wer war das? }
+
+Plh_416 { ... }
+
+Plh_417 { Monko war ein Idiot. }
+
+Plh_418 { Aber auch wirklich ein guter Ruinenräuber. Eine lange Zeit haben wir beide alle paar Tage neue Geheimnisse gelüftet, Artefakte gefunden ... }
+
+Plh_419 { Bis er dann einen "ganz besonderen Hinweis" in die Finger bekommen hat. Mit dem ist er allein aufgebrochen und nicht zurückgekehrt. Ich glaube, er wollte mir was beweisen ... }
+
+Plh_420 { Für solche Einzelgänge ist es zu gefährlich geworden. }
+
+Plh_422 { Wenn wir uns in schweren Zeiten nicht helfen, können wir auch direkt in den Nebel laufen. }
+
+Plh_424 { Lass uns weitergehen. }
+
+Plh_428 { Die Machtkristalle können wohl die Kraft der Göttlichen aufnehmen, in sich halten und nach Belieben abgeben. }
+
+Plh_432 { Was weißt du denn bisher über die Machtkristalle? }
+
+Plh_439 { Irgendwann hat es bei den Vergangenen einen Umschwung gegeben. Sie haben aufgehört, die Göttlichen einzufangen. Oder Naturgeister, wie sie sie genannt haben. }
+
+Plh_440 { So wie ein Runengefäß? }
+
+Plh_442 { Na ja, nicht ganz. }
+
+Plh_443 { In den Machtkristallen kann kein Göttlicher gefangen gehalten werden. Doch die Kraft der Göttlichen kann eingefüllt werden. }
+
+Plh_444 { Ich habe vor einer Weile eine Liste mit ihrem Bestand gefunden. Bis zu ihrem Untergang haben sie wohl nur drei dieser Kristalle herstellen können. }
+
+Plh_446 { Weißt du auch etwas darüber, wo diese Kristalle sind? }
+
+Plh_447 { Einer scheint ja schon bei deiner Fraktion zu sein. Über die anderen weiß ich nichts. Du wohl auch nicht. Deswegen sind wir hier ... }
+
+Plh_448 { Lass uns schauen, dass wir mehr über die Kristalle herausfinden. }
+
+Plh_449 { Ja! Lass uns keine Zeit verlieren. Ich hoffe, du kannst flink lesen. }
+
+Plh_450 { Weißt du, wo der Tempel der Luna ist? }
+
+Plh_451 { Hmm ... es gibt nur wenige Ruinen im Moor ... }
+
+Plh_452 { Nicht mit Sicherheit. Vielleicht weiß deine Fraktion mehr. }
+
+Plh_455 { Meinst du, er lebt noch? }
+
+Plh_456 { Machst du dir große Sorgen um ihn? }
+
+Plh_458 { Nein, nicht mehr. Inzwischen denke ich, dass er tot ist. }
+
+Plh_459 { Ich ... ich habe vor einiger Zeit nach ihm gesucht. Er hat oft davon gesprochen, dass er die Ruinen auf dem Auwald-Plateau durchsuchen will. }
+
+Plh_460 { Dann wäre er längst zurückgekehrt. Kann mir nicht vorstellen, dass er mit seiner Beute abhaut, ohne sie mir vorher zu zeigen. }
+
+Plh_461 { Wir hatten nie einen Weg dorthin gefunden. Ich denke, sein Hinweis hat sich genau darum gedreht. }
+
+Plh_462 { Hätte er damals mit mir gesprochen ... }
+
+Plh_463 { Das Plateau im Auwald? }
+
+Plh_464 { Aber da wäre die Sache mit dem toten Moor ... Kaum jemand wagt sich dorthin. }
+
+Plh_465 { Drova ist dort am gefährlichsten, wo einst die Vergangenen waren. Vielleicht steckt mehr hinter dem toten Moor, als ich dachte. }
+
+Plh_466 { Nur wenige Leute, die tiefer in das tote Moor vorgestoßen sind, haben auch einen Weg zurück gefunden. Aber ihren Geist und ihren Verstand haben sie im Moor gelassen ... }
+
+Plh_467 { Ihr solltet vorsichtig sein, wenn ihr Leute dorthin schickt. }
+
+Plh_468 { Es gibt allerdings ein paar Ruinen im Düsterwald, die ich bisher noch nicht durchsucht habe. Vielleicht ist der Tempel dort. }
+
+Plh_469 { Ja, am Rand des Auwaldes geht es ziemlich steil hoch. Da oben stehen einige Ruinen. Man kann sie vom Gebirge aus sehen. }
+
+Plh_470 { Weißt du etwas darüber, was Drivanius noch getan hat? }
+
+Plh_471 { Nein, aber es muss etwas Großes gewesen sein, wenn er dafür einen der Kristalle einsetzen wollte. Sehr mysteriös ... }
+
+Plh_472 { Vielleicht handelt es sich dabei um den Kristall, den du deiner Fraktion gebracht hast? Wo hast du den eigentlich her? }
+
+Plh_473 { Ich hab ihn von einem sterbenden Druiden erhalten, als ich nach Drova gekommen bin. }
+
+Plh_474 { Das geht dich nichts an. }
+
+Plh_475 { Dann hast du ihn nicht in Drova gefunden? Das wird ja immer interessanter! }
+
+Plh_476 { Spielt vermutlich auch keine große Rolle ... }
+
+Plh_477 { Ein weiteres Rätsel über Drivanius. Sein Ende ist genauso rätselhaft. Niemand weiß, wo er seine letzten Tage verbracht hat. }
+
+Plh_478 { Das muss der Tempel sein, in dem sie magisch alles zugewuchert haben. }
+
+Plh_479 { Was dort wohl passiert ist ... Er scheint ihnen nicht geholfen zu haben, ihren Untergang zu verhindern. }
+
+Plh_480 { Das erinnert mich an den Düsterwald ... }
+
+Plh_481 { Aber auch Nemeton hat einen Göttlichen gefangen. Trotz ihrer Absichten kann ich das nicht gutheißen. }
+
+Plh_486 { Dann mal los. }
+
+Plh_487 { Mich interessieren nur die Machtkristalle. }
+
+Plh_488 { *rollt mit den Augen* Hab nicht mehr erwartet. Lass uns runtergehen. }
+
+Plh_489 { Sie sind auf jeden Fall voller Überraschungen. }
+
+Plh_490 { Habe ich auch noch nie gesehen, aber das meinen die Vergangenen wohl mit einem "Golem". }
+
+Plh_492 { Wir müssen mehr über die Machtkristalle herausfinden. }
+
+Plh_493 { Ich bin mit einem Machtkristall in diese Welt gekommen und möchte mehr über ihn erfahren. }
+
+Plh_494 { *mustert dich* So, so ... }
+
+Plh_495 { Und du sagst, Mombert schickt dich? Er weiß hoffentlich, dass er mir dafür was schulden wird ... }
+
+Plh_496 { Und du sagst, Kilian schickt dich? Er weiß hoffentlich, dass er mir dafür was schulden wird ... }
+
+Plh_497 { Gut. Dann mal los, die Bibliothek liegt etwas östlich von hier. }
+
+Plh_498 { Reija, ich brauche deine Hilfe. }
+
+Plh_500 { Schön, nicht immer alleine die Ruinen erkunden zu müssen. Ist ein bisschen her. }
+
+Plh_502 { Hier sollen wir noch Informationen finden? }
+
+Plh_504 { Aber wem erzähle ich das. Du bist ihm ja schon ziemlich auf die Spur gekommen. }
+
+Plh_506 { Na ja, ich gehöre mindestens so viel zu euch wie zu meinem Lager. }
+
+Plh_507 { Ja, du machst wohl auf beiden Seiten gute Arbeit. Bin gespannt, wohin dich das führt. }
+
+Plh_508 { Wir sehen uns im Unterschlupf. }
+
+Plh_509 { Kurz darauf war zum ersten Mal von einem Machtkristall die Rede. Mit ihrer Entdeckung wurde wohl ein neues Zeitalter der Runenmagie eingeleitet ... Uns fehlen leider viele Information zu diesem Abschnitt ihrer Geschichte. }
+
+Plh_511 { Komm mit. }
+
+Plh_512 { Kein schlechter Fund, den du hier gemacht hast. }
+
+Plh_513 { Hast du noch was entdeckt? }
+
+Plh_514 { Ich habe noch einen interessanten Text gefunden. Hier, schau dir das mal an. }
+
+Plh_518 { Ich weiß nicht genau, was es bedeutet, aber irgendwann werden wir es herausfinden. }
+
+Plh_519 { Plh_519 }
+

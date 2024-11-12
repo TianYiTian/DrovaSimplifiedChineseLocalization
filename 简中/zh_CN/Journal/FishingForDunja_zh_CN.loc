@@ -1,0 +1,7 @@
+Title { 鱼给邓佳 }
+
+Entry_01 { Dunja 需要 $GVAR:QuestVars_FishingForDunja_Config.AmountFish$ 条鱼来做她的鱼汤。据说苹果林里有一些。 }
+
+Entry_02 { 我给Dunja送去了她的鱼，作为回报，明天我会得到我的鱼汤。 }
+
+Entry_03 { 鱼汤做好了。 }

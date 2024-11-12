@@ -1,0 +1,82 @@
+LoadingScreen_01 { Wenn du mit Menschen oder Gegenständen interagieren willst, musst du zuerst deine Waffe wegstecken. }
+
+LoadingScreen_02 { Drücke $INPUT:DrawWeapon$, um deine Waffe zu ziehen oder wegzustecken. }
+
+LoadingScreen_05 { Du kannst $INPUT:PerceptionMode$ verwenden, um dich genauer umzuschauen. Manche Dinge kannst du nur so entdecken! }
+
+LoadingScreen_06 { Du kannst nur mit gezogener Waffe angreifen. Drücke dafür $INPUT:DrawWeapon$ und dann $INPUT:Attack_Primary$. }
+
+LoadingScreen_07 { Schlafe in Betten, um dich zu erholen. Wenn du in einem besseren Bett schläfst, bist du auch besser erholt. }
+
+LoadingScreen_08 { Sammle alles ein, was du findest. Aus manchen Dingen kannst du neue Dinge herstellen. }
+
+LoadingScreen_09 { Du kannst an Feuerstellen Fleisch braten oder Gerichte kochen. }
+
+LoadingScreen_11 { Du kannst Menschen aufhelfen, die am Boden liegen. }
+
+LoadingScreen_12 { Verschiedene Händler verkaufen verschiedene Waren. Halte immer Ausschau nach guten Angeboten! }
+
+LoadingScreen_14 { Wenn du einen Speer dabei hast, kannst du an bestimmten Orten angeln. Du erkennst Angelorte an kreisenden Fischen. }
+
+LoadingScreen_15 { Wenn du einen Dietrich dabei hast, kannst du Schlösser knacken. Aber lass dich nicht dabei erwischen! }
+
+LoadingScreen_16 { Pass auf, wenn du Gegenstände einsammelst! Rot umrandete Gegenstände gehören bereits jemandem, und Diebe sind nicht gern gesehen. }
+
+LoadingScreen_17 { Im Kampf kannst du mit $INPUT:Dodge$ Angriffen ausweichen. Achte auf deine Ausdauerleiste! }
+
+LoadingScreen_18 { Wenn du ein Verbrechen begangen hast, wollen die Menschen nichts mehr von dir wissen. In Nemeton kann nur Gerdwin dir Verbrechen vergeben. Im Ruinenlager musst du das mit der Person klären, die wütend auf dich ist. }
+
+LoadingScreen_19 { Dein Charakter schreibt alle wichtigen Dinge mit, die passieren. Schaue in dein Tagebuch wenn du nicht mehr weiter weißt. }
+
+LoadingScreen_20 { Wenn du Gegner triffst, die noch zu schwer für dich sind, geh am besten erst woanders lang. }
+
+LoadingScreen_21 { Kampfkraft bildet sich aus der Summe deiner Attributwerte. Waffen haben eine bestimmte Kampfkraft als Voraussetzung. }
+
+LoadingScreen_22 { Leute mögen es nicht, wenn du mit gezogener Waffe rumläufst. Steck die Waffe mit $INPUT:DrawWeapon$ weg, wenn du in der Nähe von Menschen bist. }
+
+LoadingScreen_23 { Manche Leute wollen mit dir an Orte laufen. Meistens warten sie auf dich, wenn du nicht nah genug an ihnen dran bist. }
+
+LoadingScreen_24 { Überlege dir gut, welcher Fraktion du beitreten willst. Hast du dich entschieden, gibt es kein Zurück mehr. }
+
+LoadingScreen_25 { Manchen Tieren kannst du Krallen entnehmen oder Fell abziehen. Dafür musst du aber auch das Talent lernen. }
+
+LoadingScreen_26 { Wenn du Talente lernen oder deine Attribute erhöhen willst, dann musst du einen Lehrer finden, der dir das beibringen kann. }
+
+LoadingScreen_28 { Halte $INPUT:RingMenu$ gedrückt, um dein Ringmenü aufzurufen. Dort kannst du eine aktive Fähigkeit auswählen. }
+
+LoadingScreen_29 { Fähigkeiten von Schriftrollen kannst du nur einmalig wirken. Sie können dir aber helfen, nutze sie weise. }
+
+LoadingScreen_30 { Das Wirken von Fähigkeiten verbraucht Fokus. Fokus generierst du, indem du angreifst, und du verlierst ihn, wenn du getroffen wirst oder zu lange nicht angreifst. }
+
+LoadingScreen_32 { Mit $INPUT:SwapWeaponSet$ kannst du im Kampf zwischen zwei Waffensets tauschen. Drücke $INPUT:MENU-Inventory$, um deine zwei Waffensets zu konfigurieren. }
+
+LoadingScreen_34 { Du kannst auch mit manchen Tieren kommunizieren. Versuch doch mal, sie anzusprechen! }
+
+LoadingScreen_35 { Für das Herstellen mancher Gegenstände brauchst du die richtige Arbeitsstelle. }
+
+LoadingScreen_36 { Keine Lust auf Kämpfe? Bleib auf den Wegen, dann bist du halbwegs sicher. }
+
+LoadingScreen_37 { Der Sekundäre Angriff der Dolche verursacht exponentiell mehr Schaden, je höher dein Fokus ist. }
+
+LoadingScreen_38 { Du kannst Markierungen auf all deinen Karten platzieren. Allerdings musst du dafür zuerst Tinte finden. }
+
+LoadingScreen_39 { Gegenstände, die für dich keinen Nutzen haben, kannst du mit $INPUTANIM:MarkAsGarbage$ als Müll markieren. Müll kannst du im Inventar ein- und ausblenden und im Handelsmenü mit nur einem Klick dem Handel hinzufügen. }
+
+LoadingScreen_40 { Kritische Treffer verursachen Blutungen (Blutungen verursachen Schaden über Zeit, in Höhe des Angriffschadens). }
+
+LoadingScreen_41 { Gift verlangsamt die Bewegungsgeschwindigkeit von betroffenen Zielen. }
+
+LoadingScreen_42 { Nahrung heilt dich über Zeit, aber die Regeneration ist pausiert, solange du volles Leben hast. Viele Gerichte verleihen dir passive Effekte solange du gesättigt bist. Wenn du bereits gesättigt bist und etwas isst, wird der aktive Satt-Effekt überschrieben. }
+
+LoadingScreen_43 { Wenn du einen Heilgegenstand einsetzt, erhältst du den Statuseffekt Heilung und erhältst in regelmäßigen Abständen Lebenspunkte zurück. Du kannst auch mehrere Heileffekte gleichzeitig aktiv haben, allerdings immer nur einen pro Heilgegenstand. }
+
+LoadingScreen_44 { Schau in das Optionsmenü. Wir haben einige zusätzliche Funktionen und Einstellungen, die für deine Spielweise nützlich sein könnten. }
+
+LoadingScreen_45 { Gegner haben verschiedene Resistenzen gegen physischen und magischen Schaden. Bei gut gepanzerten Kreaturen sind Zauber also besonders effektiv! }
+
+LoadingScreen_46 { Jede Waffe verfügt über einen Sekundären Angriff, den du mit $INPUTANIM:Block$ ausführst. Mit einhändigen Waffen kannst du diesen nur nutzen, wenn deine Nebenhand frei ist. }
+
+LoadingScreen_47 { Wenn du Feedback hast oder mit uns in Kontakt treten möchtest, komm auf unseren Discord. Dort kannst du persönlich mit uns sprechen. Wir freuen uns. }
+
+LoadingScreen_48 { Verbrauchbare Gegenstände wie Fallen, Bomben und Wurfmesser durchdringen die Rüstung von Gegnern. }
+

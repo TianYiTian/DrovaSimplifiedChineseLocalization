@@ -1,0 +1,120 @@
+LearnIntro { Was willst du lernen? }
+
+CantTeachAnymore { Ich kann dir nichts mehr beibringen. }
+
+CantTeachAnymore1 { Du hast alles gelernt, was ich dir beibringen kann. }
+
+CantTeachAnymore2 { Du musst einen anderen Lehrer finden. Ich kann dir nichts mehr beibringen. }
+
+ComeBackSoon { Komm wieder, wenn du bereit bist. }
+
+ComeBackSoon1 { Komm wieder, wenn du was lernen möchtest. }
+
+Strength1 { Du bist stärker geworden. Erkenne ich an deiner Statur und deinen Oberarmen. Gute Arbeit. }
+
+Strength2 { Ich denke, du kannst jetzt ordentlich im Kampf zuschlagen. }
+
+Strength3 { Kraft kommt von innen. Konzentriere dich auf deine Schläge, und achte darauf, dass du sicher stehst. }
+
+Skill1 { Du bist schon geschickter geworden. Weiter so. }
+
+Skill2 { Wenn du in die Knie gehst, bist du beweglicher. Nicht am Ort verharren! }
+
+Skill3 { Auf Schnelligkeit kommt es an! Wenn du geschickt genug bist, kann keiner dir was anhaben. }
+
+Mind1 { Du bist konzentrierter geworden. }
+
+Mind2 { Schärfe deinen Geist. Werde eins mit dir selbst. Du bist dir selbst einen Schritt näher gekommen. }
+
+Mind3 { Wenn du dich auf deine Atmung konzentrierst, dann kannst du die unwichtigen Dinge besser ausblenden. }
+
+Plh_34 { Du hast genug von mir gelernt. Nur Farlan kann dich jetzt noch im Schwertkampf unterrichten. Du findest ihn im oberen Viertel. }
+
+Generic { Du hast das Talent gelernt. }
+
+Axe_01_00 { Beim Axtkampf geht es um Stärke und Technik. Für den Anfang musst du lernen, dass dein Schwung aus dem Arm und der Schulter kommen muss. }
+
+Axe_02_00 { Wenn du deine Komboangriffe auf folgende Art durchführst, kommst du in eine Position, die es dir erlaubt, einen verheerenden dritten Angriff durchzuführen. Probiere es aus! }
+
+Axe_03_00 { Um besser zu werden, musst du dich in deine Axt versetzen. Spüre jeden Widerstand, jeden Bluttropfen und jeden Schnitt, als wärst du selbst die Axt. }
+
+Axe_BattleFrenzy_00 { Das Geheimnis der Axt liegt in ihrer Trägheit. Nutze das Gewicht ihrer Schneide, und du wirst merken, wie sich der Fokus deiner Angriffe verbessert. }
+
+Sword_Axe_Reduce_StaminaCost { Entspanne deine Muskeln, wenn du deine Angriffe auflädst, sonst ermüdest du schneller als ein rennender Reißer! }
+
+Axe_FinalGrace_00 { Wenn dein Gegner die Balance verliert, nutze die Chance, um verheerenden Schaden mit deiner Axt zu verursachen! }
+
+Sword_01_00 { Du hast dein Schwert bisher falsch gehalten. Hier, halte es auch in einer Hand, wenn du nicht angreifst. So stellst du sicher, dass du jederzeit zuschlagen kannst! }
+
+Sword_02_00 { Mit dem Schwert kann man auch zustechen. Schau! Das bietet sich vor allem an, wenn du deine ersten beiden Angriffe gut aufeinander abstimmst. }
+
+Sword_03_00 { Wenn du ein meisterlicher Schwertkämpfer werden willst, dann musst du dein Schwert als einen Teil von dir selbst wahrnehmen. Dein Schwert ist dein Leben! }
+
+Sword_Accuracy_00 { Achte genau auf die Bewegungen deines Gegners, und du kannst Schwachstellen ausfindig machen. Nutze diese, um schweren Schaden mit deinem Schwert zu verursachen! }
+
+Sword_Chancer_00 { Nutze das Momentum, das dir ein kritischer Treffer mit dem Schwert gibt ... Deine Spezialfähigkeiten werden dir damit leicht von der Hand gehen. }
+
+Dagger_01_00 { Denk daran, je mehr Fokus du hast, wenn du mit den Dolchen zustichst, desto mehr Schaden machst du auch. Kein anderer Waffentyp ist so schnell und flexibel. }
+
+Dagger_02_00 { Nutze deine Dolche schnell und präzise. Bleib entspannt, aber sei zielgerichtet. So besiegst du deinen Gegner wie nichts! }
+
+Dagger_03_00 { Gib dich deinen Dolchen komplett hin. Spüre sie, als wären sie Teil von dir. So kannst du auch die stärksten Gegner besiegen! }
+
+Daggers_GoingWithTheFlow_00 { Spezialangriffe lassen sich fließend mit Dolchangriffen kombinieren. Keine Waffe bedarf und verleiht solchen Fokus. }
+
+Daggers_EfficientStrikes_00 { Dolche sind leichte Waffen. Greif gezielt und präzise an, und du musst dir keine Sorgen um deine Ausdauer machen! }
+
+Daggers_SurpriseAttack_00 { Verteidigung ist der beste Angriff! Weiche den Schlägen deines Gegners aus, um dann gezielt mit deinem Dolch verheerenden Schaden zu verursachen! }
+
+Spear_01_00 { Halte den Speer locker. Entspanne deine Schulter. Mit etwas Übung wirst du deinen Gegnern ordentlich zusetzen! }
+
+Spear_02_00 { Wenn du deine Kampfhaltung leicht anpasst, kannst du sogar noch schneller mit dem Speer angreifen. Schnell und präzise, dann werden deine Gegner diesen Angriff nicht kommen sehen! }
+
+Spear_03_00 { Spüre den Speer als Verlängerung deine Arms. Wenn du auch mit geschlossenen Augen weißt, wo er ist, hast du den Speer gemeistert! }
+
+Spear_PeakPerformance_00 { Du hast sicherlich schon die Spitze deine Speeres bemerkt? SIE ist der Schlüssel zum Sieg. Wenn du präzise mit ihr triffst, verursachst du am meisten Schaden! }
+
+Spear_FocusedStrikes_00 { Der Speer ist die Waffe der Präzision. Lenke deine Angriffe gezielt auf einen Gegner und du wirst merken, wie dein Fokus immer stärker steigt. }
+
+Spear_Agility_00 { Ein Speer eignet sich sehr gut für die Anwendung von Giften. Ich zeig dir, wie es ganz einfach geht - du musst nur richtig mit ihm treffen. }
+
+Sling_01_00 { Wenn du schleuderst, versuch dabei entspannt zu bleiben. Dann fällt es dir leichter, deinen Gegner aus dem Gleichgewicht zu bringen. }
+
+Sling_02_00 { Versuche die Resonanz deiner Schleuder zu spüren und lasse deine Muskeln ihr folgen. So wirst du meisterlich schleudern! }
+
+Sling_Concussion_00 { Wenn du deinen Gegner mit einem gezielten Schuss aus dem Gleichgewicht bringst, nutze die Chance und greif ihn an! So verursachst du deutlich mehr Schaden! }
+
+Sling_DoubleTheLoad_00 { Du kannst hin und wieder auch zwei Steine in deine Schleuder füllen. Darauf ist kein Gegner vorbereitet! }
+
+Shield_01_00 { Bleib beim Blocken locker in deiner Schulter und deinem Arm, sonst kostet dich das deine gesamte Ausdauer. Sei locker, aber bereit! }
+
+Shield_02_00 { Entspanne deine Hand beim Blocken. Wenn du dein Schild zu stark greifst, kostet dich das wertvolle Ausdauer. }
+
+Shield_BalanceBreaker_00 { Wenn du im letzten Moment einen Angriff abwehrst, wirfst du deinen Gegner aus der Balance. So kannst du nicht nur Schaden vermeiden, sondern auch die Chance nutzen, um anschließend mehr Schaden zu verursachen! }
+
+Shield_IsThatAllYouGot_00 { Behalte einen kühlen Kopf, wenn du angegriffen wirst. Blocke gezielt mit deinem Schild ab, um deinen Fokus zu erhöhen. }
+
+Bow_01_00 { Wenn du zu lange zielst, verlierst du Kraft. Versuche, nur so lange zu zielen, bis du dein Ziel erfasst hast. Dann lass los. Du wirst sehen, dass dein Pfeil deutlich mehr Schaden verursacht. }
+
+Bow_02_00 { Du darfst beim Zielen nicht zu lange warten. Das lässt dich verkrampfen. Halte die Finger ganz locker, bis sie sich von selbst öffnen. Das ist die wahre Kunst des Bogenschießens. }
+
+Bow_Bullseye_00 { Die Kunst mit dem Bogen ist es, Schwachstellen ausfindig zu machen und zu nutzen! Wenn du das tust, kannst du großen Schaden anrichten! }
+
+Bow_Quickdraw_00 { Wenn du einen Pfeil bereithältst, bevor du einem Angriff ausweichst, kannst du diesen nutzen und ihn direkt abfeuern! }
+
+Crafting_01_00 { Du hast das Zeug, zu einem richtigen Handwerker zu werden. Weiter so! }
+
+Crafting_02_00 { Du hast dein Handwerk gemeistert. Mit dem richtigen Rezept kannst du alles herstellen! }
+
+Sneaking_00 { Wenn du erst deinen Fußballen aufsetzt, dämmt das die Geräusche beim Gehen. Wenn du das etwas übst, wird dich keiner kommen hören! }
+
+TearClaw { Mit einem Messer schneidest du kurze Schnitte, um die Krallen zu lockern, und dann ziehst du schnell und kräftig daran! }
+
+Skinning { Du musst das Fell vorsichtig mit einem scharfen Dolch vom Fleisch trennen. Aber pass auf, sonst ruinierst du das ganze Fell! }
+
+ExtractSecretion { Um Sekrete zu extrahieren, musst du fest am Ende der Drüse drücken und den Druck immer weiter Richtung Öffnung bringen. Aber nicht zu fest! Sonst platzt die Drüse und du bekommst gar nichts. }
+
+BrewPotion { Mit dem Mörser umgehen, die Hitze richtig zu nutzen, vorsichtiges Dosieren ... das kannst du jetzt alles, aber am wichtigsten ist ein gutes Rezept! }
+
+LockPick { Bei schweren Schlössern musst du einfach mit deinem Dietrich ein bisschen vorsichtiger sein. Versuch den Widerstand des Schlosses zu spüren und ihm sanft entgegenzuwirken. Es ist wie mit der Liebe. Mit Gewalt erreichst du nichts. }
+

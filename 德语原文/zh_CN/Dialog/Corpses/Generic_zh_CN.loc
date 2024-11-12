@@ -1,0 +1,18 @@
+Plh_0 { *Vor dir liegt eine stark entstellte Leiche. Ganze Fleischbrocken sind herausgebissen worden. Wer auch immer hier gestorben ist, ging als Nahrung erneut in den Kreislauf der Natur ein.* }
+
+Plh_2 { (Leiche durchsuchen) }
+
+Plh_4 { *Vorsichtig schaust du dir die Leiche genauer an, erkennst die Person aber nicht wieder. Zu wenig ist vom Gesicht des Toten zu erkennen.* }
+
+Plh_6 { *Die Verwesung hat bereits eingesetzt, und Maden wühlen im Fleisch der bereits stark zerfressenen Leiche. Ein beißender Geruch geht von ihr aus. Sie scheint schon länger tot zu sein.* }
+
+Plh_7 { *Vorsichtig schaust du dir die Leiche genauer an, erkennst die Person aber nicht wieder. Dafür ist die Verwesung bereits zu weit fortgeschritten.* }
+
+Plh_12 { *Die Leiche vor dir ist von tiefen Wunden gezeichnet. Ihre Kleidung ist von Blut verklebt, und die Verwesung hat bereits eingesetzt.* }
+
+Plh_13 { *Auch bei genauerer Betrachtung erkennst du den Toten nicht wieder. Entweder du hast ihn nie getroffen, oder die Verwesung hat sein Aussehen bereits zu stark verfälscht.* }
+
+Plh_17 { *Du siehst eine übel zugerichtete Leiche. Der Grund des Todes ist nicht erkennbar. Zu viele Tiere scheinen schon an der Leiche geknabbert zu haben.* }
+
+Plh_18 { *Du schaust dir die Leiche näher an, doch erkennst den Toten nicht wieder.* }
+

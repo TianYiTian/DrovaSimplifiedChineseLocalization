@@ -1,0 +1,83 @@
+EnterName { 输入名称 ... }
+
+Body { 身体 }
+
+Visual { 外观 }
+
+Souvenir { 纪念品 }
+
+SaveMode { 游戏模式 }
+
+DefaultMode { 经典模式 }
+
+ImmersiveMode { 铁人模式 }
+
+StoryMode { 探索模式 }
+
+SkipIntro { 跳过介绍 }
+
+Option_BodyType { 体型 }
+
+Option_SkinColor { 肤色 }
+
+Option_Voice { 声音 }
+
+Option_Hair { 发型 }
+
+Option_HairColor { 发色 }
+
+Option_Deco { 装饰 }
+
+Option_Beard { 胡须 }
+
+Option_BeardColor { 胡须颜色 }
+
+Souvenir_Empty { 无纪念品 }
+
+Souvenir_Empty_Tooltip { 只有你和你的能力。你不需要额外的帮助。 }
+
+Souvenir_Alchemy { 药物 }
+
+Souvenir_Alchemy_Tooltip { 你总是有备无患，随身携带了一些药品。 }
+
+Souvenir_Money { 钱袋 }
+
+Souvenir_Money_Tooltip { 你离开家时从不忘记带上你的钱袋。 }
+
+Souvenir_Health { 生命之戒 }
+
+Souvenir_Health_Tooltip { 生命的精华流淌在这个戒指中。你能承受更多伤害。 }
+
+Souvenir_Thief { 开锁工具 }
+
+Souvenir_Thief_Tooltip { 机会带来……财富。有时候，你必须自己创造机会。 }
+
+Souvenir_Strength { 力量之戒 }
+
+Souvenir_Strength_Tooltip { 你重视身体力量。这个戒指会支持你。 }
+
+GameMode_Normal_Tooltip { 推荐设置。德洛瓦很危险。小心你招惹的人！ }
+
+GameMode_Immersive_Tooltip { 接受你的决定。你只有一个存档，游戏会自动保存。 }
+
+InvalidName { 该名称不可用！ }
+
+HardcoreMode { 硬核模式 }
+
+GameMode_Hardcore_Tooltip { 终极挑战。你只有一条命和一个存档。 }
+
+UseKeyboard { 请使用键盘输入昵称！ }
+
+GameMode_Story_Tooltip { 你造成的伤害更多，并且能承受更多伤害。 }
+
+Story_PopUp { 你确定要在探索模式下玩德洛瓦吗？<br><br>你会造成更多伤害，并且能坚持更久。在选项中，你可以单独配置伤害值，并自由地在探索模式和经典模式之间切换。<br><br>你可以随时保存和加载。 }
+
+Immersive_PopUp { 你确定要在铁人模式下玩德洛瓦吗？<br><br>你只有一个存档，游戏会在对话、战斗、任务进度和重要决策后自动定期保存。<br><br>游戏开始后，你将无法更改此模式。 }
+
+Hardcore_PopUp { 你确定要在硬核模式下玩德洛瓦吗？<br><br>你只有一个存档，游戏会自动保存。如果你的角色死亡，你的存档将被删除。<br><br>游戏开始后，你将无法更改此模式。<br><br>这是终极挑战。只有最坚强的德洛瓦战士才能掌握这个模式。 }
+
+SaveModePopUp_Title { 选择你的存储模式 }
+
+SaveModePopUp_Text_Default { 在德洛瓦中，你有多种方式保存你的游戏进度。<br><br>在经典模式下，你可以随时保存到不同的游戏存档中。<br><br>如果你选择铁人模式，游戏会自动保存。在这个模式下，你不能手动保存。 }
+
+ChangeGameModeWarning { 你确定要离开铁人模式吗？如果你这样做，游戏过程中将无法再激活该模式。 }

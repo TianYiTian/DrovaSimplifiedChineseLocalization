@@ -1,0 +1,16 @@
+Plh_0 { Osten: Holzfäller, Georgs Hof<br>Westen: Ruinenlager }
+
+Plh_1 { Norden: Holzfäller<br>Süden: Georgs Hof<br>Westen: Ruinenlager }
+
+Plh_2 { Norden: Mine<br>Osten: Holzfäller<br>Süden: Ruinenlager }
+
+Plh_3 { Norden: Ruinenlager<br>Osten: Mine<br>Süden: Taverne zum Kopflosen Reißer }
+
+Plh_4 { Norden: Ruinenlager<br>Süden: Nemeton }
+
+Plh_5 { Norden: Georgs Hof<br>Osten: Nemeton<br>Westen: Taverne zum Kopflosen Reißer und Ruinenlager }
+
+Plh_6 { Norden: Georgs Hof<br>Süden: Nemeton }
+
+Plh_7 { Norden: Mine<br>Süden: Ruinenlager }
+

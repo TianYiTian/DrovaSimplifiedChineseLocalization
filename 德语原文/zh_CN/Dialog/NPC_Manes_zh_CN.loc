@@ -1,0 +1,170 @@
+Plh_5 { Die Vergangenen waren vor uns in Drova. Sie haben herausgefunden, wie sie Runenmagie erschaffen können, indem sie Kraft der Göttlichen nutzen. }
+
+Plh_6 { Ah, der Neuankömmling. Sei gegrüßt. Mein Name ist Manes, Erzmagier des Ruinenlagers. }
+
+Plh_7 { Was weißt du über die Vergangenen? }
+
+Plh_8 { Was kannst du mir über den Roten Turm erzählen? }
+
+Plh_9 { Vom Roten Turm aus sind die Vergangenen zwischen den Welten gewandelt. Sie waren nicht an einen Ort gebunden. Sie konnten überall hin. }
+
+Plh_12 { Ich habe den Kristall aus der Stadt im Düsterwald. }
+
+Plh_13 { Ich habe den Kristall aus dem Auwald. }
+
+Plh_83 { Wir bereiten hier das Ritual vor, mit dem wir die magische Barriere des Roten Turmes zerstören werden. }
+
+Plh_84 { Was macht ihr hier? }
+
+Plh_86 { *blickt über das Geschehen und murmelt* Silber sollte ausreichen, Runengefäß steht bald zur Verfügung, die Bodenrunen nehmen Form an ... }
+
+Plh_103 { Warum wollt ihr so dringend von hier weg? }
+
+Plh_104 { Hast du gesehen, was mit dem Düsterwald passiert ist? }
+
+Plh_105 { Ich habe selbst den Göttlichen gefangen! }
+
+Plh_106 { Ja. Er wirkt tot. }
+
+Plh_107 { Und dadurch dem Düsterwald seine magische Kraft genommen. }
+
+Plh_108 { Tot? }
+
+Plh_110 { Genug von der Vergangenheit. Schauen wir nach vorne. }
+
+Plh_113 { $GVAR:EVars_Player.Name$, du hast uns wertvolle Dienste geleistet. Und ich hoffe, das wird weiter so sein ... }
+
+Plh_114 { Wenn Nemeton uns angreift, sind wir verloren. Wir haben keine Mauern, keine Verteidigung. Wir müssen SELBST angreifen. So schnell wie möglich! }
+
+Plh_115 { Manes, wir wollen diese Welt verlassen, ja. Aber nicht, indem wir uns in die Schwerter des Feindes stürzen! }
+
+Plh_116 { *betastet den Kristall* Unglaublich ... ich spüre noch etwas magische Kraft in ihm schlummern. Jero, es wird funktionieren! Wir brauchen nur noch den letzten Kristall. }
+
+Plh_117 { ... und die Expedition ins Moor, um sie mit göttlicher Kraft zu füllen. Die Zeit läuft uns davon. }
+
+Plh_118 { Wir müssen auch die Vorbereitungen hier vorantreiben - ohne Verzögerungen! }
+
+Plh_119 { Nemeton wird uns nicht in Ruhe lassen ... wir haben keine Wahl. }
+
+Plh_120 { Kilian, geh zu Levin. Er soll die Mine aufgeben und das Silber SOFORT herschaffen. }
+
+Plh_121 { Wir müssen zur Tat schreiten! }
+
+Plh_123 { Natürlich. }
+
+Plh_124 { Ich bringe dir den anderen Machtkristall! }
+
+Plh_125 { *lächelt* Und das ohne Zaudern! }
+
+Plh_126 { Der andere Machtkristall muss in den Ruinen westlich von hier sein. Niemand kennt diesen Ort. Der Weg dorthin war verschüttet, und die Schwarzen Flammen loderten dort besonders stark. }
+
+Plh_128 { Aus ihren Schriften wissen wir, dass dort der Tempel der Luna sein muss. Er wurde oft als das Juwel ihres Glaubens bezeichnet. }
+
+Plh_129 { Ich werde in der Zwischenzeit eine Expedition schicken, die das Moor auskundschaftet. Weit im Südosten von Nemeton beginnt das tiefe Moor. Einer der gefährlichsten Orte in Drova ... ein Moor des Todes. }
+
+Plh_130 { Während meiner Zeit in Nemeton hat sich niemand dorthin getraut ... aber die Schrift aus der Bibliothek war eindeutig. Das Konstrukt der Vergangenen muss sich dort befinden. }
+
+Plh_131 { Und wenn Nemeton uns überrennt? }
+
+Plh_132 { Ja, ich bringe den Kristall. }
+
+Plh_134 { Ich hole Verstärkung aus der Mine. Sie müssen sehen, dass wir nicht wehrlos sind. Das wird sie zögern lassen. Und wenn sie doch einen Angriff wagen ... dann werden sie es bereuen. }
+
+Plh_135 { Ich kenne meine Schwester. Sie wird nicht ihre Krieger opfern. Wir müssen ausnutzen, dass ich weiß, wie sie denkt. }
+
+Plh_136 { *greift hinter sein Kopf und löst seine Kette* }
+
+Plh_137 { Es würde meinem Vater gefallen, dass die Person sie nun trägt, die uns aus Drova führen kann. }
+
+Plh_138 { Und ich werde mich um die Verteidigung kümmern. Für die Freiheit! }
+
+Plh_140 { $GVAR:EVars_Player.Name$! Wir sind gerade mit dem Silber beschäftigt. Müssen sicherstellen, dass das Ritual beim nächsten Versuch funktioniert. War deine Suche nach dem Machtkristall erfolgreich? }
+
+Plh_141 { Levin ist angekommen. Aber Nemeton hat ihn angegriffen. Sie haben bemerkt, dass wir die Mine räumen. Die Zeit wird knapp ... }
+
+Plh_142 { Alle Hauer sind beschäftigt, das Silber herzuschaffen. Schneller geht es nicht, sie schuften sich schon tot! }
+
+Plh_143 { $GVAR:EVars_Player.Name$, wir müssen die Machtkristalle mit der magischen Kraft eines Göttlichen füllen. Geh zu Eugen. Er leitet die Expedition im Moor und sollte schon dort angekommen sein. Hoffentlich ... }
+
+Plh_144 { Die Expedition ging östlich vom Holzfällerlager über Georgs Hof. Zum Glück ist die Brücke inzwischen repariert ... }
+
+Plh_145 { Sie wollten sich dort mit Elgar treffen, um die Lage zu besprechen. Für paar Münzen wollte er uns ein paar Hinweise über das Moor geben. Geh dorthin. Er wird dir den weiteren Weg weisen können. }
+
+Plh_146 { Hier sind die Machtkristalle. Bring sie ins Moor und beschütze sie mit deinem Leben. }
+
+Plh_147 { Finde Eugen, erfülle die Machtkristalle mit magischer Kraft und bring sie dann zu uns zurück. Und beeil dich, bevor es zu spät ist ... }
+
+Plh_148 { Das werde ich. }
+
+Plh_151 { Er hat all seine magische Kraft verloren. }
+
+Plh_152 { Der Düsterwald ist jetzt nicht mehr geschützt und wird immer weiter zerfallen. Ohne magische Kraft gibt es kein Leben. Nirgendwo. }
+
+Plh_153 { Also ist es meine Schuld, dass der Düsterwald stirbt? }
+
+Plh_154 { War es richtig oder falsch, was ich getan habe? }
+
+Plh_155 { Ich habe es für das Ruinenlager getan und würde es wieder tun. }
+
+Plh_156 { Das passiert schon lange in ganz Drova. Die Vergangenen haben es geschafft, den Todesnebel fernzuhalten, aber sie konnten das Leben nicht einsperren. }
+
+Plh_157 { Wir brauchen den Großen Keiler, um in den Roten Turm zu gelangen. Du hast nur eintreten lassen, was unausweichlich war. }
+
+Plh_158 { Doch der Zerfall von Drova ist unumkehrbar. Mit der Runenmagie können wir uns retten, uns ein besseres Leben verschaffen. }
+
+Plh_159 { Ohne den Großen Keiler kommen wir nie in den Roten Turm. Das Ziel ist näher gekommen ... }
+
+Plh_160 { Aber ... }
+
+Plh_162 { Die Zeit für ein "aber" ist vorbei. }
+
+Plh_163 { All die Zeit haben wir das getan, von dem wir dachten, dass es den Göttlichen dient. Haben uns dem unterworfen, was wir für ihren Willen hielten. }
+
+Plh_164 { Das ist jetzt vorbei. Die Vergangenen haben sich von den Göttlichen befreit. }
+
+Plh_165 { Mehr noch ... sie sind von Dienern zu Herrschern geworden. Herrschern über die Göttliche. Herrscher über Drova. }
+
+Plh_166 { Jetzt haben wir diese Macht der Göttlichen und werden uns die Freiheit nehmen, nach der wir streben. }
+
+Plh_167 { Sie haben Listen darüber geführt, welche Dinge sie transportiert haben, von den fernsten Orten in Drova aus in andere Welten. }
+
+Plh_168 { Irgendwann haben sie ihn versiegelt. Wir wissen nicht genau, warum. }
+
+Plh_169 { Es sind noch viele Fragen offen, was die Vergangenen angeht. Antworten gibt es nur im Roten Turm. }
+
+Plh_170 { Das ist die Kette meines Vaters. Er war der Gründer von Nemeton. Meine Brüder und Schwestern haben alle so eine Kette bekommen. Trag du sie nun. }
+
+Plh_171 { Warum hilfst du den anderen Druiden nicht? }
+
+Plh_172 { *guckt wieder zu dir* Es wird bald losgehen. }
+
+Plh_173 { Ich habe das Ritual entwickelt, mit dem wir in den Roten Turm eindringen werden. Jetzt muss ich noch sicherstellen, dass keine Fehler passieren. }
+
+Plh_174 { Wofür braucht ihr das ganze Silber? }
+
+Plh_175 { Göttliche Kraft kann in Silber gebündelt werden. Stell dir vor, diese Welt wäre der Körper eines Göttlichen, dann wäre das Silber seine Adern ... wie Blut rauscht die magische Kraft hindurch. }
+
+Plh_176 { Wir brauchen das Silber also, um diese magische Kraft des Göttlichen zu sammeln und zu leiten. }
+
+Plh_177 { Wie funktioniert das Ritual? }
+
+Plh_178 { Mhm. Es ist kompliziert. Aber ich kann versuchen, es in einfachen Worten zu erklären ... }
+
+Plh_179 { Die Runengefäße begrenzen stark, wie viel Kraft sie austreten lassen. Andernfalls könnte sich der Göttliche selbst befreien. Die Vergangenen wussten genau, was sie da tun ... }
+
+Plh_180 { Im Vergleich zu den Möglichkeiten von uns Menschen ist die magische Kraft immer noch enorm. Und sie ist konstant ... und unerschöpflich. }
+
+Plh_181 { In unserem Ritual wird deshalb die magische Kraft des Göttlichen gesammelt, bis das Silber davon erfüllt ist. Dann wird dem Göttlichen über komplexe Runen geboten, diese Kraft gegen die Barriere des Roten Turms zu richten. }
+
+Plh_182 { Wir haben leider unterschätzt, wie stark die Barriere im Roten Turm ist. Wir brauchen viel mehr magische Kraft ... ich hoffe, der Kristall, den du uns gebracht hast, ist unsere Rettung. }
+
+Plh_183 { Die Arbeiter aus dem Düsterwald sind schon zurück. Der Weg zu den Ruinen im Westen ist frei. }
+
+Plh_184 { Wir haben ein paar Hauer den Weg freiräumen lassen, und Kilian hat berichtet, dass sie fertig sind. Deine Aufgabe ist klar - wir brauchen den dritten Machtkristall. }
+
+Plh_185 { Sehr gut ... unsere Freiheit ist zum Greifen nahe. }
+
+Plh_186 { Die göttliche Kraft fließt langsam aus dieser Welt. Mit jedem Augenblick ein weiterer Tropfen ... }
+
+Plh_189 { Ich schicke die besten Leute, um einen Weg zu bahnen. Du holst den Machtkristall. }
+

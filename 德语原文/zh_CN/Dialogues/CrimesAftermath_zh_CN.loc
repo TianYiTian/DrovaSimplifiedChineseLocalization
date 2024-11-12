@@ -1,0 +1,154 @@
+Atone_Crimes { Hier hast du deine Münzen. }
+
+Witnessed_Stealing_00 { Du hast gestohlen. Geh mir aus den Augen. }
+
+Witnessed_Stealing_01 { Elender Dieb. Verschwinde. }
+
+Witnessed_Stealing_02 { Hau ab, bevor du noch mehr mitgehen lässt. }
+
+Witnessed_Stealing_03 { Mit Dieben rede ich nicht. }
+
+Witnessed_Stealing_04 { Wenn du deine Finger nicht bei dir behältst, hab ich dir nichts zu sagen. }
+
+Witnessed_HoldingWeapon_00 { Willst du wieder deine Waffe ziehen und Stress verursachen? Hau ab. }
+
+Witnessed_HoldingWeapon_01 { Mit jemandem, der seine Waffe so leichtfertig rumschwingt, will ich nichts zu tun haben. }
+
+Witnessed_HoldingWeapon_02 { Verschwinde, bevor du deine Waffe schon wieder ziehst. }
+
+Witnessed_HoldingWeapon_03 { Wenn du mir noch mal deine Waffe ins Gesicht hältst, dann kriegst du Probleme. }
+
+Witnessed_HoldingWeapon_04 { Du solltest deine scheiß Waffe nicht einfach so ziehen. }
+
+Witnessed_Trespassing_00 { Verschwinde, bevor du wieder einfach so alle Räume betrittst. }
+
+Witnessed_Trespassing_01 { Ich rede nicht mit dir. Denkst du, jemand wie du darf überall rein? }
+
+Witnessed_Trespassing_03 { Lass mich in Ruhe. Ich will nicht, dass du hier überall einfach reinläufst. }
+
+Witnessed_Trespassing_04 { Bevor du nicht aufhörst, hier überall einzubrechen, sag ich dir kein Wort. }
+
+Witnessed_Lockpicking_00 { Du verdammter Dieb hast einfach so ein Schloss geknackt! Hau ab! }
+
+Witnessed_Lockpicking_01 { Knackst du immer einfach so Schlösser? Verschwinde, du Dieb. }
+
+Witnessed_Lockpicking_02 { Hau ab, du Dieb. }
+
+Witnessed_Lockpicking_03 { Lass mich in Ruhe. Wer mich beklauen will, dem hab ich nichts zu sagen. }
+
+Witnessed_Lockpicking_04 { Ich will nichts von Schlösserknackern wissen! }
+
+Witnessed_Noise_00 { Du hast mich beim Schlafen gestört! Hau ab! }
+
+Witnessed_Noise_01 { Halt nächstes Mal dein Maul, wenn ich in deiner Nähe schlafe. Geh. }
+
+Witnessed_Noise_02 { Du Unruhestifter hast hier nichts verloren. }
+
+Witnessed_Noise_03 { Da weiß jemand nicht, wann er leise sein soll. Kleiner Tipp: Wenn Leute schlafen! Verschwinde! }
+
+Witnessed_Noise_04 { Du verdammtes Trampeltier raubst mir jeden Schlaf. Zieh Leine. }
+
+Witnessed_BlockingWay_00 { Wenn du mir noch mal im Weg stehst, bin ich nicht so nett. }
+
+Witnessed_BlockingWay_01 { Wenn du dich noch einmal in meinen Weg stellst, dann verpass ich dir eine. Geh! }
+
+Witnessed_BlockingWay_02 { Bist du hier, um dich wieder in meinen Weg zu stellen? Verschwinde! }
+
+Witnessed_BlockingWay_03 { Ich kann deine Fresse nicht mehr sehen. Verschwinde endlich, damit du mir nicht mehr im Weg rumstehst! }
+
+Witnessed_BlockingWay_04 { Du solltest nicht im Weg rumstehen. Lass mich! }
+
+Plh_9 { Rück [Currency] Münzen raus oder hau ab. }
+
+Plh_10 { Im Namen des Raben vergebe ich dir deine Fehler. Ich werde den Leuten erzählen, dass du zur Vernunft gekommen bist. }
+
+Plh_11 { Du hast gegen die Regeln Nemetons verstoßen. Dafür wirst du geradestehen. }
+
+Plh_0 { Für Recht und Ordnung. }
+
+Plh_1 { Ich möchte meine Straftaten sühnen. }
+
+Plh_3 { Du hast nichts zu büßen. Geh. }
+
+Plh_12 { Wenn du nicht genug Münzen hast, läuft hier gar nichts. Komm wieder, wenn du genug hast oder verschwinde aus Nemeton. }
+
+Plh_13 { Bevor ich nicht Münzen von dir sehe, hab ich dir nichts zu sagen. }
+
+Plh_20 { Oh, Großer Keiler! Vergib dieser Person ihre Fehler! Wasche sie rein von ihren Fehlern und zeige ihr den Weg! }
+
+Plh_21 { Der Große Keiler misstraut dir. }
+
+Plh_22 { Der Keiler beobachtet dich und deine Taten. Komm wieder, wenn du ein Zeichen der Sühne hast und ich kann den Keiler um Vergebung bitten. }
+
+Plh_23 { Hier, nimm die Münzen und vergib mir meine Straftaten. }
+
+Plh_26 { Erst 'ne Rauferei starten und dann wegrennen. Ganz schön feige. Bist du hier, um dich zu stellen? }
+
+Plh_27 { Du dachtest wohl, ich lasse mir alles gefallen, was? Oder bist du hier, um dich zu entschuldigen? }
+
+Plh_28 { Gib mir [Currency] Silber und wir vergessen die Sache. }
+
+Plh_29 { Hier hast du dein Silber. }
+
+Plh_30 { Du solltest besser woanders Schlösser knacken. Oder nicht dabei gesehen werden. Mach 'ne Fliege. }
+
+Plh_31 { Du feige Sau bist abgehauen, bevor wir die Sache regeln konnten. }
+
+Plh_32 { Wenn du nicht weggerannt wärst, dann würdest du jetzt anders aussehen. Hau ab! }
+
+Plh_33 { Ich dachte, du willst die Sache mit 'ner Rauferei klären, da haust du einfach ab. Lass mich! }
+
+Plh_34 { Mit dir rede ich gar nicht erst. Du haust einfach ab! }
+
+Plh_35 { Gib mir [Currency] Zeichen der Sühne und ich kann dir vergeben, was du getan hast. }
+
+Plh_36 { Gib mir [Currency] Münzen, dann vergebe ich dir deine Fehler. Bevor ich deinen Namen nicht reinwasche, will dich hier keiner haben. }
+
+Plh_37 { Mit Leuten, die gegen unsere Regeln verstoßen, will ich nichts zu tun haben. Gerdwin wird über dich richten. }
+
+Plh_38 { Du hast dich nicht an die Gesetze von Nemeton gehalten. Meld dich bei Gerdwin, wenn du Anstand hast. }
+
+Plh_39 { Mit solchen Schlägern wie dir will ich nichts zu tun haben. Gerdwin wird über dich urteilen. }
+
+Plh_40 { Es gibt hier Regeln, und du hast sie gebrochen. Bezahl deine Strafe bei Gerdwin. }
+
+Plh_41 { Gerdwin wird über dein Schicksal richten. Bevor er mir nicht sagt, dass du freigesprochen bist, will ich nichts von dir wissen. }
+
+Plh_42 { Du hast unserer Gemeinschaft Unrecht angetan. Nur Diemo kann dir das vergeben. }
+
+Plh_44 { Lass in Zukunft die Finger von Sachen, an denen deine Griffel nichts verloren haben! }
+
+Plh_45 { Versuch nie wieder, mich zu bestehlen! }
+
+Plh_47 { Geh mir aus dem Weg, sonst setzt es wieder was. }
+
+Plh_49 { Mach, dass du wegkommst. Ich kann hier keine Einbrüche gebrauchen. }
+
+Plh_51 { Weg mit der Waffe! }
+
+Plh_52 { Geh mir aus den Augen, dreckiger Dieb! }
+
+Plh_53 { Wieder hier, um Schlösser zu knacken? Ich beobachte dich, Verbrecher. }
+
+Plh_54 { Hau ab, sonst krieg ich wieder kein Auge zu! }
+
+Plh_55 { Verpiss dich. Ich hasse nichts mehr als Leute, die mich beim Schlafen stören. }
+
+Plh_56 { Bevor du nicht bei Gerdwin Strafe für deine Taten zahlst, sag ich dir gar nichts. }
+
+Plh_57 { Du denkst wohl, du stehst über den Regeln? Begleich deine Schuld bei Gerdwin oder verpiss dich. }
+
+Plh_59 { Entschuldige dich oder zisch ab. }
+
+Plh_60 { Bevor du dich nicht bei mir entschuldigst, geht hier gar nichts. }
+
+Plh_61 { Lass Münzen sehen oder verschwinde. Von dir will ich nichts wissen. }
+
+Plh_62 { Also, besorg das Silber oder verschwinde. }
+
+Plh_63 { Geh mir aus den Augen. Deine Fehler werden wir hier nicht vergessen. }
+
+Plh_64 { Du bist rein von jeder Schuld ... }
+
+Plh_65 { Gut, deine Straftaten sind dir verziehen. }
+

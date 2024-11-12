@@ -1,0 +1,58 @@
+Plh_5 { Brauchst du etwas Rostmoos? }
+
+Plh_6 { Ja! Bist du etwa für Boris unterwegs? Ich warte seit Tagen auf neues Zeug! }
+
+Plh_7 { Ja, aber ich mache das nur einmalig für ihn. }
+
+Plh_8 { Genau. Und ich hab das beste Zeug dabei, das du jemals probiert hast. }
+
+Plh_9 { Mir doch egal! Hauptsache, es gibt wieder was! }
+
+Plh_10 { Leute wie du sagen das jedes Mal, wenn sie einem was andrehen wollen. *zwinkert* }
+
+Plh_11 { Wie viel willst du dafür haben? }
+
+Plh_12 { Hey! Ich hab gehört, dass du neues Rostmoos für Boris verkaufst! Hast du was für mich? }
+
+Plh_13 { Für $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen kommen wir ins Geschäft. }
+
+Plh_14 { Das Zeug ist echt gut. Für $GVAR:QuestVars_JobForBoris_Config.ScamPricePerJoint$ Münzen geb' ich dir was. }
+
+Plh_15 { Das Zeug wird immer teurer, aber gut. Hier, nimm. }
+
+Plh_16 { Was? Das ist doppelt so viel wie letztes Mal! Erzähl keinen Stuss. }
+
+Plh_17 { Na gut, der eigentliche Preis ist $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ Münzen. }
+
+Plh_18 { Es war in letzter Zeit schwierig, an was heranzukommen. Nimm's oder ich frag wen anders. }
+
+Plh_19 { *knirscht mit den Zähnen* Dieser Boris ... }
+
+Plh_20 { Erst verschenkt er das Rostmoos fast, und jetzt kann ich mir das Zeug kaum leisten. }
+
+Plh_21 { Versuch nicht, mich zu verarschen. Sonst erzähle ich Boris von deiner "Preisanpassung"! }
+
+Plh_22 { Dafür lohnt sich der ganze Dreck hier. Danke dir. }
+
+Plh_23 { *gähnt* Was gibt's? }
+
+Plh_24 { Gut, gib es mir schon, bevor nichts mehr da ist. }
+
+Plh_27 { *GRÖLT* }
+
+Plh_28 { Unglaublich ... der Göttliche ist besiegt! }
+
+Plh_29 { Der Göttliche muss sich warm anziehen. }
+
+Plh_30 { Jawohl! Für Jero! Für unsere Freiheit! Für den Roten Turm! }
+
+Plh_31 { Was machst du hier? }
+
+Plh_32 { Was denkst du, was ich mache? }
+
+Plh_33 { Hauen, quatschen, hier und da etwas Rostmoos rauchen und wieder von vorn. Was man als Hauer eben so tut. }
+
+Plh_34 { Ich hab nichts mehr. }
+
+Plh_35 { Schon alles weg? Verdammt! }
+

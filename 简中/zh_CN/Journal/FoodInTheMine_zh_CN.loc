@@ -1,0 +1,5 @@
+Title { [Hauer]的肉 }
+
+Entry_01 { Shona，负责食物的那位，希望我能帮她从矿井里的布德勒猪身上弄到$GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$块生的、多汁的肉。 }
+
+Entry_02 { Shona用这些肉做了一道新菜。这会让Hauer有一段时间能吃上好东西。 }

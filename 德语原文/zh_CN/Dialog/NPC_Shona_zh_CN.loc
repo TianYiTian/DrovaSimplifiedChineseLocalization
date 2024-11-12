@@ -1,0 +1,166 @@
+Plh_0 { Riechst du das? }
+
+Plh_2 { Ich habe gerade keine Zeit für sowas. }
+
+Plh_3 { *räuspert sich* Aber klar ... }
+
+Plh_5 { Was das Fleisch angeht ... }
+
+Plh_6 { Die Leute hier bekommen hauptsächlich Brot und Gemüsesuppe. Ich brauche eine Zutat mit Biss. }
+
+Plh_7 { Willst du mir doch helfen? Ich brauche nur $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ Stück rohes Fleisch, um das neue Rezept auszuprobieren. }
+
+Plh_8 { Gut, ich bringe dir das Fleisch. }
+
+Plh_9 { Ich habe andere Dinge zu erledigen. }
+
+Plh_10 { Sehr gut, bring mir $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ Stück sehniges Fleisch. Das sollte reichen, um das Gericht auszuprobieren. }
+
+Plh_11 { Schade. Komm her, wenn dich die Aussicht auf leckeres Essen doch lockt. }
+
+Plh_12 { Ich hab dein Fleisch. ($GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ sehniges Fleisch geben) }
+
+Plh_13 { Ah, sehr gut! }
+
+Plh_14 { Ich bereite dann alles vor ... }
+
+Plh_15 { Lass mich erst in Ruhe kochen. }
+
+Plh_17 { Was ist ein Buddlerschwein doch für ein hässliches Ding, aber man kann so was Leckeres daraus machen! Willst du probieren? }
+
+Plh_19 { Ah, schön dich zu sehen. *lächelt* }
+
+Plh_20 { Natürlich. }
+
+Plh_22 { Nö. }
+
+Plh_23 { Da läuft einem das Wasser im Mund zusammen, oder? }
+
+Plh_24 { Dann muss deine Nase kaputt sein. }
+
+Plh_25 { Du siehst aus, als wolltest du etwas essen, was du noch nie geschmeckt hast! }
+
+Plh_27 { Ich esse lieber, was ich kenne. }
+
+Plh_28 { Was hast du vor? }
+
+Plh_29 { Die Leute vom Ruinenlager bringen mir immer dieselben Zutaten. Ein weiterer Tag, und nichts hat sich verändert ... }
+
+Plh_30 { Dass du das anders siehst, ist nur eine Frage der Zeit. }
+
+Plh_31 { Hilf mir dabei, ein einzigartiges neues Gericht zu kochen und du darfst es dann kosten! }
+
+Plh_32 { Was soll ich denn für dich tun? }
+
+Plh_35 { In der Mine sind ein paar wilde Buddlerschweine. Lässt man sie in Ruhe, ignorieren sie einen. }
+
+Plh_36 { Aber das geht auch umgekehrt! Bring mir $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ Stücke sehniges Fleisch von ihnen! }
+
+Plh_38 { Also? }
+
+Plh_39 { Warum jagst du nicht selbst die Buddlerschweine? }
+
+Plh_40 { Ich schneide nur etwas, das schon tot ist. }
+
+Plh_41 { Ach, und wenn dir ein Buddlerschwein zu stark ist, renn einfach weg. Sie verlieren schnell das Interesse an dir. }
+
+Plh_42 { Dafür sorgen, dass hier kein Aufstand ausbricht! }
+
+Plh_44 { Noch nicht so lang ... knapp zwei Jahre. Ich war vorher auf einem Hof, aber da hat es mir nicht gefallen. }
+
+Plh_45 { Die Hauer sind hungrig. Deswegen komme ich kaum noch aus der Mine raus. }
+
+Plh_46 { Das sieht nicht schlecht aus. }
+
+Plh_47 { Gern. }
+
+Plh_48 { Lieber nicht. }
+
+Plh_49 { *tunkt die Kelle ein und reicht sie dir* Hier! }
+
+Plh_50 { Dank dir war das überhaupt erst möglich. Nur ein Biss! }
+
+Plh_51 { Na gut. }
+
+Plh_52 { Wirklich nicht. }
+
+Plh_53 { *Du schlürfst ein wenig von dem Essen aus der Kelle. Es schmeckt nach Kohl, Zwiebeln und Erbsen mit einer sämigen, würzigen Soße und etwas zartem Fleisch im Abgang.* }
+
+Plh_54 { (Kelle leeressen) }
+
+Plh_55 { (Kelle zurückgeben) }
+
+Plh_56 { Also? Wie schmeckt es dir? }
+
+Plh_57 { *eifrig schlürfst du den Rest aus der Kelle* }
+
+Plh_58 { *du reichst Shona die fast volle Kelle zurück* }
+
+Plh_59 { Das war wirklich lecker! }
+
+Plh_60 { Nicht so mein Ding. }
+
+Plh_61 { Und für SO WAS hast du mich jetzt losgeschickt? }
+
+Plh_62 { *ihre Augen strahlen* Ich liebe es einfach, wenn Leute sich über mein Essen freuen. }
+
+Plh_63 { *verengt die Augen zu Schlitzen* Zum Glück ist das nur deine Meinung. }
+
+Plh_64 { *ihre Augen blitzen* Kein Grund, so mit mir zu reden. }
+
+Plh_65 { Alle reißen sich um mein Essen. Hauer wie Krieger. Wenn sogar Mursel sich vordrängelt, will das was heißen. }
+
+Plh_66 { Selbst schuld. Die anderen wird's freuen. *grinst* }
+
+Plh_68 { Hier, es ist nicht viel, aber ich will mich erkenntlich zeigen. }
+
+Plh_69 { Komm gern wieder! Du weißt ja, wo du mich findest, wenn du Hunger hast. *grinst freundlich* }
+
+Plh_70 { Was machst du hier? }
+
+Plh_71 { Seit wann bist du hier? }
+
+Plh_72 { *fasst sich an den Kopf* Falco! Ich hab dich ganz vergessen! }
+
+Plh_73 { Hast du vielleicht was zu essen für den Kanarienvogel? }
+
+Plh_74 { Falco ist sehr wählerisch, musst du wissen. Der verhungert eher, als dass er was frisst, was er nicht mag. }
+
+Plh_75 { Stures Vieh ... }
+
+Plh_76 { Hier, gib ihm ein paar Beeren. Die liebt er. Hier drin findet man die nicht, aber die hatte ich noch. }
+
+Plh_77 { Merik sollte mir wieder welche besorgen. }
+
+Plh_78 { Los, geh zu Falco, bevor er vor Hunger abnippelt! }
+
+Plh_79 { Er sah vorhin ziemlich hungrig aus. }
+
+Plh_80 { Gib mir was, damit ich ihn füttern kann! }
+
+Plh_81 { Zeit für was Neues! }
+
+Plh_82 { Mehr Kraft durchs Essen bessert auch die Moral. }
+
+Plh_83 { Aber wenn sie aggressiv werden ... na ja, es sind schon Hauer in ihren Mägen gelandet. }
+
+Plh_84 { Mit Kämpfen hab ich's nicht so. }
+
+Plh_85 { Ich sollte dort Holz hauen. Nichts für mich. Hier im Ruinenlager haben sie eine Köchin gebraucht. Mein Glück. }
+
+Plh_86 { Eigentlich nur ein Ulk, aber stimmt irgendwo. Ich sorge für gutes Essen. Das hebt auch die Moral! *grinst freundlich* }
+
+Plh_87 { Ansonsten renn zu den Wachen. Glück auf! }
+
+Plh_88 { Sogar der grummelige Murtagh kommt gern. Was der für Augen machen würde, wenn er wüsste, dass ich heute Fleisch im Gericht habe. }
+
+Plh_90 { Agnessa scheint es sehr schlecht zu gehen. Wie können wir ihr helfen? }
+
+Plh_91 { *seufzt* Sie ist so stur. Ich habe ihr schon Essen gegeben, und sie ruht sich hier bei mir aus. }
+
+Plh_92 { Aber sie braucht Medizin. Schattenpilze könnten helfen - das sind kleine Pilze, die heilende Wirkungen haben. }
+
+Plh_93 { Es sollten $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ Schattenpilze reichen. Vielleicht findest du welche beim Arbeiten. }
+
+Plh_94 { Und hier noch eine Mahlzeit. Haste dir verdient. }
+

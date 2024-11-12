@@ -1,0 +1,26 @@
+Plh_0 { *Vor dir steht ein massiver Schreibtisch. Auf ihm liegen viele beschriebene Pergamente, wild durcheinander. Einige davon sind durch umgekippte Tinte komplett unleserlich.* }
+
+Plh_1 { (Zettel durchsuchen) }
+
+Plh_2 { *Du ziehst die untersten Zettel hervor und überfliegst einige, die keine nützlichen Informationen enthalten. Doch dann stößt du auf ein vielversprechendes Pergament ...* }
+
+Plh_3 { *Du glaubst, noch mehr in den Zetteln finden zu können.* }
+
+Plh_4 { (weggehen) }
+
+Plh_5 { (weitersuchen) }
+
+Plh_6 { (weitersuchen) }
+
+Plh_7 { *Auf vielen der Zettel sind für dich unverständliche Notizen und Runen, deren Funktion nicht nachvollziehbar sind.* }
+
+Plh_9 { *Viele Zettel sind nicht mehr übrig, die meisten hast du dir bereits angesehen. Doch findest du noch eine recht krakelig geschriebene Notiz ... }
+
+Plh_10 { *Der Kristall, von dem hier die Rede ist, muss der sein, den du zurück nach Drova gebracht hast. Die Forschung, die hier erfolgt ist - wenn auch nicht komplett abgeschlossen -, ist anscheinend sehr wichtig.* }
+
+Plh_11 { *Nach einer Weile stößt du auf eine Passage, die sich anscheinend auf das vorherige Pergament bezieht ...* }
+
+Plh_12 { *Nach kurzem Suchen findest du einen weiteren Zettel, der von einem ersten Versuch mit dem Nexushelm berichtet.* }
+
+Plh_15 { *Du siehst den Helm, der immer noch auf dem Tisch liegt ... Das muss der Gegenstand sein, an dem Drivanius geforscht hat. Du entscheidest dich, ihn mitzunehmen.* }
+

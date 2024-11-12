@@ -1,0 +1,646 @@
+Plh_4 { *bemerkt dich* Ah, du schon wieder. Hast es wohl in einem Stück hierher geschafft. Nicht schlecht. }
+
+Plh_22 { Debug: Test }
+
+Plh_23 { Hey! Alles klar? }
+
+Plh_25 { Du wirst den Kopf schütteln, wenn ich dir alles erzähle ... }
+
+Plh_27 { Wegen des Pakets ... }
+
+Plh_36 { Dann sieh zu und fang an. }
+
+Plh_40 { Worum ging es da? }
+
+Plh_41 { Gibt es ein Problem? }
+
+Plh_49 { Sehr gut, hier ist das Paket. Boris soll dir dafür $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen geben. $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen! Nicht 100, auch nicht 199, sondern $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$. Pass auf, der verarscht einen gern. }
+
+Plh_50 { Zum Ruinenlager kommst du, wenn du südlich von Nemeton dem Weg nach Westen folgst und dann bei der Taverne weiter Richtung Norden läufst. }
+
+Plh_51 { Boris hat seine Hütte gegenüber der Taverne im Ruinenlager. }
+
+Plh_52 { Ach, und bleib auf den Wegen! Abseits davon wimmelt es von Monstern, die gern an Leuten knabbern. }
+
+Plh_55 { Was springt für mich dabei raus, wenn ich dir helfe? }
+
+Plh_65 { Nicht schlecht. *Asmus öffnet das Paket und guckt rein* }
+
+Plh_73 { Gut, ich finde das Paket für dich. }
+
+Plh_77 { Du wurdest beklaut? }
+
+Plh_81 { Sieht ganz so aus, oder? Wenn ich den Dieb in die Finger kriege ... }
+
+Plh_85 { Ich weiß, wir sind mittlerweile Bekannte, aber manche Geheimnisse behält man besser für sich. *zwinkert* }
+
+Plh_86 { Wer hat das Paket denn geklaut? }
+
+Plh_88 { Wenn ich das wüsste, dann hätte ich es schon wieder geholt, meinst du nicht? }
+
+Plh_92 { Wegen der Lieferung ... }
+
+Plh_117 { Das Paket soll ins Ruinenlager? Warum? }
+
+Plh_118 { Du handelst mit der anderen Fraktion? }
+
+Plh_121 { Die Welt ist klein, und ich habe gute Kontakte zum Ruinenlager. Mehr brauchst du nicht zu wissen. }
+
+Plh_122 { *runzelt die Stirn* Muss dich das kümmern? Mach die Sache nicht komplizierter für uns, als sie sein muss. Bring das Paket einfach rüber und mir dann die Münzen. Dann sind wir beide glücklich. }
+
+Plh_128 { Wird erledigt. }
+
+Plh_130 { Als wäre das so schwierig ... du musst da doch vorbeigekommen sein. }
+
+Plh_132 { Du findest ihn direkt neben dem Eingang. Da hat er seine Hütte. }
+
+Plh_133 { Nun, wie lief's mit Boris? Hast du die Münzen? }
+
+Plh_135 { Sag mir, wie ich zum Ruinenlager komme ... }
+
+Plh_137 { Ich hab das Paket ausgeliefert. }
+
+Plh_138 { Perfekt. Ich hatte ja Probleme mit dem Paket, deswegen musste Boris warten. Hast du die $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen? }
+
+Plh_139 { Hier sind die $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen. }
+
+Plh_140 { Hier, dein Anteil. Gute Arbeit. }
+
+Plh_141 { Willst du mich verarschen? Das sind keine $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen. Komm erst wieder, wenn du genug dabei hast. }
+
+Plh_142 { Ich wurde unterwegs überfallen. }
+
+Plh_143 { Überfallen? Wie? }
+
+Plh_145 { Ich rede von Banditen! }
+
+Plh_147 { Hm. Hat Afrin auch immer behauptet. Was waren das für Banditen? }
+
+Plh_148 { Keine Ahnung, vielleicht welche von Boris? Ich kann's aber nicht beweisen. }
+
+Plh_149 { Könnten auch Wegelagerer gewesen sein? }
+
+Plh_150 { Ich habe was bei ihnen gefunden. Dein Freund Boris ist wohl gar nicht so nett. }
+
+Plh_151 { Das ... das ist die Handschrift von Boris. Dieser Mistkerl! Der überfällt meine Läufer?! }
+
+Plh_152 { Wahrscheinlich auch schon Afrin ... }
+
+Plh_154 { Hm. Stimmt. Und niemand hat ihm geglaubt. Das müssen wir sofort klären. }
+
+Plh_158 { Solange ich keine Beweise habe, kann ich da leider nichts machen. Woher die $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen kommen, ist mir egal. Du schuldest sie mir. }
+
+Plh_160 { Also, du schuldest mir jetzt einen Gefallen ... }
+
+Plh_161 { Jedenfalls, ja, du hast was gut bei mir. Glaub mir, ich kann hier einiges beeinflussen, wenn ich will. *grinst* }
+
+Plh_165 { Komm wieder, wenn du die Münzen hast. }
+
+Plh_166 { Ich hab hier einen Brief von Delani für dich. }
+
+Plh_168 { Hm? Von Delani? Zeig her. }
+
+Plh_169 { Der ist ja schon geöffnet! Was soll denn der Mist? Hast du den Brief gelesen?! }
+
+Plh_170 { *mustert den Brief, öffnet ihn und liest kopfschüttelnd* Ach, Delani .. Nun gut, danke dafür. Hier, hast du dir verdient. }
+
+Plh_175 { Ja. }
+
+Plh_176 { Äh ... Nein? }
+
+Plh_177 { Ich schwöre dir ... öffne noch EINMAL eine Lieferung und ich öffne deine Eingeweide. VERSTANDEN? }
+
+Plh_178 { Verstanden. }
+
+Plh_179 { Jaja, stell dich nicht so an. }
+
+Plh_180 { Deine Belohnung kannst du jedenfalls vergessen. }
+
+Plh_182 { Was ist denn jetzt schon wieder? Noch mehr Beschuldigungen? }
+
+Plh_183 { Im Gegenteil. Hör dir das an ... }
+
+Plh_185 { Ich habe Beweise, dass Boris hinter den Überfällen steckt. }
+
+Plh_186 { Schau dir diese Notiz von Boris an. (zeigen) }
+
+Plh_187 { WAS? Heißt das, wir können meine Unschuld endlich beweisen? }
+
+Plh_188 { Dieser dreckige Mistkerl! Ich hab's gesagt! Wieder und wieder! Ich musste denen die Münzen geben, sonst hätten sie mich abgemurkst! }
+
+Plh_190 { Afrin verdient es, wieder aufgenommen zu werden! }
+
+Plh_191 { Ich werde Molvina sofort den Beweis bringen. Dann MUSS sie Afrin vergeben. Er hat nichts Falsches getan! }
+
+Plh_193 { Vielleicht ... Also, Georgs Hof sucht Leute zur Verteidigung. Afrin ist kein großer Kämpfer, aber könnte als Wache ein Auge auf die Umgebung haben ... }
+
+Plh_194 { Georg kann jeden dort gebrauchen. Die Sache mit den Läufern zu Boris ist zu gefährlich geworden. }
+
+Plh_195 { Alles ist besser, als hier alleine zu versauern! }
+
+Plh_196 { Ohne deinen Beweis würde ich immer noch in dem verlassenen Viertel versauern. Hier, als Dank. Das sind meine ganzen restlichen Münzen. }
+
+Plh_197 { Afrin, wir reden noch mal, wenn ich bei Molvina war. Dann solltest du deine Ausrüstung wiederbekommen. }
+
+Plh_198 { Und dir danke ich, dass du alles aufgeklärt hast. }
+
+Plh_203 { Brief war noch verschlossen. Kann dir wohl vertrauen. Also ... Delani und ich haben da was. Wir stellen Rostmoos her und liefern es ans Ruinenlager. *guckt sich schnell um* }
+
+Plh_204 { *leise* Wir machen mit den Verkäufen an Boris gute Münzen. Und schwächen die Hauer im Ruinenlager. Aber behalt das für dich, ja? }
+
+Plh_207 { Wir sehen uns. }
+
+Plh_211 { Ist das dein Paket? (geben) }
+
+Plh_212 { Hm? Zeig her. Sieht schon mal richtig aus. }
+
+Plh_219 { Irgendein Penner hat meine Hütte verwüstet. Jetzt ist mein Paket weg. Weißt du, was für ein scheißhoher Verlust das für mich ist? Massig Münzen ... }
+
+Plh_220 { Ist das Paket für Boris? }
+
+Plh_221 { Woher weißt du das? }
+
+Plh_222 { Er hat mich geschickt, um es bei dir abzuholen. }
+
+Plh_223 { Hmpf. Eigentlich soll der die Füße still halten, bis ich ihm das bringen lasse ... }
+
+Plh_224 { Das Paket muss jetzt ins Ruinenlager zu Boris. Der wartet da schon viel zu lang. Lass dir von ihm $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ Münzen dafür geben und bring die dann zu mir zurück. }
+
+Plh_228 { Hmpf. Wenn du das Paket findest, melde dich. }
+
+Plh_230 { Haha, trotz eines Überfalls erledigst du den Auftrag und weißt, wofür du das tust. Gefällt mir! }
+
+Plh_231 { Für ehrliche Arbeit gibt's ehrliche Münzen. }
+
+Plh_232 { Ich gehöre zur Fraktion. Denkst du, ich bekomme nicht mit, was im Ruinenlager abgeht? }
+
+Plh_234 { Hier, nimm die Münzen. Das war gute Arbeit! }
+
+Plh_235 { Außerdem kann ich dir zeigen, wie man besser mit Dolchen kämpft, wenn du dich Nemeton angeschlossen hast. Die sind perfekt, wenn's schnell gehen muss. }
+
+Plh_241 { Hey, ich wünsche dir ein loderndes Fest des Feuers. Stoßen wir an auf dich ... und natürlich auch auf dich, Karotte! }
+
+Plh_242 { Natürlich, immer her damit! }
+
+Plh_243 { Solange es kein Getränk ist, das mir zu Kopf steigt ... klar! }
+
+Plh_244 { Lieber nicht. }
+
+Plh_245 { Recht so! }
+
+Plh_246 { Wie du meinst. }
+
+Plh_247 { Sprich ein wenig mit den Leuten. Genieß diese besondere Zeit hier. }
+
+Plh_249 { *schaut in die Flammen* Wenn ich sie lodern sehe, muss ich daran denken, wie alles vergeht. Was sich alles verändert. Früher war unser Lager viel größer. Bevor das Ruinenlager sich abgespalten hat ... }
+
+Plh_253 { Wie war es, als das Ruinenlager noch Teil von Nemeton war? }
+
+Plh_254 { War es damals besser? }
+
+Plh_255 { Es gab nur Nemeton. Jero und all die anderen Abtrünnigen ... sie waren ein Teil von uns. Es war damals leichter. Mehr Leute und somit auch mehr Hände. }
+
+Plh_256 { Besser? Da bin ich nicht sicher. Jedenfalls leichter. }
+
+Plh_257 { Ich weiß noch, wie Eugen und ich das Lager unsicher gemacht haben. Ist schon etwas her. Wir waren jung und wagemutig. Kein Berg zu hoch ... }
+
+Plh_258 { Wer ist Eugen? }
+
+Plh_259 { Ich hab Eugen getroffen. Im Ruinenlager. }
+
+Plh_260 { Damals noch mein bester Freund. }
+
+Plh_261 { Mögen die Göttlichen einen Sturm über das Ruinenlager senden ... Eugen und ich waren mal beste Freunde. }
+
+Plh_262 { Wir waren damals eine verschworene Truppe. Haben alles zusammen gemacht. Jeden Scheiß. }
+
+Plh_263 { Und dann ist Eugen einfach durchgebrannt. Mit anderen. Er ist ein verdammter Verräter! }
+
+Plh_265 { Was ist so lustig? }
+
+Plh_267 { *prustet* Mir ist wieder ein Streich eingefallen, den wir Humbert gespielt haben. Der hat immer so einen Stock im Arsch, mit dem hat es immer am meisten Spaß gemacht ... }
+
+Plh_269 { Erzähl, was habt ihr mit ihm gemacht? }
+
+Plh_270 { Ihr habt ihn zu so einem Eigenbrötler gemacht? }
+
+Plh_271 { Wir haben damals Schafscheiße gesammelt. Klebriges Zeug. Haben wir in einen Beutel gewickelt, in seinem Garten angezündet und ihn gerufen. }
+
+Plh_272 { Ach was, das war der schon immer. }
+
+Plh_273 { Erst hat er panisch auf den Beutel eingetreten, dann hat er gemerkt, dass Scheiße am Fuß klebt - und dann hat sie Feuer gefangen! }
+
+Plh_274 { (mitlachen) }
+
+Plh_275 { Das ist verdammt fies. }
+
+Plh_276 { Manchmal wäre ich gern wieder jung ... aber ich denke, ich wäre genauso albern wie damals. }
+
+Plh_277 { Keine Sorge, ihm ist nichts passiert. Der Fuß ist ja noch dran. }
+
+Plh_278 { Wirst du, Karotte! }
+
+Plh_279 { *räuspert sich* Drauf geschissen. Heute geht's nicht um den Staub von gestern, sondern um Karotte und dich! Auf euch! }
+
+Plh_280 { (Anstoßen) Mögen die Göttlichen unseren Trunk süß machen! }
+
+Plh_282 { Genießt euer erstes Fest des Feuers. So was kommt hier zu selten vor. Und morgen ruft wieder die Arbeit ... }
+
+Plh_284 { Hier, zur Feier meiner Aufnahme. (manipuliertes Bier geben) }
+
+Plh_286 { Ah, wie nett von dir. Wenigstens DIR fällt auf, wie durstig ich aussehe! }
+
+Plh_288 { Stimmt! Prost! }
+
+Plh_289 { Aaaaah, gut! Sehr gut! Und brennt sogar angenehm in der Kehle. Das ist neu bei dem Bier. }
+
+Plh_290 { Es brennt sogar ... ziemlich. *verzieht das Gesicht* }
+
+Plh_292 { AAAAAAAAARRRGGH! Das tut so weh! }
+
+Plh_293 { Erzähl mir mehr von den schönen Frauen! }
+
+Plh_294 { Ach, waren ehrlich gesagt nicht nur Frauen. Aber egal. }
+
+Plh_295 { Wenn du mir bei der Sache hilfst, hast du was davon. Machen dadurch gut Münzen und es soll dein Schaden dann auch nicht sein, wenn du verstehst, was ich meine. }
+
+Plh_297 { Bis später. }
+
+Plh_298 { Ich soll dir NUR für einen Gefallen helfen? }
+
+Plh_299 { Ganz genau. Na ja, fast. Ich bezahl dich natürlich. Arbeit wird belohnt! }
+
+Plh_300 { Was ist das für ein Paket? }
+
+Plh_314 { Hast du das Paket? }
+
+Plh_316 { Keine Zeit zum Quatschen! }
+
+Plh_321 { Humbert will dir einen Streich spielen. Das hier ist von ihm. (geben) }
+
+Plh_322 { Der humorlose Humbert? DER will mir einen Streich spielen!? Na, dann danke für die Warnung ... dieses Bier wäre mir wohl nicht gut bekommen ... }
+
+Plh_323 { Pass auf, ich hab eine Idee. Du rennst panisch zu ihm und sagst, dass ich das Bier getrunken habe und dann zusammengebrochen bin. Dass ich daliege und immer flacher atme, und dass du Angst hast, dass ich abkratze! }
+
+Plh_324 { Hol Humbert her. }
+
+Plh_325 { Asmus, was ist los mit dir? Da waren doch nur ein paar Kräuter drin. Ganz wenige. Bitte stirb nicht! Die Göttlichen werden mich verfluchen, wenn du stirbst! }
+
+Plh_326 { *hustet* Es ... es geht mir zu Ende ... }
+
+Plh_327 { Das ... ich ... ich hasse euch alle! }
+
+Plh_328 { Dem haben wir's gezeigt. Ich geh' mich jetzt besaufen, das hab ich mir nach der Schauspielerei verdient. }
+
+Plh_329 { Wir werden ja sehen, wer hier bessere Streiche hinbekommt. }
+
+Plh_330 { Ich hoffe, dass du die mit Magie gefüllten Kristalle dabei hast. }
+
+Plh_331 { Was? Nur du? }
+
+Plh_332 { Nur ich habe überlebt ... }
+
+Plh_333 { Was nur ich? }
+
+Plh_334 { Sind noch andere mit dir nach Drova gekommen? }
+
+Plh_335 { Nur du hast es aus dem Schlund raus geschafft. Es ist schon lange niemand mehr gekommen ... und ich hatte gehofft, es wären mehr Leute ... }
+
+Plh_336 { Ich kann kämpfen. }
+
+Plh_337 { Ich kenne mich etwas mit Heilung aus. }
+
+Plh_338 { Schön. Aber das müssen alle hier sowieso. Was hast du denn bisher bekämpft? }
+
+Plh_339 { Was willst du denn von den Druiden? }
+
+Plh_340 { Fürs Erste wäre es wohl am besten, wenn du zu den Holzfällern gehst. Die leben hier in der Nähe. Brauchst eigentlich nur dem Weg zu folgen. }
+
+Plh_341 { Das geht dich nichts an. }
+
+Plh_342 { Ein Druide hat mir diesen Kristall gegeben. }
+
+Plh_343 { Ganz ruhig. Kannst deine Geheimnisse für dich behalten, musst nur aufpassen. Manche Geheimnisse bringen dich schnell unter die Erde. }
+
+Plh_345 { Hey! Du bist zurück! }
+
+Plh_346 { Die Leute warten beim Fest des Feuers auf dich! Das musst du dir ansehen. Komm mit! }
+
+Plh_350 { Asmus ... das wollte ich nicht. Bitte glaub mir! }
+
+Plh_351 { *hustet* *keucht* Sag meinen ungeborenen Kindern ... }
+
+Plh_352 { Ja? }
+
+Plh_353 { ... dass sie ... *hustet heftig* }
+
+Plh_354 { JA?! WAS? Ich tue alles, was du willst! }
+
+Plh_355 { ... dass sie ... dass sie ... }
+
+Plh_356 { Was? Wie?! }
+
+Plh_357 { Mir geht's gut, Humbert. Meine Fresse, bist du leichtgläubig. }
+
+Plh_358 { So gefällt mir das! }
+
+Plh_359 { Komm bei den Holzfällern zu Kräften, besorg dir eine vernünftige Waffe. Du wirst sie hier in Drova brauchen. }
+
+Plh_360 { Hier. (Kristall zeigen) }
+
+Plh_361 { Ich soll den Kristall einem Druiden bringen. Du bist keiner. }
+
+Plh_362 { *mustert den Kristall* Hm. Hübsch. Ich verstehe davon nichts, aber wenn der wichtig ist, solltest du den nicht unbedingt fremden Leuten unter die Nase halten. Hast bei mir Glück ... bei anderen eher nicht. }
+
+Plh_363 { Das stimmt. Ich bin kein Druide. }
+
+Plh_364 { Die Druiden sind in Nemeton. Aber da kommst du nicht so leicht hin. Durch das Erdbeben ist die Brücke eingestürzt. Musst den Umweg durch den Wald nehmen. }
+
+Plh_365 { Ein Kristall? Zeig mal her. }
+
+Plh_366 { Komm schon, Aiko! Du arbeitest doch immer hier bei der Palisade. Wenn du was gesehen hast, dann sag es mir. }
+
+Plh_367 { Tut mir leid, Asmus. Dir hätte ich es zuerst gesagt. }
+
+Plh_368 { Irgendwer muss doch bei meiner Hütte gewesen sein? }
+
+Plh_369 { Hab nichts gesehen. Es kommen auch kaum Wachen am Haus vorbei. }
+
+Plh_372 { Trotzdem danke, Aiko. }
+
+Plh_373 { Gern. Wir sehen uns! }
+
+Plh_374 { DICH GENAUSO VERARSCHEN SOLLEN WIE ICH! }
+
+Plh_375 { Ach komm, hab dich nicht so! }
+
+Plh_377 { Augen hab ich. Sogar zwei! }
+
+Plh_380 { Du lügst doch! }
+
+Plh_381 { Und an deinem Tonfall arbeiten wir auch. }
+
+Plh_384 { Ihr kleinen Rotzlöffel habt nichts gemacht, als Honigäpfel bei mir zu klauen! Ich müsste euch immer noch den Arsch versohlen dafür. }
+
+Plh_385 { Kannst es ja gerne versuchen. *grinst* }
+
+Plh_386 { Ach, Asmus, du hast dich kein Stück verändert. }
+
+Plh_387 { Darauf trinke ich! }
+
+Plh_388 { Asmus hatte immer irgendjemanden im Arm. Wenn du ihn allein gesehen hast, wusstest du, dass er was im Schilde führt. }
+
+Plh_389 { Eugen war ein guter Junge. Er hat sich manchmal zu viel erlaubt, aber es nie böse gemeint. Schade, dass er nicht hier bei uns ist. }
+
+Plh_390 { Ihr solltet aufhören, so über den alten Mann herzuziehen. Euretwegen ist er so verbittert ... armer Humbert. }
+
+Plh_391 { Jetzt sei keine Spielverderberin, Dunja! Der hält das aus. }
+
+Plh_392 { Der Jungspund sagt, er wäre gern wieder jung! Ich werd' nicht mehr. }
+
+Plh_393 { Sieh mich doch an! Ich bin kein Junge mehr. Ich bin ein Mann, ein Krieger! }
+
+Plh_394 { Auf Karotte und mich! }
+
+Plh_395 { Für euch hebe sogar ich heute das Glas! So viel von dem Zeug halt' ich zwar nicht mehr aus, aber eins wird mich schon nicht umbringen. }
+
+Plh_396 { Ich pass schon auf, dass du nicht zu tief ins Glas guckst, Dunja. }
+
+Plh_397 { Warte. Wir reden gleich. }
+
+Plh_398 { Hmmm. Ich würde denken, dass es jemand war, der nicht zu uns gehört. Der hier irgendwie reingekommen ist und dann die Chance genutzt hat, das leere Haus auszunehmen. Weil ich bei den Holzfällern war. }
+
+Plh_399 { Hast du irgendeinen Verdacht, wer es gewesen sein könnte? }
+
+Plh_400 { Aber ich weiß nicht, wer hier ein- und ausgeht. Kann mir nicht vorstellen, dass es jemand aus dem Lager ist. }
+
+Plh_401 { Jap. Das ist es. *grinst* }
+
+Plh_402 { Also, die Sache mit Afrin wäre geklärt. Er meinte, er wurde überfallen, aber dafür fehlen die Beweise. Da kann ich nichts tun. Aber jetzt hast du dir eine dicke Belohnung verdient. Das war sehr gute Arbeit. }
+
+Plh_403 { Wer weiß, wie die Sache ohne deine Hilfe abgelaufen wäre. Ich hab auch direkt schon eine neue Möglichkeit für dich, an leichte Münzen zu kommen. *grinst* }
+
+Plh_406 { Aber wenn du einen Beweis findest, bring ihn mir. Damit könnten wir vielleicht Afrins Ruf im Lager wiederherstellen. }
+
+Plh_407 { Gibt es Neuigkeiten? }
+
+Plh_412 { Wer hatte das verdammte Paket? }
+
+Plh_413 { Es war Afrin. }
+
+Plh_414 { Wichtig ist doch nur, dass du es jetzt hast. }
+
+Plh_415 { ... Afrin? }
+
+Plh_416 { Hey, ich bin der Erste, der es versteht, wenn man die Wahrheit lieber für sich behält. *grinst* }
+
+Plh_417 { Wie kann er nur? Dieser Mistkerl! }
+
+Plh_418 { D-danke, Asmus! }
+
+Plh_419 { Während ihr unterwegs wart, waren wir nicht tatenlos. Haben das ganze verdammte Holz für das große Feuer gestapelt! }
+
+Plh_420 { ... kein Reißer zu gefährlich ... keine Frau zu schön. }
+
+Plh_421 { Auf dich, Asmus! }
+
+Plh_422 { Eugen war immer dort, wo Asmus sich aufgehalten hat. }
+
+Plh_423 { Echt? Wie hast du das nur gemacht? }
+
+Plh_424 { Das weiß ich auch nicht, es hat sich so ergeben. }
+
+Plh_425 { Mach dir keine Sorgen, Karotte. Manche Leute haben einfach nur unverschämtes Glück. Du wirst auch jemanden finden. }
+
+Plh_427 { Was war denn? Erzähl es uns! }
+
+Plh_428 { Oh ja, das bist du. Einer der Besten von Nemeton. Ich werde auch so wie du. }
+
+Plh_429 { Genug den alten Zeiten nachgetrauert. Vielleicht wäre Drova ein schönerer Ort, wenn es nie zur Spaltung gekommen wäre. Doch sie ist passiert. Kann man nicht rückgängig machen. }
+
+Plh_430 { (lachen) Das mache ich! }
+
+Plh_431 { Damit will ich nichts zu tun haben. }
+
+Plh_432 { Na komm, das wird lustig! Ist nur ein Streich. }
+
+Plh_433 { Asmus, du siehst immer durstig aus, wenn es Bier gibt. }
+
+Plh_434 { Ich bin ein Feinschmecker! Ein Schluck für den Geschmack! }
+
+Plh_435 { Feinschmecker, pah. Du willst doch einfach nur saufen. }
+
+Plh_436 { Jetzt sei nicht so streng mit mir, Dunja. }
+
+Plh_437 { Hm, lecker. Hat einen interessanten Nachgeschmack. Muss an der Lagerung liegen. }
+
+Plh_438 { Mein ... im ... Magen ... was ... WAS IST DAS FÜR EIN BIER?! }
+
+Plh_439 { Asmus ... }
+
+Plh_440 { Grüße von Humbert! }
+
+Plh_441 { VERSCHWINDE! }
+
+Plh_442 { DIESER ... ARGHHHHH. }
+
+Plh_443 { Hab's gefunden. }
+
+Plh_444 { Na. Hab's schon gehört. Du gehörst zur Kämpferfamilie. *grinst stolz* }
+
+Plh_445 { Endlich! Es war ein weiter Weg. }
+
+Plh_446 { Irgendwie war das gar nicht so schwierig, wie ich dachte. }
+
+Plh_447 { Wenn es jemand verdient hat, uns beizutreten, dann du. Ich bin mir sicher, dass wir die ein oder andere Sache zusammen durchmachen. }
+
+Plh_448 { Immer die Ohren steifhalten. *zwinkert* }
+
+Plh_449 { Schau dir das mal an ... }
+
+Plh_450 { Hier ist wieder so eine Barriere. Hol Mombert! }
+
+Plh_451 { Diese Sockel müssen etwas mit der Tür zu tun haben ... aber ich weiß noch nicht, was. }
+
+Plh_452 { Da fehlt doch etwas. Schau dich um. Vielleicht findest du etwas, das auf die Sockel passt. }
+
+Plh_453 { Druiden? Hm. Ihr Wissen hätte nützlich für uns sein können. Dann muss ich wohl für eine einsame Lumpengestalt den ganzen Weg auf mich nehmen ... }
+
+Plh_454 { Ja, aber nur ich habe überlebt. }
+
+Plh_455 { Ich war mit Druiden unterwegs, aber die haben die Reise nicht überlebt. }
+
+Plh_456 { Verdammt ... und dafür bin ich hier hochgelatscht. }
+
+Plh_457 { Kannst du wenigstens irgendwas? }
+
+Plh_458 { Ich weiß, wie man Schlösser aufbekommt. }
+
+Plh_459 { Ich hab ein Händchen für Münzen. }
+
+Plh_460 { Ich kann nichts so richtig. }
+
+Plh_461 { Habe eben gerade erst einige Ratten besiegt. }
+
+Plh_462 { Ich hab gegen eine dieser Riesenmücken gekämpft. }
+
+Plh_463 { Kleinvieh. Das kann man kaum Kampf nennen. }
+
+Plh_464 { Ich kann dir gern persönlich zeigen, wie ich kämpfe ... }
+
+Plh_465 { Größere Viecher hab ich nicht gesehen. }
+
+Plh_466 { Lass stecken. Wäre kein fairer Kampf. Für dich. }
+
+Plh_467 { Bist noch nicht lange hier. Passiert früher, als dir lieb sein wird. }
+
+Plh_468 { Neuankömmlinge haben es nicht leicht in Drova. Hier musst du aufpassen, wo du langläufst und mit wem du dich anlegst. }
+
+Plh_469 { Wir werden sehen. Vielleicht entdeckst du noch irgendein Talent an dir. }
+
+Plh_470 { Wo sonst? Natürlich bist du in Drova. Dem Land der Sagen. Aber glaub ja nicht, dass dir hier Feen den Arsch abwischen ... }
+
+Plh_471 { Dann bin ich also wirklich in Drova? }
+
+Plh_472 { Ich muss zu den Druiden nach Nemeton ... }
+
+Plh_473 { Passiert in Drova immer wieder mal. Ist ein unruhiges Land ... }
+
+Plh_474 { Was für ein Erdbeben? }
+
+Plh_475 { Kannst du mich nicht nach Nemeton bringen? }
+
+Plh_476 { Ich komme schon alleine zurecht. }
+
+Plh_477 { Eigentlich muss ich auch nach Nemeton, hab aber vorher noch was zu erledigen. Komm erst zu Kräften, Nemeton läuft nicht weg. }
+
+Plh_478 { Wart mal eben ... }
+
+Plh_479 { Hier, nimm. }
+
+Plh_480 { Wer sind denn die Holzfäller? }
+
+Plh_481 { Danke für deine Hilfe. }
+
+Plh_482 { Ein kleines Lager südwestlich von hier. Sie stehen unter Nemetons Schutz und verkaufen ihr Holz an uns. Jetzt mit der zerstörten Brücke ist allerdings ihr direkter Weg nach Nemeton blockiert. }
+
+Plh_483 { Als ich vom Erdbeben gehört habe, dachte ich mir schon, dass mal wieder ein paar arme Schweine hier angespült worden sind. }
+
+Plh_484 { Wir brauchen fähige Leute in Nemeton. Dachte, vielleicht ist jemand dabei. Naja. }
+
+Plh_485 { Ich muss jetzt los. Vielleicht laufen wir uns noch mal über den Weg. }
+
+Plh_486 { Hm. Kannst dich bedanken, wenn du es heil nach Nemeton geschafft hast. Ist ein gutes Stück. }
+
+Plh_487 { Das ist doch schon mal was. Dann überlebst du vielleicht sogar ein paar Nächte hier. }
+
+Plh_488 { Was kannst DU denn? }
+
+Plh_489 { Gut zu wissen. Kann hier durchaus nützlich sein. Du solltest aber aufpassen, wem du das unter die Nase reibst. Hier mag es niemand, wenn man sich an fremden Sachen vergreift. }
+
+Plh_490 { Da bist du nicht allein hier. Alle haben gern Münzen in den Händen. }
+
+Plh_491 { Einiges! Ich leb' schon lange hier und weiß, wie ich klarkomme. Du aber bist neu hier ... }
+
+Plh_496 { *mustert dich* Da überlebst du nicht lange. }
+
+Plh_497 { Mal gucken. }
+
+Plh_498 { Na, immerhin besser als eine Wasserratte. Nervige Biester. Aber einen wirklichen Kampf kann man das nicht nennen. }
+
+Plh_499 { Ist nicht die beste Karte, aber wird dir helfen, dich hier in der Umgebung bis Nemeton zu orientieren. }
+
+Plh_502 { Da bist ja endlich. Wie sieht's aus mit dem Paket? Boris wartet schon ... }
+
+Plh_504 { Meld dich bei Cengiz. Schwarze Haare, schaut immer grimmig. Sag ihm, Asmus schickt dich. }
+
+Plh_505 { Eigentlich nicht viel, aber ich hab 'nen tollen Ring. }
+
+Plh_506 { Ähm ... schön für dich. Es interessiert hier niemanden, was du hast, sondern nur, was du kannst. }
+
+Plh_507 { Es verzögert sich. In Nemeton haben wir auch Pflichten ... }
+
+Plh_508 { Meine Pflicht ist, das Paket von dir zu bekommen. Also? }
+
+Plh_509 { Ich hab das Paket schon geschnürt ... wegen der Brücke verzögert sich alles. }
+
+Plh_511 { Hast du das Zeug? }
+
+Plh_512 { Hey, du bist doch aus dem Schlund? Hast du mich verfolgt?! }
+
+Plh_513 { Ich verschwinde. Bring einfach das Zeug. }
+
+Plh_514 { Was machst du hier? }
+
+Plh_515 { Ich schau mich hier nur um. }
+
+Plh_516 { Ähm .... nein? }
+
+Plh_518 { Keine Zeugen ... }
+
+Plh_519 { Hey, ganz ruhig. Gehört zu mir. }
+
+Plh_520 { *grml* }
+
+Plh_521 { Ich hab dir doch gesagt, dass du aufpassen sollst. Noch mal rette ich dir nicht den Arsch! }
+
+Plh_525 { Was habt ihr hier gemacht? }
+
+Plh_528 { Ganz ehrlich, du hast dein erstes Leben schon verspielt. }
+
+Plh_530 { Gehst du jetzt nach Nemeton? }
+
+Plh_531 { Ich gehe jetzt nach Nemeton, aber glaub nicht, dass du einfach so dort reinkommst. }
+
+Plh_532 { Ich schicke euch bald jemanden. }
+
+Plh_533 { Sag Boris, er soll die Füße stillhalten. Er bekommt schon sein Zeug. }
+
+Plh_534 { Das wird Boris nicht freuen. }
+
+Plh_535 { Dann soll er die Brücke reparieren. }
+
+Plh_536 { Ist schon gut, ich sag ihm Bescheid. }
+
+Plh_537 { Komm erst hier an, besorg dir eine Rüstung und versuche, ein paar Tage hier zu überleben. Dann kannst du dich bei mir melden. }
+

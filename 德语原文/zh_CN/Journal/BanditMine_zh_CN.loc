@@ -1,0 +1,56 @@
+Title { Vermisst }
+
+Entry_Main_01 { Georg vermisst einen seiner Arbeiter: Hasso. Er wollte kurz in die Taverne "Zum Kopflosen Reißer", aber ist von dort nicht wieder zurückgekehrt. }
+
+Entry_Main_02 { Im Ruinenlager vermisst Kora ihren Freund Baltus. Er wollte ein Bier in der Taverne "Zum Kopflosen Reißer" trinken, aber ist nicht wieder zurückgekehrt. }
+
+Entry_Main_03 { Im Lager, südlich vom Ruinenlager, vermisst Pwyll seinen Freund Wind. Er wollte zur Taverne "Zum Kopflosen Reißer". }
+
+Entry_Main_04 { In der Taverne werden mehrere Leute vermisst. Sie hatten alle was mit Fawini zu tun. Ich sollte mit ihr sprechen. }
+
+Entry_Main_04_01 { Hasso hat angeblich die Taverne in der Nacht verlassen und war in Richtung Georgs Hof unterwegs. }
+
+Entry_OutSideFoundGuys { Eine Gruppe von Leuten wurde in einer Mine im Moor eingesperrt. Sie haben mich gebeten, ihnen zu helfen, von dort zu verschwinden. }
+
+Entry_Main_05 { Ich bin gefangen genommen worden. Meine Sachen sind alle weg. Dieses Schicksal hat auch Hasso und einige andere Vermisste ereilt. }
+
+Entry_Main_06 { Ohne die Hilfe der anderen wird ein Ausbruch schwierig. Ich sollte mich mit ihnen verbünden. }
+
+Entry_Day1_01 { Mein Schädel brummt ... Die Leute suchen hier irgendwas, und wir sollen für sie den Weg freibuddeln. Hasso meint, dass ich mitkommen und die Wachen auf keinen Fall warten lassen soll. }
+
+Entry_Day1_02 { Ich habe mit dem Boss der Entführer gesprochen und soll mit Hasso einen Weg freiräumen. Was sie wohl suchen? }
+
+Entry_Day1_03 { Lanzo meinte, dass ich den Schutt noch wegbringen soll. Erst danach darf ich mich hinlegen. Morgen geht das alles weiter. }
+
+Entry_Day2_01 { Tag 2: Wir müssen weiter Steine hauen und den Schutt wegschaffen. Wird das jetzt für immer so weitergehen? }
+
+Entry_Day2_02 { Hasso und ich haben einen Raum der Vergangenen freigebuddelt. Vielleicht gibt es hier etwas Interessantes? }
+
+Entry_Day2_03 { Haben eine alte Kammer entdeckt, aber da ist direkt die Wache aufgetaucht. Ich bin für heute fertig und soll mich schlafen legen. }
+
+Entry_Day3_01 { Tag 3: Das Essen wird knapp. Ich soll mich darum kümmern, etwas zu beschaffen und es Bruna bringen. Das ist wenigstens eine Abwechslung ... }
+
+Entry_Day3_02 { Bruna möchte, dass ich $GVAR:BanditMineBrutus_Config.CountMushrooms$ gewöhnliche Pilze sammle. Wo die wachsen, soll es auch Buddlerschweine geben. Etwas Fleisch würde allen sicher guttun. }
+
+Entry_Day3_03 { Lanzo hat Bruna zusammengeschlagen. Jetzt kann sie nicht mehr kochen ... nun soll ich das Essen für Morgen vorbereiten. }
+
+Entry_Day3_04 { Geschafft ... fertig für heute ... endlich hinlegen ... }
+
+Entry_Day4_01 { Tag 4: Wir sind wohl nah dran an dem Ding, das sie suchen. Schnell etwas Essen holen, dann an die Arbeit. Vielleicht lassen sie uns endlich hier raus, wenn wir es gefunden haben. }
+
+Entry_Day4_01_1 { Wir müssen die letzten Steine entfernen, danach sollte unser Ziel endlich in Sichtweite sein. }
+
+Entry_Day4_02 { Die Wachen haben ihr Artefakt, und jetzt beachten sie uns nicht mehr. Wenn ich Wind und Bruna überzeugen kann, dass wir gemeinsam ausbrechen können, und wenn wir irgendwie in die Waffenkammer gelangen, ist es möglich, von hier abzuhauen. }
+
+Entry_Main_08 { Wind ist beim Ausbruch dabei. }
+
+Entry_Main_09 { Ich muss irgendwie an die Waffen rankommen. Bruna meinte, dass ich Mali sagen soll, dass sie Hilfe braucht, damit die Waffenkammer unbewacht ist. }
+
+Entry_Main_09_1 { Bruna ist beim Ausbruch dabei. }
+
+Entry_Main_010 { Es geht los. Alles oder nichts. Die Freiheit erwartet uns! }
+
+Entry_Main_GoodEnd { Ich konnte alle retten und sicher aus der Höhle bringen. Wir sind frei! }
+
+Entry_Main_KilledFawini { Fawini hat mich angegriffen, aber ich konnte mich verteidigen. Sie hat irgendwas davon gefaselt, dass sie mich ins Moor bringen wollen. Vielleicht sollte ich mich im Moor mal umschauen. }
+

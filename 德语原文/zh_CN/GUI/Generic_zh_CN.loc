@@ -1,0 +1,17 @@
+cancel { Abbrechen }
+
+accept { Annehmen }
+
+yes { Ja }
+
+no { Nein }
+
+on { An }
+
+off { Aus }
+
+holdToSkip { Halte zum Überspringen }
+ 
+gameModeChangeDesc { Wenn du den Modus änderst, kannst du ihn nicht mehr umstellen. Bist du dir sicher? }
+
+loadLatestPopUp { Möchtest du deinen letzten Spielstand laden? }

@@ -1,0 +1,14 @@
+Title { Träume von einer anderen Welt }
+
+Entry_01 { Lorthiz hat mich in der Taverne angesprochen und mir erzählt, dass er von mir und dem Fossil, welches ich im Moor gefunden habe, geträumt hat. Er hat im Traum noch so ein komisches Fossil gesehen und seinen Traum auf Papier aufgemalt. Vielleicht hilft mir das Bild, ein weiteres Fossil zu finden. Was hat es damit nur auf sich? }
+
+Entry_02 { Lorthiz hatte wieder von mir geträumt. Er faselte davon, dass sich irgendwo eine Tür geöffnet hat und dass dort noch ein weiteres Fossil ist. Er hat wieder seinen Traum aufgemalt, vielleicht hilft es mir, dieses Fossil zu finden. }
+
+Entry_03 { Lorthiz scheint verrückter zu werden. Er meinte, jetzt hat er mich im toten Moor bei einer Laterne gesehen. Dort habe ich komischen Wesen das Fossil gegeben, und sie gaben mir einen Ring. Ich weiß nicht, was ich davon halten soll ... }
+
+Entry_End { Lorthiz hatte mit allem recht. Ich habe jetzt eine merkwürdigen Ring. }
+
+Entry_FoundFossil { Ich habe noch so ein Fossil gefunden. Vielleicht kann Lorthiz mehr damit anfangen. }
+
+Entry_NoDreamToday { Lorthiz hatte noch keinen weiteren Traum und kann mir nicht weiterhelfen. Vielleicht sollte ich später wiederkommen. }
+

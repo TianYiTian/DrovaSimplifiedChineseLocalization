@@ -1,0 +1,9 @@
+Title { 污损的墙壁 }
+
+Entry_01 { 夜晚，有人悄悄穿过街道，弄脏了石头和房屋墙壁。抓住肇事者可获得$GVAR:QuestVars_Graffiti_Config.Reward$硬币。 }
+
+Entry_02 { 我抓住了Adwin并把他送到了Gerdwin。我应该在那里领取我的奖励。 }
+
+Entry_03 { 阿德温停止了他的胡说八道，为此我在格德温那里为他打掩护。我应该去那里领取我的奖励。 }
+
+Entry_05 { 我已收到我的奖励。 }

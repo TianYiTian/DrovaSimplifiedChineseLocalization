@@ -1,0 +1,88 @@
+Plh_4 { Hm, diese Nase, dieser Mund, diese Augen ... nie gesehen. Musst neu sein, oder? Dann willst du dich Nemeton anschließen, hab ich nicht recht? }
+
+Plh_5 { Ja, ich will mich Nemeton anschließen. }
+
+Plh_6 { Nein, Nemeton interessiert mich nicht wirklich. }
+
+Plh_7 { Dann hast du Glück! }
+
+Plh_9 { *leise* Die Leute hier sind alle etwas argwöhnisch. Ist schwierig, ihr Vertrauen zu gewinnen. }
+
+Plh_10 { Kannst du mir dabei helfen? }
+
+Plh_11 { Wie hast du sie überzeugt? }
+
+Plh_12 { *grinst* Sie haben gemerkt, dass es vorteilhaft ist, mich im Lager zu haben. }
+
+Plh_13 { Du hast ja gemerkt, dass es im Moor nicht sicher ist. Deswegen verstehen sich alle in Nemeton aufs Kämpfen. Und das musst du auch. }
+
+Plh_14 { Und das Aussehen ist dabei entscheidend. Siehst du wie ein Krieger aus, halten sie dich für einen. Und ich hab da was für dich ... }
+
+Plh_15 { Eine Lederrüstung. Besser und stärker als deine komischen Klamotten. Damit solltest du auch im Moor länger überleben können. }
+
+Plh_16 { Hey, dein Gesicht habe ich noch nicht hier gesehen. Mein Name ist Femke. Du kannst bei mir alles kaufen, was man fürs Kämpfen benötigt. }
+
+Plh_17 { *mustert dich* Nemeton wird sich für dich auch kaum interessieren, so wie du aussiehst. }
+
+Plh_20 { Tu das. Hier auf dem Marktplatz findest du alles, was du suchst, solange du genug Münzen im Beutel hast. Aber so wie du aussiehst, wird keiner in Nemeton dir wirklich Aufmerksamkeit schenken. }
+
+Plh_22 { *seufzt* Ich weiß noch, wie ich in Nemeton angekommen bin. Ohne Münzen und Freunde. Ich verkaufe sie dir für ... }
+
+Plh_23 { $GVAR:EVars_Femke.CostArmor$ anstatt $GVAR:EVars_Femke.CostArmorFake$ Münzen. }
+
+Plh_24 { Eine gute Wahl. Hast du die $GVAR:EVars_Femke.CostArmor$ Münzen? }
+
+Plh_25 { Ich will die Rüstung. }
+
+Plh_26 { Hier sind die Münzen. }
+
+Plh_28 { Dann überlege es dir. Du weißt, wo du mich findest. }
+
+Plh_29 { *zählt die Münzen* Alles klar, hier ist deine Rüstung. Damit solltest du im Moor überleben können. }
+
+Plh_30 { Da fehlen noch ein paar Münzen. Komm wieder, wenn du genug hast. }
+
+Plh_33 { Ich hab nur beste Waren. Schau dir alles in Ruhe an. }
+
+Plh_34 { Kannst Femke zu mir sagen. Weil ich so heiße. }
+
+Plh_35 { Ich bin tagsüber hier. Komm wieder, wenn du was brauchst. }
+
+Plh_36 { Was, hat er dir auch die Ohren vollgejammert? }
+
+Plh_37 { Ich suche ein Bärenfell für den alten Mann. Hast du eins? }
+
+Plh_38 { Könntest ihm ein Schafsfell geben. Der merkt sowieso keinen Unterschied. }
+
+Plh_39 { Hör zu, kannst dir eins bei mir kaufen. Ich senke den Preis, weil's für den Alten ist. Nur $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ Münzen. Dann sind alle zufrieden. }
+
+Plh_41 { DAS IST MEINE TROPHÄE. }
+
+Plh_42 { Ich habe den Bären nach einem harten Kampf erwürgt! Ich hab mir das Fell verdient, das rücke ich nicht raus! }
+
+Plh_43 { Ich kann den armen, alten Mann doch nicht verarschen. }
+
+Plh_44 { Ich nehme das Schafsfell. ($GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ Münzen geben) }
+
+Plh_45 { Ich muss darüber nachdenken. }
+
+Plh_46 { Dann lass dir weiter von ihm die Ohren volljammern, dass er kein Bärenfall hat. Meins ist meins. }
+
+Plh_47 { Sehr gut! Du wirst sehen, den Unterschied bemerkt er nicht. }
+
+Plh_48 { Wie du willst. Das Schafsfell läuft nicht weg. }
+
+Plh_49 { Hier ist es. }
+
+Plh_51 { Komm wieder, wenn du die Münzen hast. }
+
+Plh_52 { Die geb' ich auf keinen Fall her! }
+
+Plh_53 { Ich hab kein Interesse. }
+
+Plh_54 { Klingt schon interessant. }
+
+Plh_55 { Hey, keinen Stress. Ist nur ein Angebot für dich. }
+
+Plh_56 { Ich habe auch anderes Zeug, das dich interessieren kann. Alles, was ein Jäger braucht. }
+

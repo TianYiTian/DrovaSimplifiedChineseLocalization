@@ -1,0 +1,10 @@
+Title { Beschmutze Wände }
+
+Entry_01 { Nachts schleicht jemand durch die Straße und beschmutzt Steine und Hauswände. $GVAR:QuestVars_Graffiti_Config.Reward$ Münzen gibt es für die Ergreifung des Täters. }
+
+Entry_02 { Ich habe Adwin erwischt und ihn zu Gerdwin geschickt. Ich sollte meine Belohnung dort abholen. }
+
+Entry_03 { Adwin hört mit den Schmierereien auf, und dafür decke ich ihn bei Gerdwin. Ich sollte meine Belohnung dort abholen. }
+
+Entry_05 { Ich habe meine Belohnung erhalten. }
+
