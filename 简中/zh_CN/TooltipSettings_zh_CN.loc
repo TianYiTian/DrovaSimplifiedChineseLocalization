@@ -18,15 +18,15 @@ flowcosts { 专注消耗 }
 
 strength { 力量 }
 
-dexterity { 技巧 }
+dexterity { 敏捷 }
 
-mind { 鬼魂 }
+mind { 精神 }
 
 health { 生命 }
 
 healing { 恢复[VALUE]最大生命值 }
 
-learningpoints { LP }
+learningpoints { 学习点数 }
 
 talentlearned { 学习 }
 
@@ -46,7 +46,7 @@ buffAdditionalDescription { (新食物取代饱食效果) }
 
 maxHealth { 最大生命值 [VALUE] }
 
-flowGain { 焦点 [VALUE] }
+flowGain { 专注值 [VALUE] }
 
 magicDamage { 魔法伤害 [VALUE] }
 
@@ -56,23 +56,23 @@ weaponDamage { 武器伤害 [VALUE] }
 
 weaponDamage_single { 武器伤害 }
 
-movementSpeed { 奔跑速度 [VALUE] }
+movementSpeed { 移动速度 [VALUE] }
 
 poiseDamage { 姿态伤害 [VALUE] }
 
 magicResistance { 魔法抗性 [VALUE] }
 
-staminaReg { 耐力恢复 [VALUE] }
+staminaReg { 耐力回复 [VALUE] }
 
-flowReg { 专注力回复 [VALUE] }
+flowReg { 专注值回复 [VALUE] }
 
 armor { 护甲 [VALUE] }
 
 healAdditionalDescription { (相同物品替换增益效果) }
 
-flowPhysical { [能力] }
+flowPhysical { 技能 }
 
-flowMagical { 魔法 }
+flowMagical { 法术 }
 
 flowOneTime { 卷轴 }
 
@@ -96,9 +96,9 @@ orientationpoint { 基本专注值 [VALUE] }
 
 stat_change_str { +$STATCHANGE:PhysDmg$ 物理伤害 }
 
-stat_change_dex { +$STATCHANGE:CritChance$ 暴击 }
+stat_change_dex { +$STATCHANGE:CritChance$ 暴击率 }
 
-stat_change_mind { +$STATCHANGE:MagDmg$ 魔法伤害, +$STATCHANGE:Focus$ 专注力 }
+stat_change_mind { +$STATCHANGE:MagDmg$ 魔法伤害, +$STATCHANGE:Focus$ 专注值 }
 
 helmet_cosmetics { (头盔纯粹是装饰性的，对角色没有影响。) }
 
@@ -110,16 +110,16 @@ twoHandedWeapon { 双手武器 }
 
 munition { 弹药 }
 
-drug_description { 磨练你的感官 }
+drug_description { 磨砺你的感官 }
 
 LearnSpell { 教授武器技能 }
 
 flowText { 在[StackTime]秒内生成[HealValue]点专注值。 }
 
-needrunestone { 需要符石 }
+needrunestone { 需要符文石 }
 
 strength_value { 力量 [VALUE] }
 
-dex_value { 技能 [VALUE] }
+dex_value { 敏捷 [VALUE] }
 
-mind_value { 幽灵 [VALUE] }
+mind_value { 精神 [VALUE] }

@@ -76,9 +76,9 @@ AutosaveInterval { 自动保存间隔 }
 
 Toggle_PickUpsToQuickbar { 物品直接放入快捷栏 }
 
-Toggle_PickUpsToQuickbar_Heal { 神圣物品 }
+Toggle_PickUpsToQuickbar_Heal { 治疗物品 }
 
-Toggle_PickUpsToQuickbar_Traps { 堕落者 }
+Toggle_PickUpsToQuickbar_Traps { 陷阱 }
 
 Toggle_AutoDrawWeapon { 自动拔枪 }
 
@@ -128,9 +128,9 @@ Autosave_Min10 { 10分钟 }
 
 Title_FontAndDialog { 文字和对话 }
 
-Toggle_PickUpsToQuickbar_Food { 吃饭 }
+Toggle_PickUpsToQuickbar_Food { 食物 }
 
-Toggle_PickUpsToQuickbar_Throwables { 投掷物品 }
+Toggle_PickUpsToQuickbar_Throwables { 投掷物 }
 
 Toggle_PickUpsToQuickbar_Torches { 火把 }
 
@@ -150,9 +150,9 @@ DialogSpeed_Fast { 快速 }
 
 DialogSpeed_Slow { 普通 }
 
-Toggle_GroundFog { 身体迷雾 }
+Toggle_GroundFog { 地面雾气 }
 
-Toggle_Rain { 恢复 }
+Toggle_Rain { 雨 }
 
 Toggle_Clouds { 云 }
 
@@ -180,7 +180,7 @@ Toggle_ShowNewSpells { 显示新学会的法术、配方和天赋 }
 
 Toggle_ShowCharacterImprovements { 显示角色提升 }
 
-Toggle_ChangeSticks { 交换棍子 }
+Toggle_ChangeSticks { 交换摇杆 }
 
 Toggle_ChangeDirectionWithSticks { 方向键和标准操作键互换 }
 
@@ -206,7 +206,7 @@ ShowNPCNames { 显示角色名称 }
 
 KeyPresent_Standard { 标准 }
 
-KeyPresent_Azerty { 阿兹特 }
+KeyPresent_Azerty { Azerty }
 
 Title_General { 通用 }
 
@@ -224,7 +224,7 @@ Dropdown_DisplayMode { 屏幕模式 }
 
 DisplayMode_Windowed { 窗口模式 }
 
-DisplayMode_Borderless { 随机化窗口模式 }
+DisplayMode_Borderless { 无边框窗口模式 }
 
 DisplayMode_Fullscreen { 全屏 }
 
@@ -236,13 +236,13 @@ Toggle_PickUpsToQuickbar_Potions { 药水 }
 
 Description_AutoDrawWeapon { 当角色闪避或施法术时，自动拔出武器。 }
 
-Title_WeatherEffects { 天气影响 }
+Title_WeatherEffects { 天气效果 }
 
 Toggle_WindMovements { 风的运动 }
 
 Toggle_Quickcast { 快速施法 }
 
-AutoDrawWeapon_CombatAbilitiesOnly { 仅在攻击能力时 }
+AutoDrawWeapon_CombatAbilitiesOnly { 仅限于攻击能力 }
 
 Description_Quickcast { 当按下其中一个技能键时，技能会切换，如果快速施法已激活，则会直接使用。 }
 

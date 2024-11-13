@@ -6,9 +6,9 @@ LookDirection { 通过移动鼠标来环顾四周。你的视角方向与你的�
 
 LookDirection_Gamepad { 当你的角色移动时，他会朝移动方向看，除非你使用$INPUTANIM:LookX$来环顾四周。如果你朝移动的反方向看，你的角色会倒退并变得更慢。 }
 
-Perception_01 { 按住 $INPUTANIM:PerceptionMode$ 以仔细观察周围。这样你可以看到物体后面或穿过迷雾。 }
+Perception_01 { 按住 $INPUTANIM:PerceptionMode$ 以激活调查模式。这样，你可以看到物体背后或透过迷雾。 }
 
-Perception_01_Gamepad { 按下$INPUTANIM:PerceptionMode$以激活调查模式。这样你可以看到物体背后或雾中的情况。 }
+Perception_01_Gamepad { 按下$INPUTANIM:PerceptionMode$ 以激活调查模式。这样，你可以看到物体背后或透过迷雾。 }
 
 Perception_02 { 如果你仔细观察，你可以发现平时看不见的东西，比如[脚印]。 }
 
@@ -22,9 +22,9 @@ Dodge { 按下$INPUTANIM:Dodge$，以向移动方向闪避。闪避会消耗耐�
 
 FirstHeal { 你发现了一株药草。<br>打开$INPUTANIM:Inventory$背包。<br>在那里，你可以将治疗物品拖到快捷栏中，或直接使用$INPUTANIM:Interact$。<br>$ICON:Heal$ 治疗物品会随时间恢复你的生命值。 }
 
-SwitchWeapon { 你发现了一种新型武器。在Drova中，有几种不同类型的武器。尝试一下，看看哪种武器类型最适合你。<br>你有2个自由分配的武器套装，可以通过$INPUTANIM:SwapWeaponSet$切换。 }
+SwitchWeapon { 你发现了一种新型武器。在德洛瓦中，有几种不同类型的武器。尝试一下，看看哪种武器类型最适合你。<br>你有2个自由分配的武器套装，可以通过$INPUTANIM:SwapWeaponSet$切换。 }
 
-Perception_03_Controller { 按下$INPUTANIM:PerceptionMode$激活调查模式。靠近一个物体，并使用$INPUTANIM:LookX$朝物体的方向看，以进行调查。 }
+Perception_03_Controller { 按下$INPUTANIM:PerceptionMode$ 以激活调查模式。靠近一个物体，并使用$INPUTANIM:LookX$朝物体的方向看，以进行调查。 }
 
 Abilities_02 { 你已学会一项新能力！该能力已自动装备。使用$INPUTANIM:OpenAbilities$打开能力菜单，仔细查看或将其放置在其他环形菜单槽位上。在游戏中，你可以通过环形菜单($INPUTANIM:RingMenu$)更改当前激活的能力。 }
 
@@ -38,11 +38,11 @@ BattleBuddies_Combos { 在攻击后，在正确的时间按下$INPUTANIM:Attack_
 
 BattleBuddies_Combos_Label { 成功连击 }
 
-BattleBuddies_Spells { 你已经收集了足够的专注力来使用你的技能。你也可以通过专注条上的技能标记来识别这一点。现在使用你的技能，按下$INPUTANIM:UseSpell$。 }
+BattleBuddies_Spells { 你已经收集了足够的专注值来使用你的技能。你也可以通过专注条上的技能标记来识别这一点。现在使用你的技能，按下$INPUTANIM:UseSpell$。 }
 
 BattleBuddies_Spells_Label { 施法成功 }
 
-BattleBuddies_GetFlow { 专注条显示在你的生命条下方，表示你当前的专注值。在战斗中，每次命中敌人都会产生专注值。如果你被击中，你会失去焦点。如果你不使用焦点，它会消失，直到达到基础焦点值。 }
+BattleBuddies_GetFlow { 专注条显示在你的生命条下方，表示你当前的专注值。在战斗中，每次命中敌人都会产生专注值。如果你被击中，你会失去专注值。如果你不使用专注值，它会消失，直到达到基础专注值。 }
 
 FirstFood { 你找到了食物。<br>使用$INPUTANIM:Inventory$打开背包。<br>在那里，你可以将食物拖到快捷栏中，或者直接使用$INPUTANIM:Interact$食用。<br><br>$ICON:Food$ 食物会随着时间的推移缓慢恢复你的生命值，但当你的生命值满时，恢复会暂停。<br><br>确保你始终保持良好的饱腹感。收集食谱并在篝火旁烹饪食物。 }
 
@@ -50,9 +50,9 @@ FirstGoodFood { 你摄入了丰富的食物。<br>Drova的许多菜肴在你吃�
 
 FirstWeapon { 你找到了一把武器。<br>使用$INPUTANIM:Inventory$打开背包。<br>在那里，你可以使用$INPUTANIM:Interact$装备你的武器。<br><br>你有两个武器套装可供选择，可以随时使用$INPUTANIM:SwapWeaponSet$切换。 }
 
-FirstNote { 你找到了一份手稿。<br>你所有的手稿都会被收集在日志的[手稿]标签下。你可以在那里随时再次阅读它们。 }
+FirstNote { 你发现了一份手稿。<br>你所有的卷轴都会被收集在日志的 手稿 标签下。你可以在那里随时再次阅读它们。 }
 
-FirstNote_Gamepad { 你发现了一篇文字。<br>使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。你所有的文字都会被收集在文字标签页下。你可以在那里随时重新阅读它们。 }
+FirstNote_Gamepad { 你发现了一本手稿。<br>请使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。你所有的手稿都会被收集在 手稿 标签页下，你可以随时在那里重新阅读它们。 }
 
 NeedMunition { 要在战斗中使用远程武器，你必须使用$INPUTANIM:Block$将其装填。 }
 
@@ -82,7 +82,7 @@ FoodAndHeal { 食物和治疗物品都能随着时间恢复你的生命值。与
 
 EngageCombat { 只有装备武器后，才能使用$INPUTANIM:Attack_Primary$进行攻击！ }
 
-Statuseffects { 你跑进了一个荆棘丛，获得了[流血]状态效果。<br>有多种状态效果。它们会显示在你的生命值条右侧。<br>当你按下$INPUTANIM:Inventory$打开菜单时，你可以通过工具提示更详细地查看状态效果。 }
+Statuseffects { 你跑进了荆棘丛，获得了 流血 状态效果。<br>游戏中存在多种状态效果，它们会显示在你的生命值条右侧。<br>通过按下$INPUTANIM:Inventory$打开菜单，你可以利用工具提示更详细地查看这些状态效果。 }
 
 Secondaries { 你找到了一面盾牌。<br>它是一个副手物品，你可以在战斗模式中使用 $INPUTANIM:Block$ 来使用它。<br>如果你没有装备副手物品，使用 $INPUTANIM:Block$ 会执行一个根据武器类型而定的独特动作。 }
 

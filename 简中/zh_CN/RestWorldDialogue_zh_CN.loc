@@ -30,7 +30,7 @@ R_Kati_Routine_14 { 反抗我？绝不可能。 }
 
 R_Kati_Routine_15 { 我已经很冷静了... }
 
-R_Jero_EndAuwald_AfterDialog_16 { 内梅顿 可能很快就会发动攻击。 }
+R_Jero_EndAuwald_AfterDialog_16 { 内梅顿可能很快就会发动攻击。 }
 
 R_Jero_EndAuwald_AfterDialog_17 { 一切都准备就绪，战士们已知晓。 }
 
@@ -70,7 +70,7 @@ LeaveLeuchtwald_34 { 这一定是因为神圣的存在。 }
 
 LeaveLeuchtwald_35 { 大家，看看周围。 }
 
-LeaveLeuchtwald_36 { 整个黑森林是…… }
+LeaveLeuchtwald_36 { 整个黑暗森林是…… }
 
 LeaveLeuchtwald_37 { 摧毁。 }
 
@@ -86,7 +86,7 @@ DailyRoutineInRuinenlager_42 { 单独行动可不是个好主意…… }
 
 R_MelunaGoToJola_43 { 我又回来了。 }
 
-R_MelunaGoToJola_44 { 梅鲁娜！嗯，懒惰够了？ }
+R_MelunaGoToJola_44 { 梅鲁娜！嗯，懒散够了没？ }
 
 R_MelunaGoToJola_45 { 别吵了，我现在得走了。 }
 
@@ -102,7 +102,7 @@ Freetime_50 { 今天……呃。 }
 
 Freetime_51 { 新到的！ }
 
-TalkToJola_52 { 嘿，约拉。你今天看起来...不错。 }
+TalkToJola_52 { 嘿，乔拉。你今天看起来...不错。 }
 
 TalkToJola_53 { 谢谢你，尤金。你也是。 }
 
@@ -148,11 +148,11 @@ Training_73 { 是的，马上！ }
 
 FreetimeWorking_74 { 伟大的巴迪与自己的影子--格拉--作斗争！ }
 
-FreetimeWorking_75 { 在优秀的Proximus上下注，扩大你们的资金库！ }
+FreetimeWorking_75 { 在优秀的普罗克西穆斯游戏中下注，并增加你的钱包！ }
 
-FreetimeWorking_76 { 大坏蛋在与自己的影子战斗，格拉！ }
+FreetimeWorking_76 { 伟大的巴迪与自己的影子--格拉--作斗争！ }
 
-FreetimeWorking_77 { 在好运的Proximus下注，扩大你的钱包！ }
+FreetimeWorking_77 { 在优秀的普罗克西穆斯游戏中下注，并增加你的钱包！ }
 
 Juri_OnFighterEnterArena_78 { 战斗即将开始，做好准备。 }
 
@@ -214,9 +214,9 @@ GoToAdwinWithPlayer_106 { 跟我来。 }
 
 GoToAdwinWithPlayer_107 { 这里面是永恒之火。 }
 
-GoToAdwinWithPlayer_108 { 桃金娘会照顾它的。 }
+GoToAdwinWithPlayer_108 { 默特尔会照顾它的。 }
 
-GoToAdwinWithPlayer_109 { 这是春奈的工作室。 }
+GoToAdwinWithPlayer_109 { 这是春奈克的工作室。 }
 
 GoToAdwinWithPlayer_110 { 如果你需要一把新武器。 }
 
@@ -224,9 +224,9 @@ GoToAdwinWithoutPlayer_111 { 跟我来。 }
 
 GoToAdwinWithoutPlayer_112 { 这里面是永恒之火。 }
 
-GoToAdwinWithoutPlayer_113 { 桃金娘在关注着。 }
+GoToAdwinWithoutPlayer_113 { 默特尔会照顾它的。 }
 
-GoToAdwinWithoutPlayer_114 { 这是Chunnaic的工作室。 }
+GoToAdwinWithoutPlayer_114 { 这是春奈克的工作室。 }
 
 GoToAdwinWithoutPlayer_115 { 如果你需要一把新武器。 }
 
@@ -244,21 +244,21 @@ RunToMoorlagerhof_121 { 待在木头上。 }
 
 GoToRura_122 { 鲁拉！我到了…… }
 
-GoToRura_123 { 有时候你真是没用，Muc。 }
+GoToRura_123 { 有时候你真是没用，穆克。 }
 
-GoToRura_124 { 抱歉，Rura... }
+GoToRura_124 { 抱歉，鲁拉... }
 
 GoToRura_125 { 好的，开始工作吧。 }
 
-GoToRuraFromEntrance_126 { 鲁拉！我现在到了…… }
+GoToRuraFromEntrance_126 { 鲁拉！我到了……  }
 
 GoToRuraFromEntrance_127 { 有时候你真是没用，穆克。 }
 
-GoToRuraFromEntrance_128 { 对不起，Rura ... }
+GoToRuraFromEntrance_128 { 抱歉，鲁拉... }
 
 GoToRuraFromEntrance_129 { 好的。开始工作吧。 }
 
-FavourOfCraftsmenGardenerAct1Intro_130 { 杰里昂告诉我，我应该来取这个。 }
+FavourOfCraftsmenGardenerAct1Intro_130 { 杰里恩告诉我，我应该来取这个。 }
 
 FavourOfCraftsmenGardenerAct1Intro_131 { 而且还不够！ }
 
@@ -268,13 +268,13 @@ FavourOfCraftsmenGardenerAct1Intro_133 { 你是要我把它从屁股里拔出来
 
 FavourOfCraftsmenGardenerAct1Intro_134 { 我不知道。 }
 
-FavourOfCraftsmenGardenerAct1Intro_135 { 和Gerion澄清这件事。 }
+FavourOfCraftsmenGardenerAct1Intro_135 { 和杰里恩澄清这件事。 }
 
 MorningMiddayAfternoonEvening_136 { 货物已到达，货物仍未到达... }
 
-GoToMolvina_137 { 沼泽之子！ }
+GoToMolvina_137 { 沼泽之主！ }
 
-GoToMolvina_138 { 我有Afrin的证据。 }
+GoToMolvina_138 { 我有阿芙琳的证据。 }
 
 GoToMolvina_139 { 什么？ }
 
@@ -282,9 +282,9 @@ GoToMolvina_140 { 我们慢慢看吧。 }
 
 PreOutcastOrBadEnding_141 { 这些混蛋！ }
 
-PreOutcastOrBadEnding_142 { [这东西]可以被偷走... }
+PreOutcastOrBadEnding_142 { 别想偷走我...}
 
-FinalWorldDialogueBeforeAsmusAfrinEnd_143 { 别担心，Afrin。 }
+FinalWorldDialogueBeforeAsmusAfrinEnd_143 { 别担心，阿芙琳。 }
 
 FinalWorldDialogueBeforeAsmusAfrinEnd_144 { 先让我喘口气。 }
 
@@ -310,27 +310,27 @@ RuinEntranceLeuchtwald_154 { 在事情变得严重之前。 }
 
 LeaveLeuchtwald_02_155 { 黑焰... }
 
-LeaveLeuchtwald_02_156 { 你已经完全出局了。 }
+LeaveLeuchtwald_02_156 { 它们完全消失了。 }
 
 LeaveLeuchtwald_02_157 { 这一定是神性缺失的体现。 }
 
-StopAtTavern_158 { 暗影撕裂者？在这里？ }
+StopAtTavern_158 { 影袭者？在这里？ }
 
 StopAtTavern_159 { 他们从未敢走这么远。 }
 
 StopAtTavern_160 { 无所谓！继续！ }
 
-TalkToKarotte_161 { 看啊，胡萝卜。 }
+TalkToKarotte_161 { 看啊，卡罗特。 }
 
 TalkToKarotte_162 { 是？ }
 
 TalkToKarotte_163 { 这个可以让你发光。 }
 
-TalkToKarotte_164 { 扎克。你看到了吗？ }
+TalkToKarotte_164 { 咔嚓。你看到了吗？ }
 
 TalkToKarotte_165 { 啊，是的。 }
 
-HenikWaitForEatingTogether_166 { 献给邦尼 ... }
+HenikWaitForEatingTogether_166 { 献给邦妮 ... }
 
 HideySpotOne_167 { 我必须非常安静。 }
 
@@ -364,13 +364,13 @@ R_JurekGoToJola_181 { 啊，你大概是从$GVAR:EVars_Player.Name$来的吧。 
 
 R_JurekGoToJola_182 { 向矿井里的莱文报到。 }
 
-R_JurekGoToJola_183 { [东边] }
+R_JurekGoToJola_183 { 东边 }
 
 R_JurekGoToJola_184 { 好的，谢谢。 }
 
 RunToFirstMobsIntent_185 { 跟我来，我知道一条捷径！ }
 
-PanicAtFirstMobs_186 { NEBLINGE! 你在这儿！ }
+PanicAtFirstMobs_186 { 尼布林! 你输了！ }
 
 PanicAtFirstMobs_187 { 还有谁! }
 
@@ -402,11 +402,11 @@ HideAtFourthMobs_200 { 别再乱搞了！ }
 
 HideAtFourthMobs_201 { 终于动手吧！ }
 
-RunToBabsi_202 { 迷雾猎手！ }
+RunToBabsi_202 { 迷雾探索者！ }
 
 RunToBabsi_203 { 废墟营地已经不远了。 }
 
-GiveStuffToProximus_204 { 嘿，我把货带来了，普罗西姆斯。 }
+GiveStuffToProximus_204 { 嘿，我把货带来了，普罗克西穆斯。 }
 
 AllDay_205 { 我又要出发了。 }
 
@@ -478,9 +478,9 @@ GoToWanderwesen_238 { 为安纳托利而战！ }
 
 Morning_PostHoneyQuest_239 { 新鲜的蜂蜜来了！ }
 
-R_CarimaSpectateBlaanBlock_240 { 阻挡蓝伞攻击! }
+R_CarimaSpectateBlaanBlock_240 { 阻挡布兰的攻击! }
 
-JendrikWaitAtAmbushSpot_244 { 该死的斯普里加斯... }
+JendrikWaitAtAmbushSpot_244 { 该死的斯普里加... }
 
 JendrikWaitAtAmbushSpot_245 { 我无法这样工作。 }
 
@@ -490,9 +490,9 @@ JendrikMoveToLog_247 { 使用木头，让我们开始吧！ }
 
 JendrikWorkAtBridge_248 { 总是辛勤耕耘！ }
 
-R_Larea_GoToWoodcamp_249 { 拉蕾，你终于来啦！ }
+R_Larea_GoToWoodcamp_249 { 拉瑞亚，你终于来啦！ }
 
-R_Larea_GoToWoodcamp_250 { 当然可以。很高兴见到你，Bombus。 }
+R_Larea_GoToWoodcamp_250 { 当然可以。很高兴见到你，邦巴斯。 }
 
 R_NialaRunToWoodcamp_251 { 快点！ }
 
@@ -514,13 +514,13 @@ R_AgiloGoToJola_259 { 然后一直向北走。 }
 
 R_AgiloGoToJola_260 { 还有一件事... }
 
-R_AgiloGoToJola_261 { Gero在矿井工作吗？ }
+R_AgiloGoToJola_261 { 杰洛在矿井工作吗？ }
 
 R_AgiloGoToJola_262 { 我不知道。你自己看看。 }
 
 R_AgiloGoToJola_263 { 好的。谢谢！ }
 
-GoToAndarta_264 { 嘿，安达塔... }
+GoToAndarta_264 { 嘿，安达尔塔... }
 
 GoToAndarta_265 { 你想要什么？ }
 
@@ -548,23 +548,23 @@ HuntWithPlayerFirstRoutine_276 { 痕迹 ... }
 
 HuntWithPlayerFirstRoutine_277 { 快来这里！ }
 
-HuntWithPlayerSecondRoutine_278 { 迷雾观察者。 }
+HuntWithPlayerSecondRoutine_278 { 迷雾探索者。 }
 
 Evening_279 { 啊，真舒服。 }
 
 Evening_280 { 呼，真是松了一口气。 }
 
-Morning_281 { 嘿，Sine，你还有蜂蜜酒吗？ }
+Morning_281 { 嘿，塞恩，你还有蜂蜜酒吗？ }
 
 Morning_282 { 最好来两个。 }
 
 Morning_283 { 又是两个？ }
 
-Morning_284 { 这不行，梅尔夫。如果奥拉夫知道了... }
+Morning_284 { 这不行，梅尔芙。如果奥拉夫知道了... }
 
 Morning_285 { 嘘。别这么大声。 }
 
-Morning_286 { 来吧，Sine。 }
+Morning_286 { 来吧，塞恩。 }
 
 Morning_287 { 哼。 }
 
@@ -578,7 +578,7 @@ EveningNightEarlyMorning_291 { 客人不会自己取餐。 }
 
 EveningNightEarlyMorning_292 { 已经加入！ }
 
-EveningNightEarlyMorning_293 { 你的补给，安达塔。 }
+EveningNightEarlyMorning_293 { 你的补给，安达尔塔。 }
 
 EveningNightEarlyMorning_294 { 这花了这么长时间，到底是怎么回事？ }
 
@@ -616,7 +616,7 @@ R_RuhanGoToJola_310 { 我来这里是为了开始在矿井工作。 }
 
 R_RuhanGoToJola_311 { 很好。 }
 
-R_RuhanGoToJola_312 { $GVAR:EVars_Player.Name$ 正在积极招募。 }
+R_RuhanGoToJola_312 { $GVAR:EVars_Player.Name$ 正在积极招募中。 }
 
 R_RuhanGoToJola_313 { 在矿山前的莱文处集合。 }
 

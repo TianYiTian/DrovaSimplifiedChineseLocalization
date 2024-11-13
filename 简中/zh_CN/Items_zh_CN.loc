@@ -1322,7 +1322,7 @@ item_harpybrew_name { 哈比啤酒 }
 
 item_harpybrew_description { 将你的专注力与你的生活交换。这肯定有某种意义，不是吗？ }
 
-item_golemsalve_name { 傀儡药膏 }
+item_golemsalve_name { 魔像药膏 }
 
 item_golemsalve_description { 减少受到的物理伤害[DamageResPhysPercent]，但暂时增加受到的魔法伤害[DamageResMagicPercent]。持续[TimeAbs]秒。 }
 
@@ -1878,7 +1878,7 @@ recipe_fogstew_name { 配方：黑暗炖锅 }
 
 recipe_foodpile_name { 配方：鱼煎蛋 }
 
-recipe_golemsalve_name { 配方：傀儡药膏 }
+recipe_golemsalve_name { 配方：魔像药膏 }
 
 recipe_harpybrew_name { 配方：哈比啤酒 }
 
@@ -2052,7 +2052,7 @@ item_letter_library_golemRoom_note3_name { 火灾事故 }
 
 item_letter_library_golemRoom_note3_description {  }
 
-item_letter_library_golemRoom_note4_name { 第一个符文傀儡 }
+item_letter_library_golemRoom_note4_name { 第一个符文魔像 }
 
 item_letter_library_golemRoom_note4_description {  }
 
