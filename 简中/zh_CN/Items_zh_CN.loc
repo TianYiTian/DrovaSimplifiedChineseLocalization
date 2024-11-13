@@ -874,7 +874,7 @@ item_treasureMap_auwald_name { 藏宝图：河岸森林 }
 
 misc_map_tristan_name { 特里斯坦的地图 }
 
-item_claw_description { 可以通过动物的“爪击”技能获得。 }
+item_claw_description { 可以通过技能“拔爪”从动物身上获得。 }
 
 misc_bagOfCurrency_description { 一个袋子，摇晃时会发出响声。里面只有几枚硬币，还是隐藏着更多东西？ }
 

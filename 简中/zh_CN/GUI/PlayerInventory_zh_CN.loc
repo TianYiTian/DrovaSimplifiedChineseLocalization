@@ -4,7 +4,7 @@ tooltip_character_level { 显示你当前的等级。这作为衡量你角色强
 
 tooltip_character_faction { 显示你当前的派系归属。 }
 
-tooltip_character_skillpoints { 通过学习点数，你可以在老师那里提升你的属性或学习天赋。每升一级，你将立即获得<color=#55BD55>四个</color>学习点数和<color=#55BD55>五个</color>生命点数。 }
+tooltip_character_skillpoints { 通过学习点数，你可以在导师那里提升你的属性或学习天赋。每升一级，你将立即获得<color=#55BD55>四个</color>学习点数和<color=#55BD55>五个</color>生命点数。 }
 
 label_character_skillpoints { 学习点数 }
 
