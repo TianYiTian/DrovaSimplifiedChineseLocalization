@@ -1,5 +1,5 @@
 Title { 木头保护你免受[Schnapper]的伤害 }
 
-Entry_01 { 哈拉尔德发现了一座银矿，但他害怕外面的鲶鱼。如果我帮他弄到$GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$块木头，他就会让我想挖多少银子就挖多少。他说，可以在沉船里找到木头。 }
+Entry_01 { 哈拉尔发现了一座银矿，但他害怕外面的鲶鱼。如果我帮他弄到$GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$块木头，他就会让我想挖多少银子就挖多少。他说，可以在沉船里找到木头。 }
 
 Entry_02 { 我可以进入银矿。 }

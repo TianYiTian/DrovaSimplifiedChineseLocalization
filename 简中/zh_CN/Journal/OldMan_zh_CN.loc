@@ -2,8 +2,8 @@ Title { 市场里的老人 }
 
 Entry_01 { 我遇到了一个老人，他想从市场上买一些东西。他让我帮他找$GVAR:QuestVars_OldMan_Config.AmountApple$个苹果、$GVAR:QuestVars_OldMan_Config.AmountDagger$把小刀、$GVAR:QuestVars_OldMan_Config.AmountQuellWurz$根泉根和一张熊皮。他说我可以在市场上找到所有这些东西。 }
 
-Entry_02 { Femke不会把熊皮卖给我。他说，我可以把一张羊皮当作熊皮卖给那个老人。他不会发现的。 }
+Entry_02 { 芬克不会把熊皮卖给我。他说，我可以把一张羊皮当作熊皮卖给那个老人。他不会发现的。 }
 
-Entry_03 { Enya提到Femke把他的毛皮存放在他的摊位下面。晚上我可以去看看... }
+Entry_03 { 恩雅提到芬克把他的毛皮存放在他的摊位下面。晚上我可以去看看... }
 
 Entry_04 { 我给了老人他的东西，他非常高兴。 }

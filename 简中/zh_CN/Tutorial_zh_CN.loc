@@ -46,7 +46,7 @@ BattleBuddies_GetFlow { 专注条显示在你的生命条下方，表示你当�
 
 FirstFood { 你找到了食物。<br>使用$INPUTANIM:Inventory$打开背包。<br>在那里，你可以将食物拖到快捷栏中，或者直接使用$INPUTANIM:Interact$食用。<br><br>$ICON:Food$ 食物会随着时间的推移缓慢恢复你的生命值，但当你的生命值满时，恢复会暂停。<br><br>确保你始终保持良好的饱腹感。收集食谱并在篝火旁烹饪食物。 }
 
-FirstGoodFood { 你摄入了丰富的食物。<br>Drova的许多菜肴在你吃饱时会赋予被动效果。<br>但请小心。如果你继续摄入食物，饱食效果会被覆盖。最好总是在饱食效果消失后再吃新的食物。<br><br>建议始终保持一个饱食效果，以便你的生命值被动恢复。 }
+FirstGoodFood { 你摄入了丰富的食物。<br>德洛瓦的许多菜肴在你吃饱时会赋予被动效果。<br>但请小心。如果你继续摄入食物，饱食效果会被覆盖。最好总是在饱食效果消失后再吃新的食物。<br><br>建议始终保持一个饱食效果，以便你的生命值被动恢复。 }
 
 FirstWeapon { 你找到了一把武器。<br>使用$INPUTANIM:Inventory$打开背包。<br>在那里，你可以使用$INPUTANIM:Interact$装备你的武器。<br><br>你有两个武器套装可供选择，可以随时使用$INPUTANIM:SwapWeaponSet$切换。 }
 

@@ -6,19 +6,19 @@ Entry_00_Boris { 鲍里斯告诉我，我可以在竞技场中赚取金币和荣
 
 Entry_00_Nemeton { 在废墟营地有一处竞技场，如果我想在那里战斗，我应该去找安格斯报到。 }
 
-Entry_00_Nemeton_Start { Angus让我在击败Kati和Fester后才能在竞技场战斗。 }
+Entry_00_Nemeton_Start { 安格斯让我在击败卡蒂和菲斯特后才能在竞技场战斗。 }
 
-Entry_00_Nemeton_Kati { Kati对我来说不是问题。 }
+Entry_00_Nemeton_Kati { 卡蒂对我来说不是问题。 }
 
-Entry_00_Nemeton_Fester { 我比坚定更坚定地打击了他。他毫无机会。 }
+Entry_00_Nemeton_Fester { 我比菲斯特还要坚定地出击。他毫无机会。 }
 
 Entry_01_Nemeton { 我被允许在竞技场为内梅顿战斗。安东尼乌斯·普罗克西穆斯负责战斗。如果我想参加，我应该向他报到。 }
 
-Entry_01_A { 在我能为Proximus在竞技场战斗之前，我必须向他展示我的实力。我应该击败Mog，他通常在某个地方训练。 }
+Entry_01_A { 在我能为普罗克西穆斯在竞技场战斗之前，我必须向他展示我的实力。我应该击败莫格，他通常在某个地方训练。 }
 
 Entry_01_AA { 普罗克西穆斯也想成为一名战士。我应该在竞技场晚间战斗结束后去见他。 }
 
-Entry_01_B { 我现在属于Proximus的战士。我只有在击败卡里玛、布兰和Dark之后，才能在竞技场中战斗。 }
+Entry_01_B { 我现在属于普罗克西穆斯的战士。我只有在击败卡里玛、布兰和达克之后，才能在竞技场中战斗。 }
 
 Entry_02 { 布兰斯的双刃武器还不够强。胜利属于我。 }
 
@@ -26,18 +26,18 @@ Entry_03 { 卡丽玛无法躲在她的盾牌后面。我赢了。 }
 
 Entry_04 { 我击败了莫古并应该通知普罗克西姆斯。 }
 
-Entry_05 { 我打败了[Dark]。 }
+Entry_05 { 我打败了达克。 }
 
-Entry_07 { 终于！我可以在竞技场中当着观众的面战斗了。我必须与Ebru战斗，并应该给Proximus $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ 起始金币。 }
+Entry_07 { 终于！我可以在竞技场中当着观众的面战斗了。我必须与埃布鲁战斗，并应该给普罗克西穆斯 $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ 起始金币。 }
 
-Entry_08 { 我的第一个胜利。而且所有人都看到了！我的下一个对手是莉安德拉。我应该好好准备，并给普罗克西姆斯我的$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$起始金币。 }
+Entry_08 { 我的第一个胜利。而且所有人都看到了！我的下一个对手是莉安达。我应该好好准备，并给普罗克西姆斯我的$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$起始金币。 }
 
-Entry_09 { 我击败了Liandra，现在必须与“黑暗”战斗。还有一位对手，然后我将挑战竞技场大师。Proximus期待我支付$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$的入场费。 }
+Entry_09 { 我击败了莉安达，现在必须与“黑暗”战斗。还有一位对手，然后我将挑战竞技场大师。普罗克西穆斯期待我支付$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$的入场费。 }
 
 Entry_10 { 人群沸腾了！终于要对阵竞技场大师艾达了。我能行的。普罗克西姆斯要求为最终战斗支付[GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice]金币。 }
 
-Entry_11 { 我是竞技场大师，打败了无敌的阿达。现在我站在巅峰！ }
+Entry_11 { 我是竞技场大师，打败了无敌的艾达。现在我站在巅峰！ }
 
 Entry_07_AcceptArenaFight { 我已经把我的赌注押在了普罗克西莫斯身上，并且必须在第二天晚上21点出现在竞技场！ }
 
-Entry_06_RepeatLose { 我输了，应该联系Proximus进行复赛。 }
+Entry_06_RepeatLose { 我输了，应该联系普罗克西穆斯进行复赛。 }

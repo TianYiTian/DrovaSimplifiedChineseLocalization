@@ -212,7 +212,7 @@ Jimmy { 吉米 }
 
 Laurin { 劳林 }
 
-Hauer_01 { 豪尔 }
+Hauer_01 { 矿工 }
 
 Ella { 艾拉 }
 
@@ -290,7 +290,7 @@ Cuna { 库纳 }
 
 Hajo { 哈乔 }
 
-Manes { 亡魂 }
+Manes { 曼恩斯 }
 
 Ismar { 伊斯玛尔 }
 
@@ -306,7 +306,7 @@ Miraculix { 马埃隆 }
 
 Miranda { 米兰达 }
 
-Dark { 黑暗 }
+Dark { 达克 }
 
 Laudine { 劳丁 }
 
@@ -340,7 +340,7 @@ Mali { 马里 }
 
 Aldrik { 奥尔德里克 }
 
-Kolina { 科利纳 }
+Kolina { 科琳娜 }
 
 Kendrick { 肯德里克 }
 
@@ -400,7 +400,7 @@ Juri { 尤里 }
 
 Ada { 艾达 }
 
-MorvinAliases { 安东尼乌斯·普罗克西姆斯 }
+MorvinAliases { 安东尼斯-普罗克西穆斯 }
 
 WaterBarrel { 水桶 }
 
@@ -476,7 +476,7 @@ Blanda { 布兰达 }
 
 Emre { 埃姆雷 }
 
-LeynasTable { 雷纳的箱子 }
+LeynasTable { 莉娜的箱子 }
 
 Gilwar { 吉尔瓦 }
 
@@ -498,7 +498,7 @@ Margitte { 玛格丽特 }
 
 bandit_generic { 强盗 }
 
-Leru { 洛西兹 }
+Leru { 洛尔提兹 }
 
 Cat { 猫 }
 
@@ -506,7 +506,7 @@ Dog { 狗 }
 
 Sheep { 绵羊 }
 
-PigletAtRoot { 雏鸟 }
+PigletAtRoot { 小猪 }
 
 Critter_Cat_01 { 猫咪 }
 
@@ -526,13 +526,13 @@ Eumel { 欧梅尔 }
 
 bandit_generic_02 { 强盗 }
 
-Piglet_Chris_Unknown { 雏鸟 }
+Piglet_Chris_Unknown { 小猪 }
 
-Piglet_Kai_Unknown { 雏鸟 }
+Piglet_Kai_Unknown { 小猪 }
 
-Piglet_Han_Unknown { 雏鸟 }
+Piglet_Han_Unknown { 小猪 }
 
-Piglet_Julian_Unknown { 雏鸟 }
+Piglet_Julian_Unknown { 小猪 }
 
 Haron { 哈伦 }
 

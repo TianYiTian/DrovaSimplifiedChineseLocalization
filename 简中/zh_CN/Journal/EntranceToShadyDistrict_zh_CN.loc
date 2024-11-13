@@ -1,15 +1,15 @@
 Title { 暗黑街区 }
 
-Entry_01 { Boris 让我去向 Leyna 拿 $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ 个硬币。他给了我一把通往暗区的钥匙。在废墟营地的西边某处，据说有一个隐蔽的壁龛入口。 }
+Entry_01 { 鲍里斯 让我去向 莉娜 拿 $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ 个硬币。他给了我一把通往暗区的钥匙。在废墟营地的西边某处，据说有一个隐蔽的壁龛入口。 }
 
-Entry_02 { 在我去找鲍里斯之后，格拉拦住了我，要求我帮她一个忙。我得设法给莱娜下点枯萎的苔藓，然后把她告发给鲍里斯。 }
+Entry_02 { 在我去找鲍里斯之后，格拉拦住了我，要求我帮她一个忙。我得设法给莉娜下点枯萎的苔藓，然后把她告发给鲍里斯。 }
 
-Entry_03 { 莱娜给了我$GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$枚硬币。我应该告诉鲍里斯这件事。 }
+Entry_03 { 莉娜给了我$GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$枚硬币。我应该告诉鲍里斯这件事。 }
 
-Entry_04 { 我已经告诉了Leyna关于Geras的计划的真相。她非常感激。 }
+Entry_04 { 我已经告诉了莉娜关于杰拉s的计划的真相。她非常感激。 }
 
-Entry_05 { 给了Boris硬币，让Leyna滚蛋。这样我对Gera就没有亏欠了。 }
+Entry_05 { 给了鲍里斯硬币，让莉娜滚蛋。这样我对杰拉就没有亏欠了。 }
 
-Entry_06 { 我已经把莱娜的金币给了鲍里斯。 }
+Entry_06 { 我已经把莉娜的金币给了鲍里斯。 }
 
-Entry_05A { 伸展的锈苔藓在莱娜的箱子里。现在我只需要去找鲍里斯。 }
+Entry_05A { 伸展的锈苔藓在莉娜的箱子里。现在我只需要去找鲍里斯。 }

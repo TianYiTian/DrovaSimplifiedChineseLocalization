@@ -1,5 +1,5 @@
 Title { 农民的铁矿石 }
 
-Entry_01 { 当我到达时，Jurek和Jerzy刚刚吵完架。我应该帮助他们收集$GVAR:QuestVars_IronForFarmers.NumItemsNeeded$块沼铁矿石。它就散落在田野的某个地方。 }
+Entry_01 { 当我到达时，尤雷克和杰尔齐刚刚吵完架。我应该帮助他们收集$GVAR:QuestVars_IronForFarmers.NumItemsNeeded$块沼铁矿石。它就散落在田野的某个地方。 }
 
 Entry_02 { 在我把[草地铁矿石]带给两个吵架的公鸡后，他们对我的工作感到满意，并会告诉乔治。 }

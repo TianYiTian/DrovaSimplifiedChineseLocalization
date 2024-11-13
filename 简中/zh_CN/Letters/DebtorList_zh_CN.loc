@@ -2,8 +2,8 @@ Mog { 莫格欠我[GVAR:QuestVars_Debt_Config.MoneyFromMog]枚硬币。 }
 
 Meluna { 由于梅鲁娜被抢劫，她也欠下了$GVAR:QuestVars_Debt_Config.MoneyFromMeluna$枚硬币。 }
 
-Lindon { 林登做了很多过分的事。<br>他欠我[GVAR:QuestVars_Debt_Config.MoneyFromLindon]枚硬币。 }
+Lindon { 林顿做了很多过分的事。<br>他欠我[GVAR:QuestVars_Debt_Config.MoneyFromLindon]枚硬币。 }
 
 Bady { 就连正直的巴迪也欠了$GVAR:QuestVars_Debt_Config.MoneyFromBady$枚硬币。 }
 
-Lore { Lore 欠了 $GVAR:QuestVars_Debt_Config.MoneyFromLore$ 枚金币的债。 }
+Lore { 洛尔 欠了 $GVAR:QuestVars_Debt_Config.MoneyFromLore$ 枚金币的债。 }
