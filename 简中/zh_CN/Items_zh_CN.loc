@@ -622,7 +622,7 @@ weapon_shield_protection_name { 铁盾 }
 
 weapon_shield_protection_description {  }
 
-weapon_axe_snaga_name { 力量 }
+weapon_axe_snaga_name { 斯纳加 }
 
 weapon_axe_snaga_description {  }
 
@@ -1600,7 +1600,7 @@ item_hunterstrophy_description { 近战攻击有[TriggerPercent]的几率不消�
 
 item_talismanJourneyToTheRoots_name { 血腥护符 }
 
-item_talismanJourneyToTheRoots_description { 迪莫的护身符。我需要将其中一个带到每一棵母树那里去。 }
+item_talismanJourneyToTheRoots_description { 迪莫的护身符。我需要将其中一个带到每一棵母根那里去。 }
 
 armor_chest_leather_strong_name_name { 坚固的皮甲 }
 
@@ -1906,7 +1906,7 @@ recipe_leather_name { 配方：皮革 }
 
 recipe_lockpick_name { 开锁器 }
 
-recipe_marinatedmeatleg_name { 配方：提亚腌制的肉块 }
+recipe_marinatedmeatleg_name { 配方：提亚腌制的肉丸 }
 
 recipe_mediumquiver_name { 配方：中型箭袋 }
 

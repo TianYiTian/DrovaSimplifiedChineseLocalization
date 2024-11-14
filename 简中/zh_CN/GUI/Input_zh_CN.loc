@@ -156,6 +156,6 @@ action_lookY { 环顾四周 }
 
 action_HelpUp { 帮忙 }
 
-action_ToggleGarbag伊维sibility { 显示/隐藏垃圾 }
+action_ToggleGarbagevisibility { 显示/隐藏垃圾 }
 
 action_UIDelete { 删除 }
