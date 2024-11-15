@@ -1,5 +1,5 @@
 Title { 矿工的肉 }
 
-Entry_01 { 肖娜，负责食物的那位，希望我能帮她从矿井里的布德勒猪身上弄到$GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$块生的、多汁的肉。 }
+Entry_01 { 肖娜，负责食物的那位，希望我能帮她从矿井里的巴德勒猪身上弄到$GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$块生的、多汁的肉。 }
 
 Entry_02 { 肖娜用这些肉做了一道新菜。这会让矿工有一段时间能吃上好东西。 }

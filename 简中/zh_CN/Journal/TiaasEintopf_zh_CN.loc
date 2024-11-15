@@ -1,5 +1,5 @@
 Title { 提亚的大杂烩 }
 
-Entry_01 { 提亚看起来相当生气，她需要肉。只有当我给她带来$GVAR:QuestVars_提亚sEintopf_Config.AmountOfMeat$块肉时，我才能得到些什么。不是什么嚼不动的玩意儿。她就是这么说的。 }
+Entry_01 { 提亚看起来相当生气，她需要肉。只有当我给她带来$GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$块肉时，我才能得到些什么。不是什么嚼不动的玩意儿。她就是这么说的。 }
 
 Entry_02 { 我给提亚带来了她的肉。现在我每天都可以来领取一顿饭。 }

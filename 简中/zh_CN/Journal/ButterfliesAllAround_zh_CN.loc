@@ -1,9 +1,9 @@
 Title { 林中求助 }
 
-Entry_01 { 克尔会让我为他捕捉[Heiliger Hain]中的$GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$只特殊的蝴蝶。人们大概能通过它们特别的翅膀认出它们。 }
+Entry_01 { 克尔想要我在圣林中为他捕捉GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded只特别的蝴蝶。它们以其独特的翅膀而闻名。 }
 
 Entry_02 { 我这里已经有所有的蝴蝶了。 }
 
-Entry_03 { 克尔 对我的帮助感到高兴。他给了我一份奖励。 }
+Entry_03 { 克尔对我的帮助感到高兴。他给了我一份奖励。 }
 
 Entry_00 { 一位德鲁伊在圣林需要帮助做某事。圣林位于内梅顿的北部。我可以通过在仓库东边的桥前往那里。 }
