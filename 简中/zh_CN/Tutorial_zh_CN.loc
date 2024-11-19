@@ -56,7 +56,7 @@ FirstNote_Gamepad { 你发现了一本手稿。<br>请使用$INPUTANIM:Inventory
 
 NeedMunition { 要在战斗中使用远程武器，你必须使用$INPUTANIM:Block$将其装填。 }
 
-FirstRangeWeapon { 你找到了一件远程武器。<br>在[Inventory]中装备它。<br>要使用它，你必须通过[Inventory]装备合适的弹药。 }
+FirstRangeWeapon { 你找到了一件远程武器。<br>在物品栏中装备它。<br>要使用它，你必须通过物品栏装备合适的弹药。 }
 
 Journal { 你有一个新的日记条目。<br>使用$INPUTANIM:Journal$打开日记。<br>在那里，你可以随时查看你任务的最新进展。 }
 
