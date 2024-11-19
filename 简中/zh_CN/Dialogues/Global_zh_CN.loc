@@ -132,6 +132,6 @@ PlayerSaysTheyDontHaveMoney { 我没有足够的金币... }
 
 Leave { (离开) }
 
-OnlyNemetonTeaching { 我只给来自内梅顿的战士们带来东西。 }
+OnlyNemetonTeaching { 我只给来自涅墨顿的战士们带来东西。 }
 
 HaveRostmoos { 我带了铁锈苔藓。你需要什么吗？ }

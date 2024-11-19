@@ -46,7 +46,7 @@ item_honey_description {  }
 
 item_packageToMoorlager_name { 物品包裹 }
 
-item_packageToMoorlager_description { 乔治在内梅顿为安格斯准备的物品。 }
+item_packageToMoorlager_description { 乔治在涅墨顿为安格斯准备的物品。 }
 
 item_letterToAsmus_sealed_name { 给阿斯穆斯的信 }
 
@@ -774,7 +774,7 @@ item_mudLotus_description { 生长于泥泞的沼泽中。 }
 
 item_shinyStone_name { 神秘水晶 }
 
-item_shinyStone_description { 从一位德鲁伊那里获得。我应该把它带到内梅顿。 }
+item_shinyStone_description { 从一位德鲁伊那里获得。我应该把它带到涅墨顿。 }
 
 cons_flow_energyProjectile_name { 魔法飞弹 }
 
@@ -790,7 +790,7 @@ cons_flow_wound_description { 造成[WeaponDamagePercent]武器伤害并使敌�
 
 key_harvey_name { 旧钥匙 }
 
-key_harvey_description { 在内梅顿中找到。看起来非常古老且磨损严重。 }
+key_harvey_description { 在涅墨顿中找到。看起来非常古老且磨损严重。 }
 
 misc_currency_name { 硬币 }
 
@@ -1374,19 +1374,19 @@ armor_chest_miner_name_name { 矿工服装 }
 
 armor_chest_miner_name_description { 虽然对爪子攻击的防护有限，但用起来还是很顺手的。 }
 
-armor_chest_nemeton_guardian_druid_name_name { 内梅顿德鲁伊战斗护甲 }
+armor_chest_nemeton_guardian_druid_name_name { 涅墨顿德鲁伊战斗护甲 }
 
-armor_chest_nemeton_guardian_druid_name_description { 只有内梅顿的守护者才有资格穿戴此护甲。 }
+armor_chest_nemeton_guardian_druid_name_description { 只有涅墨顿的守护者才有资格穿戴此护甲。 }
 
-armor_chest_nemeton_guardian_heavy_name_name { 内梅顿重型战斗盔甲 }
+armor_chest_nemeton_guardian_heavy_name_name { 涅墨顿重型战斗盔甲 }
 
-armor_chest_nemeton_guardian_light_name_name { 内梅顿轻型战斗战甲 }
+armor_chest_nemeton_guardian_light_name_name { 涅墨顿轻型战斗战甲 }
 
-armor_chest_lendha_heavy_name_name { 内梅顿重型装甲 }
+armor_chest_lendha_heavy_name_name { 涅墨顿重型装甲 }
 
-armor_chest_lendha_heavy_name_description { 这套盔甲专为内梅顿成员准备。显示了我对内梅顿的忠诚。 }
+armor_chest_lendha_heavy_name_description { 这套盔甲专为涅墨顿成员准备。显示了我对涅墨顿的忠诚。 }
 
-armor_chest_lendha_name_name { 内梅顿轻型盔甲 }
+armor_chest_lendha_name_name { 涅墨顿轻型盔甲 }
 
 armor_chest_shirt_ragged_name_name { 褴褛 }
 
@@ -1610,15 +1610,15 @@ armor_chest_leather_magielager_name_name { 已逝者的服装 }
 
 armor_chest_leather_magielager_name_description { 现在，我与黑暗森林融为一体。 }
 
-armor_chest_nemeton_merchant_name_name { 内梅顿商人装束 }
+armor_chest_nemeton_merchant_name_name { 涅墨顿商人装束 }
 
 armor_chest_nemeton_merchant_name_description {  }
 
-armor_chest_nemeton_craftsman_name_name { 内梅顿的工匠服 }
+armor_chest_nemeton_craftsman_name_name { 涅墨顿的工匠服 }
 
 armor_chest_nemeton_craftsman_name_description {  }
 
-armor_chest_nemeton_chief_name_name { 内梅顿领袖装甲 }
+armor_chest_nemeton_chief_name_name { 涅墨顿领袖装甲 }
 
 armor_chest_nemeton_chief_name_description {  }
 
@@ -2120,7 +2120,7 @@ letter_leru_hint02_name { 洛尔提兹的第二幅梦境画作 }
 
 letter_leru_hint02_description {  }
 
-armor_chest_nemeton_social_name_name { 内梅顿服装 }
+armor_chest_nemeton_social_name_name { 涅墨顿服装 }
 
 armor_chest_nemeton_social_name_description {  }
 
@@ -2158,11 +2158,11 @@ helmet_mask_rational_name_name { 敏锐面具 }
 
 helmet_mask_rational_name_description { 只有那些具备批判性和分析性思维的人，才能认识到这张面具的价值。 }
 
-helmet_nemeton_guard1_name_name { 内梅顿轻型头盔 }
+helmet_nemeton_guard1_name_name { 涅墨顿轻型头盔 }
 
 helmet_nemeton_guard1_name_description {  }
 
-helmet_nemeton_guard2_name_name { 内梅顿重型头盔 }
+helmet_nemeton_guard2_name_name { 涅墨顿重型头盔 }
 
 helmet_nemeton_guard2_name_description {  }
 
@@ -2260,7 +2260,7 @@ note_naughty_female_name { 生命的绽放 }
 
 note_naughty_female_description { 一张裸体且迷人的女性画像。这太疯狂了。 }
 
-misc_map_nemeton_name { 内梅顿地图 }
+misc_map_nemeton_name { 涅墨顿地图 }
 
 misc_map_nemeton_description {  }
 
@@ -2446,11 +2446,11 @@ item_letterCelts_Anatoli_name { 安纳托利的担忧 }
 
 item_letterCelts_Anatoli_description {  }
 
-item_letterCelts_BoundaryStone_name { 界石与内梅顿 }
+item_letterCelts_BoundaryStone_name { 界石与涅墨顿 }
 
 item_letterCelts_BoundaryStone_description {  }
 
-item_letterCelts_Diemo_name { 迪莫对内梅顿的看法 }
+item_letterCelts_Diemo_name { 迪莫对涅墨顿的看法 }
 
 item_letterCelts_Diemo_description {  }
 
@@ -2458,7 +2458,7 @@ item_letterCelts_Jero_name { 杰罗对神灵的看法 }
 
 item_letterCelts_Jero_description {  }
 
-item_letterCelts_Nemeton_name { 内梅顿的建立 }
+item_letterCelts_Nemeton_name { 涅墨顿的建立 }
 
 item_letterCelts_Nemeton_description {  }
 

@@ -4,7 +4,7 @@ R_Karotte_AfterRunestone_1 { 我找到一块符文石！ }
 
 R_Karotte_AfterRunestone_2 { 这是你应得的！ }
 
-R_Karotte_AfterRunestone_3 { 我终于成为了内梅顿真正的战士！ }
+R_Karotte_AfterRunestone_3 { 我终于成为了涅墨顿真正的战士！ }
 
 R_Mottek_Routine_4 { 我想回到矿井工作。 }
 
@@ -30,7 +30,7 @@ R_Kati_Routine_14 { 反抗我？绝不可能。 }
 
 R_Kati_Routine_15 { 我已经很冷静了... }
 
-R_Jero_EndAuwald_AfterDialog_16 { 内梅顿可能很快就会发动攻击。 }
+R_Jero_EndAuwald_AfterDialog_16 { 涅墨顿可能很快就会发动攻击。 }
 
 R_Jero_EndAuwald_AfterDialog_17 { 一切都准备就绪，战士们已知晓。 }
 

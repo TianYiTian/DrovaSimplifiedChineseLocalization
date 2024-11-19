@@ -16,7 +16,7 @@ Achievement_HelpedGeorg_desc { 帮助乔治农场里的所有人。 }
 
 Achievement_JoinNemeton_name { 家庭的一员 }
 
-Achievement_JoinNemeton_desc { 加入内梅顿。 }
+Achievement_JoinNemeton_desc { 加入涅墨顿。 }
 
 Achievement_JoinRuinenlager_name { 废墟营地的一部分 }
 
@@ -180,7 +180,7 @@ Achievement_OptionalEnding_desc { 你已亲历故事的终章，成功安抚了�
 
 Achievement_EnteredNemeton_name { 我找到路了！ }
 
-Achievement_EnteredNemeton_desc { 找到进入内梅顿的方法。 }
+Achievement_EnteredNemeton_desc { 找到进入涅墨顿的方法。 }
 
 Achievement_ExplorerMode_name { 探索者模式 }
 
