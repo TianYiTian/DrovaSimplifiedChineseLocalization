@@ -1,9 +1,9 @@
-莫格 { 莫格欠我[GVAR:QuestVars_Debt_Config.MoneyFromMog]枚硬币。 }
+Mog { 莫格欠我[GVAR:QuestVars_Debt_Config.MoneyFromMog]枚硬币。 }
 
-梅鲁娜 { 梅鲁娜被抢了，她也欠我$GVAR:QuestVars_Debt_Config.MoneyFromMeluna$枚硬币。 }
+Meluna { 梅鲁娜被抢了，她也欠我$GVAR:QuestVars_Debt_Config.MoneyFromMeluna$枚硬币。 }
 
-林顿 { 林顿的胆子越来越肥了，<br>他欠我[GVAR:QuestVars_Debt_Config.MoneyFromLindon]枚硬币。 }
+Lindon { 林顿的胆子越来越肥了，<br>他欠我[GVAR:QuestVars_Debt_Config.MoneyFromLindon]枚硬币。 }
 
-巴迪 { 令人尊敬的巴迪，找我借了$GVAR:QuestVars_Debt_Config.MoneyFromBady$枚硬币。 }
+Bady { 令人尊敬的巴迪，找我借了$GVAR:QuestVars_Debt_Config.MoneyFromBady$枚硬币。 }
 
-洛尔 { 洛尔欠我$GVAR:QuestVars_Debt_Config.MoneyFromLore$枚硬币的债。 }
+Lore { 洛尔欠我$GVAR:QuestVars_Debt_Config.MoneyFromLore$枚硬币的债。 }
