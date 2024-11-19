@@ -78,9 +78,9 @@ misc_mapink_name { 墨水 }
 
 misc_mapink_description { 用于标记地图上的地点。 }
 
-key_chest_delani_name { 德拉尼的钥匙 }
+key_chest_delani_name { 德拉妮的钥匙 }
 
-key_chest_delani_description { 德拉尼的箱子钥匙。 }
+key_chest_delani_description { 德拉妮的箱子钥匙。 }
 
 note_evidence_boris_name { 计划中的袭击 }
 
