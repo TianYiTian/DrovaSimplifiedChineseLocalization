@@ -8,7 +8,7 @@ Achievement_CengizWoodcampQuest_desc { 确保森吉兹的人都在桥上工作�
 
 Achievement_LeftDeepMine_name { 地下世界 }
 
-Achievement_LeftDeepMine_desc { 逃离废墟营地的深矿。 }
+Achievement_LeftDeepMine_desc { 逃离流亡者营地的深矿。 }
 
 Achievement_HelpedGeorg_name { 狐狸与争执 }
 
@@ -18,9 +18,9 @@ Achievement_JoinNemeton_name { 家庭的一员 }
 
 Achievement_JoinNemeton_desc { 加入涅墨顿。 }
 
-Achievement_JoinRuinenlager_name { 废墟营地的一部分 }
+Achievement_JoinRuinenlager_name { 流亡者营地的一部分 }
 
-Achievement_JoinRuinenlager_desc { 加入废墟营地。 }
+Achievement_JoinRuinenlager_desc { 加入流亡者营地。 }
 
 Achievement_GotFamiliar_name { 我那活泼的小火花 }
 
@@ -76,7 +76,7 @@ Achievement_Schnitzeljagd_desc { 制作你自己的护身符。 }
 
 Achievement_ArenaMaster_name { 角斗士 }
 
-Achievement_ArenaMaster_desc { 在废墟营地的竞技场战斗中一路攀升。 }
+Achievement_ArenaMaster_desc { 在流亡者营地的竞技场战斗中一路攀升。 }
 
 Achievement_Blackboard_name { 为了社区 }
 
@@ -116,11 +116,11 @@ Achievement_GaveCayFamiliar_desc { 牺牲一部分自己，以拯救凯娅。 }
 
 Achievement_StoppedMurtaghAndMursel_name { 我是法律 }
 
-Achievement_StoppedMurtaghAndMursel_desc { 在废墟营地的矿井中伸张正义。 }
+Achievement_StoppedMurtaghAndMursel_desc { 在流亡者营地的矿井中伸张正义。 }
 
 Achievement_LeftMine100Silver_name { 这银子是我的！ }
 
-Achievement_LeftMine100Silver_desc { 带着100银币离开废墟营地的矿井。 }
+Achievement_LeftMine100Silver_desc { 带着100银币离开流亡者营地的矿井。 }
 
 Achievement_UndertookJourneyToRoots_name { 与黑暗森林融为一体 }
 
@@ -150,15 +150,15 @@ Achievement_FinishedPwyllConversation_name { 一切始于... }
 
 Achievement_FinishedPwyllConversation_desc { 获得来自普瓦伊尔的独特礼物。 }
 
-Achievement_FoundAtlanterWeapon_name { 已逝者的遗产 }
+Achievement_FoundAtlanterWeapon_name { 往者的遗产 }
 
 Achievement_FoundAtlanterWeapon_desc { 找到一把古老的武器。 }
 
 Achievement_CraftedEpicArmor_name { 没有什么能伤害到你！ }
 
-Achievement_CraftedEpicArmor_desc { 获得一件已逝者的盔甲。 }
+Achievement_CraftedEpicArmor_desc { 获得一件往者的盔甲。 }
 
-Achievement_WonAgainstBrutus_name { 已逝者的最后一位领袖 }
+Achievement_WonAgainstBrutus_name { 往者的最后一位领袖 }
 
 Achievement_WonAgainstBrutus_desc { 围攻德瑞瓦尼乌斯。 }
 

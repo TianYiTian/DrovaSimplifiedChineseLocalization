@@ -84,7 +84,7 @@ key_chest_delani_description { 德拉妮的箱子钥匙。 }
 
 note_evidence_boris_name { 计划中的袭击 }
 
-note_evidence_boris_description { 我在废墟营地前击退了强盗。 }
+note_evidence_boris_description { 我在流亡者营地前击退了强盗。 }
 
 item_stolenPackage_name { 被盗包裹 }
 
@@ -124,7 +124,7 @@ note_debtorlist_description { 很多人都有债务。我现在是催债人了�
 
 key_ratcellar_name { 地窖钥匙 }
 
-key_ratcellar_description { 位于废墟营地的酒馆地窖钥匙。 }
+key_ratcellar_description { 位于流亡者营地的酒馆地窖钥匙。 }
 
 weapon_axe_bady_dull_name { 巴迪的钝斧 }
 
@@ -884,13 +884,13 @@ key_chest_mineBanditMainKey_description { 我刚刚干掉了几个强盗。 }
 
 item_mineRelic_name { 奇怪的遗物 }
 
-item_mineRelic_description { 一件来自已逝者的古老遗物。 }
+item_mineRelic_description { 一件来自往者的古老遗物。 }
 
 item_rubble_name { 碎石 }
 
 item_rubble_description {  }
 
-Note_BanditMine_name { 已逝者的遗物 }
+Note_BanditMine_name { 往者的遗物 }
 
 Note_BanditMine_description {  }
 
@@ -986,7 +986,7 @@ consumable_potion_darkbrew_healing_description {  }
 
 key_mursel_mine_name { 银矿钥匙 }
 
-key_mursel_mine_description { 矿井废墟营地中宿舍的钥匙。 }
+key_mursel_mine_description { 矿井流亡者营地中宿舍的钥匙。 }
 
 key_tristanBillKey_name { 上层酒馆钥匙 }
 
@@ -1046,11 +1046,11 @@ item_rubin_name { 红宝石 }
 
 item_rubin_description {  }
 
-item_atlanterAcademyText_name { 已逝者前往德洛瓦的旅程 }
+item_atlanterAcademyText_name { 往者前往德洛瓦的旅程 }
 
 item_atlanterAcademyText_description {  }
 
-cons_flow_blink_name { 迷雾步伐 }
+cons_flow_blink_name { 迷踪步 }
 
 cons_flow_blink_description { 将你传送一小段距离，方向为你的视线方向。 }
 
@@ -1118,7 +1118,7 @@ cons_flow_root_aoe_name { 根环 }
 
 cons_flow_root_aoe_description { 召唤根系，将你周围的敌人束缚[TimeAbs]秒。 }
 
-item_escortLetter_name { 公告：护送至废墟营地 }
+item_escortLetter_name { 公告：护送至流亡者营地 }
 
 item_escortLetter_description {  }
 
@@ -1342,7 +1342,7 @@ item_roastedcallamushroom_name { 炒蘑菇 }
 
 item_roastedcallamushroom_description {  }
 
-item_roastofthepast_name { 已逝者的烧烤 }
+item_roastofthepast_name { 往者的烧烤 }
 
 item_roastofthepast_description {  }
 
@@ -1394,7 +1394,7 @@ armor_chest_shirt_ragged_name_description { 总比没有好... }
 
 armor_chest_ruinenlager_fighter_druid_name_name { 德鲁伊废墟战士盔甲 }
 
-armor_chest_ruinenlager_fighter_druid_name_description { 只有废墟营地中最强壮的人才有资格穿上这套盔甲。 }
+armor_chest_ruinenlager_fighter_druid_name_description { 只有流亡者营地中最强壮的人才有资格穿上这套盔甲。 }
 
 armor_chest_ruinenlager_fighter_fight_name_name { 轻型废墟战士盔甲 }
 
@@ -1402,7 +1402,7 @@ armor_chest_ruinenlager_fighter_heavy_name_name { 重型废墟战士盔甲 }
 
 armor_chest_ruinenlager_heavy_name_name { 重型废墟仓库护甲 }
 
-armor_chest_ruinenlager_heavy_name_description { 这件盔甲仅供废墟营地的成员使用。展示我对杰罗的忠诚。 }
+armor_chest_ruinenlager_heavy_name_description { 这件盔甲仅供流亡者营地的成员使用。展示我对杰罗的忠诚。 }
 
 armor_chest_ruinenlager_name_name { 轻型废墟仓库护甲 }
 
@@ -1414,7 +1414,7 @@ helmet_antlers_name_name { 鹿角头盔 }
 
 helmet_antlers_name_description {  }
 
-helmet_draugr_silver_name_name { 已逝者之盔 }
+helmet_draugr_silver_name_name { 往者之盔 }
 
 helmet_draugr_silver_name_description {  }
 
@@ -1606,7 +1606,7 @@ armor_chest_leather_strong_name_name { 坚固的皮甲 }
 
 armor_chest_leather_strong_name_description {  }
 
-armor_chest_leather_magielager_name_name { 已逝者的服装 }
+armor_chest_leather_magielager_name_name { 往者的服装 }
 
 armor_chest_leather_magielager_name_description { 现在，我与黑暗森林融为一体。 }
 
@@ -1622,7 +1622,7 @@ armor_chest_nemeton_chief_name_name { 涅墨顿领袖装甲 }
 
 armor_chest_nemeton_chief_name_description {  }
 
-armor_chest_ruinenlager_chief_name_name { 废墟营地的首领盔甲 }
+armor_chest_ruinenlager_chief_name_name { 流亡者营地的首领盔甲 }
 
 armor_chest_ruinenlager_chief_name_description {  }
 
@@ -1738,7 +1738,7 @@ item_atlanter_coin_name { 古代硬币 }
 
 item_engraving_stones_name { 雕刻的石头 }
 
-item_sealstone_past_name { 已逝者的印记 }
+item_sealstone_past_name { 往者的印记 }
 
 item_sealstone_past_description { 一个精心装饰的石头，镶嵌着一块水晶。 }
 
@@ -1754,15 +1754,15 @@ item_shell_02_name { 贝壳 }
 
 item_shell_02_description {  }
 
-item_atlanter_wine_name { 已逝者的美酒 }
+item_atlanter_wine_name { 往者的美酒 }
 
 item_atlanter_wine_description { 年份未知。 }
 
-item_herb_past_name { 已逝者的圣草 }
+item_herb_past_name { 往者的圣草 }
 
 item_herb_past_description { 古老，但仍保留轻微的治愈特性。 }
 
-item_headdress_magicamp_name { 已逝者头饰 }
+item_headdress_magicamp_name { 往者头饰 }
 
 item_headdress_magicamp_description { 一件表达与黑暗森林联系的头饰。 }
 
@@ -1782,7 +1782,7 @@ item_letterTableBrutus_2_name { 德瑞瓦尼乌斯的最后研究 IV }
 
 item_letterTableBrutus_2_description {  }
 
-item_atlanteanarmorparts_name { 已逝者的护甲部件 }
+item_atlanteanarmorparts_name { 往者的护甲部件 }
 
 item_atlanteanarmorparts_description { 看起来很有价值，也许铁匠能用得上？ }
 
@@ -1790,7 +1790,7 @@ recipe_flow_aggressiveCry_name { 技能：攻击咆哮 }
 
 recipe_flow_battleCry_name { 技能：战斗咆哮 }
 
-recipe_flow_blink_name { 技能：迷雾步伐 }
+recipe_flow_blink_name { 技能：迷踪步 }
 
 recipe_flow_bloodRage_name { 技能： 血怒 }
 
@@ -1924,7 +1924,7 @@ recipe_rivercharm_name { 配方：河流护身符 }
 
 recipe_roastedcallamushroom_name { 配方：炒蘑菇 }
 
-recipe_roastofthepast_name { 配方：已逝者的烤肉 }
+recipe_roastofthepast_name { 配方：往者的烤肉 }
 
 recipe_rootstew_name { 配方：迷雾之锅 }
 
@@ -2004,11 +2004,11 @@ item_letter_sick_siser_description {  }
 
 SickSiser { 强盗营地纸条 }
 
-armor_chest_light_atlanter_name { 已逝者符文护甲 }
+armor_chest_light_atlanter_name { 往者符文护甲 }
 
-armor_chest_heavy_atlanter_name { 已逝者符文装甲 }
+armor_chest_heavy_atlanter_name { 往者符文装甲 }
 
-armor_chest_druid_atlanter_name { 已逝者符文长袍 }
+armor_chest_druid_atlanter_name { 往者符文长袍 }
 
 armor_chest_druid_atlanter_description { 一件古老的盔甲，重新锻造。仅凭其外观就能证明它的力量。 }
 
@@ -2166,11 +2166,11 @@ helmet_nemeton_guard2_name_name { 涅墨顿重型头盔 }
 
 helmet_nemeton_guard2_name_description {  }
 
-helmet_ruinenlager_guard1_name_name { 废墟营地简易头盔 }
+helmet_ruinenlager_guard1_name_name { 流亡者营地简易头盔 }
 
 helmet_ruinenlager_guard1_name_description {  }
 
-helmet_ruinenlager_guard2_name_name { 废墟营地重型头盔 }
+helmet_ruinenlager_guard2_name_name { 流亡者营地重型头盔 }
 
 helmet_ruinenlager_guard2_name_description {  }
 
@@ -2192,7 +2192,7 @@ helmet_blindfold_dark_name_description { 通过一个小缝隙还能看到一切
 
 helmet_blindfold_light_name_name { 黑色眼罩 }
 
-helmet_atlanter_name_name { 已逝者的头盔 }
+helmet_atlanter_name_name { 往者的头盔 }
 
 helmet_atlanter_name_description { 一顶古老的头盔，在你之前的几个世纪可能没人戴过。 }
 
@@ -2264,7 +2264,7 @@ misc_map_nemeton_name { 涅墨顿地图 }
 
 misc_map_nemeton_description {  }
 
-misc_map_ruincamp_name { 废墟营地地图 }
+misc_map_ruincamp_name { 流亡者营地地图 }
 
 misc_map_ruincamp_description {  }
 
@@ -2314,15 +2314,15 @@ item_AldriksNote_name { 奥尔德里克的笔记 }
 
 item_AldriksNote_description {  }
 
-item_letterAtlanter_AtlanterCreation_name { 已逝者的创造 }
+item_letterAtlanter_AtlanterCreation_name { 往者的创造 }
 
 item_letterAtlanter_AtlanterCreation_description {  }
 
-item_letterAtlanter_AtlanterProblems_name { 已逝者的问题 }
+item_letterAtlanter_AtlanterProblems_name { 往者的问题 }
 
 item_letterAtlanter_AtlanterProblems_description {  }
 
-item_letterAtlanter_AtlanterRevolt_name { 一场已逝者的起义 }
+item_letterAtlanter_AtlanterRevolt_name { 一场往者的起义 }
 
 item_letterAtlanter_AtlanterRevolt_description {  }
 
@@ -2398,11 +2398,11 @@ item_letterAtlanter_Revolt3_name { 德洛瓦的动乱 III }
 
 item_letterAtlanter_Revolt3_description {  }
 
-item_letterAtlanter_RuneVessel_Nemeton_name { 符文容器指南 }
+item_letterAtlanter_RuneVessel_Nemeton_name { 符文罐指南 }
 
 item_letterAtlanter_RuneVessel_Nemeton_description {  }
 
-item_letterAtlanter_RuneVessel_Ruinenlager_name { 符文容器指南 }
+item_letterAtlanter_RuneVessel_Ruinenlager_name { 符文罐指南 }
 
 item_letterAtlanter_RuneVessel_Ruinenlager_description {  }
 
@@ -2608,7 +2608,7 @@ category_crafting { 手工艺材料 }
 
 category_saleitems { 其他和出售物品 }
 
-item_letterAtlanter_Shrines_name { 已逝者神殿 }
+item_letterAtlanter_Shrines_name { 往者神殿 }
 
 item_letterAtlanter_Shrines_description {  }
 
@@ -2758,6 +2758,6 @@ item_KendrickSagar_description {  }
 
 recipe_throwingknife_name { 配方：飞刀 }
 
-item_letterAtlanter_Armor_name { 已逝者的盔甲 }
+item_letterAtlanter_Armor_name { 往者的盔甲 }
 
 item_letterAtlanter_Armor_description {  }
