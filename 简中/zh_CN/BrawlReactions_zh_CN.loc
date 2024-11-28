@@ -1,4 +1,4 @@
-haudrauf { 现在来点真格的。 }
+haudrauf { 现在来点真格的！ }
 
 reaction01 { 来吧，打一架！ }
 
@@ -6,14 +6,14 @@ reaction02 { 嘿，打起来了。 }
 
 reaction03 { 一拳打在脸上！ }
 
-reaction04 { 是的，不要犹豫！ }
+reaction04 { 对，别晃神！ }
 
-reaction05 { 发生了什么事？ }
+reaction05 { 发生了什么？ }
 
-reaction06 { 有人来了。 }
+reaction06 { 有人打起来了。 }
 
-reaction07 { 不要手下留情！ }
+reaction07 { 别手软！ }
 
-reaction08 { 终于有事情发生了。 }
+reaction08 { 终于，这边有点乐子了。 }
 
-reaction09 { 一场斗殴！ }
+reaction09 { 有人打架！ }

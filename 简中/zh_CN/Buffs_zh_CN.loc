@@ -1,25 +1,25 @@
-SleepBuff { 休息好了 }
+SleepBuff { 睡了个觉 }
 
-SleepBuffDescription { 提高你的移动速度[MovementPercent]。 }
+SleepBuffDescription { 你比平时跑得更快 [MovementPercent]。 }
 
 Poison { 中毒 }
 
-PoisonDescription { 减慢你的移动速度 [MovementPercent]。 }
+PoisonDescription { 你比平时跑得更慢 [MovementPercent]。 }
 
 Bleeding { 出血 }
 
-BleedingDescription { 你定期失去生命值。 }
+BleedingDescription { 你会在一段时间内持续失血。 }
 
-SleepBuff_T2 { 休息得很好 }
+SleepBuff_T2 { 睡了个好觉 }
 
 Veil_Name { 黑焰 }
 
-Veil_Desc { 你正在持续受到伤害。 }
+Veil_Desc { 你在持续受到伤害。 }
 
 Intoxicated_Name { 醉酒 }
 
-Intoxicated_Desc { 你感觉一切都有点模糊不清... }
+Intoxicated_Desc { 你感觉周围有点模糊... }
 
-NoFood_Name { 空肚子 }
+NoFood_Name { 饥肠辘辘 }
 
-NoFood_Desc { 这是一份食物，可以填饱你的肚子。当你吃饱后，如果生命值有所减少，随着时间的推移，你会逐渐恢复生命值。 }
+NoFood_Desc { 吃点什么来填饱自己的肚子，只有这样，受伤以后，你才能随着时间恢复健康。 }

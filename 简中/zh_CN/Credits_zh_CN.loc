@@ -22,7 +22,7 @@ organisation { 组织 }
 
 praktikanten { 实习生 }
 
-freelancer { 外部 }
+freelancer { 自由职业者 }
 
 musik { 音乐 }
 
@@ -30,17 +30,17 @@ sound { 声音 }
 
 grafiken { 插图 }
 
-autor { 作者 }
+autor { 写手 }
 
-testers { 测试员 }
+testers { 测试 }
 
 publisher { 发行商 }
 
-spotlight { Deck13 聚焦 }
+spotlight { Deck13 宣发 }
 
 spotlight_interns { 实习生 }
 
-spotlight_productionBaby { 生产宝贝 }
+spotlight_productionBaby { 发行期间的宝宝们 }
 
 spotlight_deck13 { Deck13 }
 
@@ -48,13 +48,13 @@ spotlight_deck13_interns { 实习生 }
 
 spotlight_deck13_memory { 纪念Felix Rischbieter }
 
-pr_hound { PR猎犬 }
+pr_hound { PR Hound }
 
 bxdxo { BXDXO }
 
 headline_Localization { 本地化 }
 
-loca_coordination { 协调 }
+loca_coordination { 组织者 }
 
 loca_english_lead { 英语语言负责人 }
 
@@ -76,9 +76,9 @@ voice { 语音 }
 
 thanks_family { 我们感谢我们的家人、朋友、合作伙伴和合作伙伴们。没有你们，我们无法完成这段旅程。 }
 
-thanks_pb { 感谢Piranha Bytes制作了《Gothic》。这款伟大的游戏深深影响了我们所有人。 }
+thanks_pb { 感谢Piranha Bytes制作了《Gothic》,这款伟大的游戏深深影响了我们所有人。 }
 
-chris_wish { 亲爱的莎拉，感谢你在追逐我疯狂梦想的过程中给予的支持。虽然并不总是容易，但我们做到了！\n还有，安息吧，奶奶，我想念你。 }
+chris_wish { 亲爱的莎拉，感谢你在追逐我疯狂梦想的过程中给予的支持。虽然遇到了许多困难，但我们做到了！\n还有，安息吧，奶奶，我想念你。 }
 
 gecko { Gecko！感谢你的帮助。你就像是我们Discord上的铁拳。 }
 
@@ -94,8 +94,8 @@ Acagamics { 感谢Acagamics，我们大学的社团，是他们让我们聚在�
 
 finish_line { 最后的话留给你。谢谢。谢谢你玩了Drova。 }
 
-special_thanks_support { 感谢在开发过程中提供的特别支持 }
+special_thanks_support { 为所有开发过程中得到的特别支持表示感谢 }
 
 johannes_wish { 感谢你，Lea，感谢你的支持和这段美好的友谊，尽管我因为忙于Drova的工作而三次取消了原本答应的假期。 }
 
-Fabio_wish { 感谢Just2D的四位创始人——Chris、Johannes、Kai和Julian。你们以勇气、奉献、透明和结构，创造了一个安全的工作环境，让我们即使在“艰难时刻”也能感到舒适，并共同体验游戏开发的梦想。 }
+Fabio_wish { 感谢Just2D的四位创始人——Chris、Johannes、Kai和Julian。你们以勇气、奉献、真诚和团结，创造了一个安全的工作环境，让我们即使在“艰难时刻”也能感到舒适，并共同体验游戏开发的梦想。 }

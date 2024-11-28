@@ -8,7 +8,7 @@ Personal { 私人的 }
 
 Recipes { 配方 }
 
-Title_Panel { 手工艺 }
+Title_Panel { 制造面板 }
 
 Toggle_CraftableOnly { 仅显示可制作的配方 }
 
@@ -20,11 +20,11 @@ Foldout_Trinkets { 饰品 }
 
 Foldout_Food { 食物 }
 
-Foldout_Heal { 治疗 }
+Foldout_Heal { 治疗品 }
 
 Foldout_Unsorted { 未分类 }
 
-Title_CraftingStation { 工作区 }
+Title_CraftingStation { 手工艺设备 }
 
 Prefix_RequiredWorkbench { 需要： }
 
