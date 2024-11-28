@@ -140,3 +140,51 @@ Plh_107 { Verdammter Bady. Meine ganzen Münzen ... }
 
 Plh_108 { Hm? Was willst du von mir? }
 
+Plh_110 { Ich kämpfe jetzt in der Arena ... ich habe es geschafft! }
+
+Plh_111 { Verzieh dich, wegen dir habe ich meinen Einsatz verloren. }
+
+Plh_112 { Da kannst du dir eine goldene Nase verdienen. Wenn du mal ... Hilfe brauchst, meld dich. Wenn der Kampf nicht gut für dich läuft, kann ich was drehen ... verstehst schon. }
+
+Plh_113 { Gehörst ja zu uns. Gut, dass du dich für Boris entschieden hast. So wird's für dich billiger. *grinst* }
+
+Plh_114 { Ich kämpfe bald in der Arena. Kannst du mir dabei vielleicht ... "helfen"? }
+
+Plh_115 { Na klar ... wenn du mir hilfst, dass mehr Münzen den Weg in meine Tasche finden. }
+
+Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_117 { Da du zu uns gehörst ... sagen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_118 { Natürlich nur, wenn du die Münzen hast. }
+
+Plh_119 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ Münzen geben) }
+
+Plh_121 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ geben) }
+
+Plh_124 { Hab deinen Kampf gesehen. Gut gekämpft! *grinst* Auf mich ist halt Verlass. }
+
+Plh_125 { Da du zu uns gehörst ... sagen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_126 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ Münzen geben) }
+
+Plh_127 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ geben) }
+
+Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_129 { Da du zu uns gehörst ... sagen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_130 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_131 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ Münzen geben) }
+
+Plh_132 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ geben) }
+
+Plh_133 { Da du zu uns gehörst ... sagen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ Münzen, dann wird der Kampf für dich deutlich leichter werden. *grinst* }
+
+Plh_135 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ Münzen geben) }
+
+Plh_136 { Hier sind die Münzen. ($GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ geben) }
+

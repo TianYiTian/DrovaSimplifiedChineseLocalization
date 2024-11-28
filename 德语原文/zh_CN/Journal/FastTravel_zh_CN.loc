@@ -1,0 +1,16 @@
+Title { Fahrende Händler }
+
+Entry_01 { Eine Gruppe von fahrenden Händlern ist in Nemeton. Erwin, Lobo und Henrike warten auf Teigen, damit sie ihre Routen miteinander abstimmen können. Erwin hat keine Informationen zu Teigens Aufenthaltsort, außer dass er bald in Nemeton sein müsste. Ich kann mich ja mal umschauen. }
+
+Entry_02 { Henrike von den fahrenden Händlern hat erzählt, dass Teigen einen Freund und seinen Kater aus dem Ruinenlager mitgenommen hat. Sie sollten schon längst in Nemeton angekommen sein. }
+
+Entry_03 { Ich habe Teigen in einer Höhle im Moor gefunden, südlich des Lagers vor Nemeton. Er traut sich nicht heraus, solange nicht alle Froschlinge auf der Insel tot sind. }
+
+Entry_04 { Teigen ist zurück auf dem Weg nach Nemeton und trifft sich mit Erwin und den anderen. }
+
+Entry_05_Optional { Teigen ist in Nemeton angekommen und hat die fahrenden Händler verlassen. Die Übrigen werden aufbrechen, sobald die Gefahr der Banditen im Moor gebannt ist. Die Banditen machen wohl besonders die Region zwischen Nemeton und der Taverne unsicher. }
+
+Entry_06 { Die fahrenden Händler sind unterwegs, und ich kann mit ihnen reisen. }
+
+Entry_07_HintOlaf { Olaf meinte, dass Teigen in Richtung Moor aufgebrochen ist. Er wollte nach Nemeton. }
+

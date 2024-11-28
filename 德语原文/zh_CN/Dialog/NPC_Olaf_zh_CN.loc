@@ -146,7 +146,7 @@ Plh_159 { *runzelt die Stirn* Hier kommen und gehen massig Leute, und ich drück
 
 Plh_162 { Sagt dir der Name Aldrik was? }
 
-Plh_163 { *runzelt die Stirn* Schickt Aldrik jetzt Leute, oder was? }
+Plh_163 { *runzelt die Stirn* Schickt Aldrik jetzt Leute oder was? }
 
 Plh_169 { Aldrik ist tot und wird nicht mehr kommen. }
 
@@ -154,17 +154,17 @@ Plh_171 { Ach? Na, das is'n guter Grund. }
 
 Plh_172 { Du und Aldrik habt Leute entführt, damit sie in der Mine irgendwas ausgraben sollen. }
 
-Plh_173 { Aldrik ist der Grund, warum Leute verschwinden. Er hat sie entführt und in der Mine arbeiten lassen. }
+Plh_173 { Aldrik war der Grund, warum Leute verschwinden. Er hat sie entführt und sie eine Ruine im Moor ausgraben lassen. }
 
-Plh_175 { Ach, ist das so, ja? Weiß ich jetzt nichts von, aber ich würde dir empfehlen, das lieber nicht zu laut in die Landschaft zu plärren ...? }
+Plh_175 { Was redest du da? Ich habe mit Aldrik nichts zu tun. Der Typ kam hier eines Tages einfach reinspaziert und hat gefragt, was ich für Relikte der Vergangenen zahle. Woher sollte ich wissen, dass er dafür Leute entführt? }
 
-Plh_176 { Möglicherweise hab ich Aldrik hier und da was abgekauft. Also? Was soll mich alles angehen? }
+Plh_176 { Aber was das Relikt angeht ... }
 
-Plh_177 { Aldrik ist ein Idiot. Das hätte er alles geschickter aufziehen können. Na ja. }
+Plh_177 { So ein Gesindel! Wenn ich gewusst hätte, dass er auf so eine Weise an ein Relikt kommen will, hätte ich ihn direkt aus meiner Taverne getreten. Gut, dass du heil rausgekommen bist. }
 
 Plh_180 { Geschieht ihm recht. }
 
-Plh_182 { Ich habe bei Aldrik einen Brief gefunden. Du wolltest ein Relikt haben. }
+Plh_182 { Ich habe es bei mir. (Relikt zeigen) }
 
 Plh_185 { *schaut kurz zu dem Relikt und runzelt die Stirn* Das könnte tatsächlich interessant sein ... Also, hör mir zu ... }
 
@@ -409,3 +409,18 @@ Plh_334 { Hey warte ... }
 Plh_335 { Nicht hier. Erzähl das Ede. Ich muss mich hier um die Taverne kümmern. }
 
 Plh_336 { Gute Arbeit, $GVAR:EVars_Player.Name$. }
+
+Plh_338 { Kennst du einen Teigen? Muss hier vor Kurzem durchgekommen sein. }
+
+Plh_339 { Das ist doch einer von den fahrenden Händlern, oder? Ich mag die anderen lieber ... aber ja, kenne ich. }
+
+Plh_340 { Weißt du, wo er hin ist? }
+
+Plh_341 { Keine Ahnung. Ist ein bisschen her, dass er hier war. Er hatte einen Typen aus dem Ruinenlager mit seiner Katze dabei, das weiß ich noch. Wollten nach Nemeton. }
+
+Plh_342 { *flüstert* Weil du mir hier so viel geholfen hast, noch ein kleiner Ratschlag ... }
+
+Plh_343 { Ich weiß dass Teigen öfter mal von seinem "versteckten Lager" erzählt hat. Das muss irgendwo kurz vor Nemeton sein, nach der Brücke den Fluss entlang im Süden vielleicht? }
+
+Plh_344 { *hebt die Stimme wieder* Du glaubst nicht, was man als Gastwirt alles mitbekommt. }
+

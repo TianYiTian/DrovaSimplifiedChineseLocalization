@@ -494,3 +494,41 @@ Plh_352 { Saufen, das ist sein Ding. Gib ihm ein paar Humpen aus, dann ist er de
 
 Plh_353 { Ich bin eine von Jeros Klingen hier im Lager. Wenn du für mich arbeitest, kann ich ein gutes Wort für dich einlegen. So was ist hier 'ne Menge wert. }
 
+Plh_354 { So, so ... du arbeitest jetzt also mit Olaf zusammen. Interessant. }
+
+Plh_356 { Hab gehört, du besitzt ein Relikt der Vergangenen. Was willst du dafür? }
+
+Plh_357 { $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelict$ Münzen. }
+
+Plh_358 { Du verlangst viele Münzen für so ein altes Ding. }
+
+Plh_359 { Ich bin einer von deinen Leuten. Gibst du mir einen Freundschaftspreis? }
+
+Plh_360 { Hier sind die Münzen. ($GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelict$ Münzen geben) }
+
+Plh_361 { Gut, weil du's bist. $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelictTrupBoris$ Münzen. }
+
+Plh_362 { Immer nett, mit dir Geschäfte zu machen. }
+
+Plh_363 { Hier sind die Münzen. ($GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelictTrupBoris$ Münzen geben) }
+
+Plh_364 { Willst du das Relikt oder nicht? Ich weiß, wie viel es wert ist. }
+
+Plh_365 { Wegen dem Relikt ... }
+
+Plh_368 { Wusste doch, dass das Teil was wert ist. *grinst* }
+
+Plh_370 { Wer weiß, wie lange ich es noch habe. Jetzt weiß ich schließlich, was es wert ist. Solltest nicht zu lange warten. }
+
+Plh_371 { Na, hast du es dir anders überlegt? }
+
+Plh_373 { Ich hab diesen Brief hier bei einer Leiche im Moor gefunden. }
+
+Plh_374 { Lass mal sehen ... }
+
+Plh_375 { Oh. Bei einer Leiche, sagst du? Wie man's macht, macht man's falsch ... }
+
+Plh_376 { Armer Peter ... wollte ihm echt helfen, nach Nemeton reinzukommen. Hat hier nie richtig Anschluss gefunden. War eigentlich ein guter Kerl. }
+
+Plh_377 { Naja, dann hab ich immerhin noch einen Gefallen übrig. *grinst* Danke fürs Vorbeibringen. Hier, ein paar Münzen. }
+

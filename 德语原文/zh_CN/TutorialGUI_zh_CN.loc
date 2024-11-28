@@ -1,0 +1,77 @@
+Title { Tutorials }
+
+IsTrader { Händler }
+
+Category_Basics { Grundlagen }
+
+Category_Journal { Tagebuch }
+
+Category_Combat { Kampf }
+
+Category_Items { Gegenstände }
+
+Name_Movement { Bewegung }
+
+Name_Perception_01 { Untersuchen-Modus: Umschauen }
+
+Name_Perception_02 { Untersuchen-Modus: Aufdecken }
+
+Name_Perception_03 { Untersuchen-Modus: Untersuchen }
+
+Name_Interact { Interaktion }
+
+Name_Stealing { Diebstahl }
+
+Name_Crafting { Herstellung }
+
+Name_LevelUp { Stufenaufstieg }
+
+Name_ChangeStance { Haltung wechseln }
+
+Name_StatusEffects { Statuseffekte  }
+
+Name_UsedHealItem { Heilung }
+
+Name_Journal { Tagebucheinträge }
+
+Name_FirstNote { Notizen }
+
+Name_FirstTreasure { Schatzkarten }
+
+Name_Dodge { Ausweichen }
+
+Name_SecondWeapon { Waffe wechseln }
+
+Name_Abilities_02 { Fähigkeiten }
+
+Name_BattleBuddies_Blocks { Blocken }
+
+Name_BattleBuddies_Combos { Kombos }
+
+Name_BattleBuddies_GetFlow { Fokus }
+
+Name_BattleBuddies_Spell { Zauber }
+
+Name_NeedMunition { Munition }
+
+Name_Secondaries { Nebenhandaktionen }
+
+Name_PoiseBreak { Haltung }
+
+Name_LookDirectionCombat { Blickrichtung im Kampf }
+
+Name_FirstHeal { Heilung }
+
+Name_FirstFood { Nahrung }
+
+Name_FirstGoodFood { Reichhaltige Nahrung }
+
+Name_FirstWeapon { Waffentypen }
+
+Name_FirstRangeWeapon { Fernkampfwaffen }
+
+Name_FirstConsFlow { Schriftrollen }
+
+Name_FirstThrow { Gebrauchsgegenstände }
+
+Name_FistRecipe { Rezepte }

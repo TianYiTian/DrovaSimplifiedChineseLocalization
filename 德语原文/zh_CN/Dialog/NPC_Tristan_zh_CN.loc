@@ -74,7 +74,7 @@ Plh_66 { Er war ziemlich angepisst, aber ich habe die Zeche bezahlt. }
 
 Plh_69 { Du hast meine Zeche bezahlt? Im Ernst? }
 
-Plh_70 { Er meinte, du schuldest ihm noch $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$. }
+Plh_70 { Er meinte, du schuldest ihm noch $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ Münzen. }
 
 Plh_72 { Ich brauchte deine Karte, um hierher zu finden. }
 
@@ -135,4 +135,26 @@ Plh_102 { Du hast das Zeug aber ... nicht ... wirklich gegessen oder ...? }
 Plh_103 { Dazu sage ich jetzt nichts. }
 
 Plh_105 { Hab schon einige gute Geschäfte mit ihnen gemacht. Jedenfalls besser als mit diesem Asmus ... der hat immer so ein verdächtiges Grinsen im Gesicht. }
+
+Plh_106 { *kritzelt auf einem Stück Papier herum, das aussieht wie eine Karte* Hier ... und da war's auch ziemlich gefährlich ... }
+
+Plh_107 { Was machst du da? }
+
+Plh_108 { Tolle Karte. Wofür ist die? }
+
+Plh_109 { Mhm? Ach, man muss gucken, wo man hier in Drova bleibt, vor allem als Händler. Die Lager sind voll mit Händlern, und fahrende Händler gibt es auch mehr als genug ... }
+
+Plh_110 { *mustert dich* Du solltest dir den Düsterwald aus dem Kopf schlagen. Ohne vernünftige Ausrüstung und Vorbereitung ist es purer Selbstmord, da rein zu laufen. }
+
+Plh_111 { Was ist denn da so gefährlich? }
+
+Plh_112 { Wer will dort denn handeln, wenn es so gefährlich ist? }
+
+Plh_113 { *mustert dich* Mhm, scheinst kampferfahren zu sein. Schau doch einfach selbst nach. *lacht* }
+
+Plh_114 { Nichts für ungut, aber ich hätte gern meine Ruhe. Will bald meine nächste Reise starten. }
+
+Plh_115 { Ach, wir haben uns doch schon mal in der Taverne gesehen, oder? Mein Name ist Tristan. Weißt dann ja schon, dass ich Händler bin. }
+
+Plh_116 { Ich mache meine Geschäfte im Düsterwald. Sehr riskant, aber wenn man die Route kennt, geht's eigentlich. }
 

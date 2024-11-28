@@ -24,8 +24,6 @@ Category_Slingshot { Schleuder }
 
 Category_Shield { Schild }
 
-fighting_strength { Kampfkraft }
-
 requirement { Voraussetzungen: }
 
 Category_Preparation { Zubereitung }

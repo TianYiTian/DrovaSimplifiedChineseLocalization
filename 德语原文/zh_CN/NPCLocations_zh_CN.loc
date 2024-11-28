@@ -1,0 +1,113 @@
+Faction_Neutral { Neutral }
+
+Remnants_Arena { Ruinenlager Arenaviertel }
+
+Remnants_WayToMine { Südlich der Mine des Ruinenlagers }
+
+Nemeton_Gate_North { Nemeton Nordtor }
+
+Nemeton_Dormitory { Nemeton im Osten }
+
+Woodcamp { Holzfällerlager }
+
+Remnants_Mine { Mine Ruinenlager }
+
+Remnants_MinerArea { Ruinenlager Hauerviertel }
+
+Nemeton_Palisades_North { Nemeton Palisade Nordwand }
+
+Neutral_SilverMine { Silbermine im Flussbett }
+
+Cave_RuinRaiders { Versteck der Ruinenräuber }
+
+Tavern_Forest { Taverne zum Kopflosen Reißer }
+
+Nemeton_WarriorsQuarter { Nemeton Kämpferviertel }
+
+Remnants_Academy { Ruinenlager Akademie }
+
+Neutral_Forest { Nördlich im Nadelwald }
+
+Remnants_Market { Ruinenlager Marktplatz }
+
+MissingPerson { Vermisst }
+
+Remnants_UpperQuarter { Ruinenlager Oberes Viertel }
+
+Remnants_Tavern { Bernolds Schenke }
+
+Neutral_Refugee { Zuflucht }
+
+Nemeton_Kitchen { Nemeton Küche }
+
+Remnants_LostQuater { Ruinenlager Dunkles Viertel }
+
+Nemeton_FrontCamp { Lager vor Nemeton }
+
+Nemeton_CraftingQuarter { Nemeton Handwerkerviertel }
+
+Nemeton_Market { Nemeton Marktplatz }
+
+Nemeton_Farm_Georg { Georgs Hof }
+
+Neutral_DestroyedBridge { Kaputte Brücke }
+
+Neutral_Heath { Heide }
+
+Nemeton_Global { Nemeton }
+
+Remnants_Entry { Ruinenlager Eingang }
+
+Remnants_Global { Ruinenlager }
+
+Nemeton_MarketAndCrafting { Nemeton Marktplatz / Handwerkerviertel }
+
+Nemeton_Moor_South { Moor südlich von Nemeton }
+
+Nemeton_Garden { Nemeton Garten im Osten }
+
+Neutral_Maw { Schlund }
+
+Nemeton_WarriorQuarter { Nemeton Kriegerviertel }
+
+Nemeton_SacredGrove { Nemeton Heiliger Hain }
+
+Neutral_River_WoodcampAndRemnants { Am Fluss zwischen Holzfällerlager und Ruinenlager }
+
+Nemeton_AppleGrove { Apfelhain bei Nemeton }
+
+Nemeton_BridgeToDruids { Nemeton Brücke zum Druidenviertel }
+
+Neutral_FloodplainForest_Plateau_Ruins { Unterirdische Ruine auf dem Auwaldplateau }
+
+Nemeton_Gate_South { Nemeton Südtor }
+
+Neutral_ForestPrimeval_Border { Düsterwald Rand }
+
+Neutral_Cave_Woodcamp_South { In der Nähe des Holzfällerlagers }
+
+Dead { Tot }
+
+DrivaniusChamber { Drivanius Kammer }
+
+Riverbed_North { Flussbett im Norden }
+
+Neutral_ForestPrimeval { Düsterwald }
+
+Remnants_Underground { Ruinenlager unterirdisch }
+
+TravelingMerchants { Eingang Ruinenlager, Eingang Nemeton, Taverne, westlich Georgs Hof }
+
+Neutral_Forest_Camp { Lager im Nadelwald }
+
+Unknown { ??? }
+
+Nemeton_DruidCave { Nemeton Druidenhöhle }
+
+Nemeton_Leader { Nemeton Anführerhaus }
+
+Expedition_Moor { Expedition ins Moor }
+
+Nemeton_Muc { Nemeton Südtor, Georgs Hof oder Apfelhain }
+
+SmugglersDen { Schmugglerversteck }

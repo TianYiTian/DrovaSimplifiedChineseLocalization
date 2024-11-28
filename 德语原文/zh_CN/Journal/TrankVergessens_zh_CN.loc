@@ -1,0 +1,5 @@
+Title { Trank des Vergessens }
+
+Entry_01 { Aidan im Ruinenlager experimentiert mit Tränken und kann mir einen Trank des Vergessens herstellen. Er benötigt dafür $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ Ruinengewächs. Aidan meinte, es sprießt in der Nähe von Ruinen, und mit dem Trank könnte ich alles vergessen, was ich bis jetzt gelernt habe. }
+
+Entry_02 { Ich habe den Trank bekommen.}

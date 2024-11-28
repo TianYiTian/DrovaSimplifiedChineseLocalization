@@ -1,6 +1,6 @@
 talent_sword_01 { Einfacher Schwertkampf }
 
-talent_sword_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Hinrichten. }
+talent_sword_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Blutrausch. }
 
 talent_sword_02 { Trainierter Schwertkampf }
 
@@ -72,7 +72,7 @@ talent_slingshot_02_desc { Erhöht den verursachten Schaden um [DamageValuePerce
 
 talent_axe_01 { Einfacher Axtkampf }
 
-talent_axe_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Blutrausch. }
+talent_axe_01_desc { Verbessert deine Kampfhaltung, erhöht den verursachten Schaden um [DamageValuePercent] und du lernst die Waffenfähigkeit Hinrichten. }
 
 talent_axe_02 { Trainierter Axtkampf }
 
@@ -132,7 +132,7 @@ talent_axe_decreasestamina_desc { Schwere Axtangriffe verbrauchen [StaminaValueP
 
 Talent_Daggers_CritAfterDodge { Überraschungseffekt }
 
-Talent_Daggers_CritAfterDodge_desc { Der erste Dolchangriff direkt nach dem Ausweichen hat eine um [CritPercent] erhöhte Chance auf kritische Treffer. }
+Talent_Daggers_CritAfterDodge_desc { Der erste Dolchangriff direkt nach dem Ausweichen hat eine vierfach erhöhte Chance auf kritische Treffer. }
 
 Talent_Daggers_DecreaseFlow { Voll fokussiert! }
 
@@ -164,7 +164,7 @@ Talent_Spear_MoreDmgOnHead_desc { Die Spitze des Speers verursacht zusätzlich b
 
 Talent_Spear_PoiseOnCrit { Giftige Spitze }
 
-Talent_Spear_PoiseOnCrit_desc { Kritische Treffer mit dem Speer vergiften zusätzlich den Gegner. }
+Talent_Spear_PoiseOnCrit_desc { Kritische Treffer mit dem Speer haben eine Chance von [ChanceToPoison], den Gegner zusätzlich zu vergiften. }
 
 Talent_Bow_InstantAfterDodge { Schnellziehen }
 

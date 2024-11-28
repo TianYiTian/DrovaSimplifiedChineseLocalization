@@ -420,7 +420,7 @@ Plh_316 { Hast du die $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPr
 
 Plh_318 { Wenn du lernen willst, wie ein Gegner tickt, schau dir einen Kampf an. Dieser Rat ist kostenlos. }
 
-Plh_319 { Morgen geht's los. Ruh dich aus. Geh zur Taverne und trink was. Morgen musst du in Bestform sein. }
+Plh_319 { Morgen um 21 Uhr geht's los. Ruh dich aus. Geh zur Taverne und trink was. Morgen musst du in Bestform sein. }
 
 Plh_320 { Es wird der Hauptkampf. Viel zu organisieren, kostet also mehr ... sagen wir $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ Münzen. Wirft aber auch höheren Gewinn ab. }
 
@@ -492,7 +492,7 @@ Plh_367 { Sprich mit beiden. Sorge dafür, dass sie bereit sind. Und meld dich d
 
 Plh_371 { Wir haben in der Arena einen besonderen Kampf: Bady gegen Gra! Erst danach geht es mit meinen Leuten weiter. }
 
-Plh_372 { Bald finden wieder täglich Arenakämpfe statt. Wird dir nicht entgehen. }
+Plh_372 { Normalerweise kannst du auf die Kämpfer wetten. Gerade finden keine Kämpfe statt, aber bald wird die Arena wieder geöffnet. Das wird dir nicht entgehen. }
 
 Plh_375 { Wenn du nicht erscheinst, dann sind deine Münzen weg. }
 
@@ -511,4 +511,16 @@ Plh_381 { Ich kann es ja mal versuchen. }
 Plh_383 { Glaub mir, wenn du einmal in der Arena stehst, willst du nie wieder raus. }
 
 Plh_384 { Hey, ganz ruhig. Kein Stress. Überleg es dir. Meld dich einfach bei Mog und kämpf mit ihm. }
+
+Plh_385 { Du hast deine Kampfkraft bewiesen, aber lass dir diesen Erfolg nicht zu Kopf steigen. Nun wartet die Elite der Gezeichneten auf dich. Die besten Kämpfer aus Drova, die jeden Tag trainieren und kämpfen, immer nur den Sieg vor Augen. }
+
+Plh_386 { Auch wenn deine Waffen und Rüstungen von den Göttlichen selbst geschmiedet worden sind, wirst du es hier nicht einfach haben. Mach dich auf harte Kämpfe gefasst. }
+
+Plh_387 { Sobald du es geschafft hast, gegen alle Schildhände siegreich zu sein, hast du es dir verdient, die Gladiatorenrüstung zu tragen. Die Leute lieben enge Kämpfe ... }
+
+Plh_388 { Und ich sag dir ... kurz bevor es dich aus den Latschen haut, spürst du keinen Schmerz mehr mit der Rüstung! Also, fast keinen. Weiß gar nicht, warum ich nicht schon immer halb nackt gekämpft habe. }
+
+Plh_389 { Achte nur auf Zauber. Die magische Kraft der Göttlichen verursacht Schaden, dem auch die härtesten Kämpfer nicht standhalten können. }
+
+Plh_390 { Das einzige Gute, was ich aus Nemeton mitgenommen habe, ist mein Runenstein. Aber ist ja nicht so, als ob ich den für euch brauchen würde. }
 

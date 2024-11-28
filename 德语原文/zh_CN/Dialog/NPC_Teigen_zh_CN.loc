@@ -100,7 +100,7 @@ Plh_85 { Was willst du von mir? Hau schon ab. }
 
 Plh_86 { Was ist denn jetzt schon wieder? }
 
-Plh_87 { Was machst du hier? }
+Plh_87 { Was machst du jetzt? }
 
 Plh_88 { Das geht dich gar nichts an. }
 
@@ -113,4 +113,90 @@ Plh_91 { Und jetzt störe nicht weiter meine Kreise. }
 Plh_92 { Du solltest dafür sorgen, dass ich absolut NICHTS abbekomme! Keinen Kratzer! }
 
 Plh_93 { War das SO schwer zu verstehen?! Ich wusste nicht, dass ich so einen Holzkopf angeworben habe. }
+
+Plh_94 { Was zum ... }
+
+Plh_95 { VERSCHWINDET, IHR MISTVIECHER, IHR KOMMT HIER NICHT REIN! }
+
+Plh_96 { Ich weiß, dass Erwin auf dich wartet. Willst du nicht zurück nach Nemeton? }
+
+Plh_97 { Hast du alle Froschlinge getötet? Ist es draußen sicher? }
+
+Plh_100 { Ach ja? Wie viele Frösche waren denn hier auf der Insel? }
+
+Plh_101 { 9 }
+
+Plh_102 { 10 }
+
+Plh_103 { Pah, dann waren das niemals alle. Drei haben Peter und ich ja schon erledigt, bevor sie ihn erwischt haben. }
+
+Plh_104 { Willst du mich verarschen? Ich kann hören, dass du noch nicht draußen warst. }
+
+Plh_105 { Hast du jetzt wirklich alle Froschlinge getötet? Wehe, du verarscht mich schon wieder. }
+
+Plh_106 { Das ... das kommt ungefähr hin. Hab es aus dem Augenwinkel gesehen. }
+
+Plh_107 { Durch die Tür kommt ihr nicht durch, solange ich hier stehe! }
+
+Plh_109 { RAAAAWRLOOUURRR! (Monstergeräusche imitieren) }
+
+Plh_110 { Äh, alles in Ordnung da drinnen? }
+
+Plh_111 { Wer bist du und was willst du hier? }
+
+Plh_112 { Teigen, bist du das? }
+
+Plh_113 { Ich bin einer Katze hierher gefolgt. }
+
+Plh_114 { Ich heiße $GVAR:EVars_Player.Name$ und hab mich nur ein bisschen umgesehen. }
+
+Plh_115 { AAAAAAAAAAAHHHHHHHH VERSCHWINDET! Elende Mistviecher ... }
+
+Plh_117 { Ah, immerhin hat Mikesh überlebt?! Tu ihm ja nichts an! }
+
+Plh_118 { Pah, du bist doch bestimmt nur ein Halsabschneider. Im Moment lauern die Banditen hinter jeder Ecke. Mich kriegst du nicht, verschwinde! }
+
+Plh_119 { Das würde ich niemals tun! }
+
+Plh_120 { Wer bist du und was willst du hier? }
+
+Plh_121 { Nein, bei den ganzen Viechern da draußen will ich lieber hier in meiner sicheren Höhle bleiben. }
+
+Plh_122 { Bin mit Peter hierher gekommen. Ihn haben die Viecher erwischt. Aber ich bin nicht so blöd und gehe aus dieser Höhle. }
+
+Plh_123 { Ich kann mich um die Froschlinge kümmern. }
+
+Plh_124 { Tu dir keinen Zwang an. Von mir wirst du keine Belohnung bekommen! }
+
+Plh_125 { Die Froschlinge sind alle tot. }
+
+Plh_127 { 11 }
+
+Plh_128 { 12 }
+
+Plh_129 { Komm erst wieder, wenn es draußen sicher ist. Ich lasse mich nicht verarschen. }
+
+Plh_130 { Gut, ich komme. Aber geh weg von der Tür. Dann komme ich raus. }
+
+Plh_131 { (von der Tür weggehen) }
+
+Plh_132 { (stehenbleiben) }
+
+Plh_133 { Verarsch mich nicht. Ich kann dich durch das morsche Holz schemenhaft sehen. Verschwinde von der Tür. }
+
+Plh_134 { *mustert dich* So stark siehst du nicht aus. Aber wenn der Weg frei ist, will ich mich nicht beklagen. }
+
+Plh_135 { Na gut, dann mache ich mich mal auf den Weg nach Nemeton ... }
+
+Plh_136 { Wie bist du denn hier drin gelandet? }
+
+Plh_137 { Ich wollte auf dem Weg nach Nemeton nur kurz etwas aus meinem Lager hier holen. Auf dem Rückweg sind wir von einer Horde Froschlinge überfallen worden ... }
+
+Plh_138 { Auf nach Nemeton. }
+
+Plh_139 { Ein paar von denen haben wir erledigt, aber dann hat es Peter unglücklich erwischt. Der einzige Ausweg für mich war, dass ich mich hier verschanze. }
+
+Plh_141 { Ich geh ja schon. Wir treffen uns in Nemeton. }
+
+Plh_142 { Dich kenne ich doch! Du hast mir damals in der Höhle geholfen. Wie es aussieht, hast du dich Nemeton angeschlossen? Dann hast du wirklich was drauf. Aber diese Sache ist gefährlicher als die Frösche vor der Höhle. }
 

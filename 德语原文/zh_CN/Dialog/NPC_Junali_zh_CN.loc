@@ -64,8 +64,6 @@ Plh_166 { Dann haben wir auch nichts mehr über die Waffenlieferungen zu besprec
 
 Plh_167 { Meine Arbeiter brauchen dringend Eierbier, sonst geht die Laune in den Keller. Kannst du so was brauen? }
 
-Plh_168 { Zeigst du mir, wie ich Eierbier herstellen kann? Deine Leute scheinen es zu mögen. }
-
 Plh_169 { Du gehörst zu uns, also - ja. }
 
 Plh_170 { Es ist eigentlich ganz einfach. Wirf alle Zutaten in den Topf, lass alles aufkochen. Schon ist das Eierbier fertig. Die Zutaten kennst du ja. *lächelt* }
@@ -105,8 +103,6 @@ Plh_187 { Ich möchte gerne eine Werkbank. ($GVAR:QuestVars_FavourOfCraftsmenCar
 Plh_188 { Ich würde gerne einen Rennofen haben. ($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ Münzen geben) }
 
 Plh_191 { Das sieht gut aus, ich kümmere mich drum. Morgen sollte es da sein. }
-
-Plh_192 { Wenn du die Münzen hast. }
 
 Plh_193 { Wenn du die Münzen hast, kann ich dir helfen. }
 

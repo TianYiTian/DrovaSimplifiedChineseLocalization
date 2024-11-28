@@ -4,7 +4,7 @@ control_mousebutton_left { Linksklick }
 
 control_mousebutton_right { Rechtsklick }
 
-control_keycode_space { Leertaste }
+control_keycode_space { Leer }
 
 control_keycode_control { Strg }
 
@@ -122,9 +122,13 @@ action_QuickslotAssignment { Schnellleiste zuweisen }
 
 action_DeleteQuickbarItem { Schnellleiste leeren }
 
-action_PrevPanel { Vorheriger Reiter }
+action_PrevPanel { Vorherige Menükategorie }
 
-action_NextPanel { Nächster Reiter }
+action_NextPanel { Nächste Menükategorie }
+
+action_PrevNavigation { Vorheriger Reiter }
+
+action_NextNavigation { Nächster Reiter }
 
 action_Lockpick_Left { Minigame links }
 
@@ -132,19 +136,19 @@ action_Lockpick_Right { Minigame rechts }
 
 action_GuiScrollY { Interface scrollen }
 
-action_PlayNote_1 { Note 1 }
+action_PlayNote_1 { Lyra Note 1 }
 
-action_PlayNote_2 { Note 2 }
+action_PlayNote_2 { Lyra Note 2 }
 
-action_PlayNote_3 { Note 3 }
+action_PlayNote_3 { Lyra Note 3 }
 
-action_PlayNote_4 { Note 4 }
+action_PlayNote_4 { Lyra Note 4 }
 
 action_CraftingMenu { Handwerksmenü }
 
 action_Squat { Hocke }
 
-action_DialogSkip { Dialog überspringen }
+action_DialogSkip { Dialog fortfahren }
 
 action_MoveX { Bewegung }
 
@@ -158,5 +162,37 @@ action_HelpUp { Aufhelfen }
 
 action_ToggleGarbageVisibility { Müll ein- und ausblenden }
 
-action_UIDelete { Löschen }
+action_UIDelete { GUI schließen }
+
+action_CamZoom { Zoom umschalten }
+
+action_toggleCraftables { Nur Herstellbare Rezepte anzeigen: an- und ausschalten }
+
+dialogoption_1 { Dialogoption 1 }
+
+dialogoption_2 { Dialogoption 2 }
+
+dialogoption_3 { Dialogoption 3 }
+
+dialogoption_4 { Dialogoption 4 }
+
+dialogoption_5 { Dialogoption 5 }
+
+dialogoption_6 { Dialogoption 6 }
+
+leftcontrol { LStrg }
+
+leftalt { LAlt }
+
+leftshift { LShift }
+
+rightcontrol { RStrg }
+
+rightalt { RAlt }
+
+rightshift { RShift }
+
+action_uiSubmit { GUI Bestätigung }
+
+action_minigameSubmit { Minigame Aktion }
 
