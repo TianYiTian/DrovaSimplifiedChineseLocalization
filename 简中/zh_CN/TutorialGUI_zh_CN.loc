@@ -1,0 +1,77 @@
+Title { 教程 }
+
+IsTrader { 商人 }
+
+Category_Basics { 基础知识 }
+
+Category_Journal { 日志 }
+
+Category_Combat { 战斗 }
+
+Category_Items { 物品 }
+
+Name_Movement { 移动 }
+
+Name_Perception_01 { 调查模式：环顾四周 }
+
+Name_Perception_02 { 调查模式：揭示 }
+
+Name_Perception_03 { 调查模式：检查 }
+
+Name_Interact { 互动 }
+
+Name_Stealing { 盗窃 }
+
+Name_Crafting { 制造 }
+
+Name_LevelUp { 升级 }
+
+Name_ChangeStance { 改变姿态 }
+
+Name_StatusEffects { 状态效果 }
+
+Name_UsedHealItem { 治疗 }
+
+Name_Journal { 日志条目 }
+
+Name_FirstNote { 备注 }
+
+Name_FirstTreasure { 藏宝图 }
+
+Name_Dodge { 闪避 }
+
+Name_SecondWeapon { 更换武器 }
+
+Name_Abilities_02 { 技能 }
+
+Name_BattleBuddies_Blocks { 格挡 }
+
+Name_BattleBuddies_Combos { 组合 }
+
+Name_BattleBuddies_GetFlow { 专注值 }
+
+Name_BattleBuddies_Spell { 法术 }
+
+Name_NeedMunition { 弹药 }
+
+Name_Secondaries { 次要攻击 }
+
+Name_PoiseBreak { 姿态 }
+
+Name_LookDirectionCombat { 战斗中的视线方向 }
+
+Name_FirstHeal { 治疗 }
+
+Name_FirstFood { 食物 }
+
+Name_FirstGoodFood { 丰盛的食物 }
+
+Name_FirstWeapon { 武器类型 }
+
+Name_FirstRangeWeapon { 近战武器 }
+
+Name_FirstConsFlow { 卷轴 }
+
+Name_FirstThrow { 使用物品 }
+
+Name_FistRecipe { 配方 }

@@ -10,7 +10,7 @@ MapName_Nemeton { 涅墨顿 }
 
 MapName_Ruincamp { 流亡者营地 }
 
-MapName_Leuchtwald { 黑暗森林 }
+MapName_Leuchtwald { 原初森林 }
 
 MapName_Tristan { 特里斯坦的地图 }
 
@@ -27,3 +27,5 @@ PlaceMarker { 放置标记 }
 DeleteMarker { 删除标记 }
 
 Hint_Ink { 购买墨水，以在地图上标记地点。 }
+
+MapName_CaveSystem { 洞穴系统 }

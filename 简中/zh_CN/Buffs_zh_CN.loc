@@ -4,7 +4,7 @@ SleepBuffDescription { 你比平时跑得更快 [MovementPercent]。 }
 
 Poison { 中毒 }
 
-PoisonDescription { 你比平时跑得更慢 [MovementPercent]。 }
+PoisonDescription { 你比平时跑得更慢 [MovementPercent]，并且减少护甲 [ArmorReduce]。 }
 
 Bleeding { 出血 }
 
@@ -23,3 +23,8 @@ Intoxicated_Desc { 你感觉周围有点模糊... }
 NoFood_Name { 饥肠辘辘 }
 
 NoFood_Desc { 吃点什么来填饱自己的肚子，只有这样，受伤以后，你才能随着时间恢复健康。 }
+
+waterbarrel { 水 }
+
+waterbarrel_description { 在短时间内治疗你。 }
+

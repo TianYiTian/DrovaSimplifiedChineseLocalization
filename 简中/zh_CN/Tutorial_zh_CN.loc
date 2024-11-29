@@ -10,7 +10,7 @@ Perception_01 { 按住 $INPUTANIM:PerceptionMode$ 以激活调查模式。这样
 
 Perception_01_Gamepad { 按下$INPUTANIM:PerceptionMode$ 以激活调查模式。这样，你可以看到物体背后或透过迷雾。 }
 
-Perception_02 { 如果你仔细观察，你可以发现平时看不见的东西，比如[脚印]。 }
+Perception_02 { 如果你仔细观察，你可以发现平时看不见的东西，比如脚印。 }
 
 ChangeStance { 按下 $INPUTANIM:DrawWeapon$ 来拔出或收起你的武器。使用已拔出的武器按下 $INPUTANIM:Attack_Primary$ 来攻击。 }
 
@@ -52,15 +52,15 @@ FirstWeapon { 你找到了一把武器。<br>使用$INPUTANIM:Inventory$打开�
 
 FirstNote { 你发现了一份手稿。<br>你所有的卷轴都会被收集在日志的 手稿 标签下。你可以在那里随时再次阅读它们。 }
 
-FirstNote_Gamepad { 你发现了一本手稿。<br>请使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。你所有的手稿都会被收集在 手稿 标签页下，你可以随时在那里重新阅读它们。 }
+FirstNote_Gamepad { 你发现了一本手稿。<br>请使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日志标签页。你所有的手稿都会被收集在 手稿 标签页下，你可以随时在那里重新阅读它们。 }
 
 NeedMunition { 要在战斗中使用远程武器，你必须使用$INPUTANIM:Block$将其装填。 }
 
 FirstRangeWeapon { 你找到了一件远程武器。<br>在物品栏中装备它。<br>要使用它，你必须通过物品栏装备合适的弹药。 }
 
-Journal { 你有一个新的日记条目。<br>使用$INPUTANIM:Journal$打开日记。<br>在那里，你可以随时查看你任务的最新进展。 }
+Journal { 你有一个新的日志条目。<br>使用$INPUTANIM:Journal$打开日志。<br>在那里，你可以随时查看你任务的最新进展。 }
 
-Journal_Gamepad { 你有一个新的日记条目。<br>使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。<br>在那里，你可以随时查看你任务的最新进展。 }
+Journal_Gamepad { 你有一个新的日志条目。<br>使用$INPUTANIM:Inventory$打开菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日志标签页。<br>在那里，你可以随时查看你任务的最新进展。 }
 
 FirstConsFlow_Gamepad { 你找到了一个卷轴。<br>打开$INPUTANIM:Inventory$菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到技能标签。在那里你可以装备卷轴。<br>在困难的战斗中，它们可以给你很大的帮助。囤积不会给你带来任何优势。 }
 
@@ -94,8 +94,8 @@ LookDirectionCombat { 在战斗中，你总是朝着视线方向攻击。<br>你
 
 LookDirectionCombat_Gamepad { 在战斗中，你总是朝着你所面对的方向攻击。<br>你可以通过角色下方的箭头来判断你正在朝哪个方向看。<br>你使用$INPUTANIM:LookX$来控制你的视线方向。 }
 
-FirstTreasure { 你发现了一张藏宝图。<br>你所有的藏宝图都会被收集在日志的[Schriften]标签页下。你可以在那里随时再次查看它们。 }
+FirstTreasure { 你找到了一张藏宝图。<br>你所有的藏宝图都会被收集在日志的文字标签页下。你可以在任何时候再次查看它们。 }
 
-FirstTreasure_Gamepad { 你找到了一张藏宝图。<br>打开$INPUTANIM:Inventory$菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日记标签页。<br>你所有的藏宝图都会在日记的信件标签页下收集。你可以在那里随时再次查看它们。 }
+FirstTreasure_Gamepad { 你找到了一张藏宝图。<br>打开$INPUTANIM:Inventory$菜单，并通过$INPUTANIM:PrevPanel$和$INPUTANIM:NextPanel$导航到日志标签页。<br>你所有的藏宝图都会在日志的信件标签页下收集。你可以在那里随时再次查看它们。 }
 
 FirstRecipe { 你找到了一个食谱。<br>使用$INPUTANIM:Inventory$打开背包。在那里，你可以通过使用$INPUTANIM:Interact$来学习这个食谱。 }

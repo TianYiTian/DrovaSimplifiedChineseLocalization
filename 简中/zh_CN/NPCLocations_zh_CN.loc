@@ -1,0 +1,113 @@
+Faction_Neutral { 中立 }
+
+Remnants_Arena { 流亡者营地竞技场区域 }
+
+Remnants_WayToMine { 位于流亡者营地矿井的南侧 }
+
+Nemeton_Gate_North { 涅墨顿北门 }
+
+Nemeton_Dormitory { 东部的涅墨顿 }
+
+Woodcamp { 伐木工营地 }
+
+Remnants_Mine { 流亡者营地矿洞 }
+
+Remnants_MinerArea { 流亡者营地矿工街区 }
+
+Nemeton_Palisades_North { 涅墨顿城墙北壁 }
+
+Neutral_SilverMine { 河流床上的银矿 }
+
+Cave_RuinRaiders { 废墟劫掠者的藏身处 }
+
+Tavern_Forest { 无头开膛兽酒馆 }
+
+Nemeton_WarriorsQuarter { 涅墨顿战斗区 }
+
+Remnants_Academy { 流亡者营地学院 }
+
+Neutral_Forest { 在针叶林的北边 }
+
+Remnants_Market { 流亡者营地集市广场 }
+
+MissingPerson { 失踪 }
+
+Remnants_UpperQuarter { 流亡者营地上层区域 }
+
+Remnants_Tavern { 伯诺德的酒馆 }
+
+Neutral_Refugee { 避难所 }
+
+Nemeton_Kitchen { 涅墨顿厨房 }
+
+Remnants_LostQuater { 流亡者营地暗黑街区 }
+
+Nemeton_FrontCamp { 涅墨顿的储藏室 }
+
+Nemeton_CraftingQuarter { 涅墨顿工匠区 }
+
+Nemeton_Market { 涅墨顿市场 }
+
+Nemeton_Farm_Georg { 乔治的农场 }
+
+Neutral_DestroyedBridge { 破损的桥梁 }
+
+Neutral_Heath { 草原 }
+
+Nemeton_Global { 涅墨顿 }
+
+Remnants_Entry { 流亡者营地入口 }
+
+Remnants_Global { 流亡者营地 }
+
+Nemeton_MarketAndCrafting { 涅墨顿市场广场 / 工匠区 }
+
+Nemeton_Moor_South { 涅墨顿以南的沼泽 }
+
+Nemeton_Garden { 东部的涅墨顿花园 }
+
+Neutral_Maw { 深渊 }
+
+Nemeton_WarriorQuarter { 涅墨顿战士区 }
+
+Nemeton_SacredGrove { 涅墨顿圣林 }
+
+Neutral_River_WoodcampAndRemnants { 河流位于伐木营地和流亡者营地之间 }
+
+Nemeton_AppleGrove { 涅墨顿附近的苹果林 }
+
+Nemeton_BridgeToDruids { 涅墨顿桥通往德鲁伊区 }
+
+Neutral_FloodplainForest_Plateau_Ruins { 在河漫森林的地下废墟 }
+
+Nemeton_Gate_South { 涅墨顿南门 }
+
+Neutral_ForestPrimeval_Border { 原初森林边缘 }
+
+Neutral_Cave_Woodcamp_South { 在伐木营地附近 }
+
+Dead { 死亡 }
+
+DrivaniusChamber { 德瑞瓦尼乌斯之室 }
+
+Riverbed_North { 北部的河床 }
+
+Neutral_ForestPrimeval { 原初森林 }
+
+Remnants_Underground { 地下流亡者营地 }
+
+TravelingMerchants { 流亡者营地入口，涅墨顿入口，酒馆，乔治院子西侧 }
+
+Neutral_Forest_Camp { 针叶林中的仓库 }
+
+Unknown { ??? }
+
+Nemeton_DruidCave { 涅墨顿德鲁伊洞穴 }
+
+Nemeton_Leader { 涅墨顿领袖宅邸 }
+
+Expedition_Moor { 沼泽探险 }
+
+Nemeton_Muc { 涅墨顿南门、乔治的农场或苹果林 }
+
+SmugglersDen { 走私窝点 }

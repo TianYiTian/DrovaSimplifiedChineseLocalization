@@ -70,7 +70,7 @@ LeaveLeuchtwald_34 { 这一定是因为神圣的存在。 }
 
 LeaveLeuchtwald_35 { 大家，看看周围。 }
 
-LeaveLeuchtwald_36 { 整个黑暗森林是…… }
+LeaveLeuchtwald_36 { 整个原初森林是…… }
 
 LeaveLeuchtwald_37 { 摧毁。 }
 
@@ -370,7 +370,7 @@ R_JurekGoToJola_184 { 好的，谢谢。 }
 
 RunToFirstMobsIntent_185 { 跟我来，我知道一条捷径！ }
 
-PanicAtFirstMobs_186 { 小精灵! 你输了！ }
+PanicAtFirstMobs_186 { 小雾妖! 你输了！ }
 
 PanicAtFirstMobs_187 { 还有谁! }
 
@@ -386,7 +386,7 @@ PanicAtSecondMobs_192 { 你应该保护我！ }
 
 PanicAtSecondMobs_193 { 你到底在干什么？！ }
 
-RunToThirdMobs_194 { 这些小精灵...真吓人。 }
+RunToThirdMobs_194 { 这些小雾妖...真吓人。 }
 
 RunToThirdMobs_195 { 讨厌的苍蝇。干掉它们！ }
 
@@ -480,7 +480,7 @@ Morning_PostHoneyQuest_239 { 新鲜的蜂蜜来了！ }
 
 R_CarimaSpectateBlaanBlock_240 { 阻挡布兰的攻击! }
 
-JendrikWaitAtAmbushSpot_244 { 该死的斯普里加... }
+JendrikWaitAtAmbushSpot_244 { 该死的树精... }
 
 JendrikWaitAtAmbushSpot_245 { 我无法这样工作。 }
 
@@ -670,7 +670,7 @@ IDLE_AfterFight_337 { 符文起作用了。 }
 
 IDLE_AfterFight_338 { 符文仍然有效。真是幸运！ }
 
-HitReceiver_339 { 他们到底对斯普里加做了什么？ }
+HitReceiver_339 { 他们到底对树精做了什么？ }
 
 HitReceiver_Reija_Dialog_EnterWurmArea_340 { 这里有些不对劲。 }
 

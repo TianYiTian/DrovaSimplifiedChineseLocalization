@@ -12,13 +12,13 @@ Plh_5 { Plh_5 }
 
 Plh_6 { Plh_6 }
 
-Plh_8 { [SubTreeAfterHub] }
+Plh_8 { 在枢纽之后 }
 
 Plh_9 { Plh_9 }
 
 Plh_11 { 默认 }
 
-Plh_12 { 高举[Nichts] }
+Plh_12 { 没有拉出任何东西 }
 
 Plh_13 { Plh_13 }
 
@@ -26,7 +26,7 @@ Plh_14 { Plh_14 }
 
 Plh_15 { Plh_15 }
 
-Plh_16 { [Plh_16] }
+Plh_16 { Plh_16 }
 
 Plh_17 { Plh_17 }
 
@@ -44,7 +44,7 @@ Plh_23 { HubNodeCase1 选项 1 被提升 }
 
 Plh_24 { Case1 选项2 被拉起 }
 
-Plh_25 { 第二个文本不应有[Zwei Hoch] }
+Plh_25 { 第二个文本不应该有两个高 }
 
 Plh_26 { 成功完成 2 }
 
@@ -66,7 +66,7 @@ Plh_34 { 子等级3 }
 
 Plh_35 { 已到达SubLevel3 }
 
-Plh_36 { [Plh_36] }
+Plh_36 { Plh_36 }
 
 Plh_37 { Plh_37 }
 
@@ -76,8 +76,6 @@ Plh_39 { Plh_39 }
 
 Plh_40 { Plh_40 }
 
-test_weapon_sword_branch_name { 测试武器[剑枝]名称 }
+test_weapon_sword_branch_name { 测试武器剑枝名称 }
 
-test_weapon_sword_branch_description { [test_weapon_sword_branch_description]
-
-这把剑的剑刃由一种神秘的金属制成，具有独特的分支设计。每一次挥舞都像是在与风共舞，仿佛剑刃本身就拥有生命。剑身的分支不仅增加了攻击范围，还使得每一次攻击都具有多重打击的效果。持有者需具备精湛的剑术，才能完全发挥这把剑的潜力。 }
+test_weapon_sword_branch_description { 测试武器剑枝名称 }

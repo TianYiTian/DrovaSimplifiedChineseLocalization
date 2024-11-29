@@ -12,7 +12,7 @@ Title_Panel { 制造面板 }
 
 Toggle_CraftableOnly { 仅显示可制作的配方 }
 
-Foldout_Throw { 设备 }
+Foldout_Throw { 使用物品 }
 
 Foldout_Ammo { 弹药 }
 

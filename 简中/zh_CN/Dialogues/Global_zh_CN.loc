@@ -132,6 +132,26 @@ PlayerSaysTheyDontHaveMoney { 我没有足够的金币... }
 
 Leave { (离开) }
 
-OnlyNemetonTeaching { 我只给来自涅墨顿的战士们带来东西。 }
+OnlyNemetonTeaching { 我只为来自涅墨顿的勇士们带来所需之物。 }
 
-HaveRostmoos { 我带了铁锈苔藓。你需要什么吗？ }
+HaveRostmoos { 我带了锈苔。你需要什么吗？ }
+
+FastTravel { 你能带上我吗？ }
+
+FastTravel_Ruinenlager { 带我到流亡者营地。 }
+
+FastTravel_Nemeton { 带我去涅墨顿。 }
+
+FastTravel_Tavern { 带我去酒馆。 }
+
+FastTravel_Georgsfarm { 带我去乔治的农场。 }
+
+FastTravel_Rejected { 如果你改变了主意……你知道在哪里可以找到我。 }
+
+FastTravel_Accepted { 好的，从后面跳上车。马上就要出发了。 }
+
+FastTravel_IntroChapter2_01 { 你可以搭我的车，如果你不想独自上路的话。 }
+
+FastTravel_IntroChapter2_02 { 只需花费$GVAR:QuestVars_FastTravel_Config.Costs$金币即可。 }
+
+FastTravel_GerogsFarm { 我们找到了一位新伙伴，现在也要前往乔治的农场了。 }

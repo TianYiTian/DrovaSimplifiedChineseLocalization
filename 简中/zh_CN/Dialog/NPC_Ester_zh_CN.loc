@@ -139,3 +139,51 @@ Plh_106 { 那儿是我的幸运符。*咧嘴笑* }
 Plh_107 { 该死的巴迪。我所有的硬币…… }
 
 Plh_108 { 嗯？你想要我做什么？ }
+
+Plh_110 { 我现在在竞技场战斗...我做到了！ }
+
+Plh_111 { 你走开，因为你，我输掉了赌注。 }
+
+Plh_112 { 这可是个赚大钱的机会。要是你哪天需要帮忙，尽管找我。如果战斗形势对你不利，我还能帮上忙...你懂的。 }
+
+Plh_113 { 你确实是我们中的一员。很高兴你选择了鲍里斯。这样对你来说会更划算。*咧嘴笑* }
+
+Plh_114 { 我即将在竞技场中战斗。或许你能帮我...“助力”？ }
+
+Plh_115 { 当然可以...如果你能帮我让更多的硬币进入我的口袋。 }
+
+Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ 金币，这样战斗对你来说就会轻松多了。*咧嘴一笑* }
+
+Plh_117 { 既然你属于我们……我们给你$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$金币，这样战斗对你来说就会轻松不少。*咧嘴笑* }
+
+Plh_118 { 当然，前提是你有足够的硬币。 }
+
+Plh_119 { 这里是硬币。（给予 $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ 枚硬币） }
+
+Plh_121 { 这里是硬币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ ） }
+
+Plh_124 { 我看到了你的战斗。干得漂亮！*咧嘴笑* 你果然没让我失望。 }
+
+Plh_125 { 既然你属于我们……我们就给你$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$硬币，这样战斗对你来说会轻松不少。*咧嘴笑* }
+
+Plh_126 { 这里是硬币。(给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ 枚硬币) }
+
+Plh_127 { 这里是你需要的金币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$） }
+
+Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ 枚金币，这样战斗对你来说就会变得轻松许多。*咧嘴一笑* }
+
+Plh_129 { 既然你属于我们...我们说$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$金币，那么战斗对你来说就会容易得多。*咧嘴笑* }
+
+Plh_130 { 如果你能拿到$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$枚硬币，战斗对你来说将会轻松许多。*咧嘴笑* }
+
+Plh_131 { 这里是硬币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$枚硬币） }
+
+Plh_132 { 这里是硬币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ ） }
+
+Plh_133 { 由于你属于我们...我们愿意提供$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$硬币，这样战斗对你来说将会变得轻松许多。*咧嘴笑* }
+
+Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ 枚硬币，这样战斗对你来说会变得轻松许多。*咧嘴一笑* }
+
+Plh_135 { 这里是硬币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$枚硬币） }
+
+Plh_136 { 这里是硬币。（给 $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ 个） }

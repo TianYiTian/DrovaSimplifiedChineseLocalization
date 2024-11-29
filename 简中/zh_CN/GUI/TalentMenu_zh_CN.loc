@@ -24,8 +24,6 @@ Category_Slingshot { 弹弓 }
 
 Category_Shield { 盾牌 }
 
-fighting_strength { 战斗力 }
-
 requirement { 要求： }
 
 Category_Preparation { 准备 }

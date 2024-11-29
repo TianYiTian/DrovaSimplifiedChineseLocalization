@@ -25,3 +25,5 @@ ExchangeOnly { 仅限交易 }
 Comment_NoCoins { 我不接受硬币。 }
 
 SellWholeStack { 添加/移除交易物品堆叠。 }
+
+Sell_Ten { 添加/移除 10 件用于交易。 }

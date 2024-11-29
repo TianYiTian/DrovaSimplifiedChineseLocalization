@@ -122,9 +122,13 @@ action_QuickslotAssignment { 分配快捷栏 }
 
 action_DeleteQuickbarItem { 清空快捷栏 }
 
-action_PrevPanel { 上一个标签页 }
+action_PrevPanel { 上一个菜单类别 }
 
-action_NextPanel { 下一位标签页 }
+action_NextPanel { 下一位菜单类别 }
+
+action_PrevNavigation { 上一个标签页 }
+
+action_NextNavigation { 下一个标签页 }
 
 action_Lockpick_Left { 小游戏左侧 }
 
@@ -132,19 +136,19 @@ action_Lockpick_Right { 小游戏右侧 }
 
 action_GuiScrollY { 滚动界面 }
 
-action_PlayNote_1 { 提示 1 }
+action_PlayNote_1 { 里拉琴音符 1 }
 
-action_PlayNote_2 { 提示 2 }
+action_PlayNote_2 { 里拉琴音符 2 }
 
-action_PlayNote_3 { 提示 3 }
+action_PlayNote_3 { 里拉琴音符 3 }
 
-action_PlayNote_4 { 提示 4 }
+action_PlayNote_4 { 里拉琴音符 4 }
 
 action_CraftingMenu { 工艺菜单 }
 
 action_Squat { 蹲下 }
 
-action_DialogSkip { 跳过对话 }
+action_DialogSkip { 继续对话 }
 
 action_MoveX { 移动 }
 
@@ -158,4 +162,38 @@ action_HelpUp { 帮忙 }
 
 action_ToggleGarbagevisibility { 显示/隐藏垃圾 }
 
-action_UIDelete { 删除 }
+action_UIDelete { 关闭GUI }
+
+action_CamZoom { 切换缩放 }
+
+action_toggleCraftables { 仅显示可制作的配方：开启与关闭 }
+
+dialogoption_1 { 对话选项 1 }
+
+dialogoption_2 { 对话选项 2 }
+
+dialogoption_3 { 对话选项 3 }
+
+dialogoption_4 { 对话选项 4 }
+
+dialogoption_5 { 对话选项 5 }
+
+dialogoption_6 { 对话选项 6 }
+
+leftcontrol { 左Ctrl }
+
+leftalt { 左Alt }
+
+leftshift { 左Shift }
+
+rightcontrol { 右Ctrl }
+
+rightalt { 右Alt }
+
+rightshift { 右Shift }
+
+action_uiSubmit { GUI确认 }
+
+action_minigameSubmit { 小游戏行动 }
+
+

@@ -1,6 +1,6 @@
-Entry_Created { 新日记条目 }
+Entry_Created { 新日志条目 }
 
-Entry_Updated { 已更新日记 }
+Entry_Updated { 已更新日志 }
 
 OthersUpdated { +$JOURNAL:Others$ 杂项 }
 
@@ -34,7 +34,7 @@ Group_MainQuest { 主线任务 }
 
 Group_Dungeon_Library { 图书馆 }
 
-Group_Dungeon_City { 黑暗森林中的城市 }
+Group_Dungeon_City { 原初森林中的城市 }
 
 Group_Dungeon_Auwald { 冲积森林高原 }
 

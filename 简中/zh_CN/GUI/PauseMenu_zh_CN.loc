@@ -8,6 +8,5 @@ LoadLatest { 加载最后存档 }
 
 ToMainMenu { 返回主菜单 }
 
-Language { 语言 }
-
 PleaseWait { 请稍等，游戏正在保存 }
+

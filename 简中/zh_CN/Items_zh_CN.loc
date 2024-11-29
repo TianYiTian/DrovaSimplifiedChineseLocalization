@@ -62,9 +62,9 @@ item_healthPlant_1_description {  }
 
 item_lanternFruit_name { 灯笼果 }
 
-item_lanternFruit_description { 在黑暗森林的树木上可以找到。 }
+item_lanternFruit_description { 在原初森林的树木上可以找到。 }
 
-item_lyra_name { 竖琴 }
+item_lyra_name { 里拉琴 }
 
 misc_lockpick_simple_name { 简易开锁器 }
 
@@ -824,15 +824,9 @@ item_auwaldDungeon_description {  }
 
 misc_riddle_sundial_name { 白羊座 }
 
-misc_riddle_sundial_description {  }
-
 misc_riddle_mirror_name { 镜子 }
 
-misc_riddle_mirror_description {  }
-
 misc_riddle_incense_name { 熏香罐 }
-
-misc_riddle_incense_description {  }
 
 misc_riddle_horn_name { 号角 }
 
@@ -843,8 +837,6 @@ misc_riddle_conch_name { 贝壳 }
 misc_riddle_conch_description {  }
 
 misc_riddle_club_name { 仪式之剑 }
-
-misc_riddle_club_description {  }
 
 item_yellowGlyphStone_name { 黄灿灿的宝石 }
 
@@ -900,8 +892,6 @@ item_spiritVessel_greatTusk_description {  }
 
 item_atlanterRune_name { 奇怪的符文 }
 
-item_atlanterRune_description {  }
-
 item_runestone_name { 符文石 }
 
 item_runestone_empty_name { 空白的符文石 }
@@ -940,9 +930,9 @@ misc_writing_importantdocument_name { 水晶的下落 }
 
 misc_writing_importantdocument_description {  }
 
-item_energycrystal_cityDungeon_empty_name { 来自黑暗森林的耗竭水晶 }
+item_energycrystal_cityDungeon_empty_name { 来自原初森林的耗竭水晶 }
 
-item_energycrystal_cityDungeon_charged_name { 黑暗森林的能量满溢的水晶 }
+item_energycrystal_cityDungeon_charged_name { 原初森林的能量满溢的水晶 }
 
 item_energycrystal_aufwald_charged_name { 来自河漫森林的能量满溢的水晶 }
 
@@ -1026,9 +1016,9 @@ cons_flow_spartanKick_name { 踢击 }
 
 cons_flow_spartanKick_description { 造成[DamageFlexAbs]点伤害并击退敌人。 }
 
-cons_flow_execute_name { 处决 }
+cons_flow_execute_name { 血腥狂热 }
 
-cons_flow_execute_description { 造成[WeaponDamagePercent]武器伤害，并且每层敌人身上的流血效果额外造成[WeaponDamagePercent2]武器伤害。 }
+cons_flow_execute_description { 造成[WeaponDamagePercent]武器伤害，并且根据每层敌人身上的流血效果额外造成[WeaponDamagePercent2]武器伤害。同时，附加一层流血效果。 }
 
 cons_flow_pierce_name { 穿刺 }
 
@@ -1038,9 +1028,9 @@ cons_flow_infection_name { 感染 }
 
 cons_flow_infection_description { 造成[WeaponDamagePercent]武器伤害，并在存在活跃流血效果时使敌人中毒。 }
 
-cons_flow_bloodRage_name { 血怒 }
+cons_flow_bloodRage_name { 处决 }
 
-cons_flow_bloodRage_description { 造成[WeaponDamagePercent]武器伤害的强力攻击。若用血怒杀死敌人，你将恢复专注值消耗 }
+cons_flow_bloodRage_description { 造成[WeaponDamagePercent]武器伤害的强力攻击。若用处决杀死敌人，你将恢复专注值消耗 }
 
 item_rubin_name { 红宝石 }
 
@@ -1072,7 +1062,7 @@ cons_flow_root_cone_description { 召唤根须，将你前方锥形范围内的�
 
 cons_flow_conjure_pack_name { 召唤：狼群 }
 
-cons_flow_conjure_pack_description { 召唤一群撕裂者，将你的敌人撕成碎片。 }
+cons_flow_conjure_pack_description { 召唤一群开膛兽，将你的敌人撕成碎片。 }
 
 cons_flow_conjure_insects_name { 召唤：昆虫 }
 
@@ -1292,7 +1282,7 @@ item_bogwheat_description { 在沼泽边的废墟中生长。 }
 
 item_glauglocke_name { 灰百合 }
 
-item_glauglocke_description { 生长在黑暗森林中。 }
+item_glauglocke_description { 生长在原初森林中。 }
 
 item_riverbedmoss_name { 河床苔藓 }
 
@@ -1716,11 +1706,7 @@ misc_riddle_deer_description { 一件来自远古的魔法神器，与神祇有�
 
 misc_riddle_fox_name { 银色爪子 }
 
-misc_riddle_fox_description {  }
-
 misc_riddle_eagle_name { 银色羽毛 }
-
-misc_riddle_eagle_description {  }
 
 weapon_sword_karottegladius_name { 卡罗特的武器 }
 
@@ -1792,7 +1778,7 @@ recipe_flow_battleCry_name { 技能：战斗咆哮 }
 
 recipe_flow_blink_name { 技能：迷踪步 }
 
-recipe_flow_bloodRage_name { 技能： 血怒 }
+recipe_flow_bloodRage_name { 技能：处决 }
 
 recipe_flow_bullRush_name { 能力：突击 }
 
@@ -1802,7 +1788,7 @@ recipe_flow_dash_name { 技能：冲刺 }
 
 recipe_flow_energyProjectile_name { 法术：魔法飞弹 }
 
-recipe_flow_execute_name { 能力：处决 }
+recipe_flow_execute_name { 能力：血腥狂热 }
 
 recipe_flow_ferventCry_name { 技能：狂热咆哮 }
 
@@ -2280,6 +2266,10 @@ misc_worldmap_shrines_name { 神殿地图 }
 
 misc_worldmap_shrines_description {  }
 
+misc_caveSystem_name { 洞穴地图 }
+
+misc_caveSystem_description { 一张位于流亡者营地下方洞穴系统的地图。}
+
 armor_chest_ruinenlager_gladiator_name { 角斗士盔甲 }
 
 armor_chest_ruinenlager_gladiator_description { 每损失1%生命，受到的伤害减少1%。最多减少90%<br><br>一件浸透了对手鲜血的盔甲。胜利属于我。 }
@@ -2574,7 +2564,7 @@ item_letterTableBrutus_3_name { 德瑞瓦尼乌斯最后的研究 I }
 
 item_letterTableBrutus_3_description {  }
 
-helmet_brutus_name_name { 枢纽头盔 }
+helmet_brutus_name_name { 奈克瑟斯之盔 }
 
 helmet_brutus_name_description { 一个装饰着许多符文的奇特头盔。 }
 
@@ -2761,3 +2751,16 @@ recipe_throwingknife_name { 配方：飞刀 }
 item_letterAtlanter_Armor_name { 往者的盔甲 }
 
 item_letterAtlanter_Armor_description {  }
+
+item_potion_respec_name { 遗忘药剂 }
+
+item_potion_respec_description { 一种高度含酒精的饮品。传说中，喝下这一滴后，人们便不再记得此事。<br>（使用学习点数重置已学习的技能） }
+
+weapon_sling_legendarySlingshot_name { 旋风 }
+
+weapon_sling_legendarySlingshot_description { 风环绕着弹弓，增强了它的动量。 }
+
+item_letterCelts_Spark_name { 伯蒂娜的火花 }
+
+item_letter_library_soundRoom_note2_name { 共振号角 }
+

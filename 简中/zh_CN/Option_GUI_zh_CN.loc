@@ -120,11 +120,15 @@ Title_Keyboard { 键盘 }
 
 Option_Generic_Off { 离开 }
 
-Autosave_Min3 { 3 分钟 }
+Autosave_Min3 { 3分钟 }
 
 Autosave_Min5 { 5分钟 }
 
 Autosave_Min10 { 10分钟 }
+
+Autosave_Min20 { 20分钟 }
+
+Autosave_Min30 { 30分钟 }
 
 Title_FontAndDialog { 文字和对话 }
 
@@ -263,3 +267,12 @@ PlayerDmgOutput { 额外玩家伤害 }
 Toggle_MiniGame { 禁用小游戏 }
 
 MouseLock { 限制鼠标在窗口内移动 }
+
+UseHardwareMouse { 硬件鼠标指针 }
+
+UseAltFriendlyColor { 友军生命条的替代颜色 }
+
+FontSize_VeryBig { 更大 }
+
+category_quickbar { 快捷栏 }
+

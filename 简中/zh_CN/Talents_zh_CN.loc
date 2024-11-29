@@ -1,6 +1,6 @@
 talent_sword_01 { 简单的剑术 }
 
-talent_sword_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]的伤害，并学会处决技能。 }
+talent_sword_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]的伤害，并学会血腥狂热技能。 }
 
 talent_sword_02 { 训练有素的剑术 }
 
@@ -72,7 +72,7 @@ talent_slingshot_02_desc { 增加[DamageValuePercent]的伤害和[PoiseValuePerc
 
 talent_axe_01 { 简易斧战 }
 
-talent_axe_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]的伤害，并学会武器技能血怒。 }
+talent_axe_01_desc { 改善你的战斗姿态，增加[DamageValuePercent]的伤害，并学会武器技能处决。 }
 
 talent_axe_02 { 训练有素的斧战 }
 
@@ -132,7 +132,7 @@ talent_axe_decreasestamina_desc { 斧头重攻击消耗的耐力减少[StaminaVa
 
 Talent_Daggers_CritAfterDodge { 惊喜效果 }
 
-Talent_Daggers_CritAfterDodge_desc { 闪避后立即进行的第一次匕首攻击，其暴击几率将提升[CritPercent]。 }
+Talent_Daggers_CritAfterDodge_desc { 闪避后立即进行的第一次匕首攻击，其暴击几率将提升四倍。 }
 
 Talent_Daggers_DecreaseFlow { 全神贯注！ }
 
@@ -164,7 +164,7 @@ Talent_Spear_MoreDmgOnHead_desc { 矛尖额外造成最多[DamageValuePercent]�
 
 Talent_Spear_PoiseOnCrit { 剧毒尖刺 }
 
-Talent_Spear_PoiseOnCrit_desc { 长矛的暴击会额外毒害敌人。 }
+Talent_Spear_PoiseOnCrit_desc { 使用长矛暴击时，有[ChanceToPoison]的几率使敌人额外中毒。 }
 
 Talent_Bow_InstantAfterDodge { 快速抽取 }
 

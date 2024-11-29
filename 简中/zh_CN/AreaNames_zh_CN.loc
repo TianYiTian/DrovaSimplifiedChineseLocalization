@@ -30,9 +30,9 @@ DeathMoor { 死亡沼泽 }
 
 RottenMoor { 肉沼泽 }
 
-Auwald { 河岸森林 }
+Auwald { 河漫森林 }
 
-Leuchtwald { 黑暗森林 }
+Leuchtwald { 原初森林 }
 
 Mutter { 母亲 }
 
@@ -42,9 +42,9 @@ RedTower { 红色塔楼 }
 
 Library { 图书馆 }
 
-CityDungeon { 黑暗森林-城镇 }
+CityDungeon { 原初森林-城镇 }
 
-SpiderDungeon { 河岸森林-高原 }
+SpiderDungeon { 河漫森林-高原 }
 
 Cave { 洞穴 }
 

@@ -2,7 +2,7 @@ Entry_01 { 奥尔佳和卢滕需要马蹄蘑的提取物来制作他们想送给
 
 Entry_03 { 如果我想要提取物，我必须给亨伯特带来$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$个马蹄蘑。我应该在涅墨顿外的沼泽地里找到它们。 }
 
-Entry_04_Wait { 我给了莫伯特那些马蹄蘑。他需要一点时间，应该不会太久。.}
+Entry_04_Wait { 我已经把马蹄蘑给了亨伯特。他需要一点时间，应该不会太久。 }
 
 Entry_04 { 我已经拿到了提取物。现在我只需要把它带给奥尔佳和卢滕。 }
 
