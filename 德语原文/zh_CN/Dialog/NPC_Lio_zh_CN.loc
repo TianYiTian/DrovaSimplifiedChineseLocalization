@@ -88,11 +88,11 @@ Plh_86 { Ich kann dir eine leichte Rüstung geben - macht dich beweglicher, aber
 
 Plh_87 { Die Magie, die uns umgibt, ist überall. Ich kann dir auch eine unserer druidischen Rüstungen geben. Sie schützt dich zwar nicht ganz so gut, aber dafür verstärkt sie die Verbindung mit deinem Geist. }
 
-Plh_88 { Ich möchte die leichte Rüstung. }
+Plh_88 { Ich möchte die leichte Rüstung. <br>(92 Rüstung, 59 Magieresistenz, Ausdauerkosten -30%) }
 
-Plh_89 { Ich möchte die schwere Rüstung. }
+Plh_89 { Ich möchte die schwere Rüstung. <br>(135 Rüstung, 65 Magieresistenz, Haltungsschaden -50%) }
 
-Plh_90 { Ich möchte die magische Rüstung. }
+Plh_90 { Ich möchte die magische Rüstung. <br>(90 Rüstung, 70 Magieresistenz, Magieschaden +20%, Grundfokus +6) }
 
 Plh_91 { Kämpfe für Nemeton. Kämpfe für unseren Traum. }
 

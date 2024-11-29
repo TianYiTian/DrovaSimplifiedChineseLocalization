@@ -27,3 +27,5 @@ PlaceMarker { Stempel plazieren }
 DeleteMarker { Stempel löschen }
 
 Hint_Ink { Kaufe Tinte, um Orte auf der Karte zu markieren. }
+
+MapName_CaveSystem { Höhlensystem }

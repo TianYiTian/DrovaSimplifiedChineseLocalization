@@ -56,7 +56,7 @@ LoadingScreen_35 { Für das Herstellen mancher Gegenstände brauchst du die rich
 
 LoadingScreen_36 { Keine Lust auf Kämpfe? Bleib auf den Wegen, dann bist du halbwegs sicher. }
 
-LoadingScreen_37 { Der Sekundäre Angriff der Dolche verursacht exponentiell mehr Schaden, je höher dein Fokus ist. }
+LoadingScreen_37 { Der sekundäre Angriff der Dolche verursacht exponentiell mehr Schaden, je höher dein Fokus ist. }
 
 LoadingScreen_38 { Du kannst Markierungen auf all deinen Karten platzieren. Allerdings musst du dafür zuerst Tinte finden. }
 
@@ -64,7 +64,7 @@ LoadingScreen_39 { Gegenstände, die für dich keinen Nutzen haben, kannst du mi
 
 LoadingScreen_40 { Kritische Treffer verursachen Blutungen (Blutungen verursachen Schaden über Zeit, in Höhe des Angriffschadens). }
 
-LoadingScreen_41 { Gift verlangsamt die Bewegungsgeschwindigkeit von betroffenen Zielen. }
+LoadingScreen_41 { Gift reduziert die Bewegungsgeschwindigkeit und die Rüstung von betroffenen Zielen. }
 
 LoadingScreen_42 { Nahrung heilt dich über Zeit, aber die Regeneration ist pausiert, solange du volles Leben hast. Viele Gerichte verleihen dir passive Effekte solange du gesättigt bist. Wenn du bereits gesättigt bist und etwas isst, wird der aktive Satt-Effekt überschrieben. }
 

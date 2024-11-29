@@ -90,9 +90,9 @@ Plh_159 { Nun bist du würdig, die Rüstung mit den Zeichen Nemetons zu tragen, 
 
 Plh_160 { Was ist der Unterschied? }
 
-Plh_161 { Ich will eine leichte Rüstung. }
+Plh_161 { Ich will eine leichte Rüstung. <br>(29 Rüstung, 12 Magieresistenz, Ausdauerkosten -30%) }
 
-Plh_162 { Ich will eine schwere Rüstung. }
+Plh_162 { Ich will eine schwere Rüstung. <br>(48 Rüstung, 14 Magieresistenz, Haltungsschaden -50%) }
 
 Plh_163 { Die schwere Rüstung wehrt Schläge besser ab, dafür kannst du mit der leichten Rüstung besser ausweichen. }
 

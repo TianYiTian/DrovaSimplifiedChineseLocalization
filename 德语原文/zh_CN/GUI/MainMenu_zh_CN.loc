@@ -14,3 +14,5 @@ Back { Zurück }
 
 Credits { Credits }
 
+reset_binding_texst { Mit dem Patch 1.1.0 haben wir das Konfigurieren der Steuerung überarbeitet. Dadurch mussten wir deine derzeitige Belegung der Steuerung zurücksetzen. Solltest du Änderungen an der Steuerung vorgenommen haben, musst du diese erneut setzen.<br>Viel Spaß mit Drova!}
+

@@ -1,5 +1,3 @@
-LevelUp { Stufe aufgestiegen! }
-
 NotEnoughFightingStrength { Nicht genug Kampfkraft }
 
 NoAmmoWarning { Keine Munition }
@@ -9,3 +7,4 @@ ReloadWarning { Nachladen }
 SpellAlreadyKnown { Fähigkeit bereits bekannt }
 
 NeedsQuiver { Benötigt Köcher }
+

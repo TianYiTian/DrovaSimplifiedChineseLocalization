@@ -38,7 +38,7 @@ Plh_60 { Hätte nicht gedacht, dass es so schwer ist, durch das verdammte Moor z
 
 Plh_61 { Zum Glück war Nemeton nicht zu verfehlen. Jetzt brauche ich erst mal etwas Ruhe ... }
 
-Plh_62 { Ich dachte, ich muss in der Mine sterben. Dank sei den Göttlichen, dass sie uns rausgeführt haben. }
+Plh_62 { Sobald ich wieder bei Kräften bin, will ich mehr von Drova sehen. Nach all der Zeit unter der Erde ... will ich meine neu gewonnene Freiheit auch nutzen! *lächelt müde* }
 
 Plh_64 { Hey, schön dich zu sehen! }
 
@@ -99,4 +99,14 @@ Plh_109 { Es war nichts Besonderes dort. }
 Plh_110 { Nur eine Grabkammer, nichts weiter. }
 
 Plh_113 { Da stand irgendwas von einem Feldzug gegen einen Göttlichen. }
+
+Plh_119 { Hallo, $GVAR:EVars_Player.Name$. Schau, mein Wagen! Ich bin jetzt eine fahrende Händlerin! }
+
+Plh_120 { Sehr schön. Wie bekommt dir das Leben auf der Straße so? }
+
+Plh_121 { Am Anfang hatte ich etwas Sorgen, wie das so sein wird, ohne einen festen Schlafplatz ... Aber als wir dann unterwegs waren, sind die schnell verflogen. Vor allem mit Bruna. }
+
+Plh_122 { Ist wirklich schön, so viel unterwegs zu sein. Nach der Zeit in der muffigen Höhle genieße ich das sehr. }
+
+Plh_123 { Hallo, $GVAR:EVars_Player.Name$. Schön, dass du vorbeischaust. }
 

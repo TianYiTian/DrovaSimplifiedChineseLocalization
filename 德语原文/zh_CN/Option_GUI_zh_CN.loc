@@ -126,6 +126,10 @@ Autosave_Min5 { 5 Minuten }
 
 Autosave_Min10 { 10 Minuten }
 
+Autosave_Min20 { 20 Minuten }
+
+Autosave_Min30 { 30 Minuten }
+
 Title_FontAndDialog { Schrift und Dialog }
 
 Toggle_PickUpsToQuickbar_Food { Essen }
@@ -254,7 +258,7 @@ popup_reset { Verwerfen }
 
 FontSize_Preview { Vorschau }
 
-MapMarker_Player_Toggle { Zeige Position auf Karte } 
+MapMarker_Player_Toggle { Zeige Position auf Karte }
 
 PlayerDmgReceive { Gegnerschaden }
 
@@ -263,3 +267,12 @@ PlayerDmgOutput { Zusätzlicher Spielerschaden }
 Toggle_MiniGame { Minigames deaktivieren }
 
 MouseLock { Maus auf Fenster beschränken }
+
+UseHardwareMouse { Hardware-Mauszeiger }
+
+UseAltFriendlyColor { Alternative Farbe für Lebensleisten von Verbündeten }
+
+FontSize_VeryBig { Noch größer }
+
+category_quickbar { Quickbar }
+

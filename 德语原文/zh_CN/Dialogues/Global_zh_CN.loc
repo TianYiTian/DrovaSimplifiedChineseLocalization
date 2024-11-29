@@ -132,7 +132,27 @@ PlayerSaysTheyDontHaveMoney { Ich habe nicht genug Münzen ... }
 
 Leave { (weggehen) }
 
-OnlyNemetonTeaching { Ich bringe nur Kämpfern aus Nemeton was bei.  }
+OnlyNemetonTeaching { Ich bringe nur Kämpfern aus Nemeton was bei. }
 
 HaveRostmoos { Ich hab Rostmoos dabei. Brauchst du was? }
+
+FastTravel { Kannst du mich mitnehmen? }
+
+FastTravel_Ruinenlager { Bring mich zum Ruinenlager. }
+
+FastTravel_Nemeton { Bring mich nach Nemeton. }
+
+FastTravel_Tavern { Bring mich zur Taverne. }
+
+FastTravel_Georgsfarm { Bring mich zu Georgs Hof. }
+
+FastTravel_Rejected { Wenn du es dir anders überlegst ... du weißt, wo du mich findest. }
+
+FastTravel_Accepted { Gut, spring hinten auf den Wagen. Es geht sofort los. }
+
+FastTravel_IntroChapter2_01 { Du kannst auf meinem Wagen mitfahren, wenn du nicht allein unterwegs sein willst. }
+
+FastTravel_IntroChapter2_02 { Kostet dich auch nur $GVAR:QuestVars_FastTravel_Config.Costs$ Münzen. }
+
+FastTravel_GerogsFarm { Wir haben jemanden Neues gefunden und fahren jetzt auch zu Georgs Hof. }
 

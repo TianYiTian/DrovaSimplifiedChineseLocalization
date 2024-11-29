@@ -798,7 +798,7 @@ misc_currency_description { Die Währung in Drova. }
 
 weapon_barehands_name { Fäuste }
 
-weapon_barehands_description { Angriffsschaden von waffenlosen Angriffen skalieren mit Stärke. }
+weapon_barehands_description { Angriffsschaden von waffenlosen Angriffen skaliert mit Stärke. }
 
 item_stew_tiaa_manipulated_name { Manipuliertes Essen }
 
@@ -824,15 +824,9 @@ item_auwaldDungeon_description {  }
 
 misc_riddle_sundial_name { Widderfigur }
 
-misc_riddle_sundial_description {  }
-
 misc_riddle_mirror_name { Spiegel }
 
-misc_riddle_mirror_description {  }
-
 misc_riddle_incense_name { Weihrauchgefäß }
-
-misc_riddle_incense_description {  }
 
 misc_riddle_horn_name { Horn }
 
@@ -843,8 +837,6 @@ misc_riddle_conch_name { Muschel }
 misc_riddle_conch_description {  }
 
 misc_riddle_club_name { Zeremonielles Schwert }
-
-misc_riddle_club_description {  }
 
 item_yellowGlyphStone_name { Gelber, glänzender Stein }
 
@@ -899,8 +891,6 @@ item_spiritVessel_greatTusk_name { Geistergefäß }
 item_spiritVessel_greatTusk_description {  }
 
 item_atlanterRune_name { Merkwürdige Rune }
-
-item_atlanterRune_description {  }
 
 item_runestone_name { Runenstein }
 
@@ -1026,9 +1016,9 @@ cons_flow_spartanKick_name { Tritt }
 
 cons_flow_spartanKick_description { Verursacht [DamageFlexAbs] Schaden und schleudert Gegner zurück. }
 
-cons_flow_execute_name { Hinrichten }
+cons_flow_execute_name { Blutrausch }
 
-cons_flow_execute_description { Verursacht [WeaponDamagePercent] Waffenschaden und zusätzlich [WeaponDamagePercent2] Waffenschaden pro aktiver Blutung auf dem Gegner. }
+cons_flow_execute_description { Verursacht [WeaponDamagePercent] Waffenschaden und zusätzlich [WeaponDamagePercent2] Waffenschaden pro aktiver Blutung auf dem Gegner. Fügt zusätzlich eine aktive Blutung hinzu. }
 
 cons_flow_pierce_name { Durchbohren }
 
@@ -1038,9 +1028,9 @@ cons_flow_infection_name { Infektion }
 
 cons_flow_infection_description { Verursacht [WeaponDamagePercent] Waffenschaden und vergiftet Gegner, wenn eine aktive Blutung vorhanden ist. }
 
-cons_flow_bloodRage_name { Blutrausch }
+cons_flow_bloodRage_name { Hinrichten }
 
-cons_flow_bloodRage_description { Starker Angriff, der [WeaponDamagePercent] Waffenschaden verursacht. Wenn ein Gegner mit Blutrausch getötet wird, erhältst du die Fokuskosten zurück. }
+cons_flow_bloodRage_description { Starker Angriff, der [WeaponDamagePercent] Waffenschaden verursacht. Wenn ein Gegner mit Hinrichten getötet wird, erhältst du die Fokuskosten zurück. }
 
 item_rubin_name { Rubin }
 
@@ -1716,11 +1706,7 @@ misc_riddle_deer_description { Ein magisches Artefakt der Vergangenen. Angelehnt
 
 misc_riddle_fox_name { Silberne Pfote }
 
-misc_riddle_fox_description {  }
-
 misc_riddle_eagle_name { Silberne Feder }
-
-misc_riddle_eagle_description {  }
 
 weapon_sword_karottegladius_name { Karottes Waffe }
 
@@ -1792,7 +1778,7 @@ recipe_flow_battleCry_name { Fähigkeit: Kampfschrei }
 
 recipe_flow_blink_name { Zauber: Nebelschritt }
 
-recipe_flow_bloodRage_name { Fähigkeit: Blutrausch }
+recipe_flow_bloodRage_name { Fähigkeit: Hinrichten }
 
 recipe_flow_bullRush_name { Fähigkeit: Sturmangriff }
 
@@ -1802,7 +1788,7 @@ recipe_flow_dash_name { Fähigkeit: Spurt }
 
 recipe_flow_energyProjectile_name { Zauber: Energiegeschoss }
 
-recipe_flow_execute_name { Fähigkeit: Hinrichten }
+recipe_flow_execute_name { Fähigkeit: Blutrausch }
 
 recipe_flow_ferventCry_name { Fähigkeit: Inbrünstiger Schrei }
 
@@ -2279,6 +2265,10 @@ misc_worldmap_detailed_description { Gezeichnet von einem gewissen "Lorthiz". }
 misc_worldmap_shrines_name { Karte der Schreine }
 
 misc_worldmap_shrines_description {  }
+
+misc_caveSystem_name { Höhlenkarte }
+
+misc_caveSystem_description { Eine Karte des Höhlensystems unter dem Ruinenlager. }
 
 armor_chest_ruinenlager_gladiator_name { Gladiatorenrüstung }
 
@@ -2761,4 +2751,16 @@ recipe_throwingknife_name { Rezept: Wurfmesser }
 item_letterAtlanter_Armor_name { Rüstung der Vergangenen }
 
 item_letterAtlanter_Armor_description {  }
+
+item_potion_respec_name { Trank des Vergessens }
+
+item_potion_respec_description { Ein stark alkoholisches Getränk. Man erzählt sich, wer diesen Tropfen trinkt, erinnert sich danach nicht mehr daran.<br>(Setzt mit Lernpunkten erlernte Talente zurück) }
+
+weapon_sling_legendarySlingshot_name { Wirbelsturm }
+
+weapon_sling_legendarySlingshot_description { Wind umgibt die Schleuder und verstärkt ihren Schwung. }
+
+item_letterCelts_Spark_name { Bertines Funke }
+
+item_letter_library_soundRoom_note2_name { Resonanzhörner }
 

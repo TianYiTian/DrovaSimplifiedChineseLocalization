@@ -498,7 +498,7 @@ Margitte { Margitte }
 
 bandit_generic { Bandit }
 
-Leru { Lorthiz  }
+Leru { Lorthiz }
 
 Cat { Katze }
 
@@ -545,4 +545,93 @@ IdleGuy { Willi }
 Willi { Willi }
 
 Monko { Monko }
+
+Erwin { Erwin }
+
+Henrike { Henrike }
+
+Waterrat_Young { Junge Wasserratte }
+
+Waterrat { Wasserratte }
+
+Bloodquito_Auwald { Riesenmücke }
+
+Sprigga_Young { Junge Sprigga }
+
+Diggerpig { Buddlerschwein }
+
+Ripper_Hungry { Ausgehungerter Reißer }
+
+Ripper { Reißer }
+
+Ripper_Elite { Silberrücken }
+
+Boar { Eber }
+
+Fox { Rotfuchs }
+
+Stalker_Red { Roter Schnapper } 
+
+Stalker_Blue { Blauer Schnapper } 
+
+Stalker_Green { Grüner Schnapper } 
+
+Sprigga { Sprigga }
+
+Stonefist { Steinbrecher }
+
+Frog_Melee { Roter Froschling }
+
+Frog_Ranged { Grüner Froschling }
+
+Bloodquito { Blutfliege }
+
+Ambusher { Schlammbeißer }
+
+Bear { Bär }
+
+Snapper_Weak { Jägerspinne }
+
+Spitter_Weak { Giftweberin }
+
+Ripper_Shadow { Schattenreißer }
+
+Boar_Luminous { Leuchteber }
+
+Mortarshroom { Sporenkrabbler }
+
+Bear_luminous { Düsterbär }
+
+Snapper { Magische Jägerspinne }
+
+Spitter { Magische Giftweberin }
+
+BigSpider { Die Gestalt }
+
+BigSpider_Auwald { Magische Riesenspinne }
+
+Harpy { Harpyie }
+
+Foglet { Nebling }
+
+Worm { Silberwurm }
+
+Leshen { Waldschrat }
+
+Golem { Runengolem }
+
+ChaosSpirit { ??? }
+
+Draugr_Sword { Vergangener Soldat }
+
+Draugr_Spear { Vergangener Krieger }
+
+Draugr_Mage { Vergangener Zauberer }
+
+Draugr_Axe { Vergangener General }
+
+Rat { Ratte }
+
+Snake { Natter }
+
 

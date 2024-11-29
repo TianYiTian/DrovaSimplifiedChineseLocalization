@@ -32,3 +32,23 @@ Plh_24 { Welchen Teil von RuinenRÄUBER hast du nicht verstanden? Wir suchen Rel
 
 Plh_25 { Ihr erforscht sie? }
 
+Plh_26 { Kannst du mir diese Höhle auf meiner Karte einzeichnen? }
+
+Plh_27 { Was hast du denn für eine Karte? Zeig her. }
+
+Plh_28 { (Karte geben) }
+
+Plh_30 { Erstaunlich! Ich hätte nicht gedacht, dass sich jemand die Mühe macht, die Höhlen hier zu zeichnen. }
+
+Plh_32 { Für eine kleine Aufwandsentschädigung kann ich die Karte ergänzen. Sagen wir ... $GVAR:EVars_Amella.MapEditingCost$ Münzen? }
+
+Plh_33 { Hier hast du das Geld. }
+
+Plh_35 { Meld dich, wenn du es dir anders überlegt hast. }
+
+Plh_36 { So - jetzt sind unsere Höhlen mit drauf. Zeig die Karte aber keinen Leuten, die nichts von uns wissen! }
+
+Plh_37 { Plh_37 }
+
+Plh_38 { Plh_38 }
+

@@ -4,7 +4,7 @@ SleepBuffDescription { Erhöht dein Bewegungstempo um [MovementPercent]. }
 
 Poison { Vergiftung }
 
-PoisonDescription { Verlangsamt dein Bewegungstempo um [MovementPercent]. }
+PoisonDescription { Reduziert dein Bewegungstempo um [MovementPercent] und deine Rüstung um [ArmorReduce]. }
 
 Bleeding { Blutung }
 
@@ -23,4 +23,8 @@ Intoxicated_Desc { Du nimmst alles etwas schwammiger wahr ... }
 NoFood_Name { Leerer Magen }
 
 NoFood_Desc { Iss etwas, um deinen Magen zu füllen. Mit vollem Magen regenerierst du mit der Zeit Lebenspunkte, wenn diese reduziert wurden. }
+
+waterbarrel { Wasser }
+
+waterbarrel_description { Heilt dich über kurze Zeit. }
 

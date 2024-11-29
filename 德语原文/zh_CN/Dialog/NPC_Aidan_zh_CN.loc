@@ -10,7 +10,7 @@ Plh_10 { Was machst du hier? }
 
 Plh_11 { Eine Basaltwurzel. Gar nicht einfach, so ein Teil zu finden. }
 
-Plh_12 { Was genau für einen Trank machst du? }
+Plh_12 { Was genau macht der Trank der Kraft? }
 
 Plh_13 { Kannst du mir zeigen, wie ich all das selber herstellen kann? }
 
@@ -48,7 +48,7 @@ Plh_34 { *grinst* Ich habe eine alte Schrift gefunden, die verspricht, dass der 
 
 Plh_35 { Heb sie unbedingt auf, wenn du eine findest! }
 
-Plh_36 { Wo finde ich so ein Kraut? }
+Plh_36 { Wo finde ich so eine Wurzel? }
 
 Plh_37 { Es gibt viele mächtige Kräuter. Die Basaltwurzel wächst nur in Höhlen, tief unter der Erde. }
 
@@ -111,4 +111,52 @@ Plh_66 { Langsam. Es hat dich vielleicht stärker gemacht, aber Eugen haut dich 
 Plh_67 { Der Text scheint wahr zu sein, und es gibt noch mehr solcher Pflanzen. Ich kann dir die Rezepte verkaufen, wenn du willst. }
 
 Plh_68 { Ich hatte es doch vorhin ... Warum funktioniert es nicht mehr?! }
+
+Plh_69 { Ein anderer "Trank" soll wohl dafür sorgen, dass man alles vergisst. Also nicht nur die letzte Nacht. Das schafft ja unser Gesöff schon locker! Sondern so ziemlich alles, was man je gelernt hat! }
+
+Plh_73 { Du hast was von einem Trank des Vergessens erzählt? }
+
+Plh_74 { Das musst du dir mal vorstellen. Der Trank lässt dich alles vergessen, was du je gelernt hast. Unglaublich - die Vergangenen waren Meister der Tränke. }
+
+Plh_75 { Was fehlt dir noch für den Trank des Vergessens? }
+
+Plh_76 { Ich hab keine Ahnung, wie man den herstellt. Hab nur mal eine Beschreibung davon gefunden. }
+
+Plh_77 { *flüstert* Allerdings hab ich auch eine Flüssigkeit gefunden, die zu dem Trank werden könnte. Hab nur dran genippt und direkt vergessen, wie man sich hinsetzt. }
+
+Plh_78 { Der Trank ist noch eine klare Flüssigkeit, aber in der Beschreibung stand was von einer gelben Farbe. Wahrscheinlich muss noch etwas Ruinengewächs dazu. Das wächst, wie der Name sagt, bei Ruinen. Und es ist gelb. }
+
+Plh_79 { Wenn du mir $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ davon bringst, kann ich dir den Trank brauen. Kannst ihn dann bekommen. Ist vielleicht etwas riskant ... deswegen musst du dafür auch nichts zahlen! }
+
+Plh_80 { Hier sind die $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ Ruinengewächse für den Trank. }
+
+Plh_81 { Sehr gut! Dann lernen wir heute vielleicht was Neues! Also ich - du wahrscheinlich eher nicht. }
+
+Plh_82 { Mhm, ist echt schön gelb geworden. Hier, kannst du haben. }
+
+Plh_83 { Musst du nicht sofort trinken, aber sag Bescheid, wenn du ihn probiert hast. Bin gespannt, ob er wirkt. }
+
+Plh_84 { Danke für deine Hilfe! }
+
+Plh_85 { Ich werde sehen, wann es mir passt. }
+
+Plh_86 { Ich hab den Trank des Vergessens ausprobiert. }
+
+Plh_87 { Und, wie war es? Mich scheinst du ja noch zu erkennen. }
+
+Plh_88 { Ich hab irgendwie nur Sachen vergessen, die ich hier in Drova gelernt habe ... }
+
+Plh_89 { Hat gebrannt wie Sau und ich hab nicht mehr gewusst, wie rum ich eine Waffe halten muss. }
+
+Plh_90 { Sehr gut, sehr gut! Es ist doch faszinierend, was die Tränke der Vergangenen alles bewirken. }
+
+Plh_91 { Danke, dass du mir Bescheid gesagt hast. }
+
+Plh_92 { Wenn du was über Tränke wissen willst oder was dafür brauchst, kannst du jederzeit wiederkommen. }
+
+Plh_93 { Du weißt, wo du mich findest. }
+
+Plh_95 { Wirklich faszinierend, was die Vergangenen so gebraut haben. }
+
+Plh_96 { Plh_96 }
 

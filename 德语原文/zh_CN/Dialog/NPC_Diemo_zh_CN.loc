@@ -94,7 +94,7 @@ Plh_83 { Der Große Keiler wird sie wieder aufnehmen, sobald sie dafür bereit i
 
 Plh_84 { Was ist eine Bestimmung? }
 
-Plh_85 { Also, worauf warten wir noch? }
+Plh_85 { Ich bin bereit für das Ritual. }
 
 Plh_86 { Nun bist du hier. Auf der Suche nach etwas, das es nur hier gibt. Verirrt. Oder wirst du zu den Verbundenen gehören? Auch der Große Keiler kann deine Zukunft nicht sehen. }
 
@@ -330,7 +330,7 @@ Plh_235 { Ja, ich will auf die Reise gehen. }
 
 Plh_236 { Nein, ich muss mich um andere Dinge kümmern. }
 
-Plh_238 { Es gibt noch zwei weitere Ausläufer - einen im Nordosten, einen im Süden. Die Wurzeln dort wirst du allerdings alleine finden müssen. Du brauchst für sie zwei weitere Talismane. }
+Plh_238 { Es gibt noch zwei weitere Ausläufer - einen im Nordosten, einen im Süden. }
 
 Plh_240 { Ich zwinge dich nicht, doch ich rate es dir. Wenn du deine Meinung änderst, komm zu mir. }
 
@@ -366,8 +366,6 @@ Plh_281 { Du hast deinen Funken sogar schon vor der Reise zur Mutter bekommen. D
 
 Plh_282 { Guck dir den Baum hier genauer an und bring den Talisman an. Der Keiler wartet auf dich. }
 
-Plh_283 { *steht wackelig auf beiden Beinen, plötzlich lässt seine Kraft nach* }
-
 Plh_286 { Bertine meinte, ich soll mich verpissen. }
 
 Plh_287 { Bertine ist seit Anatolis Tod etwas ... schwierig. Frag Roarke, er kennt sie besser als jeder andere hier. }
@@ -392,11 +390,43 @@ Plh_297 { Geh mit dem Keiler, verirrte Seele. }
 
 Plh_298 { Geh zu Bertine. Sie hat den Weg des Kampfes gewählt. Sie muss ihre Aufgabe erfüllen. }
 
-Plh_299 { Du hast was? Du hättest sie auch nur vertreiben können ... }
-
 Plh_301 { Ich will euch warnen, mein Lager will den Großen Keiler einfangen! }
 
 Plh_302 { Die Göttlichen wissen mehr als wir. Unsere Aufgabe ist es nicht, sie zu hinterfragen sondern Ihnen zu vertrauen. Was auch immer passiert, der Große Keiler leitet jeden unserer Pfade. }
 
 Plh_303 { Der Göttliche leitet jeden Pfad und bestimmt was passiert. Der Große Keiler kann nicht von uns Menschen verstanden, geschweige denn gefangen genommen werden. }
+
+Plh_304 { Verlasse unsere Zuflucht in Richtung Norden. Wenn du den Steinkreis siehst, laufe in östlicher Richtung weiter, als würdest du den Wald verlassen wollen. Wenn der Weg eine Biegung nimmt, behalte die Richtung bei. Die Wurzel liegt auf einer Anhöhe hinter den Schwarzen Flammen. }
+
+Plh_305 { Um zur anderen Wurzel zu gelangen, verlasse das Lager zunächst in Richtung Osten. Du musst an dem Hügel mit der Ruine vorbei, tiefer in den Wald. Von der Lichtung, auf der du den Verirrten bekämpft hast, musst du weiter in Richtung Südwesten. Dort wirst du sie finden. }
+
+Plh_306 { Ich brauche noch etwas Zeit. }
+
+Plh_307 { Bist du dafür bereit? Die Funken werden den ganzen Wald erhellen, und alle in Drova werden dieses Leuchten sehen. *grinst* }
+
+Plh_308 { Du hast uns geholfen, und wir würden dich gerne dabei haben. Wir sind bereit, wenn du es bist. Meld dich einfach. }
+
+Plh_309 { Plh_309 }
+
+Plh_310 { Du ... Wie konntest du nur ...? }
+
+Plh_311 { Ich habe euch gewarnt! Was hätte ich tun sollen? }
+
+Plh_312 { Es ist hoffnungslos, sich den Lagern zu widersetzen. Es musste so kommen! }
+
+Plh_313 { Du hast uns gewarnt, aber wieso hat der Keiler das nicht verhindert?! Er hat keine Angst gezeigt! Er hat nicht zu mir gesprochen. }
+
+Plh_314 { Ahh ... du ... DU ... }
+
+Plh_315 { Es ist, als wäre ein Teil von mir entrissen worden ... ich fühle nur noch Schmerz ... und ... HASS! }
+
+Plh_316 { Der Funke fliegt zu DIR?! DAS DARF DOCH NICHT WAHR SEIN, AAHHHHHH! }
+
+Plh_318 { Du bist stark ...Vielleicht hat dein Funke doch ein besseres Gespür als ich ... nutze die Kraft für etwas Gutes. }
+
+Plh_319 { Vielleicht wird ja doch noch alles gut ... *lächelt schwach* }
+
+Plh_321 { Also haben die Lager ihren Mut gesammelt, um es tatsächlich zu wagen ... diese Narren. }
+
+Plh_322 { Mein Vertrauen in die Natur des Großen Keilers ist unerschütterlich. Er hat dich auserwählt, und welches Schicksal dich auch immer im Herz des Waldes erwartet ... ich weiß, dass es im Interesse der Göttlichen sein wird. }
 

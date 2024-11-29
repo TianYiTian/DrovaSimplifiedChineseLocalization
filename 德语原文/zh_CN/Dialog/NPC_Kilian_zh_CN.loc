@@ -92,9 +92,9 @@ Plh_150 { Hier. Trage sie mit Stolz. Geh zu Bardok, er wird dir eine vernünftig
 
 Plh_151 { Was ist der Unterschied? }
 
-Plh_152 { Ich möchte die leichte Rüstung. }
+Plh_152 { Ich möchte die leichte Rüstung.<br>(29 Rüstung, 12 Magieresistenz, Ausdauerkosten -30%) }
 
-Plh_153 { Ich möchte die schwere Rüstung. }
+Plh_153 { Ich möchte die schwere Rüstung.<br>(48 Rüstung, 14 Magieresistenz, Haltungsschaden -50%) }
 
 Plh_154 { Mit der schweren Rüstung steckst du mehr ein, aber mit der leichten Rüstung kannst du besser ausweichen. Du musst wissen, was zu dir passt. }
 
@@ -322,11 +322,11 @@ Plh_363 { Na, hat es funktioniert? Hast du deinen Runenstein erhalten? }
 
 Plh_364 { Ja. Elnea hat ihn für mich angefertigt. }
 
-Plh_366 { Ich möchte die leichte Rüstung. }
+Plh_366 { Ich möchte die leichte Rüstung. <br>(92 Rüstung, 59 Magieresistenz, Ausdauerkosten -30%) }
 
-Plh_367 { Ich möchte die schwere Rüstung. }
+Plh_367 { Ich möchte die schwere Rüstung. <br>(135 Rüstung, 65 Magieresistenz, Haltungsschaden -50%) }
 
-Plh_368 { Ich möchte die magische Rüstung. }
+Plh_368 { Ich möchte die magische Rüstung. <br>(90 Rüstung, 70 Magieresistenz, Magieschaden +20%, Grundfokus +6) }
 
 Plh_369 { Was genau ist der Unterschied? }
 

@@ -26,3 +26,4 @@ Comment_NoCoins { Ich akzeptiere keine Münzen. }
 
 SellWholeStack { Itemstapel zum Handel hinzufügen/entfernen. }
 
+Sell_Ten { 10 zum Handel hinzufügen/entfernen. }

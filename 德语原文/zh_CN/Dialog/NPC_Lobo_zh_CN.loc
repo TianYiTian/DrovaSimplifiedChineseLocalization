@@ -90,10 +90,6 @@ Plh_60 { Ich warte hier auf dich. }
 
 Plh_61 { Hier ist dein roter Glyphenstein. Ich hab ihn gefunden. }
 
-Plh_63 { Hab von dir nichts mehr gehört und bin jetzt in Nemeton rein. Anscheinend hast du es auch ohne meine Hilfe geschafft. }
-
-Plh_64 { Hast dich Nemeton angeschlossen, gute Wahl. }
-
 Plh_66 { Ich habe nur das Beste. Such dir was aus. }
 
 Plh_67 { Ich war schon in Nemeton. }
@@ -101,4 +97,58 @@ Plh_67 { Ich war schon in Nemeton. }
 Plh_69 { Dann brauchst du meine Hilfe ja nicht mehr. Ich werde auch bald aufbrechen, wir sehen uns dann in Nemeton. }
 
 Plh_70 { Mit Rüpeln will ich nichts zu tun haben. }
+
+Plh_71 { Lobo! Da bist du ja endlich! Bei den Göttlichen - ich dachte schon, du kommst nie an. Du weißt doch, dass ich es hasse zu warten! }
+
+Plh_72 { Erwin! Freut mich auch, dich zu sehen ... trotz der unfreundlichen Begrüßung. }
+
+Plh_73 { Ich bin im Moor von Froschlingen überrascht worden. Hab was von meinem Zeug verloren. Naja, jetzt bin ich da. Wie ist die Lage bei euch? }
+
+Plh_74 { Ach ... du ... hast ja recht. *entspannt sich etwas* }
+
+Plh_75 { Hauptsache, du bist heil angekommen. Wir warten sowieso noch auf Teigen. Henrike ist vor Nemeton und wartet dort. }
+
+Plh_76 { In Ordnung, dann werde ich mal sehen, was ich hier schon verkauft bekomme. }
+
+Plh_77 { Teigen, da bist du ja endlich! Was war los? }
+
+Plh_78 { War mit Peter unterwegs. Wollten noch kurz was zur Höhle bringen. Da waren diese beschissenen Froschlinge. Haben ihn übel erwischt. Ich konnte gerade so abhauen. }
+
+Plh_79 { Froschlinge ... Banditen ... ich sag euch was - ich bin raus. Macht eure Scheiße allein. Ich hab keine Lust, mein Leben für ein paar Münzen zu riskieren. }
+
+Plh_80 { Na, komm schon, Teigen ... wir werden immer weniger Leute. Du kannst uns nicht auch noch im Stich lassen. }
+
+Plh_81 { Ich bin raus. }
+
+Plh_82 { Dann müssen wir zu dritt weitermachen. }
+
+Plh_83 { Teigen hat aber mit einer Sache recht: die Banditen sind ein Problem. }
+
+Plh_84 { Zwischen Nemeton und Olafs Taverne kommt es immer wieder zu Überfällen. An anderen Stellen auch, aber dort ist es gerade besonders schlimm. }
+
+Plh_85 { Wir werden mit unseren Wagen erst aufbrechen, wenn die Gefahr nicht mehr so groß ist. }
+
+Plh_86 { Ich kann mir das mal anschauen. }
+
+Plh_87 { Sei aber vorsichtig. Es verschwinden in letzter Zeit häufiger Menschen im Moor. Spurlos. Wer weiß, was die Banditen mit ihnen machen ... }
+
+Plh_88 { Wir packen unsere Sachen und werden losziehen. }
+
+Plh_89 { Danke, dass du uns geholfen hast. Wir werden uns bei dir erkenntlich zeigen, wenn wir uns in Drova verteilt haben. }
+
+Plh_90 { Wenn die Banditen weg sind, können wir wieder losziehen. Wenn sich jemand um sie kümmert, würde uns das sehr helfen. }
+
+Plh_98 { Ah, schön dich zu sehen. Wir sind jetzt wieder unterwegs. Wenn wir dich mitnehmen sollen, melde dich. Brauchst auch nichts zu bezahlen. Für dich ist es umsonst. }
+
+Plh_104 { Na klar. Wo möchtest du denn hin? }
+
+Plh_105 { Na klar, für $GVAR:QuestVars_FastTravel_Config.Costs$ Münzen nehme ich dich mit. }
+
+Plh_106 { Hier sind die Münzen. }
+
+Plh_109 { Ich hab's mir anders überlegt. }
+
+Plh_115 { Ah, ein neues Gesicht! Ich bin Lobo, reisender Händler und als solcher in ganz Drova unterwegs. }
+
+Plh_116 { Wir packen unsere Sachen und ziehen dann los. }
 
