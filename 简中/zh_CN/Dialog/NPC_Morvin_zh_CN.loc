@@ -410,7 +410,7 @@ Plh_310 { 如果你想获得“竞技场大师”的称号，你必须付出巨�
 
 Plh_311 { 我将让你与埃布鲁对战。你需要$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$枚硬币。根据你与谁对战以及观众如何下注，你将获得你的奖金。 }
 
-Plh_312 { 如果没有硬币怎么办？ }
+Plh_312 { 如果我没有硬币会怎样？ }
 
 Plh_313 { 我已准备好战斗。 }
 
