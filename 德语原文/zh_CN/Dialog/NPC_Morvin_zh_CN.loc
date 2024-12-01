@@ -410,7 +410,7 @@ Plh_310 { Wenn du den Titel als Arenameister willst, musst du dich hocharbeiten.
 
 Plh_311 { Ich lasse dich gegen Ebru kämpfen. Du brauchst $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ Münzen. Abhängig davon, gegen wen du kämpfst und wie das Publikum wettet, bekommst du deinen Gewinn. }
 
-Plh_312 { Was ist, wenn ich die Münzen nicht haben? }
+Plh_312 { Was ist, wenn ich die Münzen nicht habe? }
 
 Plh_313 { Ich bin bereit für den Kampf. }
 
