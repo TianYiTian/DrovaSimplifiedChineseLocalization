@@ -84,7 +84,7 @@ Plh_71 { 由于阿斯穆斯的硬币 ... }
 
 Plh_73 { 那么，分配工作进展如何？ }
 
-Plh_74 { 由于[Rostmoos] ... }
+Plh_74 { 由于锈苔 ... }
 
 Plh_76 { 我现在需要知道这个吗？等你完成了再来。 }
 
@@ -124,7 +124,7 @@ Plh_109 { 随你便吧。你的损失。但如果你需要什么，别来烦我�
 
 Plh_111 { 我不会再和你过不去了…… }
 
-Plh_114 { 关于我在[信件]中找到的内容…… }
+Plh_114 { 关于我找到的那封信…… }
 
 Plh_115 { 你想好了吗？我给你$GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$硬币，你把信给我。怎么样？ }
 
@@ -152,17 +152,17 @@ Plh_129 { 好的。*咧嘴笑* 弗里德尔把名单放在她的办公桌里了�
 
 Plh_130 { 好了，我们终于进入正题了！*咧嘴笑* 过一两天再来吧，我会准备好清单。相信我。 }
 
-Plh_132 { 当你有足够的[Münzen]时再来吧！ }
+Plh_132 { 等你攒够金币了再来吧！ }
 
 Plh_133 { 你知道我怎样才能说服尤金吗？ }
 
 Plh_134 { 当然了，我知道这一点。*咧嘴笑* 问题在于，这条信息对你来说值多少钱。说来听听。 }
 
-Plh_137 { $GVAR:QuestVars_ShotsForRipper_Config.LowMoneyForBoris$ 硬币 (给) }
+Plh_137 { $GVAR:QuestVars_ShotsForRipper_Config.LowMoneyForBoris$ 硬币 （给） }
 
-Plh_138 { $GVAR:QuestVars_ShotsForRipper_Config.AverageMoneyForBoris$ 硬币 (给予) }
+Plh_138 { $GVAR:QuestVars_ShotsForRipper_Config.AverageMoneyForBoris$ 硬币 （给予） }
 
-Plh_139 { $GVAR:QuestVars_ShotsForRipper_Config.HighMoneyForBoris$ 金币 (给予) }
+Plh_139 { $GVAR:QuestVars_ShotsForRipper_Config.HighMoneyForBoris$ 金币 （给予） }
 
 Plh_140 { 这家伙是用硬木雕刻的。他不太喜欢陌生人。 }
 
@@ -206,7 +206,7 @@ Plh_163 { 而且你知道的……无论你需要什么，鲍里斯都能帮你�
 
 Plh_164 { 你需要在这里找个合适的代言人。有很多好处。*压低声音* 你有点本事，我看得出来。忘了尤金吧。我的人和我... 我们很适合你。你也适合我们。这只是个善意的建议。*眨眼* }
 
-Plh_165 { 别这么快。我可以用其他方式搞定。(离开) }
+Plh_165 { 别这么快。我可以用其他方式搞定。（离开） }
 
 Plh_166 { 随你吧。如果你绝望了，你知道去哪儿找我。*咧嘴笑* }
 
@@ -434,7 +434,7 @@ Plh_316 { 在采石场洞穴入口附近，地面有一处活板门。在这里�
 
 Plh_317 { 准备好硬币，然后来找我。 }
 
-Plh_319 { 杰拉想让我用伸展的生锈苔藓编织莉娜的头发。 }
+Plh_319 { 杰拉想让我把拉伸的锈苔卖给莉娜。}
 
 Plh_320 { 那又怎样？这跟我有什么关系？你们就卖给她吧。如果她接受了，那是她自己的责任。 }
 

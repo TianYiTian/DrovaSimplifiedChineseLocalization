@@ -1,4 +1,4 @@
-Plh_5 { 你需要一些[Rostmoos]吗？ }
+Plh_5 { 你需要一些锈苔吗？ }
 
 Plh_6 { 是的！你是为鲍里斯来的吗？我等新货等了好几天了！ }
 
@@ -14,7 +14,7 @@ Plh_11 { 你想要多少钱？ }
 
 Plh_12 { 嘿！我听说你在为鲍里斯卖新苔藓！你有什么适合我的吗？ }
 
-Plh_13 { 每[Joint] $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ 枚硬币，我们就开始交易。 }
+Plh_13 { 以每个$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$枚硬币的价格成交。 }
 
 Plh_14 { 这东西确实不错。我给你$GVAR:QuestVars_JobForBoris_Config.ScamPricePerJoint$个硬币，你给我点。 }
 
@@ -22,7 +22,7 @@ Plh_15 { 这些东西越来越贵了，不过没关系。给你。 }
 
 Plh_16 { 什么？这比上次多了一倍！别胡说。 }
 
-Plh_17 { 好吧，真正的价格是 [GVAR:QuestVars_JobForBoris_Config.PricePerJoint] 金币。 }
+Plh_17 { 好吧，真正的价格是 $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ 金币。 }
 
 Plh_18 { 最近很难找到什么东西。要就拿去，不然我就问别人了。 }
 

@@ -1,6 +1,6 @@
 Title { 林中求助 }
 
-Entry_01 { 克尔想要我在圣林中为他捕捉GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded只特别的蝴蝶。它们以其独特的翅膀而闻名。 }
+Entry_01 { 克尔想要我在圣林中为他捕捉$GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$只特别的蝴蝶。它们以其独特的翅膀而闻名。 }
 
 Entry_02 { 我这里已经有所有的蝴蝶了。 }
 

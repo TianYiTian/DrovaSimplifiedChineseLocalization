@@ -24,7 +24,7 @@ Plh_17 { 从你的东西里？ }
 
 Plh_18 { 好吧，我走了。 }
 
-Plh_19 { [生锈草]！ }
+Plh_19 { 锈草！ }
 
 Plh_20 { 这些植物上都没有你的名字。 }
 
@@ -38,11 +38,11 @@ Plh_24 { 我马上为你预订一块墓碑！ }
 
 Plh_25 { 别那么快！你以为你能就这样带走我的锈草吗？ }
 
-Plh_26 { 把[你装进口袋]的$GVAR:EVars_Ida.RustmossPicked$根[锈草茎]还给我！ }
+Plh_26 { 请把$GVAR:EVars_Ida.RustmossPicked$根你装起来的锈苔还给我！ }
 
 Plh_27 { 为什么？我在这儿找到的。 }
 
-Plh_28 { 慢慢来。把这东西拿上。($GVAR:EVars_Ida.RustmossPicked$x 锈草给予) }
+Plh_28 { 慢慢来。把这东西拿上。（$GVAR:EVars_Ida.RustmossPicked$x 锈草给予） }
 
 Plh_29 { 忘了它吧！现在它属于我了。 }
 

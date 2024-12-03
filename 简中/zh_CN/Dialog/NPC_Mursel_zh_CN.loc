@@ -60,7 +60,7 @@ Plh_34 { 放心休息吧，我会照顾你们的，霍尔。 }
 
 Plh_35 { 阿格妮莎欠你多少银子？ }
 
-Plh_36 { 我借给她了[GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt]银币。然后她悄悄地过来，说... }
+Plh_36 { 我借给她了$GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$银币。然后她悄悄地过来，说... }
 
 Plh_37 { 这里是$GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$银币。这样阿格妮莎的债务就还清了。 }
 

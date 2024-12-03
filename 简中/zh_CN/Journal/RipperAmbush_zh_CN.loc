@@ -8,7 +8,7 @@ Entry_03 { 加万已经为羊的象形石支付了费用，并承诺我的硬币
 
 Entry_04 { 我现在也在羊毛生意里。加万说我们很快就会在钱堆里游泳。 }
 
-Entry_05 { 加万文要用吸干沼泽的青蛙来[VERDREIFACHEN]我们的金币！如果我想加入，我得给他$GVAR:QuestVars_RipperAmbush.YCosts$枚金币。 }
+Entry_05 { 加文要用吸干沼泽的青蛙来使我们的金币翻三倍！如果我想加入，就得给他$GVAR:QuestVars_RipperAmbush.YCosts$枚金币。 }
 
 Entry_06 { 我加入！加万想在乔治的农场附近开始搜索。希望这值得一试。 }
 

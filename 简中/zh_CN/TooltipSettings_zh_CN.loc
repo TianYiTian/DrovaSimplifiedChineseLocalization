@@ -42,7 +42,7 @@ foodText { 缓慢恢复你的生命值，直到达到[MaxStack]。当生命值�
 
 recipe_requirements { 需要： }
 
-buffAdditionalDescription { (新食物取代饱食效果) }
+buffAdditionalDescription { （新食物取代饱食效果） }
 
 maxHealth { 最大生命值 [VALUE] }
 
@@ -68,7 +68,7 @@ flowReg { 专注值回复 [VALUE] }
 
 armor { 护甲 [VALUE] }
 
-healAdditionalDescription { (相同物品替换增益效果) }
+healAdditionalDescription { （相同物品替换增益效果） }
 
 flowPhysical { 技能 }
 
@@ -100,7 +100,7 @@ stat_change_dex { +$STATCHANGE:CritChance$ 暴击率 }
 
 stat_change_mind { +$STATCHANGE:MagDmg$ 魔法伤害, +$STATCHANGE:Focus$ 专注值 }
 
-helmet_cosmetics { (头盔纯粹是装饰性的，对角色没有影响。) }
+helmet_cosmetics { （头盔纯粹是装饰性的，对角色没有影响。） }
 
 mainHandWeapon { 单手武器 }
 

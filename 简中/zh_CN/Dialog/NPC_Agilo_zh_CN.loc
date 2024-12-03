@@ -198,7 +198,7 @@ Plh_214 { 该死的……森吉兹 怀疑有人偷了地租。看来他是对的
 
 Plh_216 { 什么？！你真的看仔细了吗？我是说在每一份租约里？ }
 
-Plh_217 { 呃... 至少我找到了GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples个苹果。 }
+Plh_217 { 呃... 至少我找到了$GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$个苹果。 }
 
 Plh_218 { 我找到的地球租金是空的。 }
 
@@ -246,7 +246,7 @@ Plh_240 { *拿起勺子，用舌头舔了一点* 嗯……*咳嗽* 好吧，至�
 
 Plh_242 { 谢谢，我刚刚已经吃过了。 }
 
-Plh_243 { 尽情畅饮吧！(干杯) }
+Plh_243 { 尽情畅饮吧！（干杯） }
 
 Plh_244 { 啊，也许你太好了，不适合吃我的食物？哼。那就留给我们更多。 }
 

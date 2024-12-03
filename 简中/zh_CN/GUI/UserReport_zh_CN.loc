@@ -6,7 +6,7 @@ UserReport_Bug { 错误 }
 
 UserReport_Feedback_Error { 出了点问题，请再试一次。 }
 
-UserReport_Feedback_Text { 感谢你的反馈！:) }
+UserReport_Feedback_Text { 感谢你的反馈！:） }
 
 Close { 关闭 }
 

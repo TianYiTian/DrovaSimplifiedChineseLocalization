@@ -6,7 +6,7 @@ Percept_Skeleton_01 { （检查儿童骨骼） }
 
 Percept_Skeleton_02 { *你把骨头稍微移到一边，发现下面有一个开关。* }
 
-Percept_Skeleton_03 { (按下开关) }
+Percept_Skeleton_03 { （按下开关） }
 
 Percept_Grave_00 { 对不起。我本该在那里的。 }
 

@@ -28,13 +28,13 @@ Plh_22 { 嗯，你以前从不想拥有超过50个硬币…… }
 
 Plh_24 { 一切都变得更贵了。而你属于残骸营地。所以你口袋里也有更多的东西。此外，你并不孤单…… }
 
-Plh_26 { 这是我应得的。($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ 枚硬币) }
+Plh_26 { 这是我应得的。（$GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ 枚硬币） }
 
 Plh_27 { 我们不会给盗贼任何东西。 }
 
 Plh_28 { 我们或许可以和你谈谈？ }
 
-Plh_29 { 嗯，是的，当然。[GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer]枚硬币，这可不少……但好吧。*短暂地看了你一眼* }
+Plh_29 { 嗯，是的，当然。$GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$枚硬币，这可不少……但好吧。*短暂地看了你一眼* }
 
 Plh_30 { 好的，谢谢。我会处理的。 }
 
@@ -66,7 +66,7 @@ Plh_52 { 我的同伴已经打败了那些强盗，他们不会再出现了！ }
 
 Plh_53 { 我们到了。我已经完成了我的部分。你现在在矿井里。*转身离开你* }
 
-Plh_54 { 谢谢你带来的[物品]。 }
+Plh_54 { 谢谢你把它带到这里来。 }
 
 Plh_55 { 你一切都好吗？ }
 
@@ -158,7 +158,7 @@ Plh_105 { 但我本不该说什么的！ }
 
 Plh_106 { 显然你搞错了。 }
 
-Plh_107 { 这是我那部分的钱($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+Plh_107 { 这是我那部分的钱（$GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$） }
 
 Plh_108 { ... }
 
@@ -170,7 +170,7 @@ Plh_111 { 你说得对。我得继续工作了…… }
 
 Plh_113 { *移开视线* }
 
-Plh_114 { 你懂规矩。只要你付钱，我们就不会对你怎么样。不过我看你现在还带了个人。这样总共就是[GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer]枚金币了。 }
+Plh_114 { 你懂规矩。只要你付钱，我们就不会对你怎么样。不过我看你现在还带了个人。这样总共就是$GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$枚金币了。 }
 
 Plh_115 { 我已经给过你们金币了。 }
 

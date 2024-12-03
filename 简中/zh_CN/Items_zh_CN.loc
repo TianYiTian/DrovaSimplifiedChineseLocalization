@@ -16,7 +16,7 @@ item_honeyMead_name { 蜂蜜酒 }
 
 item_honeyMead_description {  }
 
-item_redHerb_name { 锈根 }
+item_redHerb_name { 锈草 }
 
 item_redHerb_description { 生长于沼泽。 }
 
@@ -1564,11 +1564,11 @@ item_silberringmind_2_name { 自然精灵之精妙戒指 }
 
 item_silberringmind_2_description {  }
 
-item_armorring_0_name { 铁制三曲枝图 }
+item_armorring_0_name { 钢铁三叉戟 }
 
 item_armorring_0_description {  }
 
-item_armorring_1_name { 银色三曲枝图 }
+item_armorring_1_name { 银质三叉戟 }
 
 item_armorring_1_description {  }
 
@@ -1576,7 +1576,7 @@ item_magicresring_0_name { 三重符文 }
 
 item_magicresring_0_description {  }
 
-item_magicresring_1_name { 发光的三角星 }
+item_magicresring_1_name { 发光三重符文 }
 
 item_magicresring_1_description {  }
 

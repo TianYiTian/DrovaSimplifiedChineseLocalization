@@ -74,7 +74,7 @@ Plh_66 { 他相当生气，但我已经付了酒钱。 }
 
 Plh_69 { 你帮我付了账？真的吗？ }
 
-Plh_70 { 他说你还欠他GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill枚硬币。 }
+Plh_70 { 他说你还欠他$GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$枚硬币。 }
 
 Plh_72 { 我需要你的地图才能找到这里。 }
 

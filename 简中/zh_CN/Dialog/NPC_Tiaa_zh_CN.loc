@@ -24,7 +24,7 @@ Plh_13 { 在神灵面前，你怎么能猜到这个！*翻白眼* }
 
 Plh_14 { *咬牙切齿* 典型。 }
 
-Plh_19 { 嗨，我给你带来了[GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat]肉。 }
+Plh_19 { 嗨，我给你带来了$GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$肉。 }
 
 Plh_25 { 如果你饿了，你现在可以每天领取一餐。但每天只能领取一次！我还需要填饱其他人的嘴。 }
 
@@ -32,7 +32,7 @@ Plh_27 { 我想领取我的每日餐食。 }
 
 Plh_28 { 当然可以。来，尝尝这个。*咧嘴笑* }
 
-Plh_29 { (操作食物 - 加入地根) }
+Plh_29 { （操作食物 - 加入地根） }
 
 Plh_30 { （什么都不做） }
 

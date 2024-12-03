@@ -26,9 +26,9 @@ SwitchWeapon { 你发现了一种新型武器。在德洛瓦中，有几种不�
 
 Perception_03_Controller { 按下$INPUTANIM:PerceptionMode$ 以激活调查模式。靠近一个物体，并使用$INPUTANIM:LookX$朝物体的方向看，以进行调查。 }
 
-Abilities_02 { 你已学会一项新能力！该能力已自动装备。使用$INPUTANIM:OpenAbilities$打开能力菜单，仔细查看或将其放置在其他环形菜单槽位上。在游戏中，你可以通过环形菜单($INPUTANIM:RingMenu$)更改当前激活的能力。 }
+Abilities_02 { 你已学会一项新能力！该能力已自动装备。使用$INPUTANIM:OpenAbilities$打开能力菜单，仔细查看或将其放置在其他环形菜单槽位上。在游戏中，你可以通过环形菜单（$INPUTANIM:RingMenu$）更改当前激活的能力。 }
 
-Abilities_02_Controller { 你学会了一项新技能！该技能已自动装备。按 $INPUTANIM:Inventory$ 打开菜单，并通过 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 导航到技能标签页。在那里，你可以更详细地查看你的新技能，或将其放置在另一个环形菜单槽位上。在游戏中，你可以通过环形菜单 ($INPUTANIM:RingMenu$) 更改当前激活的技能。 }
+Abilities_02_Controller { 你学会了一项新技能！该技能已自动装备。按 $INPUTANIM:Inventory$ 打开菜单，并通过 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 导航到技能标签页。在那里，你可以更详细地查看你的新技能，或将其放置在另一个环形菜单槽位上。在游戏中，你可以通过环形菜单 （$INPUTANIM:RingMenu$） 更改当前激活的技能。 }
 
 BattleBuddies_Blocks { 按住$INPUTANIM:Block$以格挡。每次成功格挡都会消耗耐力而非生命值。耐力耗尽后，你将无法继续格挡。 }
 
@@ -74,7 +74,7 @@ Crafting { 在火堆旁，你可以烹饪和制作药水。还有其他手工制
 
 CloseTutorial { 隐藏 }
 
-CloseTutorial_Gamepad { 关闭 (按住 $INPUTANIM:UISubmit$) }
+CloseTutorial_Gamepad { 关闭 （按住 $INPUTANIM:UISubmit$） }
 
 Abilities_03 { 你已经装备了你的第一个技能。要切换你的技能，按住$INPUTANIM:RingMenu$，直到你选择了你想主动使用的技能。 }
 

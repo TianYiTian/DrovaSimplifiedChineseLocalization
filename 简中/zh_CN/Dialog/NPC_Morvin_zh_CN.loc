@@ -194,7 +194,7 @@ Plh_154 { 当然，$GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ 正在�
 
 Plh_155 { 你想赌一把？那待会儿来找我。这里我不干这个。 }
 
-Plh_156 { 我押注在[$GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$]上。 }
+Plh_156 { 我押注在$GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$上。 }
 
 Plh_157 { 我押注$GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$。 }
 
@@ -226,7 +226,7 @@ Plh_181 { 我们战斗不是为了爱情，钱必须流动。 }
 
 Plh_183 { 终于有人站出来说话了，除了我之外！ }
 
-Plh_184 { $GVAR:EVars_Player.Name$ 现在将为[我们]战斗。已经击败了莫格，这可不是闹着玩的。 }
+Plh_184 { $GVAR:EVars_Player.Name$ 现现在将为我们而战。他曾击败过莫格，这可不是闹着玩的。 }
 
 Plh_185 { 布兰、达克和卡里玛是和你一样的盾手。你们一起训练，互相战斗。谁能晋级，谁就可以在竞技场中战斗。 }
 
@@ -366,7 +366,7 @@ Plh_274 { 你已经击败了所有人。只剩下艾达了。她一直在密切�
 
 Plh_275 { 今天你要战斗。做好准备。 }
 
-Plh_276 { 你今天要在竞技场里战斗，我已经下注了。[不能赌自己！] }
+Plh_276 { 今天你自己要在竞技场中战斗，我已经投了你的注。禁止在自己身上下注！ }
 
 Plh_277 { 你未到场参战。我将金币分配给了其他玩家。下次请务必到场。 }
 

@@ -4,7 +4,7 @@ Plh_5 { 今天啤酒免费！ }
 
 Plh_7 { *对你微笑* }
 
-Plh_8 { 你想吃鱼，我这儿有给你准备的。($GVAR:QuestVars_FishingForDunja_Config.AmountFish$ 条鱼给你) }
+Plh_8 { 你想吃鱼，我这儿有给你准备的。（$GVAR:QuestVars_FishingForDunja_Config.AmountFish$ 条鱼给你） }
 
 Plh_9 { 哦，太好了！至少你还记得我！非常感谢！我没想到能得到这条鱼。而且还是从家族成员那里得到的！ }
 

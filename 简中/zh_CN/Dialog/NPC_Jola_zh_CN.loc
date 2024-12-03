@@ -158,7 +158,7 @@ Plh_174 { 如果你下次见到他，能问问他吗？ }
 
 Plh_175 { 发生了什么？ }
 
-Plh_176 { 你自己问问[他]吧。 }
+Plh_176 { 你自己问问他吧。 }
 
 Plh_177 { 嗯，尤金很少来这里……实际上，只有当他喝醉了去打猎时才会来。 }
 
@@ -196,7 +196,7 @@ Plh_201 { 意思是莱文在这里说了算？ }
 
 Plh_202 { 莱文决定是否有人可以进入上层区，但我们跟随杰罗。他是我们的领导人。莱文是通向他的一步。 }
 
-Plh_203 { 目前我们需要四个人。每多一双[手]，你就能获得$GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$金币。 }
+Plh_203 { 目前我们需要四个人。每双勤劳的双手都可以获得 $GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$ 枚金币。 }
 
 Plh_204 { 你活下来了，这真是太好了。去找基利安报到，他在等你。 }
 

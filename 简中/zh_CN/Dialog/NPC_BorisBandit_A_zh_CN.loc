@@ -50,7 +50,7 @@ Plh_35 { 你怎么知道我有$GVAR:QuestVars_LucrativeBusiness_Config.PackagePr
 
 Plh_36 { 我身上没有硬币。 }
 
-Plh_37 { *嗅了嗅* 哈？我几乎能闻到。你有[GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice]硬币。 }
+Plh_37 { *嗅了嗅* 哈？我几乎能闻到。你有$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$硬币。 }
 
 Plh_38 { 吉米 知道什么时候有人撒谎。你为什么要骗我们呢？我们只是想帮忙！ }
 

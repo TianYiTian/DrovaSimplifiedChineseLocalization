@@ -10,7 +10,7 @@ Tab_Quests_Running { 当前 }
 
 Tab_Letters { 文献 }
 
-Group_Bandits { 废墟强盗 }
+Group_Bandits { 废墟劫掠者 }
 
 Group_Nemeton { 涅墨顿 }
 
@@ -36,6 +36,6 @@ Group_Dungeon_Library { 图书馆 }
 
 Group_Dungeon_City { 原初森林中的城市 }
 
-Group_Dungeon_Auwald { 冲积森林高原 }
+Group_Dungeon_Auwald { 河漫森林高原 }
 
 Group_TreasureMaps { 藏宝图 }

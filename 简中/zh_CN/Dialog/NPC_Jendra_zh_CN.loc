@@ -28,9 +28,9 @@ Plh_21 { 你竟然靠剥削他人来谋利... }
 
 Plh_23 { 带我下到矿井深处。 }
 
-Plh_24 { 阿尔玛尔和艾拉每人给了我[GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra]银币。你看看你有没有。 }
+Plh_24 { 阿尔玛尔和艾拉每人给了我$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$银币。你看看你有没有。 }
 
-Plh_25 { 他们给你[GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra]银币？！ }
+Plh_25 { 他们给你$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$银币？！ }
 
 Plh_26 { 明白了。尽管如此，他们还是从深矿中获得了丰厚的利润。这就是为什么每个人都如此热衷于此。 }
 
@@ -40,7 +40,7 @@ Plh_28 { 这是砍头！ }
 
 Plh_29 { 你还需要学习，这里的事情运行方式有些不同... }
 
-Plh_30 { 这里，$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ 应该够了。(给予) }
+Plh_30 { 这里，$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ 应该够了。（给予） }
 
 Plh_31 { 嗯。我说，真可惜阿尔玛尔。你有一个位置！下次我带你一起去。准备好后告诉我。 }
 

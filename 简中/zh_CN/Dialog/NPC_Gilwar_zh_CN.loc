@@ -12,9 +12,9 @@ Plh_10 { 那是一只年轻的熊。 }
 
 Plh_11 { 我的硬币怎么了？ }
 
-Plh_12 { (从袋子里拿出所有$GVAR:QuestVars_OldMan_Config.AllMoney$个硬币) }
+Plh_12 { （从袋子里拿出所有$GVAR:QuestVars_OldMan_Config.AllMoney$个硬币） }
 
-Plh_13 { 从袋子中取出($GVAR:QuestVars_OldMen_Config.DefaultValue$ 枚金币) }
+Plh_13 { 从袋子中取出（$GVAR:QuestVars_OldMen_Config.DefaultValue$ 枚金币） }
 
 Plh_14 { 我不需要硬币。 }
 
@@ -60,7 +60,7 @@ Plh_38 { 哈！我几乎和涅墨顿一样古老！ }
 
 Plh_39 { 如果我说我英勇奋战，但最终被敌人打败并受到惩罚，你会相信我吗？ }
 
-Plh_40 { 你是觉得我要是有[这玩意儿]，还会在这儿吗？！ }
+Plh_40 { 如果我有一个，你觉得我还会在这里吗？ }
 
 Plh_41 { 你无法想象我在这里经历了什么。当涅墨顿还辉煌的时候...那个没有人愿意离开的地方... }
 

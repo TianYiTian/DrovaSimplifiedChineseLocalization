@@ -26,7 +26,7 @@ Plh_28 { 如果你想制造武器和护甲，情况看起来不太妙。这需�
 
 Plh_29 { 我可以教你如何加工铁。这样你虽然不能锻造武器，但可以制作陷阱、弹药和其他东西。 }
 
-Plh_33 { 我会为你带来[Craft]，只需支付$GVAR:EVars_Bardok.PriceCraft$金币。 }
+Plh_33 { 我可以用$GVAR:EVars_Bardok.PriceCraft$金币帮你搞定。 }
 
 Plh_34 { 你有 $GVAR:EVars_Bardok.PriceCraft$ 个金币吗？ }
 

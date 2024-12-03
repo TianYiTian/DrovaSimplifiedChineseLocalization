@@ -1,4 +1,4 @@
-Plh_3 { (结束对话) }
+Plh_3 { （结束对话） }
 
 Plh_4 { 闪一边去，我有事要忙。栅栏的维修可不会自己完成。 }
 
@@ -98,7 +98,7 @@ Plh_185 { 干得好。我没想到肯德里克会这么做。我听说现在这�
 
 Plh_186 { 我想要一张更好的床。（支付$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$硬币） }
 
-Plh_187 { 我想要一个工作台。($GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ 金币) }
+Plh_187 { 我想要一个工作台。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ 金币） }
 
 Plh_188 { 我想要一个熔炉。（支付$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$金币） }
 

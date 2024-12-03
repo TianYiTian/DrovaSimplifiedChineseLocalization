@@ -34,7 +34,7 @@ Entry_08 { 我的第一个胜利。而且所有人都看到了！我的下一个
 
 Entry_09 { 我击败了莉安达，现在必须与“黑暗”战斗。还有一位对手，然后我将挑战竞技场大师。普罗克西穆斯期待我支付$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$的入场费。 }
 
-Entry_10 { 人群沸腾了！终于要对阵竞技场大师艾达了。我能行的。普罗克西穆斯要求为最终战斗支付[GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice]金币。 }
+Entry_10 { 人群沸腾了！终于要对阵竞技场大师艾达了。我能行的。普罗克西穆斯要求为最终战斗支付$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$金币。 }
 
 Entry_11 { 我是竞技场大师，打败了无敌的艾达。现在我站在巅峰！ }
 

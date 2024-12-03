@@ -1,8 +1,8 @@
-back { [返回] }
+back { （返回） }
 
-end { 我得继续前进了。(结束对话) }
+end { 我得继续前进了。（结束对话） }
 
-end_dialog { (结束对话) }
+end_dialog { （结束对话） }
 
 aboutQuests { 任务相关... }
 
@@ -16,11 +16,11 @@ ShowMeSkills { 我想学习新技能。 }
 
 End_VergissEs { 忘了它吧。 }
 
-End_MussLos { 我得走了。[结束对话] }
+End_MussLos { 我得走了。（结束对话） }
 
 End_IchGehDannMal { 那我就先走了。 }
 
-End_(End) { （离开对话） }
+End_（End） { （离开对话） }
 
 End_ÜberlegeNoch { 我还在考虑。 }
 
@@ -110,7 +110,7 @@ NotEnoughMoney2 { 别耍我，这些钱不够。 }
 
 NoTime_TrainingTime { 太阳在天空中时，我会在训练场。那时我们可以战斗。 }
 
-MeldDichBeiMir { [简单地]加入我。 }
+MeldDichBeiMir { 直接来找我吧。 }
 
 HereIsMyMoney { 这里是硬币。 }
 
@@ -130,7 +130,7 @@ ArmorHeavy { 一款提供最大保护的产品。 }
 
 PlayerSaysTheyDontHaveMoney { 我没有足够的金币... }
 
-Leave { (离开) }
+Leave { （离开） }
 
 OnlyNemetonTeaching { 我只为来自涅墨顿的勇士们带来所需之物。 }
 

@@ -100,7 +100,7 @@ Plh_83 { 在巴迪的盔甲里，我已经“忘记”放了痒痒粉。*咧嘴�
 
 Plh_85 { 我看到你和普罗克西穆斯交谈了。你有未来。你知道自己想要什么，也知道如何得到它。对吧？ }
 
-Plh_86 { (自信地加入) }
+Plh_86 { （自信地加入） }
 
 Plh_87 { （小心跟随） }
 
@@ -166,7 +166,7 @@ Plh_124 { 我看到了你的战斗。干得漂亮！*咧嘴笑* 你果然没让�
 
 Plh_125 { 既然你属于我们……我们就给你$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$硬币，这样战斗对你来说会轻松不少。*咧嘴笑* }
 
-Plh_126 { 这里是硬币。(给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ 枚硬币) }
+Plh_126 { 这里是硬币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ 枚硬币） }
 
 Plh_127 { 这里是你需要的金币。（给予$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$） }
 

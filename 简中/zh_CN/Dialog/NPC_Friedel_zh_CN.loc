@@ -46,7 +46,7 @@ Plh_29 { 记得——你还欠我点东西。 }
 
 Plh_30 { 那么，我们的交易就这样定了。*迅速将清单重新放回抽屉里* }
 
-Plh_54 { (签字) }
+Plh_54 { （签字） }
 
 Plh_55 { 我想了想，还是暂时不借了。 }
 
@@ -58,7 +58,7 @@ Plh_58 { 那就拿出$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$枚硬�
 
 Plh_59 { 那就拿出 $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ 枚硬币吧。 }
 
-Plh_61 { 来，拿着。($GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ 个硬币给出) }
+Plh_61 { 来，拿着。（$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ 个硬币给出） }
 
 Plh_62 { 哦，我现在没有。我稍后给你带来。 }
 
@@ -66,7 +66,7 @@ Plh_63 { 非常好。和你做生意真是愉快。*咧嘴笑* }
 
 Plh_64 { 那你得小心点。而且要快点。你不会想惹上我的麻烦，相信我。 }
 
-Plh_66 { 拿着，这是你的。[QuestVars_Debt_Config.HighAmountWithInterest] 枚金币。 }
+Plh_66 { 拿着，这是你的。$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ 枚金币。 }
 
 Plh_68 { 我目前不需要硬币。 }
 
@@ -96,9 +96,9 @@ Plh_80 { 这个该死的神明。 }
 
 Plh_81 { *你看到一张井井有条的桌子，上面似乎没有任何东西是随意摆放的。几张纸条摊开在桌子上，其他的则被卷了起来。* }
 
-Plh_82 { (检查桌子上的纸条) }
+Plh_82 { （检查桌子上的纸条） }
 
-Plh_83 { (打开最上方的抽屉) }
+Plh_83 { （打开最上方的抽屉） }
 
 Plh_84 { *这些纸张看起来像是一份合同。下面有一条线，可能是用来签名的。上面有几行字，用来记录合同的内容。* }
 
@@ -110,11 +110,11 @@ Plh_87 { （关上抽屉） }
 
 Plh_89 { *你迅速把东西塞进了口袋。* }
 
-Plh_90 { (打开最底层的抽屉) }
+Plh_90 { （打开最底层的抽屉） }
 
 Plh_91 { *你一眼就看到了一张写着清单的纸条。上面列有几个名字和金额。* }
 
-Plh_92 { [接受清单] }
+Plh_92 { （获取清单） }
 
 Plh_95 { 嘿，别动我的桌子！ }
 

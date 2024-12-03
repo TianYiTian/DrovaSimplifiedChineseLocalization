@@ -4,7 +4,7 @@ Entry_01 { 鲍里斯是杰罗的刀锋之一，为了被流亡者营地接纳，
 
 Entry_01A { 为了加入鲍里斯的队伍，我需要说服他队伍中的两个人。但他不愿意告诉我谁属于他的队伍。我必须自己找出答案。 }
 
-Entry_03 { 鲍里斯提出，我不再需要说服他的部队，作为交换，我将获得[$GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$]枚硬币。 }
+Entry_03 { 鲍里斯提出，我不再需要说服他的部队，作为交换，我将获得$GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$枚硬币。 }
 
 Entry_06 { 埃斯特属于鲍里斯的队伍。如果我帮助她，鲍里斯会知道这件事。 }
 
