@@ -570,7 +570,7 @@ Boar { Eber }
 
 Fox { Rotfuchs }
 
-Stalker_Red { Roter Schnapper } 
+Stalker_Red { Schnapper } 
 
 Stalker_Blue { Blauer Schnapper } 
 
@@ -628,7 +628,11 @@ Draugr_Spear { Vergangener Krieger }
 
 Draugr_Mage { Vergangener Zauberer }
 
-Draugr_Axe { Vergangener General }
+Draugr_Axe_Legendary { Vergangener General }
+
+Draugr_Axe { Vergangener Berserker }
+
+Draugr_Dagger { Vergangener Assassine }
 
 Rat { Ratte }
 

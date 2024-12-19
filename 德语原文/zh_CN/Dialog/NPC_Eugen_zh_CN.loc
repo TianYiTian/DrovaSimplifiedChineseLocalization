@@ -822,7 +822,7 @@ Plh_771 { Es ist, als hätten wir selbst die Aura eines Göttlichen ... }
 
 Plh_772 { Ich fühle mich aber überhaupt nicht göttlich ... }
 
-Plh_773 { Nicht schlecht, $GVAR:EVars_Player.PlayerNickNameRuinenlager$. Nicht schlecht. }
+Plh_773 { Nicht schlecht, $GVAR:EVars_Player.Name$. Nicht schlecht. }
 
 Plh_774 { Lindon hat recht. Wir sollten hier trotzdem so schnell wie möglich durch. Los, geh weiter. }
 

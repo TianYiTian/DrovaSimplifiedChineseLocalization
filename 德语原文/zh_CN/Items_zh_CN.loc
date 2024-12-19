@@ -10,6 +10,8 @@ weapon_shield { Schild }
 
 weapon_bow { Bogen }
 
+weapon_bow_draugr_name { Draugr Bogen }
+
 weapon_slingshot { Schleuder }
 
 item_honeyMead_name { Honigmet }
@@ -2513,6 +2515,10 @@ item_fish_dead_name { Todesfisch }
 item_fish_dead_description { Das ist noch roh. Verzehr ist nicht empfohlen. }
 
 recipe_foodpile_strong_name { Rezept: Springender Barsch }
+
+weapon_dagger_draugr_name { Draugr Dolche }
+
+weapon_axe_draugr_name { Draugr Axt }
 
 weapon_sword_draugrIronBlade_name { Draugr Schwert }
 

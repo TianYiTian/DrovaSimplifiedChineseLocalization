@@ -6,3 +6,5 @@ Restart { Nochmal versuchen }
 
 Load { Laden }
 
+HardcoreMessage { Du bist Hardcore-Modus gestorben. Deine Spielstände wurden auf Eisen heruntergestuft.<br>Wenn du das Spiel auf Hardcore durchspielen willst, musst du einen neuen Charakter anfangen. }
+

@@ -188,13 +188,17 @@ Achievement_ExplorerMode_desc { Beende das Spiel im Modus Entdecker. }
 
 Achievement_HardcoreMode_name { Hardcore }
 
-Achievement_HardcoreMode_desc { Beende das Spiel mit der Speichereinstellung Hardcore. }
+Achievement_HardcoreMode_desc { Beende das Spiel mit der Speichereinstellung Hardcore. Zählt nicht zu den Basis-Errungenschaften. }
 
 Achievement_ClassicMode_name { Klassisch }
 
 Achievement_ClassicMode_desc { Beende das Spiel im Modus Klassisch. }
 
+Achievement_InsaneMode_name { Wahnsinn }
+
+Achievement_InsaneMode_desc { Beende das Spiel im Modus Wahnsinn. Zählt nicht zu den Basis-Errungenschaften. }
+
 Achievement_AllAchievements_name { Drovastisch! }
 
-Achievement_AllAchievements_desc { Erhalte alle Errungenschaften. }
+Achievement_AllAchievements_desc { Erhalte alle Basis-Errungenschaften. }
 

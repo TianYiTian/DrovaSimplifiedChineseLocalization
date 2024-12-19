@@ -1,4 +1,4 @@
-Entry_01 { Olga und Luten benötigen Callapilz-Extrakt für ihren Talisman, den sie Helma schenken wollen. Humbert kann mir sagen, wie ich so etwas bekomme. Ich finde ihn östlich von Nemeton, dort wo viele Pflanzen sind. }
+Entry_01 { Olga und Luten benötigen Callapilz-Extrakt für ihren Talisman, den sie Helma schenken wollen. Humbert kann mir sagen, wie ich so etwas bekomme. Ich finde ihn östlich in Nemeton, dort wo viele Pflanzen sind. }
 
 Entry_03 { Wenn ich das Extrakt haben möchte, muss ich Humbert $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ Callapilze bringen. Diese sollte ich außerhalb von Nemeton im Moor finden. }
 

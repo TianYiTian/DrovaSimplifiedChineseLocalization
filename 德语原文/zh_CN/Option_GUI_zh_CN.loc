@@ -2,6 +2,8 @@ Control { Steuerung }
 
 GameMode { Spielmodus }
 
+SaveMode { Speichermodus }
+
 default { Zurücksetzen }
 
 dont_save { Nicht speichern }
@@ -275,4 +277,6 @@ UseAltFriendlyColor { Alternative Farbe für Lebensleisten von Verbündeten }
 FontSize_VeryBig { Noch größer }
 
 category_quickbar { Quickbar }
+
+Toggle_ChallengeTimer { Spielzeit-Timer anzeigen }
 
