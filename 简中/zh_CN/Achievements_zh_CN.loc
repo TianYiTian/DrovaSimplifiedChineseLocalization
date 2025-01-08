@@ -1,4 +1,4 @@
-Achievement_ImmersiveMod_name { 铁人 }
+Achievement_ImmersiveMod_name { 铁人模式 }
 
 Achievement_ImmersiveMod_desc { 在铁人模式下完成游戏。 }
 
@@ -188,12 +188,16 @@ Achievement_ExplorerMode_desc { 在探索者模式下完成游戏 }
 
 Achievement_HardcoreMode_name { 硬核模式 }
 
-Achievement_HardcoreMode_desc { 在硬核模式下完成游戏。 }
+Achievement_HardcoreMode_desc { 在硬核模式下完成游戏。此成就不计入基础成就。 }
 
 Achievement_ClassicMode_name { 经典模式 }
 
 Achievement_ClassicMode_desc { 在经典模式下完成游戏。 }
 
+Achievement_InsaneMode_name { 疯狂模式 }
+
+Achievement_InsaneMode_desc { 在疯狂模式中完成游戏。此成就不计入基础成就。 }
+
 Achievement_AllAchievements_name { 德洛瓦传奇！}
 
-Achievement_AllAchievements_desc { 获得所有成就 }
+Achievement_AllAchievements_desc { 获得所有基础成就。 }

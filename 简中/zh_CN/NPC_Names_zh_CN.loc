@@ -570,7 +570,7 @@ Boar { 野猪 }
 
 Fox { 赤狐 }
 
-Stalker_Red { 红色利齿鸟 } 
+Stalker_Red { 利齿鸟 } 
 
 Stalker_Blue { 蓝色利齿鸟} 
 
@@ -628,7 +628,11 @@ Draugr_Spear { 往者武士 }
 
 Draugr_Mage { 往者巫师 }
 
-Draugr_Axe { 往者将军 }
+Draugr_Axe_Legendary { 往者将军 }
+
+Draugr_Axe { 往者狂战士 }
+
+Draugr_Dagger { 往者刺客 }
 
 Rat { 老鼠 }
 

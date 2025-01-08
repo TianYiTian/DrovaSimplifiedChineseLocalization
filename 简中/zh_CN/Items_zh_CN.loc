@@ -10,6 +10,8 @@ weapon_shield { 盾牌 }
 
 weapon_bow { 弓 }
 
+weapon_bow_draugr_name { 亡灵长弓 }
+
 weapon_slingshot { 弹弓 }
 
 item_honeyMead_name { 蜂蜜酒 }
@@ -2513,6 +2515,10 @@ item_fish_dead_name { 死亡之鱼 }
 item_fish_dead_description { 这还是生的。最好别吃。 }
 
 recipe_foodpile_strong_name { 配方：跳跃的鲈鱼 }
+
+weapon_dagger_draugr_name { 亡灵匕首 }
+
+weapon_axe_draugr_name { 亡灵战斧 }
 
 weapon_sword_draugrIronBlade_name { 亡灵剑 }
 

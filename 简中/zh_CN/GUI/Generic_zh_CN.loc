@@ -15,3 +15,5 @@ holdToSkip { 按住跳过 }
 gameModeChangeDesc { 如果你切换了模式，就无法再更改了。你确定吗？ }
 
 loadLatestPopUp { 你想加载你最后的游戏进度吗？ }
+
+Answer_Understood { 明白了 }

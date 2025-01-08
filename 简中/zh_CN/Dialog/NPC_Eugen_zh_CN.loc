@@ -822,7 +822,7 @@ Plh_771 { 我们仿佛拥有了一种神圣的光环…… }
 
 Plh_772 { 我完全没有神的感觉... }
 
-Plh_773 { 不错啊，$GVAR:EVars_Player.PlayerNickNameRuinenlager$。不错。 }
+Plh_773 { 不错啊，$GVAR:EVars_Player.Name$。不错。 }
 
 Plh_774 { 林顿说得对。尽管如此，我们还是应该尽快离开这里。走吧，继续前进。 }
 

@@ -2,6 +2,8 @@ Control { 控制 }
 
 GameMode { 游戏模式 }
 
+SaveMode { 存档模式 }
+
 default { 重置 }
 
 dont_save { 不保存 }
@@ -276,3 +278,4 @@ FontSize_VeryBig { 更大 }
 
 category_quickbar { 快捷栏 }
 
+Toggle_ChallengeTimer { 显示游戏时间计时器 }
