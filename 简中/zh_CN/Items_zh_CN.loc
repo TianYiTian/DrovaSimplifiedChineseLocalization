@@ -1164,7 +1164,7 @@ cons_flow_aggressiveCry_description { 向前方锥形区域咆哮，造成[Poise
 
 cons_flow_battleCry_name { 战斗咆哮 }
 
-cons_flow_battleCry_description { 增加造成的伤害[DamagePercent]，移动速度和攻击速度[MovePercent]，但也会增加你受到的伤害[ReceiveDamagePercent]。持续[TimeAbs]秒。 }
+cons_flow_battleCry_description { 提升造成的物理伤害[DamagePercent]，移动与攻击速度[MovePercent]，但自身受到的伤害也会增加[ReceiveDamagePercent]。效果持续[TimeAbs]秒。 }
 
 cons_flow_bullRush_name { 突击 }
 
@@ -1756,7 +1756,7 @@ item_headdress_magicamp_description { 一件表达与原初森林联系的头饰
 
 item_brutus_seal_active_name { 德瑞瓦尼乌斯的激活印记 }
 
-item_brutus_seal_active_description { 所有七个镶嵌的晶石都闪耀着光芒。 }
+item_brutus_seal_active_description { 已激活的水晶中，七个之中有$GVAR:QuestVars_Brutus.ActivateShrine$个正在发光。 }
 
 item_letterTableBrutus_0_name { 德瑞瓦尼乌斯最后的研究 II }
 
@@ -2290,7 +2290,7 @@ item_letterRedTower_1_name { 毁灭II }
 
 item_letterRedTower_1_description {  }
 
-item_letterRedTower_2_name { 愤怒的神明 }
+item_letterRedTower_2_name { 愤怒的神灵 }
 
 item_letterRedTower_2_description {  }
 
@@ -2654,30 +2654,6 @@ recipe_silberringskill_2_name { 配方：刺客的银戒指 }
 
 recipe_silberringmind_2_name { 配方：自然精灵之精妙戒指 }
 
-misc_key_locked_door_name { [LOCA] 未找到钥匙：misc_key_locked_door_name。路径：Items }
-
-misc_key_locked_door_description { [LOCA] 未找到钥匙：misc_key_locked_door_description。路径：Items }
-
-cons_flow_conjure_ripper_name { Id: cons_flow_conjure_ripper }
-
-cons_flow_conjure_ripper_description {  }
-
-item_poisonedThrowingKnife_npc_fan_name { Id: item_poisonedThrowingKnife_npc_fan }
-
-item_poisonedThrowingKnife_npc_fan_description {  }
-
-item_poisonedThrowingKnife_npc_fast_name { Id: item_poisonedThrowingKnife_npc_fast }
-
-item_poisonedThrowingKnife_npc_fast_description {  }
-
-item_splittertrap_npc_ebru_all_arena_name { Id: item_splittertrap_npc_ebru_all_arena }
-
-item_splittertrap_npc_ebru_all_arena_description {  }
-
-item_splittertrap_npc_ebru_single_name { Id: item_splittertrap_npc_ebru_single }
-
-item_splittertrap_npc_ebru_single_description {  }
-
 item_Whiskey_StoneWall_name { 石墙威士忌 }
 
 item_Whiskey_StoneWall_description { 一瓶古老的瓶子，瓶上刻有一个石墙的图案。 }
@@ -2738,7 +2714,7 @@ weapon_sword_carimasoldsword_description {  }
 
 item_trinket_pureDmg_name { 工匠的复仇 }
 
-item_trinket_pureDmg_description { 增加陷阱和投掷物的伤害100%。 }
+item_trinket_pureDmg_description { 提升陷阱和投掷武器的伤害 [DamageValuePercent]。 }
 
 item_VoragoFragment_0_name { 徽章碎片 }
 
@@ -2769,4 +2745,78 @@ weapon_sling_legendarySlingshot_description { 风环绕着弹弓，增强了它�
 item_letterCelts_Spark_name { 伯蒂娜的火花 }
 
 item_letter_library_soundRoom_note2_name { 共振号角 }
+
+cons_flow_magicNuke_name { 闪电冲击 }
+
+cons_flow_magicNuke_description { 强力法术，造成[DamageFlexAbs]点魔法伤害及[PoiseDamageAbs]点姿态伤害。 }
+
+recipe_flow_magicnuke_name { 法术：闪电冲击 }
+
+recipe_flow_dashstab_name { 法术：暗影突袭 }
+
+recipe_flow_sunder_name { 法术：粉碎 }
+
+recipe_flow_cyclone_name { 法术：旋风 }
+
+recipe_flow_ballista_name { 法术：弩炮 }
+
+flow_sunder_name { 粉碎 }
+
+flow_sunder_description { 弧形斩击，造成[WeaponDamagePercent]武器魔法伤害。伤害随力量与精神属性提升。 }
+
+flow_ballista_name { 弩炮 }
+
+flow_ballista_description { 远距离突刺攻击，造成[WeaponDamagePercent]武器魔法伤害并产生后坐力。伤害受力量与精神属性加成。 }
+
+flow_cyclone_name { 旋风 }
+
+flow_cyclone_description { 斧击·圆斩 造成[WeaponDamagePercent]武器魔法伤害。受力量与精神属性加成。 }
+
+flow_dashStab_name { 暗影突袭 }
+
+flow_dashStab_description { 向视线方向快速冲锋，无视与其他生物的碰撞，造成[WeaponDamagePercent]点武器魔法伤害。伤害值与力量和精神属性相关。 }
+
+flow_blast_name { 叶片冲击 }
+
+flow_blast_description { 凝聚自然魔法能量并向视线方向发射。造成[DamageFlexAbs]点魔法伤害。 }
+
+flow_graspingRoots_name { 根之召唤 }
+
+flow_graspingRoots_description { 凝聚自然魔力，使地面生长出藤蔓根系。将敌人禁锢[TimeAbs]秒。 }
+
+flow_travelForm_name { 狼之赠礼 }
+
+flow_travelForm_description { 凝聚自然魔力，将你转化为幽灵狼形态。移动速度提升[移动百分比]。 }
+
+flow_natureTouch_name { 自然的拥抱 }
+
+flow_natureTouch_description { 凝聚自然魔法之力，在[TimeAbs]秒内为你恢复[HealValueAbsolut]点生命值。该效果会受到精神属性的加成。 }
+
+flow_conjure_spiritCall_name { 幽暗森林的召唤 }
+
+flow_conjure_spiritCall_description { 凝聚自然魔力，召唤幽暗森林之灵为你而战。 }
+
+key_extractor_name { 提取器钥匙 }
+
+key_extractor_description { 由三个部分组成，顶部相连，底部开口。}
+
+flow_spiritShot_name { 野猪之怒 }
+
+flow_spiritShot_description { 凝聚自然魔力召唤幽灵野猪，沿视线方向冲锋并造成[DamageFlexAbs]点魔法伤害。 }
+
+helmet_atlanter_champion_name { 冠军之颜 }
+
+helmet_atlanter_champion_description { 往者英雄之盔，授予战功卓著者的特殊头饰。 }
+
+weapon_sword_ancientRitualSword_name { 远古仪式之剑 }
+
+weapon_sword_ancientRitualSword_description {  }
+
+weapon_sword_ancientSword_name { 远古之剑 }
+
+weapon_sword_ancientSword_description {  }
+
+weapon_axe_ancientAxe_name { 远古战斧 }
+
+weapon_axe_ancientAxe_description {  }
 

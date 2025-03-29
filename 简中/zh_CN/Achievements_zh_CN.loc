@@ -172,11 +172,11 @@ Achievement_TrustedGawan_desc { 相信加万和他的商业头脑 }
 
 Achievement_DefaultEnding_name { 一切终有尽头 }
 
-Achievement_DefaultEnding_desc { 你已亲历故事让人痛苦的终章。你让神明释放怒火，并驱散了死亡迷雾。 }
+Achievement_DefaultEnding_desc { 你已亲历故事让人痛苦的终章。你让神灵释放怒火，并驱散了死亡迷雾。 }
 
 Achievement_OptionalEnding_name { 新的道路 }
 
-Achievement_OptionalEnding_desc { 你已亲历故事的终章，成功安抚了神明，并驱散了死亡迷雾。 }
+Achievement_OptionalEnding_desc { 你已亲历故事的终章，成功安抚了神灵，并驱散了死亡迷雾。 }
 
 Achievement_EnteredNemeton_name { 我找到路了！ }
 
@@ -201,3 +201,7 @@ Achievement_InsaneMode_desc { 在疯狂模式中完成游戏。此成就不计�
 Achievement_AllAchievements_name { 德洛瓦传奇！}
 
 Achievement_AllAchievements_desc { 获得所有基础成就。 }
+
+Achievement_DefeatedFleshBoss_name { 解放血肉沼泽中的神圣者 }
+
+Achievement_DefeatedFleshBoss_desc { 确保血肉沼泽能够恢复。不计入基础成就。 }

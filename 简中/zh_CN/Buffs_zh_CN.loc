@@ -28,3 +28,9 @@ waterbarrel { 水 }
 
 waterbarrel_description { 在短时间内治疗你。 }
 
+HealReduction { 沼泽之痛 }
+
+HealReduction_Desc { 受到的治疗效果降低[ValuePercent]。 }
+
+BlackPuddle_Name { 沼泽之血 }
+

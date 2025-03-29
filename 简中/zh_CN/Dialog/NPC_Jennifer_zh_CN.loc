@@ -42,7 +42,7 @@ Plh_42 { 如果你有时间，欢迎随时来帮忙。我们非常需要任何�
 
 Plh_43 { 这会救我们一命。然后我就摆脱了朱纳利。她真的可以变得很可怕。 }
 
-Plh_45 { 如果你能给我带来$GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$根木柴，我就能为朱纳利准备好一切。我也会付钱给你！否则这些东西可能永远都到不了这里。 }
+Plh_45 { 只要你给我带来$GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$根圆木，我就能为朱纳利准备好一切。我会付你报酬的！否则这些东西可能永远都送不到这里。 }
 
 Plh_46 { 我再次投入这边的工作。 }
 

@@ -1,5 +1,5 @@
 Title { 遗忘药剂 }
 
-Entry_01 { 艾登在废墟营地正在试验药剂，他可以为我制作一瓶遗忘药水。为此，他需要$GVAR:QuestVars_TrankVergessens_Config.AmountMats$株废墟植物。艾登说，这种植物在废墟附近生长，而有了这瓶药水，我就能忘却至今所学的一切。 }
+Entry_01 { 艾登在流亡者营地正在试验药剂，他可以为我制作一瓶遗忘药水。为此，他需要$GVAR:QuestVars_TrankVergessens_Config.AmountMats$株废墟植物。艾登说，这种植物在废墟附近生长，而有了这瓶药水，我就能忘却至今所学的一切。 }
 
 Entry_02 { 我得到了药剂.}

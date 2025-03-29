@@ -38,7 +38,7 @@ unknownteacher { 未知 }
 
 talentnotknown { 天赋尚未被发现 }
 
-foodText { 缓慢恢复你的生命值，直到达到[MaxStack]。当生命值满时，恢复暂停。 }
+foodText { 每[StackTime]秒恢复[HealValue]点生命值，直至累计恢复[MaxStack]点。生命值全满时，恢复效果将暂停。 }
 
 recipe_requirements { 需要： }
 
@@ -123,3 +123,5 @@ strength_value { 力量 [VALUE] }
 dex_value { 敏捷 [VALUE] }
 
 mind_value { 精神 [VALUE] }
+
+trinket_equipable { 即使拥有多件相同装备，每次仅可装备一件。 }

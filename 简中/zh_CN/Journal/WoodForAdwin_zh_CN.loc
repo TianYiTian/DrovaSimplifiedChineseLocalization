@@ -1,6 +1,6 @@
 Title { 阿德温的木材 }
 
-Entry_01 { 阿德温在手工艺区急需$GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$块木头。我应该在集市上找斯文取。 }
+Entry_01 { 工匠区的阿德温急需$GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$根圆木，让我去市集找斯文取货。 }
 
 Entry_02 { 我拿到了那块木头，就是让詹妮弗和斯文差点打起来的那块。现在我得把它带给阿德温。 }
 
