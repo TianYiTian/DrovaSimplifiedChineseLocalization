@@ -20,7 +20,7 @@ LoadingScreen_14 { Wenn du einen Speer dabei hast, kannst du an bestimmten Orten
 
 LoadingScreen_15 { Wenn du einen Dietrich dabei hast, kannst du Schlösser knacken. Aber lass dich nicht dabei erwischen! }
 
-LoadingScreen_16 { Pass auf, wenn du Gegenstände einsammelst! Rot umrandete Gegenstände gehören bereits jemandem, und Diebe sind nicht gern gesehen. }
+LoadingScreen_16 { Pass auf, wenn du Gegenstände einsammelst! Diebe sind nicht gern gesehen. Wenn das Handsymbol an dem Gegenstand rot wird, gehört er bereits jemandem. }
 
 LoadingScreen_17 { Im Kampf kannst du mit $INPUT:Dodge$ Angriffen ausweichen. Achte auf deine Ausdauerleiste! }
 

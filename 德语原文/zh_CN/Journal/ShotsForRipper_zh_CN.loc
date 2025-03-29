@@ -16,6 +16,8 @@ Entry_04A { ... was zum ... was ist passiert? Ich kann mich an nichts erinnern. 
 
 Entry_04B { Hat sich gelohnt, ihm Bier auszugeben. Eugen hat sich bereit erklärt, mir seine Stimme zu geben. }
 
+Entry_Drunk { Bernold hat meine Ausrüstung aufgehoben. Er bewahrt sie hinter der Theke in der Truhe auf. }
+
 Entry_03_2 { Die Reißer waren wohl schon tot. So oder so, Arbeit erledigt. }
 
 Entry_04C { Eugen wollte noch einen trinken, aber ich habe abgelehnt. Was für eine Jagd! }

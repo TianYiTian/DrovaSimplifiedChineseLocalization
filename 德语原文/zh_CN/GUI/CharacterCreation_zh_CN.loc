@@ -82,7 +82,7 @@ Hardcore_PopUp { Bist du dir sicher, dass du Drova im Modus Hardcore spielen mö
 
 SaveModePopUp_Title { Wähle deinen Speichermodus }
 
-SaveModePopUp_Text_Default { In Drova hast du mehrere Möglichkeiten deinen Spielstand zu speichern.<br><br>Im klassischen Modus kannst du jederzeit auf verschiedene Spielstände speichern.<br><br>Wählst du den Modus Eisern, speichert das Spiel automatisch. Manuelles Speichern ist in diesem Modus nicht möglich.<br><br>Der Hardcore Modus funktioniert grundsätzlich wie der Modus Eisern. Du hast nur eine Chance, das Spiel in Hardcore durchzuspielen. Wenn dein Charakter stirbt, hast du die Herausforderung verloren und dein Spielstand wird auf Eisen heruntergestuft. Du kannst diesen Speicherstand dann nur noch auf Eisen weiterspielen..<br><br>Der Speichermodus kann in den Optionen heruntergestuft werden. }
+SaveModePopUp_Text_Default { In Drova hast du mehrere Möglichkeiten deinen Spielstand zu speichern.<br><br>Im klassischen Modus kannst du jederzeit auf verschiedene Spielstände speichern.<br><br>Wählst du den Modus Eisern, speichert das Spiel automatisch. Manuelles Speichern ist in diesem Modus nicht möglich.<br><br>Der Hardcore Modus funktioniert grundsätzlich wie der Modus Eisern. Du hast nur eine Chance, das Spiel in Hardcore durchzuspielen. Wenn dein Charakter stirbt, hast du die Herausforderung verloren und dein Spielstand wird auf Eisen heruntergestuft. Du kannst diesen Speicherstand dann nur noch auf Eisen weiterspielen.<br><br>Der Speichermodus kann in den Optionen heruntergestuft werden. }
 
 ChangeGameModeWarning { Bist du sicher, dass du den Modus Eisen verlassen möchtest? Wenn du das tust, kann der Modus im Spielverlauf nicht mehr aktiviert werden. }
 

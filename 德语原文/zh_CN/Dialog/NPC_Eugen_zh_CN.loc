@@ -694,21 +694,21 @@ Plh_681 { Ich soll also jedem Befehl Folge leisten? }
 
 Plh_682 { Du verstehst schnell. }
 
-Plh_683 { Such's dir aus. Tu, was ich sage, ohne es zu hinterfragen, oder mach dein Zeug alleine. Kannst dich gern bei mir darüber auskotzen - dafür wirst du dann auch lebend zurückkommen. }
+Plh_683 { Ich erwarte keinen blinden Gehorsam von dir. Aber wir müssen einheitlich vorgehen. Aufeinander aufpassen. Nur so haben wir Erfolg und kommen lebend durch. }
 
 Plh_684 { Farlan, Darwin und Lindon kommen auch mit. Sie sind schon bereit. Ich hoffe, du bist wirklich für die Expedition geeignet. Sobald wir aufgebrochen sind, kommen wir erst zurück, wenn wir fertig sind. }
 
 Plh_687 { Auf dass wir bald aus dieser Welt verschwinden können! }
 
-Plh_689 { Ihr wollt den Göttlichen ... fangen? }
+Plh_689 { Was habt ihr mit dem Göttlichen vor? }
 
-Plh_690 { So ist es. Und du wirst tun, was ich dir sage, damit wir das schaffen. }
+Plh_690 { Wir werden ihn fangen. Wofür? Natürlich, um aus Drova zu entkommen! Unser großes Ziel. Und noch nie war es so greifbar ... }
 
 Plh_691 { Wir haben keine Wahl. Ohne den Göttlichen gelangen wir nicht in den Roten Turm. }
 
 Plh_692 { Ist es wirklich eine gute Idee, einem Göttlichen gegenüberzutreten? }
 
-Plh_693 { Wenn du zur Salzsäule erstarrst, wenn wir in der Domäne des Göttlichen sind, dann bleib lieber hier ... }
+Plh_693 { Ich hoffe, du erstarrst nicht zur Salzsäule, wenn wir in der Domäne des Göttlichen sind ... }
 
 Plh_695 { Geh voran, Eugen. FÜR JERO! }
 
@@ -988,7 +988,7 @@ Plh_893 { Auf den Göttlichen! }
 
 Plh_894 { Auf einen guten Kampf! }
 
-Plh_895 { Hab keine Lust mehr. }
+Plh_895 { Mir ist nicht nach feiern. }
 
 Plh_896 { Hört, hört. Darauf lohnt es sich zu trinken! }
 
@@ -1004,11 +1004,11 @@ Plh_901 { Farlan, Bezwinger des Großen Keilers, der fast keine Hilfe brauchte v
 
 Plh_902 { Eugen! }
 
-Plh_903 { Nicht übermütig werden! Wird sich zeigen, was passiert ... }
+Plh_903 { Nicht übermütig werden! Wird sich zeigen, was passiert. }
 
-Plh_904 { Ich hoffe, wir können tatsächlich irgendwann in Freiheit leben und auf diese Tage zurückblicken ... }
+Plh_904 { ... wenn wir dem Großen Keiler gegenüberstehen. }
 
-Plh_905 { Wir werden den Großen Keiler besiegen. Auf die Freiheit! }
+Plh_905 { Nicht nachdenken, handeln! Wir werden den Großen Keiler besiegen. Auf die Freiheit! }
 
 Plh_906 { Was passiert mit dem Düsterwald und seinen Bewohnern, wenn der Göttliche weg ist? }
 
@@ -1022,7 +1022,7 @@ Plh_911 { Aber sie leben im Einklang mit dem Großen Keiler. Wenn er weg ist ...
 
 Plh_912 { Dann ist er eben weg. Müssen sie ohne ihn leben. }
 
-Plh_914 { Können sich ja auch mal selbst anstrengen. }
+Plh_914 { Willst du Gerede hören über den Willen der Göttlichen? Dann geh zu Darwin. }
 
 Plh_915 { Morgen geht's rund. Sammelt eure Kräfte. }
 
@@ -1190,7 +1190,7 @@ Plh_1046 { Genau so ist es. }
 
 Plh_1048 { Einfach Wasser. }
 
-Plh_1049 { Dein Ernst? }
+Plh_1049 { Das wird sich zeigen. }
 
 Plh_1050 { Ruh dich noch mal aus. Dann geht's vor den Großen Keiler! }
 
@@ -1347,4 +1347,58 @@ Plh_1160 { Ich muss mich noch kurz vorbereiten. }
 Plh_1162 { Beeil dich und komm zu mir, wenn du bereit bist. }
 
 Plh_1163 { Farlan war Feuer und Flamme für dich. Scheinst ihn wirklich beeindruckt zu haben. }
+
+Plh_1164 { Ich möchte nicht davon erzählen. }
+
+Plh_1165 { Niemand zwingt dich. War nur neugierig. }
+
+Plh_1166 { Wahrscheinlich war's nur eine KLEINE Wasserratte! }
+
+Plh_1167 { Eugen ... ich habe die Leute im Düsterwald gewarnt, was wir vorhaben. }
+
+Plh_1168 { *zuckt mit den Schultern* Mir egal. }
+
+Plh_1169 { Wir wissen doch selbst nicht, was dann passiert. }
+
+Plh_1170 { Sie werden's schon merken, sie keinen Göttlichen mehr zwischen ihren Bäumen haben. }
+
+Plh_1171 { Was erwartest du? Die Expedition ist anders verlaufen als gedacht, Lindon ist tot, wir haben den Düsterwald vernichtet ... }
+
+Plh_1172 { Es ist passiert! Das kann ich nicht rückgängig machen! Niemand kann das! }
+
+Plh_1173 { Ich hoffe, das alles war es wert ... }
+
+Plh_1174 { ... das hoffe ich auch ... }
+
+Plh_1175 { Dann schreiten wir zur Tat. }
+
+Plh_1176 { Vielleicht sollten wir das nicht tun ... wir wissen nicht, was das mit dem Düsterwald anrichtet. }
+
+Plh_1177 { Von solchen Gedanken dürfen wir uns jetzt nicht ablenken lassen. Wir können nur etwas verändern, wenn wir auch etwas riskieren! }
+
+Plh_1178 { Los geht's! }
+
+Plh_1179 { Vielleicht sollten wir den Plan noch einmal überdenken ... wer weiß, welche Folgen das hat ... }
+
+Plh_1180 { Die einzige Folge hat zu sein, dass wir über die Macht des Großen Keilers verfügen! }
+
+Plh_1181 { Eugen ... }
+
+Plh_1183 { Das ist alles nicht richtig ... }
+
+Plh_1184 { Es ist nicht zu ändern ... wir dürfen keine Zeit verlieren ... }
+
+Plh_1185 { Wirklich erschreckend, wie schnell der Wald vergeht. Damit hätte ich nicht gerechnet ... }
+
+Plh_1186 { Kommt. }
+
+Plh_1187 { Ich war dabei, verdammt noch mal! }
+
+Plh_1188 { Wir werden es schaffen. Gemeinsam. Weicht nicht vom Plan ab, und das Ruinenlager wird erfolgreich sein! Wir gewinnen unsere Freiheit! }
+
+Plh_1189 { Doch lass uns nicht vergessen, weswegen wir es getan haben. }
+
+Plh_1190 { Bald haben wir es geschafft. Bald verlassen wir Drova! }
+
+Plh_1191 { Schon morgen stehen wir dem Großen Keiler gegenüber! }
 

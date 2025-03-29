@@ -28,3 +28,9 @@ waterbarrel { Wasser }
 
 waterbarrel_description { Heilt dich über kurze Zeit. }
 
+HealReduction { Pein des Moores }
+
+HealReduction_Desc { Reduziert erhaltene Heilung um [ValuePercent]. }
+
+BlackPuddle_Name { Blut des Moores }
+

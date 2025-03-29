@@ -390,11 +390,11 @@ Plh_297 { Geh mit dem Keiler, verirrte Seele. }
 
 Plh_298 { Geh zu Bertine. Sie hat den Weg des Kampfes gewählt. Sie muss ihre Aufgabe erfüllen. }
 
-Plh_301 { Ich will euch warnen, mein Lager will den Großen Keiler einfangen! }
+Plh_301 { Mein Lager ist unterwegs zum Großen Keiler. Sie wollen seine Kraft für ihre Ziele nutzen. }
 
-Plh_302 { Die Göttlichen wissen mehr als wir. Unsere Aufgabe ist es nicht, sie zu hinterfragen sondern Ihnen zu vertrauen. Was auch immer passiert, der Große Keiler leitet jeden unserer Pfade. }
+Plh_302 { Wir werden die Göttlichen nicht hinterfragen, sondern vertrauen, dass sie uns in ihre Zukunft führen. }
 
-Plh_303 { Der Göttliche leitet jeden Pfad und bestimmt was passiert. Der Große Keiler kann nicht von uns Menschen verstanden, geschweige denn gefangen genommen werden. }
+Plh_303 { Der Göttliche leitet jeden Schritt und bestimmt die Zukunft. Der Große Keiler kann nicht von uns Menschen verstanden werden. Und erst recht nicht gefangen genommen werden. }
 
 Plh_304 { Verlasse unsere Zuflucht in Richtung Norden. Wenn du den Steinkreis siehst, laufe in östlicher Richtung weiter, als würdest du den Wald verlassen wollen. Wenn der Weg eine Biegung nimmt, behalte die Richtung bei. Die Wurzel liegt auf einer Anhöhe hinter den Schwarzen Flammen. }
 
@@ -424,7 +424,185 @@ Plh_318 { Du bist stark ...Vielleicht hat dein Funke doch ein besseres Gespür a
 
 Plh_319 { Vielleicht wird ja doch noch alles gut ... *lächelt schwach* }
 
-Plh_321 { Also haben die Lager ihren Mut gesammelt, um es tatsächlich zu wagen ... diese Narren. }
+Plh_321 { Also versuchen sie es erneut ... diese Narren. }
 
-Plh_322 { Mein Vertrauen in die Natur des Großen Keilers ist unerschütterlich. Er hat dich auserwählt, und welches Schicksal dich auch immer im Herz des Waldes erwartet ... ich weiß, dass es im Interesse der Göttlichen sein wird. }
+Plh_322 { Er hat dich auserwählt. Die Mutter vertraut dir. Was immer du tust, folgt dem richtigen Weg. }
+
+Plh_323 { Diemo ... ich meine es ernst. Die Expedition wird den Großen Keiler erreichen. }
+
+Plh_325 { *legt den Kopf schräg* Du lässt echt nicht locker, was? }
+
+Plh_326 { Hier im Hain der Funken ist unsere Verbindung zum Keiler am stärksten. }
+
+Plh_327 { Das war etwas Besonderes, $GVAR:EVars_Player.Name$. }
+
+Plh_328 { Irgendwas ist seltsam mit dir. }
+
+Plh_329 { Der Große Keiler ist mächtiger als sie denken. Alles folgt seinem Willen. }
+
+Plh_330 { Der Große Keiler weiß, was passiert. Darauf vertrauen wir. Deswegen leben wir hier. }
+
+Plh_331 { Wir werden ihn fragen. Sollte uns wirklich Gefahr drohen, wird er es uns sagen. }
+
+Plh_332 { Schweigen. }
+
+Plh_333 { Ist es deine Absicht, sie gewähren zu lassen? }
+
+Plh_334 { Soll ich auch irgendwas tun? }
+
+Plh_335 { (schweigen) }
+
+Plh_336 { Wirklich?! Du willst sie gewähren lassen? Wir sind deine Verbundenen und können sie in deinem Namen vertreiben. }
+
+Plh_337 { Das heißt ja. Also, es kommen Leute von außen. Sollen wir sie vertreiben? }
+
+Plh_338 { Nein ... wir sollen nicht. Na gut. Wenn du meinst. }
+
+Plh_339 { Aber was wird aus dem Wald? }
+
+Plh_340 { Bitte beschütze die Frischlinge und die Eber! }
+
+Plh_341 { Es ist meine Schuld. Ich habe sie durch die Schwarzen Flammen geführt ... }
+
+Plh_342 { Der Keiler antwortet nicht. }
+
+Plh_343 { Das heißt wohl, dass die Eber nicht in Gefahr sind. }
+
+Plh_344 { Ich glaube, er will sagen, dass es nicht deine Schuld ist. }
+
+Plh_345 { Schau! Die Glühwürmchen ... }
+
+Plh_346 { Du hast es geschafft, uns im Düsterwald zu finden und hast deinen Funken früher verliehen bekommen als jeder andere, der in der Zuflucht lebt. }
+
+Plh_347 { Hilf weiterhin der Expedition und führe sie zum Großen Keiler. Ich weiß nicht, warum er es zulässt oder was dann geschieht, aber alles folgt seinem Weg. }
+
+Plh_348 { Vielleicht kann er nichts dagegen tun? }
+
+Plh_349 { Ich weiß nicht ... aber ich mache mir Sorgen, dass euch was zustößt. }
+
+Plh_350 { Aber der Große Keiler soll gefangen genommen werden! }
+
+Plh_351 { Hab keine Angst um uns. }
+
+Plh_353 { Bist du dir sicher? Ich habe kein gutes Gefühl bei der Sache. }
+
+Plh_354 { Das mag der Plan deines Lagers sein. Doch es ist unmöglich, ihn wahr werden zu lassen. }
+
+Plh_355 { Sie haben es früher schon versucht und sind gescheitert. }
+
+Plh_356 { Dein Lager verfügt nicht über die Macht, das Schicksal des Großen Keilers zu beeinflussen. Der Göttliche leitet unsere Schritte. Selbst wenn wir seine Ziele nicht kennen. }
+
+Plh_357 { Du solltest mehr in den Großen Keiler vertrauen. Er hat dir einen Funken geschenkt. Das hätte er nicht getan, wenn du ihn damit schaden könntest. }
+
+Plh_358 { Aber ... }
+
+Plh_359 { Mit seiner Macht wird er uns in eine gute Zukunft für Drova führen. Darauf müssen wir vertrauen, nicht an ihm zweifeln. }
+
+Plh_360 { Diemo ... ich meine es ernst. Die Expedition wird den Großen Keiler bekämpfen und fangen! }
+
+Plh_362 { Was ist diesmal anders? Warum sollte er es zulassen? }
+
+Plh_363 { Der Große Keiler hat jeden früheren Versuch unterbunden. }
+
+Plh_364 { Weil ich die anderen mit meinem Funken durch die Schwarzen Flammen führen kann. }
+
+Plh_365 { Warum hätte der Göttliche dir einen Funken geben sollen, wenn du damit die Expedition bis zu ihm führst? }
+
+Plh_366 { Denk immer daran, dass der Keiler all jene schützt, die ihm nah sind. }
+
+Plh_367 { Unmöglich. Die Macht der Göttlichen steht über allem. Der Große Keiler würde niemals zulassen, dass sein Wald leidet. }
+
+Plh_368 { Herrscht aber wirklich keine Gefahr für uns und den Wald? Wie kann ich sicher sein, dass der Große Keiler immer noch unsere Schritte leitet? }
+
+Plh_369 { Das ergibt keinen Sinn. Was ist deine Rolle bei alledem? Was hat der Keiler gesehen, dass er es diesmal zulässt? }
+
+Plh_370 { Ich teile deine Sorgen. Wir müssen sichergehen, dass wir weiter seinem Pfad folgen. Entspricht all das, was gerade passiert, wirklich der Zukunft, die der Große Keiler für uns will? Für Drova? }
+
+Plh_371 { Es gibt nur eine Möglichkeit ... ich muss meinen Geist öffnen und ihn durch meine Verbindung zum Großen Keiler senden. Das wird ihm unsere Sorgen offenbaren. }
+
+Plh_372 { Komm mit! }
+
+Plh_373 { Sollte uns tatsächlich Gefahr drohen, wird er es seine Verbundenen wissen lassen. }
+
+Plh_374 { Gib mir einen Moment ... ich muss mich dafür sammeln. }
+
+Plh_375 { *atmet tief ein* }
+
+Plh_376 { *wendet sich von dir ab, scheint sich stark zu konzentrieren und murmelt unverständliches vor sich hin.* }
+
+Plh_377 { *dreht sich wieder zu dir* Geschafft. Ich habe meinen Geist ausgesandt und gespürt, wie ich den Großen Keiler berührt habe. Nun weiß er von unseren Sorgen. Hoffen wir, dass er uns mit einer Antwort ehrt. }
+
+Plh_378 { Wir hören den Großen Keiler immer in unserem Geist. Aber ich habe das erste Mal auf diese Weise zu ihm gesprochen. }
+
+Plh_379 { Hast du das schon mal gemacht? }
+
+Plh_380 { Gibt es etwas, worauf ich achten muss? }
+
+Plh_381 { Nun müssen wir fühlen, ob das, was wir getan haben, in seinem Sinne war. }
+
+Plh_382 { Hoffentlich ist es nicht zu spät, um seine Absichten zu erfahren ... denn ... }
+
+Plh_383 { Besinne dich auf die Tugenden. Halte sie fest in deinem Herzen. Das stärkt unsere Verbindung zum Großen Keiler. }
+
+Plh_384 { Schau dich um. Der Keiler beeinflusst die Lichter und Schatten des Waldes. }
+
+Plh_385 { Ich ... ich spüre seine Präsenz ... er kommt näher ... }
+
+Plh_386 { *flüstert vor sich hin* Er ist wirklich gekommen! Wahrhaftig! Nicht mal im Traum hätte ich das erwartet ... }
+
+Plh_388 { (flüstern) Es ist so dunkel ... }
+
+Plh_390 { *hebt die Stimme* Großer Keiler! Deine Verbundenen sind besorgt. Eine Expedition ist unterwegs zu dir. Sie will deine Macht für ihre Zwecke gewinnen. }
+
+Plh_391 { Aber ... ich verstehe nicht ... warum nur? Wieso solltest du sie bis zur Mutter gelangen lassen? }
+
+Plh_392 { *atmet tief durch* Der Wald ... die Eber ... alles steht auf dem Spiel ... }
+
+Plh_393 { Wenn es wirklich das ist, was du willst ... dann ... folgen wir. Und beschreiten deinen Weg. }
+
+Plh_394 { *flüstert* Das ist Teil seines Wesens ... }
+
+Plh_397 { $GVAR:EVars_Player.Name$ gehört dieser Expedition an, aber auch zu den Verbundenen und ist von Zweifel erfüllt. Der Wald könnte in Gefahr sein. Wir fragen uns ... }
+
+Plh_398 { Wenn das stimmt, folgst du dem Weg, den er vorgegeben hat. }
+
+Plh_399 { Wir müssen eine eigene Antwort finden ... }
+
+Plh_402 { Ich fühle das Vertrauen des Großen Keilers. Vertrauen in dich. Das heißt, alles wird gut ...? }
+
+Plh_403 { Der Große Keiler hat uns Antworten geschenkt. Nun weiß er von unseren Sorgen. Was nun geschieht, liegt in unseren Händen. }
+
+Plh_404 { Wir sollten uns gleich nochmal unterhalten. }
+
+Plh_405 { Er scheint Pläne mit dir zu haben, und du solltest ihnen folgen. }
+
+Plh_406 { Es liegt im Dunkeln, was passieren wird, nachdem ihr den Großen Keiler getroffen habt. Ich muss mich mit den anderen beraten. }
+
+Plh_408 { Was wird jetzt aus euch? }
+
+Plh_409 { Danke. Für alles. }
+
+Plh_410 { Ich weiß zu schätzen, dass du uns gewarnt hast. }
+
+Plh_411 { Der Große Keiler hat es bestätigt. Er lässt eure Expedition gewähren. Es soll geschehen. }
+
+Plh_412 { Danke, dass du uns gewarnt hast. }
+
+Plh_413 { Doch nie zuvor ist aus einem einzigen Ereignis eine so große Gefahr für den Düsterwald erwachsen. }
+
+Plh_414 { Der Keiler ... er will uns damit etwas sagen ... es muss ein Zeichen sein .. }
+
+Plh_415 { Durch seinen Wald und seine Eber gibt er uns Zeichen. Wir deuten sie und handeln nach ihnen. }
+
+Plh_416 { Wir spüren durch unsere Verbindung, ob wir seine Zeichen richtig gedeutet und entsprechend gehandelt haben ... oder nicht. }
+
+Plh_417 { Diesmal können wir nicht auf Gewissheit warten, ob wir seine Zeichen richtig gedeutet haben. Er hat uns durch nichts zu erkennen gegeben, dass wir ihm helfen sollen. }
+
+Plh_418 { Eben war das erste Mal. Der Große Keiler ist ein erhabenes Wesen, dessen Zeit man nicht unbedacht in Anspruch nehmen sollte. }
+
+Plh_420 { Du wirst es schon sehen. Jetzt komm! }
+
+Plh_421 { Was hast du vor? }
+
+Plh_422 { Wohin gehen wir? }
 

@@ -54,7 +54,7 @@ Plh_43 { (Talisman anbringen) }
 
 Plh_45 { *Du bringst den mit deinem Blut markierten Talisman an der Wurzel an und spürst plötzlich eine starke Verbindung in deinem Inneren. Irgendetwas versucht, dein Bewusstsein zu erreichen.* }
 
-Plh_46 { *Es kommt dir vor, als würdest du in der Ferne den lauten Schrei eines Wildschweins hören, aber Diemo neben dir scheint nicht darauf zu reagieren. Plötzlich reagiert dein Funken und dreht Kreise um dich.* }
+Plh_46 { *Es kommt dir vor, als würdest du in der Ferne den lauten Schrei eines Wildschweins hören, aber Diemo neben reagiert nicht darauf. Plötzlich scheint alles um dich herum weit weg zu sein.* }
 
 Plh_47 { *Will der Funke dir was sagen? Er wirkt ganz aufgeregt.* }
 
@@ -143,4 +143,54 @@ Plh_92 { *Als du dir die Leiche genauer anschaust und ihr ins Gesicht blickst, m
 Plh_93 { (Leiche durchsuchen) }
 
 Plh_95 { (Leiche durchsuchen) }
+
+Plh_96 { *Etwas taucht vor deinem Geist auf. Da ist nicht mehr die Mutterwurzel vor dir, sondern Gefährten, die dich erwartungsvoll anschauen. Hinter ihnen wabert Schwärze ... wie Flammen.* }
+
+Plh_97 { *Eine mächtige Präsenz ist bei dir. Es ist, als führe sie dich und deine Gefährten. Die Flammen sind keine Gefahr mehr.* }
+
+Plh_98 { *Der Funke zeichnet Kreise um dich in der Luft.* }
+
+Plh_99 { *Dich erfüllen widersprüchliche Gefühle. Einerseits große Trauer, aber auch Hoffnung für die Zukunft. War das ein Vorzeichen?* }
+
+Plh_100 { *Unvermittelt siehst du vor deinem inneren Auge einen toten Baum. Graue Blätter sinken zu Boden, zerfallen zu Staub ... nein ... werden zu Blut, das in die Erde sickert.* }
+
+Plh_101 { *Blut, das du vergießen wirst. Eine tröstende Präsenz legt sich um sich. Flüstert Vergebung für Taten, die noch nicht geschehen sind.* }
+
+Plh_102 { *Sein Blick wird drängender. Tiefer. Bohrt sich in deinen Geist. Deine Sicht verschwimmt ...* }
+
+Plh_103 { *Als deine Sicht wieder klar wird, kannst du deinen Blick über ganz Drova schweifen lassen. In jeder Richtung siehst du den schwarzen Nebel am Horizont. Dann wandern deine Augen nach unten.* }
+
+Plh_104 { (eines der Eier vorsichtig nehmen) }
+
+Plh_105 { (alle Eier zerstören) }
+
+Plh_106 { *Du nimmst das Ei, das gelb erstrahlt. Es verströmt vibrierend den Geist des Wildschweins. Du weißt nicht warum, aber du erinnerst dich an die Tugenden der Zuflucht.* }
+
+Plh_107 { *Mut, Verbundenheit und Barmherzigkeit erfüllen dich. Vorsichtig legst du das Ei wieder ins Nest. Ein zackiger Riss erscheint knackend auf dem Ei.* }
+
+Plh_108 { *Alle Eier platzen auf und setzen eine blendende Macht frei. Ein strahlendes Weiß umhüllt dich. Dann schält sich das Wildschwein aus der Helligkeit.* }
+
+Plh_109 { *Du schlägst mit beiden Fäusten auf die Eier. Sie zerplatzen, und eine Welle der Macht schießt heraus, schleudert dich zurück. Du fällst.* }
+
+Plh_110 { *Alles wird blendend weiß. Dann erscheint das Wildschwein vor dir.* }
+
+Plh_111 { *Das Wildschwein fixiert dich. Sein Blick ruft dir die Visionen ins Gedächtnis zurück, die du bei den Wurzeln hattest. Eine Abfolge von Ereignissen ...* }
+
+Plh_112 { *Sie führen in eine mögliche Zukunft von Drova. Wenn sie alle eintreten. Wenn kein Glied dieser Kette bricht. Was wollen die Wurzeln dir damit sagen?* }
+
+Plh_113 { *Das Wildschwein wendet sich ab, wirft dir noch einen letzten Blick zu. Dann stößt es einen Schrei aus, rennt zurück ins Licht, das schlagartig verschwindet. Dunkelheit bleibt zurück.* }
+
+Plh_114 { *Diese Frage sprichst du aus, aber niemand antwortet. Die Dunkelheit wird sanfter. Sie wabert. Sie weicht ... und ...* }
+
+Plh_115 { *... du findest dich vor der Mutterwurzel wieder.* }
+
+Plh_116 { *Alles verschwindet, dann siehst du wieder die Wurzel vor dir.* }
+
+Plh_117 { *In einem Nest vor dir liegen vier Eier. Sie haben unterschiedliche Farben.* }
+
+Plh_118 { Warum ich? }
+
+Plh_119 { Ist das wirklich der einzige Weg? }
+
+Plh_120 { Ist es das, was du willst, Großer Keiler? }
 

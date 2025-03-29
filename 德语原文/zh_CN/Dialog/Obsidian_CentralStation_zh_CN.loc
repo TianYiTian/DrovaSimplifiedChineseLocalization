@@ -1,4 +1,4 @@
-Plh_0 { *Du siehst ein merkwürdiges Gerät mit drei leeren Sockelplätzen.* }
+Plh_0 { *Du siehst ein merkwürdiges Gerät. Es vibriert leicht und gibt ein unregelmäßiges Summen von sich. Drei leere Sockelplätze sind in der Mitte des Geräts eingelassen.* }
 
 Plh_2 { (Auwald-Kristall einfügen) }
 
@@ -9,4 +9,12 @@ Plh_4 { (Machtkristall einfügen) }
 Plh_7 { *Du führst den Machtkristall in den Sockelplatz und hörst ein leises Klicken.* }
 
 Plh_8 { *Du hörst ein lautes Knacken ... und die Maschine bewegt sich.* }
+
+Plh_9 { *Das Gerät ist nun still, die Sockelplätze sind leer.* }
+
+Plh_10 { *Der Schlüssel passt exakt in die Sockel. Die Maschine fängt an zu summen, du spürst einen leichten Sog.* }
+
+Plh_11 { (Extraktor-Schlüssel einsetzen.) }
+
+Plh_13 { *Die Kristalle fangen an wie das Gerät, zu vibrieren, allerdings scheint sonst nicht viel zu passieren. Die Leitungen im Boden wirken inaktiv im Vergleich zum Rest des Konstrukts.* }
 

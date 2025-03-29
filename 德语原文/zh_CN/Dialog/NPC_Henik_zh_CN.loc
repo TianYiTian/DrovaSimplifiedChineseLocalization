@@ -476,7 +476,7 @@ Plh_461 { Sollten wir wirklich gegen einen Göttlichen kämpfen? }
 
 Plh_462 { Bei dir alles gut? }
 
-Plh_463 { Hast Angst, was? Ich doch auch. Aber es muss sein ... }
+Plh_463 { Macht Angst, der Gedanke, oder? Mir ist dabei auch nicht wohl. Geht aber nicht anders ... }
 
 Plh_464 { Ich will keine Brüder mehr begraben, ich will endlich Ruhe. So wie wir alle. }
 
@@ -720,7 +720,7 @@ Plh_617 { Für $GVAR:EVars_Player.Name$! }
 
 Plh_618 { $GVAR:EVars_Player.Name$ ... ich fühle ... wie die magische Kraft ... flackert ... seit der Runenzirkel erloschen ist ... }
 
-Plh_619 { Irgenwas stimmt nicht ... }
+Plh_619 { Irgendwas stimmt nicht ... }
 
 Plh_620 { Zur Spitze des Roten Turm! Los! }
 
@@ -743,4 +743,18 @@ Plh_628 { Zur Spitze, wie holen uns die Runengefäße. }
 Plh_630 { Ihr habt ihn gehört! Kniet nieder vor Molvinas Erbe! $GVAR:EVars_Player.Name$! }
 
 Plh_631 { Sag ... wie gehen wir nun mit ihnen um? }
+
+Plh_632 { Alle zählen auf uns. Auch unsere Familien. Denk dran, wir kämpfen hier für ihre Zukunft. Für unsere Nachfahren. }
+
+Plh_633 { Das wird einige Opfer von uns verlangen ... }
+
+Plh_634 { Nur wird die Zuflucht den Preis dafür bezahlen ... }
+
+Plh_635 { Trotzdem ... ich bin mir nicht sicher, ob das der richtige Weg ist. }
+
+Plh_636 { Spricht für dich, dass du nichts einfach hinnimmst. }
+
+Plh_637 { Und ich will eine Zukunft mit Bonny ... eine Familie ... Kinder ... wir haben so wenige hier. Kaum jemand wagt es, welche in diese Welt zu setzen. Olga und Luten bräuchten viel mehr andere um sich herum ... }
+
+Plh_638 { So leid es mir auch für sie tut ... aber sie sind eine kleine Gruppe. Sie werden sich anpassen. So, wie sie es schon im Wald getan haben. Aber wir handeln für ALLE Menschen in Drova. }
 

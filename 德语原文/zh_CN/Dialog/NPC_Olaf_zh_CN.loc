@@ -364,7 +364,7 @@ Plh_308 { Ich habe gehört, du arbeitest mit den Ruinenräubern zusammen? }
 
 Plh_309 { Von wem hast du das denn gehört? Dem hab ich wohl zu viel Bier ausgeschenkt. }
 
-Plh_310 { Von Reija. }
+Plh_310 { Reija. }
 
 Plh_311 { *guckt dich ernst an* Was willst du? }
 
@@ -372,11 +372,11 @@ Plh_312 { Ich will mich euch anschließen. }
 
 Plh_313 { Ich will mehr über die Vergangenen erfahren. }
 
-Plh_314 { Einer zuverlässigen Quelle, du kannst mir nichts vormachen. }
+Plh_314 { Versuch nicht, dich rauszureden. Ich weiß, dass es stimmt. }
 
-Plh_315 { Vergiss es. Schlechte Erfahrung mit Laufkundschaft ... Der letzte Typ, der Geschäfte machen wollte, ist nie wieder aufgetaucht. Genau wie Einige, die danach im Moor unterwegs waren. }
+Plh_315 { Der letzte Typ, der so was wollte, ist nie wieder aufgetaucht. Genau wie diejenigen, die danach im Moor unterwegs waren. }
 
-Plh_316 { Für dich mache ich hier einfach die Theke in der Taverne. }
+Plh_316 { Für dich mache ich hier einfach die Theke in der Taverne. Gib dich damit zufrieden. }
 
 Plh_319 { Ich suche einen Lorthiz. Er war hier in der Taverne und ist verschwunden. }
 
@@ -412,7 +412,7 @@ Plh_336 { Gute Arbeit, $GVAR:EVars_Player.Name$. }
 
 Plh_338 { Kennst du einen Teigen? Muss hier vor Kurzem durchgekommen sein. }
 
-Plh_339 { Das ist doch einer von den fahrenden Händlern, oder? Ich mag die anderen lieber ... aber ja, kenne ich. }
+Plh_339 { Das ist doch einer von den fahrenden Händlern, oder? Ich mag die anderen lieber ... aber, ja, kenne ich. }
 
 Plh_340 { Weißt du, wo er hin ist? }
 
@@ -423,4 +423,30 @@ Plh_342 { *flüstert* Weil du mir hier so viel geholfen hast, noch ein kleiner R
 Plh_343 { Ich weiß dass Teigen öfter mal von seinem "versteckten Lager" erzählt hat. Das muss irgendwo kurz vor Nemeton sein, nach der Brücke den Fluss entlang im Süden vielleicht? }
 
 Plh_344 { *hebt die Stimme wieder* Du glaubst nicht, was man als Gastwirt alles mitbekommt. }
+
+Plh_345 { Was geht? }
+
+Plh_347 { Hallo. }
+
+Plh_349 { Ich habe gehört, du und die Ruinenräuber seid einer großen Entdeckung auf der Spur? }
+
+Plh_350 { So ohne Weiteres wird das nichts. Schlechte Erfahrung mit Laufkundschaft ... der letzte Typ, der Geschäfte machen wollte, ist nie wieder aufgetaucht. Genau wie Einige, die danach im Moor unterwegs waren. }
+
+Plh_351 { Also gut ... Reija scheint dir zu vertrauen ... das soll mir genügen. Aber ... }
+
+Plh_352 { Banditen haben im Moor ein Versteck. Irgendwo südlich. Gelegentlich handle ich mit denen. Aber die haben sich länger nicht gerührt. Schau nach, was bei denen los ist. Wenn du was findest, bring es her. }
+
+Plh_353 { Wenn du was findest, das mir gefällt, erwäge ich, dir mehr zu erzählen ... }
+
+Plh_354 { Ah. Natürlich. }
+
+Plh_355 { *verengt die Augen* Wirklich? }
+
+Plh_356 { Wer will das nicht ... }
+
+Plh_357 { Ja, das sind wir. }
+
+Plh_358 { Du kannst uns dabei eine Hilfe sein. Such Relikte, bring sie her. }
+
+Plh_359 { Wenn du das tust, dann werde ich dich einweihen. Aber lass dir nicht zu viel Zeit. Die Probleme in Drova werden immer schlimmer ... }
 

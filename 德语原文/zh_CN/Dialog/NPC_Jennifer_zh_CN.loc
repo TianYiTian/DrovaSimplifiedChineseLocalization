@@ -42,7 +42,7 @@ Plh_42 { Wenn du irgendwann Zeit findest, greif uns gern unter die Arme. Wir kö
 
 Plh_43 { Das würde uns den Arsch retten. Dann hätte ich Junali vom Buckel. Sie kann wirklich gruselig werden. }
 
-Plh_45 { Wenn du mir $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Holzscheite bringst, kann ich endlich alles für Junali vorbereiten. Ich bezahle dich auch! Sonst kommt das vielleicht nie hier an. }
+Plh_45 { Wenn du mir $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Rundhölzer bringst, kann ich endlich alles für Junali vorbereiten. Ich bezahle dich auch! Sonst kommt das vielleicht nie hier an. }
 
 Plh_46 { Ich mache mich wieder an die Arbeit hier. }
 

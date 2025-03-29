@@ -88,9 +88,9 @@ Plh_166 { Hey, wach auf! Mombert will weiter. }
 
 Plh_169 { Ich habe Proviant dabei. Wir sollten gestärkt in die Schlacht gegen den Keiler gehen. }
 
-Plh_201 { Die Zeit ist gekommen. Der Göttliche ist nah. }
+Plh_201 { Der Göttliche ist nicht mehr weit ... }
 
-Plh_202 { Na endlich! Das Warten macht mich und meine Axt schon verrückt. }
+Plh_202 { Wird auch Zeit! Das Warten macht mich und meine Axt schon verrückt. }
 
 Plh_209 { Tut das. Ihr wollt nicht erleben, was euch widerfährt, wenn die Schwarzen Flammen euch berühren ... }
 
@@ -168,7 +168,7 @@ Plh_271 { *legt seine Hand an eine Wand* Ich würde so gern wissen, wie sie hier
 
 Plh_272 { Und so viele ... die Vergangenen müssen ganz Drova besiedelt haben. }
 
-Plh_274 { Man sagt, dass sie eins mit den Göttlichen waren. Im Einklang mit ihnen gelebt haben. Doch ... wie? }
+Plh_274 { Man sagt, dass sie eins mit den Göttlichen waren. Im Einklang mit ihnen gelebt haben. Aber ... wie soll das gehen? }
 
 Plh_275 { Das ist also der Düsterwald. Der "Große Keiler", wie sie ihn nennen, verändert diesen Wald. Macht ihn zu etwas anderem. }
 
@@ -240,7 +240,7 @@ Plh_353 { Ruh dich aus. Morgen früh brechen wir auf. }
 
 Plh_355 { Gradan! }
 
-Plh_356 { Nein, Karotte ...er ist tot. *presst die Augenlider zusammen* }
+Plh_356 { Nein, Karotte ... er ist tot. *presst die Augenlider zusammen* }
 
 Plh_357 { Wartet ... irgendwas stimmt hier nicht ... fühlt ihr es auch? Wir müssen hier weg. Sofort! }
 
@@ -350,7 +350,7 @@ Plh_447 { *stößt erleichtert den Atem aus* Wir haben den Düsterwald hinter un
 
 Plh_448 { *mustert das Runengefäß* Molvina wird zufrieden sein. Und wir werden Gradans Namen nicht vergessen. }
 
-Plh_449 { Mit der Macht des Göttlichen werden wir das Ruinenlager endgültig vernichten ... }
+Plh_449 { Mit der Macht des Göttlichen werden wir Drova und Nemeton endlich zu dem machen, was es sein sollte! }
 
 Plh_450 { *flüstert* Der Wald ... was ist das ... was haben wir getan ... }
 
@@ -360,7 +360,7 @@ Plh_452 { War das richtig, Mombert ...? }
 
 Plh_453 { Nemeton und die Erbin des Moores erwarten das Runengefäß. Nur das zählt. }
 
-Plh_454 { Vergesst, was hinter uns liegt. }
+Plh_454 { Schließt ab mit dem, was hinter uns liegt. Schaut nach vorn. }
 
 Plh_455 { Wir werden noch einen Moment hier bleiben. Wir müssen was trinken! Ich zumindest ... auf Gradan. }
 
@@ -560,15 +560,15 @@ Plh_662 { Was passiert dann mit den Menschen im Wald, die im Einklang mit dem Gr
 
 Plh_663 { Der Göttliche soll vor uns zittern! }
 
-Plh_664 { Auf die können wir keine Rücksicht nehmen. Sie müssen sich anpassen. Es geht hier schließlich darum, das Land der Sagen zu formen. }
+Plh_664 { Wir können wegen ihnen nicht tatenlos bleiben. Denk auch an die anderen Menschen in Drova. Es soll doch ALLEN besser gehen. }
 
-Plh_665 { Davon haben doch alle was, ja? }
+Plh_665 { Genau! }
 
-Plh_666 { Dafür kämpfen wir schon lange. }
+Plh_666 { Und dafür kämpfen wir schon lange. }
 
-Plh_667 { Die Leute in der Zuflucht leben im Einklang mit dem Wald ... was passiert mit ihnen? }
+Plh_667 { Was ist, wenn sie sich nicht anpassen wollen? }
 
-Plh_668 { Dieser Einklang musste erst gefunden werden. Wenn wir den Großen Keiler haben, wird ein neues Gleichgewicht entstehen. }
+Plh_668 { Sie werden sich anpassen müssen. Aber das Leben für ALLE in Drova wird dann leichter. Mag sein, dass sie in der Zuflucht im Einklang mit dem Düsterwald leben, aber das können nicht alle. }
 
 Plh_671 { Alles für Nemeton, für das Land der Sagen! }
 
@@ -576,7 +576,7 @@ Plh_673 { Das gefällt mir! Ich kann den Kampf kaum abwarten! }
 
 Plh_674 { Geduld. Er wird früh genug aufs uns zukommen. }
 
-Plh_675 { Wir tun das alles nicht nur für uns. Wir tun es für ganz Drova! }
+Plh_675 { Wir formen ein neues Land, in dem alle auf die Weise glücklich werden können, wie sie es selbst wollen. Auch die Alten. Auch die Schwachen. }
 
 Plh_676 { Und wenn es nicht funktioniert? }
 
@@ -588,7 +588,7 @@ Plh_679 { Und zwar wir alle. Als Gemeinschaft. }
 
 Plh_680 { Wir haben genug geredet. Morgen wird ein großer Tag. }
 
-Plh_681 { Stimmt, Gradan. Ruht euch aus. Ich halte die erste Wache. }
+Plh_681 { Stimmt. Ruht euch aus. Ich halte die erste Wache. }
 
 Plh_682 { Aber ... }
 
@@ -598,7 +598,7 @@ Plh_684 { Hey, Karotte, soll ich dir noch ein paar Kampftricks zeigen? }
 
 Plh_685 { Immer! }
 
-Plh_686 { Genug für heute. }
+Plh_686 { Du machst dir immer noch Sorgen, $GVAR:EVars_Player.Name$. Ich kann es nachfühlen. Die Zukunft ist ungewiss. }
 
 Plh_687 { Ich bin mir nicht sicher, ob das ein guter Plan ist ... }
 
@@ -612,17 +612,17 @@ Plh_691 { Wir haben überlebt. Aber nicht alle. Wenn wir unser Ziel erreichen, w
 
 Plh_692 { Ich weiß gar nicht, wie so ein Göttlicher aussieht ... }
 
-Plh_693 { Alle werden vom Land der Sagen etwas haben. }
+Plh_693 { Ja, alle werden vom Land der Sagen etwas haben. }
 
 Plh_694 { Dann holen wir uns den Göttlichen. }
 
-Plh_696 { Ich sehe Zweifel in deinen Augen. Und ich bitte dich um Vertrauen. }
+Plh_696 { Ich sehe Zweifel in deinen Augen. Gut so. Das ist ein kritischer Moment für Drova. Wir dürfen nicht einfach blindlings handeln, sondern müssen alle unsere Schritte hinterfragen. }
 
-Plh_698 { Henik spricht wahr. }
+Plh_698 { Henik hat recht. Wir werden morgen unsere gesamte Kraft brauchen. }
 
-Plh_699 { Sammelt eure Kraft. }
+Plh_699 { Ruht euch aus. Ich halte die erste Wache. }
 
-Plh_700 { Wahrscheinlich stimmt das ... }
+Plh_700 { Wenn du das sagst ... }
 
 Plh_701 { Was wir morgen riskieren ... wir tun es für unsere Zukunft, aber auch, um unsere Toten zu ehren. }
 
@@ -644,13 +644,13 @@ Plh_717 { Dafür haben wir die Macht des Großen Keilers! Wir brauchen sie, das 
 
 Plh_719 { Und Gradan hat sich dafür geopfert ... }
 
-Plh_720 { Der Wald ist tot ... ich weiß nicht ... }
+Plh_720 { Wir haben den Wald und alles hier getötet ... es war ein Fehler ... }
 
 Plh_721 { Egal. Hauptsache, wir sind hier raus. }
 
 Plh_722 { Wir haben die Dunkelheit aus dem Wald vertrieben. }
 
-Plh_723 { Ich weiß nicht, was hier geschehen ist, aber wir müssen Molvina davon berichten ... }
+Plh_723 { Dass es so schlimm wird, konnten wir doch nicht ahnen! Wir müssen Molvina davon berichten ... }
 
 Plh_727 { Dann soll er ruhig kommen! }
 
@@ -893,4 +893,224 @@ Plh_878 { Ich muss mich noch kurz vorbereiten. }
 Plh_879 { Beeil dich und komm zu mir, wenn du bereit bist. }
 
 Plh_880 { Es gibt kein zurück mehr. Bist du bereit? }
+
+Plh_881 { Ich bin sicher, sie werden in der neuen Welt, die wir formen, auch ihren Platz finden. Das Land der Sagen soll alle Menschen vereinen. }
+
+Plh_882 { Aber Drova wird sich ändern. Wir haben es selbst in der Hand, diese Veränderung herbeizuführen. }
+
+Plh_883 { Wir haben lange darauf hingearbeitet. Morgen machen wir es wahr. Für alle. }
+
+Plh_884 { Belassen wir es dabei. Ruht euch aus. Ich übernehme die erste Wache. }
+
+Plh_885 { Sag mal ... ich hab dich nachts wegschleichen sehen, $GVAR:EVars_Player.Name$ ... wo warst du? }
+
+Plh_886 { Ich habe die Leute in der Zuflucht vor dem gewarnt, was wir vorhaben. }
+
+Plh_887 { Musste nur pissen. }
+
+Plh_888 { Geht dich nichts an. }
+
+Plh_889 { *verengt die Augen* Hast du? }
+
+Plh_890 { Hm. Dafür bist du ziemlich weit weggegangen ... }
+
+Plh_892 { Nun ... }
+
+Plh_893 { Warum? }
+
+Plh_894 { Sie sind meine Freunde! }
+
+Plh_895 { Sie sollten sich auf die Folgen vorbereiten können! }
+
+Plh_896 { Ich bin froh, dass du es getan hast. Wer weiß, was passiert, wenn wir den Großen Keiler gefangen haben. }
+
+Plh_897 { Es spricht für dich, loyal gegenüber deinen Freunden zu sein. }
+
+Plh_898 { Gut, dass du zurückgekommen bist. Ich kann bei der Expedition nicht auf dich verzichten. }
+
+Plh_899 { Ändert nichts an unseren Zielen, und mir ist nur wichtig, dass du dabei bist. }
+
+Plh_900 { Von jetzt an ist die Zuflucht sich selbst überlassen. Was mit ihr passiert, liegt nicht mehr in unserer Macht. }
+
+Plh_901 { Mach, was du willst. Hauptsache, du behinderst nicht unsere Expedition. }
+
+Plh_902 { (auf die Knie sinken) }
+
+Plh_903 { Wir waren siegreich! Für Nemeton! }
+
+Plh_904 { Ich ... ich hatte nicht erwartet, dass so viel ... dass es so ein ... das konnte doch niemand ahnen ... }
+
+Plh_905 { Ich fürchte es ... aber ... es ging doch nicht anders ... }
+
+Plh_906 { So viel Tod ... aber ... wir haben ihn. Wir haben es geschafft. Darauf kommt es an ... oder? }
+
+Plh_907 { Alles stirbt ... der Wald ... ist das unsere Schuld? }
+
+Plh_908 { Die Eber ... sie wollten doch nur den Großen Keiler beschützen. }
+
+Plh_909 { (wieder aufstehen) }
+
+Plh_910 { Ich ... ich bin mir nicht sicher, ob diese Expedition wirklcih eine gute Idee ist ... }
+
+Plh_911 { Warum glaubst du das? }
+
+Plh_912 { Gradan ist verletzt. Uns allen könnte etwas zustoßen. }
+
+Plh_913 { Wir wissen nicht, was mit dem Düsterwald passiert ... }
+
+Plh_914 { Hey, mir geht's gut! }
+
+Plh_915 { Und wir werden es herausfinden, sobald wir unser Ziel erreicht haben. Aber wir werden nicht davon abweichen. }
+
+Plh_916 { Keine Gefahr dieser Welt wird mich davon abbringen, dass wir weiter unser Ziel verfolgen. }
+
+Plh_917 { Genug gezaudert! Ich will nichts mehr davon hören. Wir schreiben heute Geschichte! }
+
+Plh_918 { Wir haben gewaltige Schuld auf uns geladen ... (schlucken) }
+
+Plh_919 { Manchmal muss man Schuld auf sich laden, um Großes zu bewirken ... }
+
+Plh_920 { Aber Gradan darf nicht umsonst gestorben sein! }
+
+Plh_921 { Aber ... es darf kein Fehler gewesen sein! }
+
+Plh_922 { Oder ... Mombert? }
+
+Plh_923 { Ich werde die Leute in der Zuflucht warnen, was wir vorhaben ... }
+
+Plh_924 { Nun ... wenn du es für richtig hältst, tu das. Aber es ändert nichts an unserem Plan. }
+
+Plh_925 { Ich werde die Leute in der Zuflucht warnen, was wir vorhaben ... }
+
+Plh_926 { Der Düsterwald ist voller Gefahren. Wer schwach ist, stirbt. Und man muss bereit sein, sich dem Großen Keiler zu unterwerfen. Ich will das nicht. }
+
+Plh_927 { Ich will nicht weiter leben, wie die Göttlichen bestimmen. Nein, Nemeton heißt, dass wir selbst bestimmen. Wir machen selbst die Regeln! }
+
+Plh_928 { Der Wald ... das ... das waren wir?! }
+
+Plh_929 { $GVAR:EVars_Player.Name$! Was sollte das? Du hast keinen Finger gerührt! }
+
+Plh_930 { Genug geredet. Mein Mund ist schon fusselig. }
+
+Plh_931 { Wenn sie dir so wichtig sind ... von mir aus kannst du zu ihnen gehen und ihnen sagen, dass sie sich in Sicherheit bringen sollen. Ich kann nicht versprechen, dass das alles keine Folgen hat. }
+
+Plh_932 { Ich habe Angst um die Menschen in der Zuflucht. }
+
+Plh_933 { (nicken) }
+
+Plh_934 { Ich wollte daran nicht teilhaben. }
+
+Plh_935 { Ich konnte es nicht ... }
+
+Plh_936 { (schweigen) }
+
+Plh_937 { Feige ... nutzlos ... hmpf ... }
+
+Plh_938 { Das ist es nicht! Es DARF nicht falsch sein! }
+
+Plh_939 { Ja, sei besser still ... }
+
+Plh_940 { Das können wir nicht wissen. Aber ... *schluckt* }
+
+Plh_941 { Bald treten wir dem Göttlichen gegenüber. Seid ihr bereit? }
+
+Plh_942 { Ich glaube schon ... }
+
+Plh_943 { Ist man jemals für so etwas bereit? }
+
+Plh_944 { Wir schaffen das schon. Fangen wir endlich an. Meine Axt zuckt schon ... }
+
+Plh_945 { *grinst* Wohl kaum. }
+
+Plh_946 { Wir tun, was nötig ist. Vergesst das nicht. }
+
+Plh_947 { Vergesst nicht, dass wir damit diese Welt zu einem friedlichen Ort machen wollen. Wo wir eine Zukunft haben. Familien gründen können. }
+
+Plh_948 { Aber sei rechtzeitig wieder hier und leg dich schlafen. Wir müssen morgen für alles bereit sein. }
+
+Plh_949 { Für euch hat es geklappt, ja. Für dich, Henik, Gradan und Karotte würde es wahrscheinlich auch funktionieren. Ihr seid jung und stark. Ihr würdet durchkommen und euch anpassen. }
+
+Plh_950 { Aber was ist mit den Alten? Mit Gilwar, mit Dunja? Würdest du von ihnen auch verlangen, dass sie sich an den Großen Keiler anpassen und im Düsterwald leben? }
+
+Plh_951 { Glaub mir ... wir haben endlos darüber gesprochen. Molvina und ich sind uns einig, dass es keinen anderen Weg gibt. }
+
+Plh_952 { Aber gibt es keinen Weg, unser Ziel zu erreichen, ohne den Großen Keiler zu fangen? }
+
+Plh_953 { Es fühlt sich einfach nicht richtig an, dass die Leute in der Zuflucht die Folgen unserer Taten ertragen müssen. }
+
+Plh_954 { Sie sind nur eine kleine Gruppe, die sich von allem abgesondert hat ... }
+
+Plh_955 { Drova ist ein gezeichnetes Land. Die Vergangenen haben hier etwas angerichtet, was Drova zu dem gemacht hat, was es heute ist. }
+
+Plh_956 { Du hast recht ... wir müssen auch ihnen helfen. }
+
+Plh_957 { Dann müssen sie sich selbst helfen. }
+
+Plh_958 { Sag, wie es ist: dann sterben sie. Das werde ich nicht zulassen. Ich habe ein Ziel, und ich hoffe, du auch ... }
+
+Plh_959 { *schluckt* Lass es uns angehen. }
+
+Plh_960 { So gefällt mir das! Die Warterei macht mich und meine Axt schon ganz verrückt. }
+
+Plh_961 { Ja! Lass uns anfangen! }
+
+Plh_962 { Wir passen auf dich auf, Karotte. Mach keinen Blödsinn, dann schaffen wir das. }
+
+Plh_963 { Für Nemeton! }
+
+Plh_964 { Für Nemeton! }
+
+Plh_965 { Wie soll man sich dafür bereit fühlen ... }
+
+Plh_966 { Wir passen auf euch auf! Macht einfach keinen Blödsinn, haltet euch an die Anweisungen, dann kommen wir alle heil nach Hause. }
+
+Plh_967 { Wir wissen nicht, was uns im Kampf erwartet. Bereit ... naja ... }
+
+Plh_969 { Wir sprechen mit Molvina darüber. Aber wir haben das Runengefäß. Das zählt. }
+
+Plh_970 { Doch es liegt an uns, was wir daraus machen. }
+
+Plh_971 { Wenn wir unsere Ziele erreichen, haben wir auch unsere Schuld gegenüber Drova beglichen. }
+
+Plh_972 { Nun. Sie werden sich anpassen müssen. }
+
+Plh_973 { Ich habe dort mit ihnen im Einklang mit dem Göttlichen gelebt, und es hat funktioniert. Es kann auch für alle in Drova funktionieren. }
+
+Plh_974 { Auch ich fühle mich dem Großen Keiler verbunden. Ich möchte ihn nicht verlieren. }
+
+Plh_975 { Überall Schattenreißer, der Tod lauert hinter jedem Busch, in einer ewigen Düsternis. Wer schwach oder alt ist, lebt nicht lange. }
+
+Plh_976 { Hör zu ... ich weiß, es klingt hart, was wir vorhaben. Aber der Große Keiler stirbt nicht. Kann er gar nicht. Seine Macht bleibt erhalten, wir können sie nur anders einsetzen. }
+
+Plh_977 { Und zwar für ALLE Menschen in Drova! Nicht nur denjenigen in der Zuflucht. }
+
+Plh_978 { Ohne die Macht eines Göttlichen ist es nicht möglich, Drova so weit zu verändern, dass hier alle Menschen in Frieden leben können. }
+
+Plh_979 { Ich verstehe, dass sie dir ans Herz gewachsen sind. Aber das darf uns nicht einschränken. Wenn wir Drova verändern und verbessern wollen, müssen wir größer denken. }
+
+Plh_980 { Wenn es wirklich das Beste für Drova ist ... }
+
+Plh_981 { Für alte Leute wie Dunja oder Gilwar ist Nemeton die einzige Hoffnung. Einem Leben in einer Umgebung wie dem Düsterwald wären sie nicht gewachsen. }
+
+Plh_982 { Wir brauchen den Göttlichen. Nur mit seiner Macht können wir Drova zu einem Land werden lassen, in dem ALLE in Frieden leben können. }
+
+Plh_983 { Wir wären nicht hier ohne $GVAR:EVars_Player.Name$. Vergiss das nicht, Henik. }
+
+Plh_984 { Ich gehöre zu den Verbundenen. Unsere Tugenden verbieten, dem Wald oder dem Keiler zu schaden. }
+
+Plh_985 { Ich bin mit dem Wald und dem Keiler verbunden. Es hat sich nicht richtig angefühlt ... }
+
+Plh_986 { Aber Gradan ... vielleicht wäre er noch ... }
+
+Plh_987 { Nur dank der Verbundenheit zwischen dem Großen Keiler und $GVAR:EVars_Player.Name$ haben wir es überhaupt erst durch die Schwarzen Flammen geschafft. }
+
+Plh_988 { Für sie mag es funktionieren. Auch für uns würde es vielleicht funktionieren. Wir müssten unsere Lebensweise anpassen, aber wir würden zurechtkommen. Allerdings nur, weil wir jung und stark sind. }
+
+Plh_990 { Hoffentlich nutzen sie die Chance, aus dem Düsterwald zu fliehen. }
+
+Plh_991 { Aber du weißt doch, wofür wir das tun! }
+
+Plh_993 { Henik hat recht mit dem, was er sagt. }
+
+Plh_994 { Wir werden mit der Hilfe des Göttlichen das Land der Sagen für ALLE hier errichten. }
 

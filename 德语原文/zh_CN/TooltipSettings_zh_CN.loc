@@ -38,7 +38,7 @@ unknownteacher { Unbekannt }
 
 talentnotknown { Talent wurde noch nicht entdeckt }
 
-foodText { Heilt langsam dein Leben bis [MaxStack] geheilt wurde. Heilung ist pausiert, wenn volles Leben vorhanden ist. }
+foodText { Heilt [HealValue] Leben alle [StackTime] Sekunden bis [MaxStack] geheilt wurde. Heilung ist pausiert, wenn volles Leben vorhanden ist. }
 
 recipe_requirements { Benötigt: }
 
@@ -123,4 +123,6 @@ strength_value { Stärke [VALUE] }
 dex_value { Geschick [VALUE] }
 
 mind_value { Geist [VALUE] }
+
+trinket_equipable { Auch wenn du diesen Gegenstand mehrfach besitzt, kannst du nur einen gleichzeitig ausrüsten. }
 

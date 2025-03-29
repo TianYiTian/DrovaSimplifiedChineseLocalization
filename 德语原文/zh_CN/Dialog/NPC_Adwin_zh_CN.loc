@@ -60,7 +60,7 @@ Plh_47 { Dann kann ich wohl froh sein, dass DU mich gefunden hast. Aber wer wei�
 
 Plh_51 { Hoffentlich wissen die Leute im Ruinenlager es zu schätzen, wenn man die Wahrheit sagt. Ich haue ab ... }
 
-Plh_52 { Hier ist dein Holz. ($GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Holzscheite geben) }
+Plh_52 { Hier ist dein Holz. ($GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Rundhölzer geben) }
 
 Plh_53 { Endlich können wir weiterarbeiten. Das wird Junali auch etwas beruhigen. Sie war schon verdammt genervt, dass alles so lange gedauert hat. }
 
@@ -92,7 +92,7 @@ Plh_67 { Stimmt. Und weiter? }
 
 Plh_68 { Wirklich? Du würdest mir den Arsch retten. Junali ist schon gewaltig angepisst, weil keines mehr da ist ... }
 
-Plh_69 { Eigentlich sollte Swenn uns $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Holzscheite bringen, aber wir warten schon ewig. }
+Plh_69 { Eigentlich sollte Swenn uns $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ Rundhölzer bringen, aber wir warten schon ewig. }
 
 Plh_70 { Wenn du das Holz herbringst, bezahle ich dich natürlich dafür. }
 

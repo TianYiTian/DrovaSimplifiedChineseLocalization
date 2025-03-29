@@ -1164,7 +1164,7 @@ cons_flow_aggressiveCry_description { Brüllt in einem Kegel nach vorne und veru
 
 cons_flow_battleCry_name { Kampfschrei }
 
-cons_flow_battleCry_description { Erhöht den verursachten Schaden um [DamagePercent], Bewegungs- und Angriffstempo um [MovePercent], aber auch deinen erhaltenen Schaden um [ReceiveDamagePercent]. Hält [TimeAbs] Sekunden lang an. }
+cons_flow_battleCry_description { Erhöht den verursachten physischen Schaden um [DamagePercent], Bewegungs- und Angriffstempo um [MovePercent], aber auch deinen erhaltenen Schaden um [ReceiveDamagePercent]. Hält [TimeAbs] Sekunden lang an. }
 
 cons_flow_bullRush_name { Sturmangriff }
 
@@ -1732,7 +1732,7 @@ item_sealstone_past_description { Ein aufwendig verzierter Stein mit einem einge
 
 item_brutus_seal_inactive_name { Inaktives Siegel von Drivanius }
 
-item_brutus_seal_inactive_description { Die eingelassenen Kristalle in den sieben Siegelsteinen sind noch nicht alle aktiv. }
+item_brutus_seal_inactive_description { Von den eingelassenen Kristallen leuchten $GVAR:QuestVars_Brutus.ActivateShrine$ von 7. }
 
 item_shell_01_name { Muschel }
 
@@ -2654,30 +2654,6 @@ recipe_silberringskill_2_name { Rezept: Silberring des Auftragsmörders }
 
 recipe_silberringmind_2_name { Rezept: Meisterhafter Ring der Naturgeister }
 
-misc_key_locked_door_name { [LOCA] Key not found: misc_key_locked_door_name. Path: Items }
-
-misc_key_locked_door_description { [LOCA] Key not found: misc_key_locked_door_description. Path: Items }
-
-cons_flow_conjure_ripper_name { Id: cons_flow_conjure_ripper }
-
-cons_flow_conjure_ripper_description {  }
-
-item_poisonedThrowingKnife_npc_fan_name { Id: item_poisonedThrowingKnife_npc_fan }
-
-item_poisonedThrowingKnife_npc_fan_description {  }
-
-item_poisonedThrowingKnife_npc_fast_name { Id: item_poisonedThrowingKnife_npc_fast }
-
-item_poisonedThrowingKnife_npc_fast_description {  }
-
-item_splittertrap_npc_ebru_all_arena_name { Id: item_splittertrap_npc_ebru_all_arena }
-
-item_splittertrap_npc_ebru_all_arena_description {  }
-
-item_splittertrap_npc_ebru_single_name { Id: item_splittertrap_npc_ebru_single }
-
-item_splittertrap_npc_ebru_single_description {  }
-
 item_Whiskey_StoneWall_name { Steinwall Whiskey }
 
 item_Whiskey_StoneWall_description { Eine alte Flasche auf der ein steinerner Wall abgebildet ist. }
@@ -2738,7 +2714,7 @@ weapon_sword_carimasoldsword_description {  }
 
 item_trinket_pureDmg_name { Rache des Tüftlers }
 
-item_trinket_pureDmg_description { Erhöht den Schaden von Fallen und Wurfgegenständen um 100%. }
+item_trinket_pureDmg_description { Erhöht den Schaden von Fallen und Wurfgegenständen um [DamageValuePercent]. }
 
 item_VoragoFragment_0_name { Fragment eines Emblems }
 
@@ -2769,4 +2745,78 @@ weapon_sling_legendarySlingshot_description { Wind umgibt die Schleuder und vers
 item_letterCelts_Spark_name { Bertines Funke }
 
 item_letter_library_soundRoom_note2_name { Resonanzhörner }
+
+cons_flow_magicNuke_name { Blitzschlag }
+
+cons_flow_magicNuke_description { Mächtiger Zauber, der [DamageFlexAbs] magischen Schaden und [PoiseDamageAbs] Haltungsschaden verursacht. }
+
+recipe_flow_magicnuke_name { Zauber: Blitzschlag }
+
+recipe_flow_dashstab_name { Zauber: Schattenstoß }
+
+recipe_flow_sunder_name { Zauber: Zerschmettern }
+
+recipe_flow_cyclone_name { Zauber: Wirbelwind }
+
+recipe_flow_ballista_name { Zauber: Balliste }
+
+flow_sunder_name { Zerschmettern }
+
+flow_sunder_description { Schwertangiff, der in einem weiten Bogen [WeaponDamagePercent] magischen Waffenschaden verursacht. Skaliert mit Stärke und Geist. }
+
+flow_ballista_name { Balliste }
+
+flow_ballista_description { Speerangriff mit großer Reichweite und Rückstoß, der [WeaponDamagePercent] magischen Waffenschaden verursacht. Skaliert mit Stärke und Geist. }
+
+flow_cyclone_name { Wirbelwind }
+
+flow_cyclone_description { Axtangriff, der Kreisförmig [WeaponDamagePercent] magischen Waffenschaden verursacht. Skaliert mit Stärke und Geist. }
+
+flow_dashStab_name { Schattenstoß }
+
+flow_dashStab_description { Stürmt schnell in Blickrichtung, ignoriert Kollision mit anderen Wesen und verursacht [WeaponDamagePercent] magischen Waffenschaden. Skaliert mit Stärke und Geist. }
+
+flow_blast_name { Stoß des Blattes }
+
+flow_blast_description { Fokussiert natürliche magische Kraft und schießt sie in Blickrichtung. Verursacht [DamageFlexAbs] magischen Schaden. }
+
+flow_graspingRoots_name { Ruf der Wurzeln }
+
+flow_graspingRoots_description { Fokussiert natürliche magische Kraft, um Wurzeln aus dem Boden sprießen zu lassen. Hält Gegner für [TimeAbs] Sekunden fest. }
+
+flow_travelForm_name { Geschenk des Wolfes }
+
+flow_travelForm_description { Fokussiert natürliche magische Kraft, um dich in einen Geisterwolf zu verwandeln. Erhöht dein Bewegungstempo um [MovementPercent]. }
+
+flow_natureTouch_name { Umarmung der Natur }
+
+flow_natureTouch_description { Fokussiert natürliche magische Kraft, um dich über [TimeAbs] Sekunden um [HealValueAbsolut] zu heilen. Wird von Geist verstärkt. }
+
+flow_conjure_spiritCall_name { Ruf des Düsterwaldes }
+
+flow_conjure_spiritCall_description { Fokussiert natürliche magische Kraft, um die Geister des Düsterwaldes zu beschwören, die dir im Kampf helfen. }
+
+key_extractor_name { Extraktor-Schlüssel }
+
+key_extractor_description { Besteht aus drei Teilen, die am oberen Ende verbunden und nach unten geöffnet sind. }
+
+flow_spiritShot_name { Sturm des Keilers }
+
+flow_spiritShot_description { Fokussiert natürliche magische Kraft, um einen geisterhaften Keiler herbeizurufen, der in Blickrichtung stürmt und dabei [DamageFlexAbs] magischen Schaden verursacht. }
+
+helmet_atlanter_champion_name { Antlitz des Champions }
+
+helmet_atlanter_champion_description { Ein besonderer Helm der Vergangenen, der für herausragende kämpferische Leistungen verliehen wurde. }
+
+weapon_sword_ancientRitualSword_name { Uraltes Ritualschwert }
+
+weapon_sword_ancientRitualSword_description {  }
+
+weapon_sword_ancientSword_name { Uraltes Schwert }
+
+weapon_sword_ancientSword_description {  }
+
+weapon_axe_ancientAxe_name { Uralte Axt }
+
+weapon_axe_ancientAxe_description {  }
 

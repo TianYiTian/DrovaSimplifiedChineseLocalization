@@ -1,0 +1,24 @@
+Pre0_Name { Der gefangene Göttliche }
+
+Pre0_Text { Nun, da der Naturgeist gefangen und festgehalten wurde, funktioniert die Extraktion von magischer Kraft schnell und zuverlässig. Ihm scheint dieser Zustand nicht zu gefallen, aber er wird sich niemals alleine befreien können. Es wurde eine Einrichtung in der Nähe des östlichen Obelisken errichtet, von der aus die Operation geleitet wird.<br><br>30. Primara 275 n.T. }
+
+Pre1_Name { Die Tiefen der Vergangenen }
+
+Pre1_Text { WICHTIGE INFORMATION ZUR NUTZUNG DES EXTRAKTORS.<br>Der Durchgang zu dem gepfählten Naturgeist kann nur geöffnet werden, wenn zuvor die angesammelte magische Kraft im Untergrund in Machtkristalle entladen wurde. Dies sollte regelmäßig getan werden, da wir noch nicht wissen, in welchen Formen sich überschüssige magische Kraft manifestiert.<br>Bedenkt zusätzlich, dass das Freilegen des Durchgangs die Energie des Gepfählten aufwühlt.<br><br>Diese Informationen müssen allen mitgeteilt werden, die den Schlüssel zur Öffnung des Durchgangs im Zentrum des Extraktors entgegennehmen wollen. }
+
+BossDungeon0_Name { Unter dem Fleischmoor I }
+
+BossDungeon0_Text { Die Bildung der fleischartigen Geschwüre nimmt weiter zu. Einige von ihnen nehmen bemerkenswerte Formen an. Einige ähneln Gliedmaßen, andere wirken fast wie ... primitive Augen? Diese Entwicklung verursacht zunehmend Unwohlsein in der Forschungsabteilung.<br><br>Aufseher Plotonius wird nicht erfreut sein, aber ich werde darum bitten, den Roten Turm zu informieren.<br><br>13. Octavina 276 n.T. }
+
+BossDungeon1_Name { Unter dem Fleischmoor II }
+
+BossDungeon1_Text { Die Auswüchse am Körper des Naturgeistes wurden entfernt, wie mit Runenweber Lucius besprochen. Die Heiler berichten, dass die Opfer des Vorfalls überleben werden, aber alsbald verlegt werden müssen. In der Umgebung des Naturgeistes scheinen ihre Mittel nicht richtig zu wirken. Eine weiteres unangenehmes Phänomen ...<br><br>30. Tertiusia 277 n.T. }
+
+BossDungeon2_Name { Unter dem Fleischmoor III }
+
+BossDungeon2_Text { Es sind nicht nur diese grässlichen Wucherungen! Bei der letzten Untersuchung glaube ich, animalische Schreie wahrzunehmen. Sie klangen schmerzerfüllt ... und dann war da noch dieses Auge ... ich glaube, es hat mich beobachtet ... <br><br>Ich werde mich um eine Versetzung bemühen und rate dir auch dazu! }
+
+IntroFleshMoor_Name { Zwischenfall unter dem Extraktor }
+
+IntroFleshMoor_Text { Es gab einen Zwischenfall mit dem gepfählten Naturgeist unter dem Extraktor. Wir bitten um Unterstützung von einem hochrangigen Runenweber.<br><br>Das Imperium fußt auf der Aufrechterhaltung des Flusses der magischen Kraft, entsprechend ist höchste Eile geboten!<br><br>Aufseher Plotonius, 24. Tertiusia 277 n.T. }
+

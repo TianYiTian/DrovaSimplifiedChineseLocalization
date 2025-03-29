@@ -128,25 +128,25 @@ Plh_255 { ... schwächer ... verblassen ... verschwinden. }
 
 Plh_256 { Alles ist mit dem Göttlichen verbunden. Er lässt den Wald atmen ... }
 
-Plh_257 { Ist es richtig, was wir tun? }
+Plh_257 { Ist dann überhaupt richtig, was wir tun? }
 
 Plh_258 { Aber was passiert mit den Menschen im Düsterwald? }
 
-Plh_259 { Ich beginne, an dieser Expedition zu zweifeln ... }
+Plh_259 { Ich weiß nicht, was ich von alledem halten soll. }
 
 Plh_263 { Aber was wird der Preis dafür sein? }
 
 Plh_267 { Nun, sie werden es sicher nicht leichter haben. Aber die Menschen hier sind Schwierigkeiten gewohnt und werden sich arrangieren ... }
 
-Plh_268 { Letzten Endes werden auch sie ein besseres Leben gewinnen, in dem sie selbst bestimmen können, was gut für sie ist. So wie wir. Das werden sie sehen. }
+Plh_268 { Letzten Endes werden auch sie ein besseres Leben gewinnen, in dem sie selbst bestimmen können, was gut für sie ist. So wie wir. Das werden sie einsehen. }
 
-Plh_269 { Zweifel gehören zum Leben. Dass du dir diese Fragen stellst, ist gut. Aber finde deine eigenen Antworten. }
+Plh_269 { Zweifel gehören zum Leben. Dass du dir diese Fragen stellst, ist gut. }
 
 Plh_270 { Wir dürfen nur an unser Ziel denken! }
 
 Plh_271 { *lächelt* Und das tun wir. Als Einheit. }
 
-Plh_273 { Nur ... hüte deine Zunge, vor wem du die Zweifel aussprichst. }
+Plh_273 { Am besten nimmst du dir etwas Zeit, um in Ruhe drüber nachzudenken. }
 
 Plh_275 { Ich sollte mich hinlegen. }
 
@@ -166,7 +166,7 @@ Plh_294 { Wir haben noch eine magische Barriere gefunden. Das solltest du dir an
 
 Plh_296 { Wir haben keine Zeit, die Vergangenen weiter zu studieren. Wir müssen hoch zu den Runengefäßgen. }
 
-Plh_297 { Was richtig und falsch ist ... schwer zu sagen. Wir tun das, was wir für richtig halten. Macht es das auch richtig? }
+Plh_297 { Richtig? Können wir das überhaupt wissen, während wir es tun? }
 
 Plh_298 { Weißt du, $GVAR:EVars_Player.Name$, ich glaube an Jero. Und daran, dass wir aus dieser Welt entkommen können. Mithilfe des Großen Keilers. }
 
@@ -223,4 +223,118 @@ Plh_327 { Sie ... sie sind alle tot. Sie wollten doch nur den Wald verteidigen .
 Plh_329 { Lass uns gehen. }
 
 Plh_330 { Was genau hat der Rote Turm für eine Bedeutung gehabt? Ich fühle die Energie der Göttlichen. }
+
+Plh_331 { Allerdings werden wir nicht von unserem Plan abweichen. Zu welchem Schluss du auch gelangst. }
+
+Plh_332 { Ich hätte nicht gedacht, dass es so schlimm wird ... }
+
+Plh_333 { (wieder aufstehen) }
+
+Plh_334 { Ich sehe, dass du sie magst. Das wird unser Vorhaben nicht ändern, aber ... }
+
+Plh_335 { Dafür sind wir schon zu weit gekommen ... }
+
+Plh_336 { Der Wald ... er ist tot ... }
+
+Plh_337 { $GVAR:EVars_Player.Name$ ... du hast nichts getan, nur rumgestanden ... }
+
+Plh_338 { Wir haben es geschafft, aber ... *schluckt* }
+
+Plh_339 { Der Wald ... ich wollte nicht, dass er stirbt ... ist das unsere Schuld? }
+
+Plh_340 { Die Eber ... sie wollten doch nur den Großen Keiler schützen ... }
+
+Plh_341 { Ja, was sollte das?! }
+
+Plh_342 { Bei einer der wichtigsten Expeditionen überhaupt? }
+
+Plh_343 { Ich wollte daran nicht teilhaben. }
+
+Plh_344 { Ich konnte nicht ... }
+
+Plh_345 { (schweigen) }
+
+Plh_346 { Und du willst dich Krieger des Ruinenlagers nennen? }
+
+Plh_347 { Hmpf ... }
+
+Plh_348 { Noch kannst du in die Zuflucht gehen und ihnen sagen, dass eine Veränderung bevorsteht. Dass sie sich besser in Sicherheit bringen sollen. }
+
+Plh_349 { Ich finde, wir sollten die Leute in der Zuflucht warnen. }
+
+Plh_350 { Ich will nicht weiter darüber nachdenken, sondern handeln. }
+
+Plh_351 { Denkt dran, ohne $GVAR:EVars_Player.Name$ hätten wir es nicht geschafft, durch die Schwarzen Flammen zu kommen. Wir haben keine solche Verbindung zum Großen Keiler. }
+
+Plh_352 { Und wenn sie sich nicht anpassen können? }
+
+Plh_353 { Sie werden sich anpassen müssen. }
+
+Plh_354 { Zugegeben ... es wird sicher schwer für sie. Leider kann nicht jeder auf diese Weise leben, auch wenn sie damit glücklich zu sein scheinen. }
+
+Plh_355 { Wer sich einem Göttlichen unterwirft, muss die eigene Lebensweise auf ihn ausrichten. Und das in jeder Situation. In der Zuflucht tun sie das. Aber würdest du das wollen? Meinst du, alle in Drova sind dazu bereit? }
+
+Plh_356 { Doch dieses Glück wird nicht lange währen ... }
+
+Plh_357 { Im Moment können die Leute in der Zuflucht vielleicht so leben, während der Rest in Drova versucht, über die Runden zu kommen. Aber Drova stirbt. Langsam, aber sicher. }
+
+Plh_358 { Ich habe mich in der Zuflucht sicher und wohl gefühlt. Ihre Lebensweise funktioniert. }
+
+Plh_359 { Warum machen die Leute in der Zuflucht das dann? }
+
+Plh_360 { Für manche mag das funktionieren. Gerade dann, wenn sie sich mit Gleichgesinnten zusammentun. Gemeinsam führen sie ein zurückgezogenes, aber hoffentlich glückliches Leben. }
+
+Plh_361 { Je mehr Zeit vergeht, desto gefährlicher wird es. Der schwarze Nebel ist nur eines der Anzeichen davon. }
+
+Plh_362 { Mit dem Wissen der Vergangenen haben wir die Chance, aus Drova zu fliehen und ein selbstbestimmtes Leben zu führen, frei vom Einfluss der Göttlichen. }
+
+Plh_363 { Gibt es keinen Weg, das zu erreichen, ohne den Göttlichen einzufangen? }
+
+Plh_365 { Es fühlt sich einfach nicht richtig an, dass die Leute aus der Zuflucht dafür bezahlen ... }
+
+Plh_366 { Wenn es wirklich das Beste für Drova ist ... }
+
+Plh_367 { Leider nicht. Sonst müssten wir das hier nicht tun. Auch wenn wir unser Schicksal selbst in die Hand nehmen wollen, heißt das nicht, dass wir keinen Respekt vor ihnen hätten. }
+
+Plh_368 { Sie sind mächtig ... sie haben großen Einfluss auf diese Welt ... }
+
+Plh_369 { Das kann ich verstehen. Wirklich. Aber wir können nicht wegen einer kleinen Gruppe, die sich vor dem Rest von Drova versteckt, von unseren Zielen ablassen. }
+
+Plh_370 { Das ist es. Für alle Menschen in Drova. Nicht für diese Welt. Sie ist nicht mehr zu retten. }
+
+Plh_371 { Nur wenn wir uns von ihrem Einfluss lösen und ihre Kraft für uns nutzen, können wir unser Ziel erreichen. }
+
+Plh_372 { Der schwarze Nebel und die Ruinen der Vergangenen sind Beweis genug. Wir müssen aus Drova entkommen, sonst vergehen wir genauso. }
+
+Plh_373 { Und wenn das bedeutet, dass wir den Untergang Drovas beschleunigen müssen, dann sei es so. Wenn wir fliehen können, war es das wert. }
+
+Plh_374 { Aber sei pünktlich wieder zurück. Eugen wird nicht auf dich warten wollen ... }
+
+Plh_375 { (auf die Knie sinken) }
+
+Plh_376 { Wir haben es geschafft! Für Jero! }
+
+Plh_377 { Es ... ist schlimm ... schlimmer, als ich gedacht hätte ... }
+
+Plh_378 { So viel Tod ... so viel Leid ... doch ... wir haben es geschafft?! }
+
+Plh_380 { Ich gehöre zu den Verbundenen. Unsere Tugenden verbieten, dem Wald oder dem Großen Keiler Schaden zuzufügen. }
+
+Plh_381 { Ich bin mit dem Wald und dem Keiler verbunden. Es hat sich nicht richtig angefühlt. }
+
+Plh_382 { Lass gut sein, Farlan. }
+
+Plh_384 { Aber ... }
+
+Plh_386 { Alle, die hier in Frieden leben wollen, werden es irgendwann verstehen. Drova kann ihnen nicht das bieten, was sie sich erhoffen. }
+
+Plh_387 { Was wir mehr als alles andere brauchen, ist Freiheit. Die Freiheit, überall hin zu gehen. Ohne Angst. Tun zu können, was wir wollen. Jero hat erkannt, dass die Göttlichen unsere Fesseln sind. }
+
+Plh_388 { Ja. Natürlich. }
+
+Plh_389 { Ich schaue mich noch etwas um. }
+
+Plh_390 { Tu das ruhig. Es könnte die letzte Gelegenheit sein, diesen wundervollen Ort auf dich wirken zu lassen. }
+
+Plh_391 { Auch ich werde noch etwas die Ruhe genießen und mich auf morgen vorbereiten. }
 

@@ -128,15 +128,15 @@ Plh_218 { Ist schon Wahnsinn, was sich die Vergangenen alles ausgedacht haben. V
 
 Plh_219 { Zum Glück sind wir rausgekommen ... }
 
-Plh_220 { Ich bleibe noch hier und ruhe mich aus. Ich sag Olaf immer, dass es sich lohnt, mit den Lagern zusammenzuarbeiten. Der Sturkopf will das nicht. Ha. }
+Plh_220 { Ich bleibe noch hier und ruhe mich aus. Ich sag Olaf immer, dass es sich lohnt, mit den Lagern zusammenzuarbeiten. Der Sturkopf will das nicht. Meint, er weiß alles selbst am besten. }
 
 Plh_221 { Du arbeitest mit Olaf zusammen? }
 
-Plh_222 { Warum will er das nicht? }
+Plh_222 { Warum will er nicht mit den Lagern zusammenarbeiten? }
 
-Plh_224 { *beißt sich auf die Lippen* Zusammenarbeit kann man das nicht nennen. Na ja, ich bin halt oft in der Taverne und da trifft man sich und redet ... }
+Plh_224 { *beißt sich auf die Lippen* Naja, Zusammenarbeit kann man das nicht nennen. Bin halt oft in der Taverne, und da trifft man sich und redet ... }
 
-Plh_225 { Er hält sich aus dem Konflikt zwischen Nemeton und dem Ruinenlager raus. Aber nach der Zerstörung des Düsterwaldes begreift er bestimmt auch bald, dass er da nicht neutral bleiben kann ... }
+Plh_225 { Er hält sich aus dem Konflikt zwischen Nemeton und dem Ruinenlager raus. Bislang zumindest. Jetzt, wo der Düsterwald vernichtet ist, wird er eine Seite wählen müssen ... }
 
 Plh_226 { Pass auf dich auf. }
 
@@ -174,11 +174,11 @@ Plh_252 { Mir ist nichts passiert. Da kam ein riesiger Bär auf Evi zu, und ich 
 
 Plh_253 { Die Bibliothek? Was willst du dort? Oder besser gesagt, was wollt ihr dort? }
 
-Plh_260 { Wieder auf dem Weg zur Ruine, Reija? Oh, und diesmal nicht allein, wie ich sehe? }
+Plh_260 { Hey, Reija, kommst du gerade von der Taverne? Stimmt es, was ich gehört hab? Der Düsterwald ist vernichtet worden?! }
 
 Plh_262 { Dass du jemanden aus dem Ruinenlager herbringst, überrascht mich trotzdem. }
 
-Plh_264 { Da hast du recht. Dann viel Erfolg bei euren mysteriösen Aufträgen. }
+Plh_264 { Dann viel Erfolg und geht nicht zu tief. }
 
 Plh_265 { Mach's gut, Babsi. }
 
@@ -262,9 +262,9 @@ Plh_350 { Was dann passiert ist, wissen wir nicht. Ich nehme an, dass alle gesto
 
 Plh_351 { Ich kenne diese Türen schon. Und einen Trick, mit dem man sie leicht aufbekommt. }
 
-Plh_352 { Die Lager brauchen mal wieder Hilfe, weil sie nichts allein hinbekommen. }
+Plh_352 { Ja, Babsi. Es stimmt. Und es ... es ist schrecklich. Die Taverne ist voll mit Verletzten. }
 
-Plh_353 { Dass du mit jemandem aus Nemeton reist, hätte ich trotzdem nicht erwartet. }
+Plh_353 { Trotzdem ... du mit jemandem aus Nemeton unterwegs? Hätte ich nicht von dir erwartet. }
 
 Plh_365 { Bin gespannt, wie du die Stangen verbiegst. }
 
@@ -310,7 +310,7 @@ Plh_419 { Bis er dann einen "ganz besonderen Hinweis" in die Finger bekommen hat
 
 Plh_420 { Für solche Einzelgänge ist es zu gefährlich geworden. }
 
-Plh_422 { Wenn wir uns in schweren Zeiten nicht helfen, können wir auch direkt in den Nebel laufen. }
+Plh_422 { Es sind ungewisse Zeiten. Für uns alle. }
 
 Plh_424 { Lass uns weitergehen. }
 
@@ -426,7 +426,7 @@ Plh_504 { Aber wem erzähle ich das. Du bist ihm ja schon ziemlich auf die Spur 
 
 Plh_506 { Na ja, ich gehöre mindestens so viel zu euch wie zu meinem Lager. }
 
-Plh_507 { Ja, du machst wohl auf beiden Seiten gute Arbeit. Bin gespannt, wohin dich das führt. }
+Plh_507 { Du machst auf beiden Seiten gute Arbeit. Bin gespannt, wohin dich das führt. }
 
 Plh_508 { Wir sehen uns im Unterschlupf. }
 
@@ -439,4 +439,366 @@ Plh_513 { Hast du noch was entdeckt? }
 Plh_514 { Ich habe noch einen interessanten Text gefunden. Hier, schau dir das mal an. }
 
 Plh_518 { Ich weiß nicht genau, was es bedeutet, aber irgendwann werden wir es herausfinden. }
+
+Plh_519 { Verletzte? Was ist denn passiert? }
+
+Plh_520 { Alles Leben ist aus dem Düsterwald geflohen. Die Heide wurde überrannt. Die Menschen aus der Zuflucht sind geflohen, Schattenreißer waren direkt bei der Taverne ... }
+
+Plh_521 { Das ist ja schrecklich ... was ... Evi! Was ist mit Evi? Geht es ihr gut? }
+
+Plh_522 { Ja, sie wird es überleben. Aber sie ist verletzt und muss noch etwas in der Taverne bleiben. }
+
+Plh_523 { Oh, ein Glück! Ich bin ja keine Freundin des Ruinenlagers ... aber ihr scheint nicht ganz falsch zu sein. }
+
+Plh_524 { Sie war verletzt. Ist aber wieder auf den Beinen. Ich hab sie behandelt, so gut ich konnte. }
+
+Plh_525 { Ein Glück. Ich werde nach ihr schauen. }
+
+Plh_526 { Das beruhigt mich. Vielleicht ist nicht alles falsch, was die Leute über Nemeton sagen. }
+
+Plh_527 { Aber ... was ist mit dem Düsterwald passiert? Er wird doch von einem Göttlichen beschützt. }
+
+Plh_528 { Scheinbar nicht. Entweder ist der Göttliche geschwächt oder verschwunden. Könnte mit dieser Expedition des Ruinenlagers in den Düsterwald zusammenhängen ... *wirft dir einen Seitenblick zu* }
+
+Plh_529 { Scheinbar nicht. Entweder ist der Göttliche geschwächt oder verschwunden. Könnte mit dieser Expedition von Nemeton in den Düsterwald zusammenhängen ... *wirft dir einen Seitenblick zu* }
+
+Plh_530 { Schrecklich ... ich hoffe, der Göttliche taucht wieder auf, sonst wird es gefährlich in Drova. }
+
+Plh_531 { $GVAR:EVars_Player.Name$ braucht meine Hilfe. Das Ruinenlager sucht etwas in den Ruinen. }
+
+Plh_532 { Und du hilfst dabei? So selbstlos kenne ich dich gar nicht. }
+
+Plh_533 { Wenn wir uns in schweren Zeiten nicht helfen, können wir auch direkt in den Nebel laufen. }
+
+Plh_534 { Ich gehe ja nicht mit leeren Händen raus. Und vier Augen sehen mehr als zwei. }
+
+Plh_535 { $GVAR:EVars_Player.Name$ braucht meine Hilfe. Nemeton sucht etwas in den Ruinen. }
+
+Plh_536 { Warte ... bevor wir hier reingehen ... }
+
+Plh_537 { Die Expedition in den Düsterwald ... dort haben auch die Leute aus der Zuflucht gelebt. Sie sagten, der Göttliche sei verschwunden. Ist das wirklich wahr? }
+
+Plh_538 { Darüber kann ich wirklich nicht reden. }
+
+Plh_539 { Ja, ich war bei dem Trupp dabei. }
+
+Plh_540 { *zieht eine Augenbraue hoch* Kannst du nicht? Oder willst nicht? }
+
+Plh_541 { *schaut dich abwartend an* }
+
+Plh_542 { Der Große Keiler WOLLTE es? Das passt nicht zusammen ... }
+
+Plh_543 { (schweigen) }
+
+Plh_544 { Ich wollte das nicht, aber ich war machtlos ... }
+
+Plh_545 { Die Expedition war im Sinne des Großen Keilers. }
+
+Plh_546 { Schätze, das ist die Freiheit, die man aufgibt, wenn man einem Lager beitritt ... }
+
+Plh_547 { Was wollte deine Fraktion damit erreichen? }
+
+Plh_548 { Ihr habt WAS getan? Hast du damit zu tun gehabt? }
+
+Plh_549 { Darüber kann ich nicht reden. }
+
+Plh_550 { Wir haben den Göttlichen gefangen. }
+
+Plh_551 { Es ist sicher schwer zu ertragen, wenn Entscheidungen für dich getroffen werden, ohne dass du mitreden kannst. }
+
+Plh_552 { So ganz verstehe ich es auch nicht ... }
+
+Plh_553 { Ich war bei dem Keiler ... mit Diemo aus der Zuflucht. }
+
+Plh_554 { Wir haben es für Nemeton getan! }
+
+Plh_555 { Wir haben es für das Ruinenlager getan! }
+
+Plh_556 { Ihr habt ihn getroffen? Bevor das alles passiert ist? Was war dann? }
+
+Plh_557 { Wir werden uns mit dem Göttlichen Zugang zum Roten Turm verschaffen und aus Drova fliehen! }
+
+Plh_558 { Wir werden uns mit dem Geistergefäß Zugang zum Roten Turm verschaffen und Mittel finden, mit denen wir Drova sicher für alle machen. }
+
+Plh_559 { Das geht dich nichts an. }
+
+Plh_560 { Wenn du meinst ... dann lass uns weitergehen. }
+
+Plh_561 { *runzelt die Stirn* Der Rote Turm ... niemand hat ihn jemals betreten. Ihr habt den Göttlichen gefangen, damit ihr da reinkommt. War es das mit dem Düsterwald wert? }
+
+Plh_562 { Das ist er. Ich hoffe, irgendwann lüften wir seine Geheimnisse und erlangen das Wissen, das dort lagert ... oh, und Schätze gibt es dort sicher auch ... }
+
+Plh_563 { Ich bin mir nicht sicher. Der Rote Turm ist ein Mysterium. }
+
+Plh_564 { Die Druiden können mit der Macht des Roten Turms den Einfluss Nemetons stärken. Alle in Drova hätten etwas davon. }
+
+Plh_565 { Wenn wir Drova verlassen können, war das jedes Opfer wert. }
+
+Plh_566 { Wir hätten es nicht tun dürfen. Der Preis war zu hoch. }
+
+Plh_567 { Genug davon. Gehen wir weiter. Die Bibliothek wartet auf uns! }
+
+Plh_568 { Ich bin mir noch nicht sicher. Wenn es stimmt, was du über den Plan des Keilers sagst ... }
+
+Plh_569 { Hast du dir schon eine Meinung zu den Ereignissen im Düsterwald gebildet? }
+
+Plh_570 { Aber wieso sollte ein Göttlicher sich selbst und seinen Wald aufgeben? Klingt nicht nach etwas, das sie anstreben. }
+
+Plh_571 { Sollte es stimmen, werden gewaltige Dinge in Drova passieren. Und der Große Keiler wird dafür gebraucht ... }
+
+Plh_572 { Kann es sein, dass der Keiler von den Plänen der Fraktion weiß, und will, dass sie in den Roten Turm eindringen? }
+
+Plh_573 { Wenn es so ist ... was bezweckt er damit? }
+
+Plh_574 { Wir sind Sterbliche. Wir werden die Göttlichen nie ganz verstehen. }
+
+Plh_575 { Hm ... ich kann nur raten ... }
+
+Plh_576 { Ha! Gesprochen wie ein echter Druide ... }
+
+Plh_577 { Und? }
+
+Plh_578 { Vielleicht hat der Göttliche erkannt, dass wir mit seiner Hilfe Nemeton stärken und Drova befrieden können? }
+
+Plh_579 { Vielleicht hat der Göttliche keine Hoffnung mehr für Drova und will genauso fliehen wie wir? }
+
+Plh_580 { Vielleicht hat es etwas mit Drivanius' Forschung zu tun? }
+
+Plh_581 { Vielleicht hat er erkannt, dass andere seine Macht besser einsetzen können? }
+
+Plh_582 { Ich weiß nicht ... es fühlt sich nicht richtig an, irgendwas zu vermuten. }
+
+Plh_583 { Klingt wie genau das, was ich von Nemeton-Anhängern erwarte ... }
+
+Plh_584 { Vielleicht. Hm ... interessant. Das würde auch zu dem Ziel passen, in den Roten Turm vorzudringen. }
+
+Plh_585 { Wäre keine schöne Aussicht. Für niemanden. Aber was ist sonst vom Ruinenlager zu erwarten ... }
+
+Plh_586 { Kann ich mir nicht vorstellen. Göttliche Macht gehört den Göttlichen. }
+
+Plh_587 { Eine Vermutung ist der erste Schritt zur Erkenntnis. Aber ich verstehe deine Zurückhaltung. }
+
+Plh_588 { Das mit der Zuflucht hätte jedenfalls vermieden werden können. Egal, was die Göttlichen wollen oder nicht - für die Leute dort wäre es besser gewesen. }
+
+Plh_589 { Die Folgen für die Leute des Düsterwaldes sind schrecklich. Die Leute dort tun mir leid ... }
+
+Plh_590 { Dein Lager hat getan, was es für richtig gehalten hat. Und es lässt sich nicht umkehren. }
+
+Plh_591 { Ihr wollt in den Roten Turm. Die Geheimnisse der Vergangenen lüften. Egal wie. }
+
+Plh_592 { Gewaltiges Wissen und Schätze sollen darin sein ... }
+
+Plh_593 { Aber rechtfertigt das den Weg, den dein Lager eingeschlagen hat? }
+
+Plh_595 { Schrecklich, was passiert ist ... und wie die Leute aus dem Düsterwald darunter leiden. }
+
+Plh_596 { Wenn ich mehr darüber wüsste, was die Gründe für die Taten deiner Fraktion sind, könnte ich sie besser nachvollziehen ... }
+
+Plh_597 { Manchmal muss man ohne Rücksicht voranschreiten, um etwas zu verändern. }
+
+Plh_600 { Nein. Unsere Ziele gehen nur uns etwas an. }
+
+Plh_601 { Der Rote Turm also ... interessant ... }
+
+Plh_602 { Hmpf. Dann halt nicht. }
+
+Plh_603 { Möchtest du mir jetzt vielleicht doch vom Ziel deiner Fraktion erzählen? }
+
+Plh_604 { Ich hoffe es. Die Zukunft wird es zeigen. }
+
+Plh_605 { Ich weiß nicht. Immerhin könnte er in den Roten Turm führen ... }
+
+Plh_606 { Ihr hättet mehr Rücksicht nehmen können und hättet trotzdem euer Ziel erreicht. }
+
+Plh_607 { Viel Leid hätte vermieden werden können, wären die Leute in Drova gewarnt worden, was passieren wird. }
+
+Plh_608 { Das wird sie. Und du wirst dann erfahren, ob Hoffnung reicht. }
+
+Plh_609 { Immerhin zweifelst du, statt blind zu gehorchen ... alle Taten haben Folgen ... wir werden sehen, wie es weitergeht. }
+
+Plh_611 { Niemand konnte ahnen, was es mit dem Düsterwald macht. }
+
+Plh_612 { Ich habe die Bewohner der Zuflucht gewarnt! }
+
+Plh_613 { Es lässt sich nicht mehr ändern. }
+
+Plh_614 { Niemand? Ich bin mir sicher die Druiden, hatten eine Vorstellung, was passieren würde. Sie werden es für die Ziele deines Lagers in Kauf genommen haben. }
+
+Plh_615 { Und trotzdem sind sie nicht geflohen? }
+
+Plh_617 { Nein. Sie haben darauf vertraut, dass der Große Keiler sie schützt. Doch das hat er nicht getan ... er hat die Expedition gewähren lassen. }
+
+Plh_618 { Bevor wir weitergehen ... ich hab über den Düsterwald nachgedacht. }
+
+Plh_619 { Ich glaube, wir sollten tatsächlich in den Roten Turm kommen. Seine Geheimnisse sind entscheidend für das Schicksal von Drova. }
+
+Plh_620 { Wenn ihr tut, was der Große Keiler will - naja, da kann ich kaum widersprechen. }
+
+Plh_621 { Das Ruinenlager hat Ereignisse in Gang gesetzt, die nicht mehr umzukehren sind. Nun müssen wir alle damit leben. Alle in ganz Drova. }
+
+Plh_622 { Nemeton hat Ereignisse in Gang gesetzt, die nicht mehr umzukehren sind. Nun müssen wir alle damit leben. Alle in ganz Drova. }
+
+Plh_623 { Dann musste der Göttliche gefangen werden. Heißt aber nur, dass der Keiler mitspielt - nicht, dass er auf das gleiche Ziel hinarbeitet. }
+
+Plh_624 { Müssen wir das nun alle hinnehmen? Auch ich? Wo ich nicht an den Weg glaube, den dein Lager eingeschlagen hat? }
+
+Plh_625 { Ich bin mir sicher, dass in Drivanius' Forschung der Schlüssel für Zukunft Drovas liegt. }
+
+Plh_626 { Wir müssen mehr über die Forschung von Drivanius herausfinden. Sie könnte helfen, dass Drova noch einen anderen Weg einschlägt. }
+
+Plh_627 { Wir können nicht umkehren, aber ... würdest du den Weg, der eingeschlagen wurde, ändern wollen? }
+
+Plh_628 { Ich vertraue dem Weg des Ruinenlagers. }
+
+Plh_629 { Ich vertraue dem Weg Nemetons. }
+
+Plh_630 { Wenn ich einen anderen Weg nur sehen würde ... }
+
+Plh_631 { Nun, du gehörst ihnen an. Und bist schon ziemlich weit gekommen. Also gut für dich. Aber ich kann nicht daran glauben. Nur hoffen, dass du recht behältst. }
+
+Plh_632 { Ich bin mir sicher es gibt ihn ... }
+
+Plh_633 { Genug geplaudert. Unser Ziel ist nah. }
+
+Plh_634 { Ich hoffe auch auf Drivanius und seine Forschung. Nur er kann einen Weg gefunden haben, der Drova vereint. }
+
+Plh_635 { Das werden wir erst wissen, wenn ihr den Roten Turm erreicht habt. }
+
+Plh_636 { Ja, nicht nur die Lager setzen sich mit den Vergangenen auseinander. Ich, Olaf und ein paar andere versuchen, mehr über sie herauszufinden. }
+
+Plh_637 { Sprich mit Olaf. Ich darf dir nichts erzählen, aber er ist etwas Großem auf der Spur. Vielleicht findet er eine Alternative zu dem Plan der Fraktionen. }
+
+Plh_638 { Ich bin froh, dass du nicht einfach blind den Zielen deiner Fraktion folgst. Und ich hoffe, du wirst dabei sein, wenn dein Lager den Roten Turm betritt. }
+
+Plh_639 { Es würde mich beruhigen, wenn dort Leute reinkommen, von denen ich weiß, dass sie noch etwas Vernunft besitzen. Denn wer weiß, was euch dort erwartet ... }
+
+Plh_640 { Er vertraut den Lagern nicht und versucht, sich so gut wie möglich aus deren Angelegenheiten rauszuhalten. }
+
+Plh_641 { Dass die Fraktionen gnadenlos ihre Ziele verfolgen, sehen wir ja an der Zerstörung des Düsterwaldes ... }
+
+Plh_642 { Zugang zum Roten Turm wird man allerdings nur erreichen, wenn man sich mit den Fraktionen arrangiert. }
+
+Plh_643 { Olaf wird Verbündete aus den Lagern gut gebrauchen können. }
+
+Plh_644 { Zunächst solltest du aber noch die übrigen Relikte finden. Sonst werden wir nie erfahren, ob unsere Hoffnungen in Drivanius umsonst waren. }
+
+Plh_645 { Mit dem Wissen von Drivanius' Forschung wirst du dort sicher etwas bewirken können! }
+
+Plh_646 { Vielleicht will der Keiler selbst in den Roten Turm, aber das ist nicht möglich? Oder will er den Roten Turm vernichten? Schwer zu sagen ... }
+
+Plh_647 { Es sind die Göttlichen. Viele haben schon versucht, sie zu verstehen. Aber sie sind völlig andere Wesen ... keine Menschen. }
+
+Plh_648 { Es scheint so. }
+
+Plh_649 { Ein schöner Glaube. Aber bislang nur das. Ob es wirklich so kommt ... }
+
+Plh_650 { Schätze, die Leute aus der Zuflucht sehen das anders. }
+
+Plh_651 { Die sind mir schon begegnet ... bei meiner Suche nach Drivanius. }
+
+Plh_652 { Gut. Also für uns. Dann solltest du ja wissen, wie man am besten mit ihnen umgeht. }
+
+Plh_653 { Ich bin so einem schon begegnet, beim Eingang zur Kammer von Drivanius. Die sind gefährlich. }
+
+Plh_654 { Sieht ganz friedlich ... oh, vergiss es! }
+
+Plh_655 { Geh voran. Ich passe auf deinen Rücken auf. }
+
+Plh_656 { Du machst wohl gern, was andere sagen ... }
+
+Plh_657 { Hmpf ... reine Sturheit. }
+
+Plh_658 { Ich kann nicht. }
+
+Plh_659 { Ich will nicht. }
+
+Plh_660 { Na gut, gehen wir weiter ... }
+
+Plh_661 { Wir haben den Göttlichen gefangen. }
+
+Plh_662 { Hm. Also WOLLTE der Große Keiler, dass das alles geschieht? }
+
+Plh_663 { Ja, es war eindeutig. Diemo war dabei. }
+
+Plh_664 { Es ist trotzdem schrecklich ... }
+
+Plh_665 { Sonst bist du immer alleine unterwegs, oder? }
+
+Plh_666 { Spuck's aus! }
+
+End_MussLos { Ich sollte mich von meinem Lager lösen ... }
+
+Plh_667 { Ich verstehe den Gedanken. Wirklich. Aber trotzdem ... du solltest es nicht tun. }
+
+Plh_668 { Überleg mal ... wer ist in der Lage, in den Roten Turm zu gelangen? Nur die Fraktionen. }
+
+Plh_669 { Nur die Lager haben die Mittel und das Wissen dafür. }
+
+Plh_670 { Vielleicht suchst du ja auch nach einem anderem Weg ... einem eigenen Weg ... }
+
+Plh_672 { Ich denke, sie haben auf den Schutz des Großen Keilers vertraut. }
+
+Plh_673 { Der Große Keiler ließ die Expedition gewähren. Niemand stellt seine Entscheidungen infrage. }
+
+Plh_674 { Ich glaube, sie haben nicht mit so schlimmen Folgen gerechnet. Immerhin hat der Große Keiler die Expedition gewähren lassen. }
+
+Plh_675 { Ja, wobei wir nicht wissen, warum er das tun sollte. }
+
+Plh_676 { Ja, es war eindeutig. Diemo und ich haben ihn getroffen. }
+
+Plh_677 { Das verstehe ich auch nicht ... }
+
+Plh_678 { Uns Ruinenräuber fehlen einfach die Mittel dazu. Du bist ein echter Glücksgriff. }
+
+Plh_680 { Jemand, der nicht einfach nur blind den Zielen seines Lagers folgt. So jemanden brauchen wir im Roten Turm. Damit das Wissen dort richtig genutzt wird. }
+
+Plh_681 { Du hinterfragst, was deine Fraktion tut. Und willst deinen eigenen Weg gehen. }
+
+Plh_682 { Wir können dir dabei helfen. Vielleicht haben wir genau das, was du suchst ... }
+
+Plh_683 { Eine Frage lässt mich einfach nicht los ... }
+
+Plh_684 { Der Große Keiler hat uns zu verstehen gegeben, dass wir uns nicht einmischen sollen. }
+
+Plh_685 { Alles, was passiert ist, hat der Große Keiler offenbar so geplant. }
+
+Plh_686 { Das ... ist bemerkenswert. }
+
+Plh_687 { Ihr habt den Göttlichen nicht nur gesehen, sondern euch mit ihm ausgetauscht. Erstaunlich. }
+
+Plh_689 { Das hat er euch ... gesagt? }
+
+Plh_690 { Er hat es eher ... angedeutet. }
+
+Plh_691 { Er hat auf unsere Fragen geantwortet. Aber nicht mit Worten. }
+
+Plh_692 { Aber ich frage mich ... }
+
+Plh_693 { Mir raucht der Kopf. Die Göttlichen sind mir wirklich zu hoch. Jedenfalls danke für deine Ehrlichkeit. }
+
+Plh_694 { Ehrlich gesagt ... nein. }
+
+Plh_695 { (schweigen) }
+
+Plh_696 { Hast du? Und sie sind nicht geflohen? }
+
+Plh_697 { So ist es. Trotzdem ist es wichtig, darüber nachzudenken. }
+
+Plh_698 { Wir müssen aus unseren Fehlern lernen, um sie nicht zu wiederholen. }
+
+Plh_699 { Für jetzt hast du mir erst mal genug Stoff zum Nachdenken gegeben. Lass uns später weiterreden. }
+
+Plh_700 { Du meintest doch eben noch, der Große Keiler hätte es selbst so gewollt. Ich bin mir sicher, dass er sich darüber im Klaren war, was für ein Opfer er bringen musste ... }
+
+Plh_702 { Ich habe in den Ruinen auf dem Auwald-Plateau einen äußerst unhöflichen Mann gefunden. Ich denke, es ist Monko. }
+
+Plh_703 { Ich habe eine Leiche in den Ruinen auf dem Auwald-Plateau gefunden. Es war Monko ... }
+
+Plh_704 { Das klingt nach Monko. Dann lebt er ja noch. Hat er tatsächlich einen Weg auf das Plateau gefunden. Er ist sogar verrückter als ich ... }
+
+Plh_705 { Was wir tun, ist gefährlich, aber jetzt weiß ich wenigstens, dass er tot ist. Schade, hat er nicht verdient ... die Guten sterben immer zuerst. }
+
+Plh_707 { Danke dir. }
+
+Plh_708 { Aber es war seine Entscheidung, alleine dorthin zu gehen. Seine Ruine. Ich hoffe nur, er kommt lebendig wieder. }
 
