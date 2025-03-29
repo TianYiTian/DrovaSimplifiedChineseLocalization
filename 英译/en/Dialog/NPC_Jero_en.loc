@@ -24,7 +24,7 @@ Plh_201 { The Mighty Boar was too strong for him. Can't be helped. }
 
 Plh_202 { I've heard your name before. From Levin. You're new around here and already joined an expedition? Unusual. But that says something about you. }
 
-Plh_203 { It was really a fluke. $GVAR:EVars_Player.Name$ knew how to navigate through the Blackflame. That's the only way we even made it to the Mighty Boar. }
+Plh_203 { Yeah, we made an exception. $GVAR:EVars_Player.Name$ knew how to navigate through the Blackflame. That's the only way we even made it to the Mighty Boar. }
 
 Plh_204 { The Blackflame that demanded so many lives? You know a path through it? You're truly in the right place at the right time. }
 
@@ -360,7 +360,7 @@ Plh_191 { Yes, here. (hand over) }
 
 Plh_322 { Eugen totally freaked out. He was no help to me at all. }
 
-Plh_192 { *sizes them up and smirks* I sense the power of the Divinities within them. We can begin. }
+Plh_192 { *sizes them up and grins* I sense the power of the Divinities within them. We can begin. }
 
 Plh_330 { We shall go into the Red Tower. I don't know what awaits us there. Prepare yourself well. }
 
