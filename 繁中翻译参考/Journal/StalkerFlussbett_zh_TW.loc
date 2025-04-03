@@ -1,0 +1,7 @@
+Title { 木材可以抵禦捕捉者 }
+
+Entry_01 { 哈拉爾找到了一個銀礦，但他害怕周圍的捕捉者。如果我給他$GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$塊木頭，他就會允許我盡情地開採白銀。他說我可以在沉船殘骸中找到木頭。 }
+
+Entry_02 { 我被允許進入銀礦了。 }
+
+

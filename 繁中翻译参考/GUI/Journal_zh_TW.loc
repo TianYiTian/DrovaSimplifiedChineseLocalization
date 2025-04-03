@@ -1,0 +1,43 @@
+Entry_Created { 新增日誌項目 }
+
+Entry_Updated { 日誌已更新 }
+
+OthersUpdated { +$JOURNAL:Others$ 雜項 }
+
+Tab_Quests_Finished { 已完成 }
+
+Tab_Quests_Running { 進行中 }
+
+Tab_Letters { 信件 }
+
+Group_Bandits { 遺跡襲擊者 }
+
+Group_Nemeton { 聖地 }
+
+Group_RuinCamp { 倖存者營地 }
+
+Group_Tavern { 酒館 }
+
+Group_Woodcamp { 伐木場 }
+
+Group_World { 世界 }
+
+Group_Unsorted { 未分類 }
+
+Group_Magielager { 避難所 }
+
+Group_RedTower { 血色高塔 }
+
+Group_Mine { 礦坑 }
+
+Group_MainQuest { 主線任務 }
+
+Group_Dungeon_Library { 圖書館 }
+
+Group_Dungeon_City { 遠古森林之城 }
+
+Group_Dungeon_Auwald { 氾濫平原森林山丘 }
+
+Group_TreasureMaps { 藏寶圖 }
+
+

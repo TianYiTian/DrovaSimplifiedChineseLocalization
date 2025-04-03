@@ -1,0 +1,41 @@
+Save { 儲存 }
+
+Load { 載入 }
+
+PlayTime { 遊玩時間 }
+
+GameSaved { 遊戲已儲存。 }
+
+NotSaveable { 現在無法儲存遊戲。 }
+
+Title_HeroSelect { 角色 }
+
+SlotType_Quick { 快速儲存欄位 }
+
+SlotType_Auto { 自動儲存 $SAVE:SlotType$ }
+
+SlotType_Normal { 儲存欄位 $SAVE:SlotType$ }
+
+deleteSavegamePopUp { 你確定要刪除這個存檔嗎？ }
+
+overwriteHeroPopUp { 你已達到可創建角色的上限。請選擇一個要覆蓋的角色。 }
+
+Title_OverwriteHero { 覆蓋哪個角色？ }
+
+Button_Overwrite { 覆蓋 }
+
+NotLoadable { 現在無法載入您的遊戲。 }
+
+Corrupted_00 { 儲存的遊戲損壞 }
+
+Corrupted_PopUp_Desc {  這個存檔已損壞，無法載入。 }
+
+ToMainMenuPopUp_Desc { 您真的要返回主選單嗎？ }
+
+ToMainMenuPopUp_Restricted_Desc { 目前無法儲存遊戲。您仍然要返回主選單嗎？ }
+
+QuitPopUp_Desc { 您真的要退出遊戲嗎？ }
+
+QuitPopUp_Restricted_Desc { 目前無法儲存遊戲。您仍然要退出遊戲嗎？ }
+
+

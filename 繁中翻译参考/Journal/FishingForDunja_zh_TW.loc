@@ -1,0 +1,9 @@
+Title { 為敦佳釣魚 }
+
+Entry_01 { 敦佳的魚湯需要$GVAR:QuestVars_FishingForDunja_Config.AmountFish$條同種類的魚。據說在蘋果園附近有一些。 }
+
+Entry_02 { 我把魚帶給敦佳了。明天我會換到我的魚湯。 }
+
+Entry_03 {魚湯煮好了。}
+
+

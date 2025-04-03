@@ -1,0 +1,709 @@
+PostExpeditionRuinenlager_FarlanIdle_0 { 你應該看看我！ }
+
+R_Karotte_AfterRunestone_1 { 我拿到符文石了！ }
+
+R_Karotte_AfterRunestone_2 { 你應得的！ }
+
+R_Karotte_AfterRunestone_3 { 終於，我成為聖地真正的戰士了！ }
+
+R_Mottek_Routine_4 { 我想再次在礦坑工作。 }
+
+R_Mottek_Routine_5 { 我聽膩了！ }
+
+R_Mottek_Routine_6 { 我自己也寧願去別的地方。但我收到了命令。 }
+
+R_Kati_Routine_7 { 但上面究竟有什麼？ }
+
+R_Kati_Routine_8 { 鬼才知道。 }
+
+R_Kati_Routine_9 { 嗚，為什麼我們得到這麼爛的工作？ }
+
+R_Kati_Routine_10 { 比處於危險之中好。 }
+
+R_Kati_Routine_11 { 我不想只是站在這裡守衛。 }
+
+R_Kati_Routine_12 { 這裡什麼也沒發生！ }
+
+R_Kati_Routine_13 { 那你就上去，別再煩我了！ }
+
+R_Kati_Routine_14 { 我違抗命令？絕不可能！ }
+
+R_Kati_Routine_15 { 我現在閉嘴… }
+
+R_Jero_EndAuwald_AfterDialog_16 { 也許聖地很快就會再次攻擊。 }
+
+R_Jero_EndAuwald_AfterDialog_17 { 戰士們已準備就緒。我們準備好了。 }
+
+R_Karotte_18 { 這裡發生什麼事了？ }
+
+BerniWaitForPlayerSecretRoom_19 { 這裡一定有什麼東西！ }
+
+BerniRunIntoDungeon_20 { 這些是什麼樣的生物？ }
+
+BerniRunIntoDungeon_21 { 月亮的雕像！我說的沒錯！ }
+
+PitchNewPath_22 { 為自己慶祝吧。 }
+
+PitchNewPath_23 { 很快，神祇——以及榮耀——都將屬於我們。 }
+
+HarpyEncounterAndLore_24 { 準備戰鬥。 }
+
+HarpyEncounterAndLore_25 { 總有什麼在等著我們。 }
+
+HarpyEncounterAndLore_26 { 那些該死的鷹身女妖。 }
+
+HarpyEncounterAndLore_27 { 我們盡量減少流血。 }
+
+HarpyEncounterAndLore_28 { 別磨蹭了！快點！ }
+
+BossfightDarwinLead_29 { 我能感覺到神祇… }
+
+BossfightDarwinLead_30 { 我們快到了。 }
+
+BossfightDarwinLead_31 { 這一定是祂。 }
+
+BossfightDarwinLead_32 { 力量之地。 }
+
+LeaveLeuchtwald_33 { 火焰消失了… }
+
+LeaveLeuchtwald_34 { 這一定和神祇有關。 }
+
+LeaveLeuchtwald_35 { 大家四處看看。 }
+
+LeaveLeuchtwald_36 { 整個原始森林都… }
+
+LeaveLeuchtwald_37 { 被摧毀了。 }
+
+LeaveLeuchtwald_38 { 我們還沒完成任務。 }
+
+LeaveLeuchtwald_39 { 繼續前進！ }
+
+RunHome1_40 { 我們回來了。 }
+
+EugenEngageBoar_41 { 又一個小動物倒下了。 }
+
+DailyRoutineInRuinenlager_42 { 單獨做那樣的事不是個好主意… }
+
+R_MelunaGoToJola_43 { 我回來了。 }
+
+R_MelunaGoToJola_44 { 梅露娜！偷懶夠了嗎？ }
+
+R_MelunaGoToJola_45 { 住嘴。我現在得回去工作了。 }
+
+R_MelunaGoToJola_46 { 那就去工作吧！ }
+
+R_MelunaGoToJola_47 { 我會告訴萊文你來了。 }
+
+R_MelunaGoToJola_48 { 是啊，是啊。我知道規矩。 }
+
+R_Conor_RunToCamp_49 { 該死。是誰在這裡？ }
+
+Freetime_50 { 今天…嗯。 }
+
+Freetime_51 { 剛到！ }
+
+TalkToJola_52 { 嘿，喬拉！今天看起來…真棒！ }
+
+TalkToJola_53 { 謝、謝謝你，尤金，你也是。 }
+
+TalkToJola_54 { 說… }
+
+TalkToJola_55 { 你願意找個時間和我一起喝一杯嗎？ }
+
+TalkToJola_56 { 我一直在等你問這個問題。 }
+
+WayToRippers_SecondStation_57 { 等一下，我要去解決一下。 }
+
+WayToRippers_ThirdStation_58 { 嗯。腳步聲。 }
+
+Working_59 { 法術和武器技能！ }
+
+Working_60 { 你從未見過這樣的東西！ }
+
+Working_61 { 我攜帶最好的裝備！ }
+
+Working_62 { 不要絕望！ }
+
+Working_63 { 你將穿上海德溫的武器！ }
+
+Day_64 { 如果我抓到他們… }
+
+Training_65 { 嘿，布蘭，你的攻擊越來越弱了。 }
+
+Training_66 { 還是比你好。閉嘴，訓練。 }
+
+Evening_Chill_67 { 我很期待明天的戰鬥。 }
+
+Evening_Chill_68 { 我也是。但小心點。 }
+
+Evening_Chill_69 { 當然。我的斧頭和我都無堅不摧。 }
+
+Evening_Chill_70 { 明天我會讓你看看。 }
+
+Training_71 { 感受這份燃燒！我不能鬆懈！ }
+
+Training_72 { 別鬆懈，莫格！ }
+
+Training_73 { 是的，馬上！ }
+
+FreetimeWorking_74 { 偉大的巴迪將面對他過去的陰影：格拉！ }
+
+FreetimeWorking_75 { 向老實的普羅西姆斯下注，讓你的錢包鼓起來！ }
+
+FreetimeWorking_76 { 偉大的巴迪將面對他過去的陰影：格拉！ }
+
+FreetimeWorking_77 { 向老實的普羅西姆斯下注，讓你的錢包鼓起來！ }
+
+Juri_OnFighterEnterArena_78 { 戰鬥即將開始。準備好。 }
+
+WorkingNight_79 { 我這邊一切安靜。 }
+
+WorkingNight_80 { 我這邊也是。 }
+
+WorkingNight_81 { 我想和你換個位置。 }
+
+WorkingNight_82 { 哈哈，我看出來了。但這裡什麼事都不會發生。 }
+
+BonnyIntroduction_83 { 啊，終於回來了。 }
+
+BonnyIntroduction_84 { 你又去散步了嗎？ }
+
+BonnyIntroduction_85 { 這個給你，享用一頓熱飯吧。 }
+
+BonnyIntroduction_86 { 啊，太棒了。 }
+
+BonnyIntroduction_87 { 自從我出去後，我就一直在等待這個。 }
+
+BonnyIntroduction_88 { 哦，我相信你。 }
+
+IdleWeaponBeforeQuest_89 { 不，不要再來一次… }
+
+IdleWeaponBeforeQuest_90 { 我該怎麼解釋… }
+
+IdleWeaponDuringQuest_91 { 我該怎麼解釋… }
+
+IdleWeaponDuringQuest_92 { 不，不要再來一次… }
+
+TalkToMombert_93 { 你必須更小心點，盧坎！ }
+
+TalkToMombert_94 { 安格斯決定誰可以通過。 }
+
+TalkToMombert_95 { 不是你！ }
+
+TalkToMombert_96 { 是、是的，我知道。 }
+
+TalkToMombert_97 { 不會再發生了，莫姆伯特。 }
+
+TalkToMombert_98 { 德魯伊們信任你。 }
+
+TalkToMombert_99 { 是！ }
+
+Kendrick_Start_100 { 聽我說，安格斯… }
+
+Kendrick_Start_101 { 找到那個小偷就行了。 }
+
+Kendrick_Start_102 { 帕琳娜是叛徒。她一定是。 }
+
+Kendrick_Start_103 { 別發瘋了，肯德里克。 }
+
+CrafterIntro_104 { 那個該死的斯溫。 }
+
+CrafterIntro_105 { 我沒辦法這樣工作！ }
+
+GoToAdwinWithPlayer_106 { 跟我來。 }
+
+GoToAdwinWithPlayer_107 { 永恆之火就在這裡。 }
+
+GoToAdwinWithPlayer_108 { 梅爾特在看守它。 }
+
+GoToAdwinWithPlayer_109 { 這是春奈的工作室。 }
+
+GoToAdwinWithPlayer_110 { 以防你將來需要武器。 }
+
+GoToAdwinWithoutPlayer_111 { 跟我來。 }
+
+GoToAdwinWithoutPlayer_112 { 永恆之火就在這裡。 }
+
+GoToAdwinWithoutPlayer_113 { 梅爾特在看守它。 }
+
+GoToAdwinWithoutPlayer_114 { 這是春奈的工作室。 }
+
+GoToAdwinWithoutPlayer_115 { 以防你將來需要武器。 }
+
+AllDay_116 { 嘿，小朋友們。 }
+
+RunToWaterRatsWorldDialogue_117 { 這些是什麼樣的生物？ }
+
+RunToSecondSpotMoorlagerhof_118 { 嗯，那是什麼？ }
+
+RunToMoorlagerhof_119 { 你真的得小心點這裡。 }
+
+RunToMoorlagerhof_120 { 沼澤很泥濘。 }
+
+RunToMoorlagerhof_121 { 待在這塊木頭上。 }
+
+GoToRura_122 { 魯拉！我來了… }
+
+GoToRura_123 { 有時候你真的什麼用都沒有，穆克。 }
+
+GoToRura_124 { 對不起，魯拉… }
+
+GoToRura_125 { 沒關係。去工作吧。 }
+
+GoToRuraFromEntrance_126 { 魯拉！我來了… }
+
+GoToRuraFromEntrance_127 { 有時候你真的什麼用都沒有，穆克。 }
+
+GoToRuraFromEntrance_128 { 對不起，魯拉… }
+
+GoToRuraFromEntrance_129 { 沒關係。去工作吧。 }
+
+FavourOfCraftsmenGardenerAct1Intro_130 { 吉里昂說我應該來拿這個。 }
+
+FavourOfCraftsmenGardenerAct1Intro_131 { 而且還不夠！ }
+
+FavourOfCraftsmenGardenerAct1Intro_132 { 我該去哪裡弄剩下的？ }
+
+FavourOfCraftsmenGardenerAct1Intro_133 { 難道要我憑空變出來嗎？ }
+
+FavourOfCraftsmenGardenerAct1Intro_134 { 鬼才知道。 }
+
+FavourOfCraftsmenGardenerAct1Intro_135 { 自己去找吉里昂解決。 }
+
+MorningMiddayAfternoonEvening_136 { 這些貨物已經送到了，但那些貨物還沒… }
+
+GoToMolvina_137 { 沼澤的女繼承人！ }
+
+GoToMolvina_138 { 我有阿弗林的證據！ }
+
+GoToMolvina_139 { 什麼？ }
+
+GoToMolvina_140 { 我們仔細看看這個。 }
+
+PreOutcastOrBadEnding_141 { 那些卑鄙小人！ }
+
+PreOutcastOrBadEnding_142 { 他們最好離我遠點… }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_143 { 別放在心上，阿弗林。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_144 { 深呼吸。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_145 { 嗯。好的。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_146 { 我得去處理一些事情。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_147 { 我們晚點再聊。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_148 { 好吧，我會待在附近。 }
+
+RuinEntranceLeuchtwald_149 { 記住。 }
+
+RuinEntranceLeuchtwald_150 { 有人在依靠我們。 }
+
+RuinEntranceLeuchtwald_151 { 繼續前進！ }
+
+RuinEntranceLeuchtwald_152 { 啊，荒原。 }
+
+RuinEntranceLeuchtwald_153 { 欣賞風景吧。 }
+
+RuinEntranceLeuchtwald_154 { 在壞事發生之前。 }
+
+LeaveLeuchtwald_02_155 { 黑焰… }
+
+LeaveLeuchtwald_02_156 { 它們完全消失了。 }
+
+LeaveLeuchtwald_02_157 { 這一定是神祇消失的緣故。 }
+
+StopAtTavern_158 { 暗影撕裂者？在這裡？ }
+
+StopAtTavern_159 { 它們從來不敢冒險到那麼遠的地方。 }
+
+StopAtTavern_160 { 誰在乎！繼續前進！ }
+
+TalkToKarotte_161 { 看，卡洛特。 }
+
+TalkToKarotte_162 { 嗯？ }
+
+TalkToKarotte_163 { 你能讓這個發光。 }
+
+TalkToKarotte_164 { 好了。看到了嗎？ }
+
+TalkToKarotte_165 { 啊。嗯。 }
+
+HenikWaitForEatingTogether_166 { 給邦妮… }
+
+HideySpotOne_167 { 我現在必須非常安靜。 }
+
+HideySpotOne_168 { 還有人在找我嗎？ }
+
+HideySpotTwo_169 { 我現在必須非常安靜。 }
+
+HideySpotTwo_170 { 還有人在找我嗎？ }
+
+HideySpotThree_171 { 我現在必須非常安靜。 }
+
+HideySpotThree_172 { 還有人在找我嗎？ }
+
+HideySpotFour_173 { 我現在必須非常安靜。 }
+
+HideySpotFour_174 { 還有人在找我嗎？ }
+
+Afternooon_175 { 終於，那些該死的血蚊消失了。 }
+
+Afternooon_176 { 新的田地一切順利嗎？ }
+
+Afternooon_177 { 是的，最好是這樣。雖然很累，但也蠻有趣的。 }
+
+R_JurekGoToJola_178 { 嗯。我不認為我認識這裡的任何人。 }
+
+R_JurekGoToJola_179 { 沒關係。 }
+
+R_JurekGoToJola_180 { 我來這裡是要開始當豪爾。 }
+
+R_JurekGoToJola_181 { 啊，$GVAR:EVars_Player.Name$ 一定是派你來的。 }
+
+R_JurekGoToJola_182 { 去礦坑找萊文報到。 }
+
+R_JurekGoToJola_183 { 這裡往東。 }
+
+R_JurekGoToJola_184 { 好，謝謝。 }
+
+RunToFirstMobsIntent_185 { 跟我來，我知道一條捷徑！ }
+
+PanicAtFirstMobs_186 { 霧妖！做點什麼！ }
+
+PanicAtFirstMobs_187 { 又來一個！ }
+
+RunToSecondMobs_188 { 終於… }
+
+RunToSecondMobs_189 { 下次你就能更快殺死它們了！ }
+
+RunToSecondMobs_190 { 否則，你的報酬就別想了。 }
+
+PanicAtSecondMobs_191 { 該死！更多了！ }
+
+PanicAtSecondMobs_192 { 你不是應該保護我嗎！ }
+
+PanicAtSecondMobs_193 { 你到底有沒有在做事啊？ }
+
+RunToThirdMobs_194 { 這些霧妖…真可怕。 }
+
+RunToThirdMobs_195 { 該死的蚊子。殺了它們！ }
+
+RunToThirdMobs_196 { 你到底要不要殺掉這些害蟲啊？ }
+
+RunToNarrativePoint_197 { 終於。這並不難。 }
+
+RunToFourthMobs_198 { 開始工作吧，戰士。 }
+
+HideAtFourthMobs_199 { 你們已經在戰鬥了嗎？ }
+
+HideAtFourthMobs_200 { 別磨蹭了！ }
+
+HideAtFourthMobs_201 { 快攻擊啊，好不好？ }
+
+RunToBabsi_202 { 該死的害蟲！ }
+
+RunToBabsi_203 { 倖存者營地不遠了。 }
+
+GiveStuffToProximus_204 { 這個給你，普羅西姆斯，貨送到了。 }
+
+AllDay_205 { 我要再次出發了。 }
+
+AllDay_206 { 再見。 }
+
+AllDay_207 { 我只是稍微喘口氣。 }
+
+AllDay_208 { 我回來了！ }
+
+AllDay_209 { 我現在得走了。 }
+
+AllDay_210 { 再見。 }
+
+AllDay_211 { 我只是稍微喘口氣。 }
+
+AllDay_212 { 我回來了！ }
+
+AllDay_213 { 我們走吧。 }
+
+AllDay_214 { 你好，奧拉夫。 }
+
+AllDay_215 { 我得趕快走了。 }
+
+AllDay_216 { 好了，都卸完了… }
+
+AllDay_217 { 我們走吧。 }
+
+AllDay_218 { 你好，奧拉夫。 }
+
+AllDay_219 { 我得趕快走了。 }
+
+AllDay_220 { 好了，都卸完了… }
+
+R_Jendra_DITM_Station_01_221 { 現在開始下降。 }
+
+R_Jendra_DITM_Station_01_222 { 準備流汗吧。 }
+
+R_Jendra_DITM_Station_02_223 { 這裡應該有什麼東西。 }
+
+R_Jendra_DITM_Station_02_224 { 最重要的是不要下去太深。 }
+
+R_Jendra_DITM_Station_02_225 { 下面很危險。 }
+
+R_Jendra_DITM_Station_04_EllaLead_226 { 啊！我的手臂！ }
+
+AllDay_227 { 一些蜂蜜酒會讓她開心起來。 }
+
+HitReceiver_WorldDialogue_228 { 待在這裡，該死的！我還沒跟你算完帳！ }
+
+PostFightRoutine_229 { 等一下，你這隻骯髒的小動物！ }
+
+PostFightRoutine_230 { 該死！ }
+
+GoAndEngageEindringling_231 { 我要把你的腿扯下來！ }
+
+GoAndEngageEindringling_232 { 更多了！在那裡！ }
+
+GoAndEngageEindringling_233 { 來吧，她一定在這裡。 }
+
+EngageWanderwesen_234 { 我要把你的腿扯下來！ }
+
+IdleInFrontOfWanderwesen_235 { 這隻該死的生物在哪裡… }
+
+IdleInFrontOfWanderwesen_236 { 她一定就在附近… }
+
+GoToWanderwesen_237 { 那裡有隻害獸！ }
+
+GoToWanderwesen_238 { 為了阿納托利！ }
+
+Morning_PostHoneyQuest_239 { 新鮮蜂蜜來了！ }
+
+R_CarimaSpectateBlaanBlock_240 { 擋住布蘭的攻擊！ }
+
+R_CarimaSpectateBlaanTakeAttack_241 { 攻擊布蘭直到你打破他的防禦！ }
+
+BlaanSpectateCarima_242 { 來吧，使出連擊！ }
+
+BlaanSpectateCarima_243 { 繼續打！跟著節奏！ }
+
+JendrikWaitAtAmbushSpot_244 { 該死的斯普里岡。 }
+
+JendrikWaitAtAmbushSpot_245 { 我沒辦法這樣工作。 }
+
+JendrikMoveToLog_246 { 現在拿起你的劈柴斧！ }
+
+JendrikMoveToLog_247 { 利用這個樹樁，我們走吧！ }
+
+JendrikWorkAtBridge_248 { 繼續流汗吧！ }
+
+R_Larea_GoToWoodcamp_249 { 你在那裡，萊蕾亞！終於！ }
+
+R_Larea_GoToWoodcamp_250 { 當然！很高興見到你，熊蜂。 }
+
+R_NialaRunToWoodcamp_251 { 快點！ }
+
+R_AgiloGoToJola_252 { $GVAR:EVars_Player.Name$ 派我來的。 }
+
+R_AgiloGoToJola_253 { 我聽說你還在找豪爾？ }
+
+R_AgiloGoToJola_254 { 你聽得沒錯。去向萊文報到。 }
+
+R_AgiloGoToJola_255 { 他會向你解釋這裡的規矩。 }
+
+R_AgiloGoToJola_256 { 然後…我在哪裡可以找到萊文？ }
+
+R_AgiloGoToJola_257 { 礦坑附近。 }
+
+R_AgiloGoToJola_258 { 就沿著東邊的路走。 }
+
+R_AgiloGoToJola_259 { 然後往北走。 }
+
+R_AgiloGoToJola_260 { 還有一件事… }
+
+R_AgiloGoToJola_261 { 有一個名叫傑羅的人在礦坑工作嗎？ }
+
+R_AgiloGoToJola_262 { 鬼才知道。你為什麼不自己去看看？ }
+
+R_AgiloGoToJola_263 { 好，謝謝！ }
+
+GoToAndarta_264 { 嘿，安達塔… }
+
+GoToAndarta_265 { 你想要什麼？ }
+
+GoToAndarta_266 { 我有些東西給你。 }
+
+GoToAndarta_267 { 給…我？ }
+
+GoToAndarta_268 { 是的。專門給你的。 }
+
+GoToAndarta_269 { 謝、謝謝。這… }
+
+GoToAndarta_270 { 你為什麼不加入我們。 }
+
+GoToAndarta_271 { 我請你喝一杯！ }
+
+GoToAndarta_272 { 樂意之至！ }
+
+Evening_273 { 多麼美好的夜晚，不是嗎？ }
+
+Evening_274 { 是啊，完全正確。 }
+
+HuntWithPlayerFirstRoutine_275 { 來吧，我們走！ }
+
+HuntWithPlayerFirstRoutine_276 { 足跡… }
+
+HuntWithPlayerFirstRoutine_277 { 這邊！ }
+
+HuntWithPlayerSecondRoutine_278 { 害蟲。 }
+
+Evening_279 { 啊，太棒了。 }
+
+Evening_280 { 多麼的解脫。 }
+
+Morning_281 { 嘿，希妮，你還有蜂蜜酒嗎？ }
+
+Morning_282 { 來兩杯。 }
+
+Morning_283 { 兩杯？又來了？ }
+
+Morning_284 { 我不能這樣做，梅爾夫。當奧拉夫… }
+
+Morning_285 { 噓！小聲點。 }
+
+Morning_286 { 來吧，希妮。 }
+
+Morning_287 { 哼。 }
+
+Morning_288 { 這次不行，梅爾夫。 }
+
+Morning_289 { 嗚，該死… }
+
+EveningNightEarlyMorning_290 { 梅爾夫，快去！ }
+
+EveningNightEarlyMorning_291 { 客人可不會自己服務自己！ }
+
+EveningNightEarlyMorning_292 { 我正在做！ }
+
+EveningNightEarlyMorning_293 { 你的補給品，安達塔。 }
+
+EveningNightEarlyMorning_294 { 你怎麼這麼久才來？ }
+
+EveningNightEarlyMorning_295 { 快點交出來！ }
+
+EveningNightEarlyMorning_296 { 再一杯給老好人瑪吉特。 }
+
+EveningNightEarlyMorning_297 { 留下四個就好。 }
+
+OrganizeBar_Chapter2And3_298 { 快去工作，希妮！ }
+
+OrganizeBar_Chapter2And3_299 { 多搬一些到櫃檯來。 }
+
+OrganizeBar_Chapter2And3_300 { 我正在做！ }
+
+AllDay_301 { 一切都會好起來的… }
+
+AllDay_302 { 容易… }
+
+Morning_303 { 聽著，聽著，英雄事蹟…！ }
+
+Morning_304 { 不…嗯。 }
+
+Morning_305 { 願渡鴉之夜… }
+
+Morning_306 { 也許不行。 }
+
+AllDay_307 { 沒有觀眾就沒有藝術… }
+
+Singing_308 { 所以，我表現如何？ }
+
+Daily_AllDayMine_309 { 這麼多銀子… }
+
+R_RuhanGoToJola_310 { 我來這裡是要在礦坑工作。 }
+
+R_RuhanGoToJola_311 { 很好。 }
+
+R_RuhanGoToJola_312 { $GVAR:EVars_Player.Name$ 正忙著招募人手。 }
+
+R_RuhanGoToJola_313 { 去礦坑前找萊文報到。 }
+
+R_RuhanGoToJola_314 { 好，謝謝。 }
+
+R_Fawni_RunToTavern_315 { 準備好了，甜心。 }
+
+R_Fawni_RunToTavern_316 { 那一定很刺激。 }
+
+Evening_317 { 我還能再一杯！ }
+
+Evening_318 { 敬馬騰！ }
+
+GoingAway_319 { 我馬上回來。別做我不會做的事。 }
+
+R_Work_320 { 這個地方最好的就是食物了。 }
+
+R_Working_321 { 終於。好吃的食物。 }
+
+R_Working_322 { 保重，哈索。 }
+
+R_Working_323 { 當然！明天見！ }
+
+R_Working_RunIntoRoom_324 { 我們成功了！終於！ }
+
+R_Working_RunIntoRoom_325 { 喔，看看那個。 }
+
+R_Working_RunIntoRoom_326 { 這是什麼？ }
+
+R_Working_RunIntoRoom_327 { 這裡可能有什麼東西。幫我們四處看看。 }
+
+R_Working_RunIntoRoom_WarningPlayer_328 { 小心！不想被守衛嚇到！ }
+
+GoToEggs_329 { 這邊！ }
+
+GoToEggs_330 { 那邊！ }
+
+GoToEggs_331 { 準備好了。 }
+
+IdleTavern_332 { 一切都會好的。 }
+
+Library_GoToEntry_333 { 我們需要走這邊。 }
+
+Library_IdleSecretRoom_334 { 我們或許可以從這邊繼續。 }
+
+Library_IdleSecretRoom_335 { 我會確保我們能再次離開這裡。 }
+
+Library_IdleSecretRoom_336 { 我們逃吧。 }
+
+IDLE_AfterFight_337 { 符文有效。 }
+
+IDLE_AfterFight_338 { 符文仍然有效。我們真幸運！ }
+
+HitReceiver_339 { 他們對那個斯普里岡做了什麼？ }
+
+HitReceiver_Reija_Dialog_EnterWurmArea_340 { 這裡有些不對勁。 }
+
+HitReceiver_Reija_Dialog_FireRoom_341 { 也許是法術反噬了。 }
+
+HitReceiver_Reija_Dialog_PictureWall_01_342 { 那裡，靠牆…那一定是符文石。 }
+
+HitReceiver_Reija_Dialog_DoorOpen_343 { 門剛才打開了！ }
+
+HitReceiver_Reija_Dialog_Spear_344 { 這種材質…我從未見過這樣的東西。 }
+
+HitReceiver_Reija_Dialog_EndRoom_345 { 我們應該仔細看看這裡。 }
+
+HitReceiver_Reija_Dialog_GolemFightRoom_346 { 那、那是什麼？ }
+
+HitReceiver_Reija_Dialog_AfterGolemFight_347 { 那一定是個魔像。 }
+
+HitReceiver_Reija_Dialog_AfterGolemFight_348 { 快點，我們逃吧。 }
+
+HitReceiver_349 { 霧正在逼近。小心！ }
+
+HitReceiver_350 { 小心，這些很危險！ }
+
+Dylara_Moorlagerhof_351 { 火邊最舒服了。 }
+
+Dylara_Moorlagerhof_352 { 我四處看看，看看一切是否安靜。 }
+
+Plh_0 { 歡迎來到伯諾德的酒館。喝杯啤酒吧。 }
+
+Bady_Duel_Leaving_0 { 留在島上。我真的不想在整個德羅瓦追你。 }

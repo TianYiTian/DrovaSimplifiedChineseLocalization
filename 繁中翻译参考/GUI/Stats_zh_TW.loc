@@ -1,0 +1,23 @@
+ExpPoints { 經驗值 }
+
+Name_Strength { 力量 }
+
+Name_Mind { 心智 }
+
+Name_Dex { 敏捷 }
+
+Name_Armor { 護甲 }
+
+Name_MagicResist { 魔法抗性 }
+
+Learned { 已學習 }
+
+LearnPoint { 學習點數 }
+
+LearnPoints { 學習點數 }
+
+MaximumHealth { 最大生命值 }
+
+Name_Orientationpunkt { 基礎專注 }
+
+

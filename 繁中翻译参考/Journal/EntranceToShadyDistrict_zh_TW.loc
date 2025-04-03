@@ -1,0 +1,17 @@
+Title { 暗區 }
+
+Entry_01 {鮑里斯要我從蕾娜那裡拿到$GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$個錢幣。他給了我一把暗區的鑰匙。在倖存者營地的西部某處，應該有一個隱藏的入口。}
+
+Entry_02 {我見到鮑里斯後，蓋拉攔截了我，要我還她的人情。我得在蕾娜身上栽贓一些事先割好的赤鏽苔，然後向鮑里斯告發她。}
+
+Entry_03 {蕾娜給了我$GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$個錢幣。我應該告訴鮑里斯。}
+
+Entry_04 {我向蕾娜說了蓋拉計畫的真相。她非常感激。}
+
+Entry_05 {我把錢幣給了鮑里斯，並告發了蕾娜。現在我不再欠蓋拉任何東西了。}
+
+Entry_06 {我把從蕾娜那裡拿到的所有錢幣都給了鮑里斯。}
+
+Entry_05A {之前割好的赤鏽苔現在在蕾娜的箱子裡了。現在我要做的就是去找鮑里斯。}
+
+

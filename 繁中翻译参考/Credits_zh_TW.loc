@@ -1,0 +1,108 @@
+director { 遊戲總監 }
+
+game_design_lead { 遊戲設計負責人 }
+
+game_design { 遊戲設計 }
+
+additional_game_design {  額外遊戲設計 }
+
+programming_lead { 首席程式設計師 }
+
+programming { 程式設計 }
+
+art_lead { 美術指導 }
+
+art { 美術 }
+
+community { 社群 }
+
+sound_lead { 音效和音樂 }
+
+organisation { 支援與後勤 }
+
+praktikanten { 實習生 }
+
+freelancer { 外部承包商 }
+
+musik { 音樂 }
+
+sound { 音效 }
+
+grafiken { 插畫 }
+
+autor { 編劇 }
+
+testers { 測試人員 }
+
+發行商 { 出版商 }
+
+spotlight { Deck13 聚焦 }
+
+spotlight_interns { 實習生 }
+
+spotlight_productionBaby { 製作萌新 }
+
+spotlight_deck13 { Deck13 }
+
+spotlight_deck13_interns { 實習生 }
+
+spotlight_deck13_memory { 紀念 Felix Rischbieter }
+
+pr_hound { 公關獵犬 }
+
+bxdxo { BXDXO }
+
+headline_Localization { 本地化 }
+
+loca_coordination { 協調 }
+
+loca_english_lead { 英文主導 }
+
+loca_english_translators { 英文翻譯 }
+
+loca_english_proofreading { 英文校對 }
+
+loca_french_localization { 法文在地化 }
+
+loca_french_translators { 法文翻譯 }
+
+special_thank_Grounding { 特別感謝工作室的創辦人： }
+
+specia_thank { 特別感謝 }
+
+tools { 工具 }
+
+voice { 配音員 }
+
+thanks_family { 感謝我們的家人、朋友和合作夥伴一直以來的支持。沒有你們，我們不可能走到今天。 }
+
+thanks_pb { 感謝Piranha Bytes製作的《哥特王朝》系列。這款偉大的遊戲對我們所有人都有著深遠的影響。 }
+
+chris_wish { 我親愛的Sarah，謝謝妳在我追逐這個瘋狂夢想時一直支持我。這條路並不好走，但我們做到了！\\n願奶奶安息。我想妳。 }
+
+gecko { Gecko！謝謝你的幫助！我們Discord上的鐵腕人物。 }
+
+bady { 敬巴迪「Atilozz」！競技場的冠軍，也是《德羅瓦》開發過程中忠誠的夥伴。你從一開始就陪伴著我們。 }
+
+entwicklerWG { 感謝所有在Twitch上關注我們「Entwickler WG」的觀眾。是你們給了我們繼續開發《德羅瓦》的力量和動力。 }
+
+lavapotion { 感謝Lavapotion團隊，他們在我們剛開始這個專案時，為我們設計世界提供了寶貴的見解。 }
+
+tinyroar { 向Tiny Roar致敬，感謝他們提供了大量的建議，還把Fabio派來給我們！ }
+
+Acagamics { 感謝我們的大學學生會Acagamics，是你們讓我們聚在一起，舉辦各種活動和比賽來激勵我們開發《德羅瓦》。沒有你們，就沒有《德羅瓦》！ }
+
+finish_line { 最後，要感謝的是你們。謝謝你們遊玩《德羅瓦》。 }
+
+special_thanks_support { 在開發過程中特別感謝您的支持： }
+
+johannes_wish { 莉亞，感謝妳的支持和美好的友誼——即使我因為必須製作德羅瓦而三次取消了我們計劃好的假期。 }
+
+Fabio_wish { 感謝 Just2D 的四位創始人——Chris、Johannes、Kai 和 Julian。憑藉你們的勇氣、承諾、責任感和組織架構，你們創造了一個即使在困難時期也能讓我們感到安全，並實現我們共同的夢想：開發遊戲的工作環境。 }
+
+Gratulation_Insane { 您以瘋狂難度完成了遊戲，很少有人能做到這一點。<br>對我們來說，您在德羅瓦中投入您的時間和熱情是最大的讚美。<br><br>我們期待與您一起踏上新的冒險。<br><br>Just2D 團隊 }
+
+Gratulation_Hardcore { 一條命，而您充分利用了它。<br>零失誤完成德羅瓦值得尊敬。<br>對我們來說，您在德羅瓦中投入您的時間和熱情是最大的讚美。<br><br>我們期待與您一起踏上新的冒險。<br><br>Just2D 團隊 }
+
+Gratulation_Both { 德羅瓦中的終極挑戰，您已經掌握了它！<br>對我們來說，您在德羅瓦中投入您的時間和熱情是最大的讚美。<br><br>我們期待與您一起踏上新的冒險。<br><br>Just2D 團隊 }
+

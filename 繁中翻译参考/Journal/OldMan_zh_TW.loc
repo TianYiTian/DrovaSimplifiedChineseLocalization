@@ -1,0 +1,11 @@
+Title { 菜市場的老先生 }
+
+Entry_01 {我遇到一位老先生，他想讓我從市場上幫他帶各種東西。他要我幫他帶$GVAR:QuestVars_OldMan_Config.AmountApple$個蘋果、$GVAR:QuestVars_OldMan_Config.AmountDagger$把麵包刀、$GVAR:QuestVars_OldMan_Config.AmountQuellWurz$株春黃菊和熊皮。他說我可以在市場上買到所有這些東西。}
+
+Entry_02 {費姆克不想把熊皮賣給我。他說我可以拿羊皮矇騙那個老頭，而不是熊皮。反正他也分辨不出來。}
+
+Entry_03 {安雅說費姆克把他的毛皮存放在他的攤位下。晚上，我可能想去那裡看看……}
+
+Entry_04 {我把老先生要的東西給他了。他非常高興。}
+
+

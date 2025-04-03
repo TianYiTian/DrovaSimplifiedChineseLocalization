@@ -1,0 +1,65 @@
+Plh_50 {這是之前欠你的錢。}
+
+Plh_9 {嘿，我現在也在競技場裡戰鬥了。}
+
+Plh_30 { 來訓練吧。 }
+
+Plh_14 { *輕蔑地看著* 現在普羅克西姆斯什麼阿貓阿狗都放進來... }
+
+Plh_18 { 你有什麼問題？ }
+
+Plh_20 { 不關你的事。 }
+
+Plh_21 { *冷笑* 想賭一把嗎？就像主競技場的比賽那樣！輸的人要付30枚錢幣。你覺得如何？還是你怕了？ }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? 少於$GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$枚錢幣，我連床都懶得出。我們賭$GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$吧！ }
+
+Plh_23 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$枚錢幣，我賭了。 }
+
+Plh_26 { 我沒有那麼多錢幣。 }
+
+Plh_27 { 我們還是訓練吧。 }
+
+Plh_25 { 聽起來不錯，那就走吧。 }
+
+Plh_28 { 那就去找錢幣啊。你可以在競技場底層工作。 }
+
+Plh_29 { 我看起來像是需要訓練的樣子嗎？沒錢幣，就沒比賽。這樣你才能稍微體驗一下競技場的氛圍。 *輕蔑一笑* }
+
+Plh_33 { 你想都別想！ }
+
+Plh_16 { 我有什麼好高興的？你想讓我為你跳個吉格舞嗎？ }
+
+Plh_31 { 所以，$GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$枚錢幣？ }
+
+Plh_5 { 嘿，一張新面孔。 }
+
+Plh_6 { 你是在說我嗎？ }
+
+Plh_7 { 你想要幹嘛？ }
+
+Plh_8 { Plh_8 }
+
+Plh_35 { 打得漂亮！你很有潛力！ }
+
+Plh_45 { 這是你的賞金。只要你繼續在競技場戰鬥，還會有更多。 }
+
+Plh_36 { 表現不錯，但你還有很多東西要學。而且你還欠我一筆錢。 }
+
+Plh_40 { 這是你的賞金。 }
+
+Plh_38 { 你從我這裡拿不到半毛錢。 }
+
+Plh_39 { 我身上沒有足夠的錢。 }
+
+Plh_43 { 你早該想到這點。現在你就知道後果是什麼了…… }
+
+Plh_48 { 如果你沒有錢，我就不跟你打。 債務可是攸關名譽的事。*得意地笑了一下* }
+
+Plh_41 { 我喜歡這樣。如果你想再打一場，就來找我。 }
+
+Plh_42 { 這些錢不夠。快給我吐出來！ }
+
+Plh_51 { 你已經被安排了一場戰鬥。結束後再來找我。 }
+
+

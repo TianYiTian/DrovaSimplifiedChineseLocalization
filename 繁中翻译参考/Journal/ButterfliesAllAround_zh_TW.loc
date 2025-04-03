@@ -1,0 +1,11 @@
+Title { 聖林的求助 }
+
+Entry_01 { 克爾要我在聖林裡抓 $GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$ 隻特殊的蝴蝶。他說我可以透過牠們特殊的翅膀辨認牠們。 }
+
+Entry_02 { 蝴蝶都抓到了。 }
+
+Entry_03 { 克爾對我的幫忙感到很開心，還給了我獎勵。 }
+
+Entry_00 { 聖林裡有個德魯伊需要幫忙。聖林在聖地的北邊，我可以往東走，經過倉庫附近的橋到那裡。 }
+
+

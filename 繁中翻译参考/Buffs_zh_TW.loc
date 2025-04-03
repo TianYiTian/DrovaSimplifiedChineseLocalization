@@ -1,0 +1,35 @@
+SleepBuff { 休息充分 }
+
+SleepBuffDescription { 提升您的移動速度 [MovementPercent]。 }
+
+Poison { 中毒 }
+
+PoisonDescription { 降低您的移動速度 [MovementPercent] 和護甲 [ArmorReduce]。 }
+
+Bleeding { 流血 }
+
+BleedingDescription { 您的生命值正在持續流失。 }
+
+SleepBuff_T2 { 充分休息 }
+
+Veil_Name { 黑焰 }
+
+Veil_Desc { 您正持續受到傷害。 }
+
+Intoxicated_Name { 醉酒 }
+
+Intoxicated_Desc { 一切看起來都有點模糊... }
+
+NoFood_Name { 空腹 }
+
+NoFood_Desc { 吃點東西填飽肚子。如果您處於飽足狀態，您將隨著時間恢復失去的生命值。 }
+
+waterbarrel { 水 }
+
+waterbarrel_description { 在短時間內恢復生命值。 }
+
+HealReduction { 沼澤的痛苦 }
+
+HealReduction_Desc { 降低受到的治療量 [ValuePercent]。 }
+
+BlackPuddle_Name { 沼澤之血 }

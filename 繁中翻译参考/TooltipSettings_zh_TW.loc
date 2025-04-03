@@ -1,0 +1,127 @@
+healingText { 在 [StackTime] 秒內恢復 [MaxStack] 點生命值。 }
+
+damage { 傷害 }
+
+attack { 攻擊傷害 }
+
+flowgain { 專注 }
+
+physicalblock { 物理格擋 }
+
+magicalblock { 魔法格擋 }
+
+physicalresistance { 護甲 }
+
+magicalresistance { 魔法抗性 }
+
+flowcosts { 專注消耗 }
+
+strength { 力量 }
+
+dexterity { 敏捷 }
+
+mind { 心靈 }
+
+health { 生命值 }
+
+healing { 恢復你最大生命值的 [VALUE]。 }
+
+learningpoints { 學習點數 }
+
+talentlearned { 已學習 }
+
+talentcannotlearned { 尚未能學習 }
+
+talentcanbelearned { 可學習 }
+
+unknownteacher { 未知 }
+
+talentnotknown { 你尚未發現此天賦。 }
+
+foodText { 每 [StackTime] 秒恢復 [HealValue] 點生命值，直到恢復 [MaxStack] 點生命值。如果你的生命值全滿，恢復將暫停。 }
+
+recipe_requirements { 需要： }
+
+buffAdditionalDescription { (新食物取代飽足效果) }
+
+maxHealth { 最大生命值 [VALUE] }
+
+flowGain { 專注 [VALUE] }
+
+magicDamage { 魔法傷害 [VALUE] }
+
+bleedingChance { 流血機率 [VALUE] }
+
+weaponDamage { 武器傷害 [VALUE] }
+
+movementSpeed { 移動速度 [VALUE] }
+
+poiseDamage { 架勢傷害 [VALUE] }
+
+magicResistance { 魔法抗性 [VALUE] }
+
+staminaReg { 耐力恢復 [VALUE] }
+
+flowReg { 專注恢復 [VALUE] }
+
+armor { 護甲 [VALUE] }
+
+healAdditionalDescription { (相似物品取代增益效果) }
+
+flowPhysical { 能力 }
+
+flowMagical { 法術 }
+
+flowOneTime { 法術卷軸 }
+
+learnspell { 使用此物品學習能力 }
+
+learnrecipe { 使用此物品學習配方 }
+
+alreadylearned { 已經學過了 }
+
+trashtotrade { 將垃圾加入商品價值 }
+
+craftingItem { 製作材料 }
+
+saleitem { 販售物品 }
+
+weaponDamage_single { 武器傷害 [VALUE] }
+
+critchance { 致命一擊機率 }
+
+critchance_Value { 致命一擊機率 [VALUE] }
+
+orientationpoint { 基礎專注 [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ 點物理傷害 }
+
+stat_change_dex { +$STATCHANGE:CritChance$ 點致命一擊 }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ 點魔法傷害 + +$STATCHANGE:Focus$ 點專注 }
+
+helmet_cosmetics { (頭盔純粹是裝飾品，對你的角色沒有任何影響。) }
+
+mainHandWeapon { 單手武器 }
+
+offHandWeapon { 副手 }
+
+twoHandedWeapon { 雙手武器 }
+
+munition { 彈藥 }
+
+drug_description { 麻痺你的感官 }
+
+LearnSpell { 教導武器技能 }
+
+flowText { 在 [StackTime] 秒內產生 [HealValue] 點專注。 }
+
+needrunestone { 需要符文石 }
+
+strength_value { 力量 [VALUE] }
+
+dex_value { 敏捷 [VALUE] }
+
+mind_value { 心靈 [VALUE] }
+
+trinket_equipable { 即使你擁有此物品的多個複本，你一次也只能裝備一個。 }

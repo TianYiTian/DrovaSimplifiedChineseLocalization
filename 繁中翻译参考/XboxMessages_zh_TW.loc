@@ -1,0 +1,7 @@
+DescText_NotLoggedIn { 遊戲無法驗證您是否已登錄 Xbox 個人資料。請確認您已登錄，以便讀取和儲存遊戲！ }
+
+ButtonText_Login { 登錄 }
+
+PleaseWait { 請稍候... }
+
+

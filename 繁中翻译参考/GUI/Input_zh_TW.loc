@@ -1,0 +1,199 @@
+Key_Shift { Shift 鍵 }
+
+control_mousebutton_left { 滑鼠左鍵 }
+
+control_mousebutton_right { 滑鼠右鍵 }
+
+control_keycode_space { 空格鍵 }
+
+control_keycode_control { Ctrl 鍵 }
+
+control_keycode_tab { Tab 鍵 }
+
+control_keycode_return { Enter 鍵 }
+
+control_keycode_alt { Alt 鍵 }
+
+control_keycode_up { 上 }
+
+control_keycode_down { 下 }
+
+control_keycode_left { 左 }
+
+control_keycode_right { 右 }
+
+action_MoveX_Pos { 向右移動 }
+
+action_MoveX_Neg { 向左移動 }
+
+action_MoveY_Pos { 向上移動 }
+
+action_MoveY_Neg { 向下移動 }
+
+action_LookX_Pos { 向右看 }
+
+action_LookX_Neg { 向左看 }
+
+action_LookY_Pos { 向上看 }
+
+action_LookY_Neg { 向下看 }
+
+action_Attack_Primary { 攻擊 }
+
+action_Block { 副手動作 }
+
+action_Attack_And_Interaction { 互動 (一般狀態) / <br>攻擊 (戰鬥狀態) }
+
+action_Block_And_Perception { 調查模式 (一般狀態) / <br> 副手動作 (戰鬥狀態) }
+
+action_Dodge { 閃避 }
+
+action_DrawWeapon { 拔出/收起武器 }
+
+action_GameMenu { 遊戲選單 }
+
+action_PauseMenu { 暫停 }
+
+action_Interact { 互動 }
+
+action_Inventory { 物品欄 }
+
+action_LootAll { 全部拿取 }
+
+action_Journal { 日誌 }
+
+action_PerceptionMode { 調查模式 }
+
+action_QuickSave { 快速存檔 }
+
+action_QuickLoad { 快速載入 }
+
+action_SwapWeaponSet { 切換武器組合 }
+
+action_Walk { 步行 }
+
+action_Trade_All { 全部交易 }
+
+action_Trade_Ten { 交易十個 }
+
+action_Screenshot { 截圖 }
+
+action_ReportBug { 回報錯誤 }
+
+action_UseSpell { 使用技能 }
+
+action_RingMenu { 環形選單 }
+
+action_OpenMap { 地圖 }
+
+action_MarkObject { 標記物件 }
+
+action_TalentMenu { 天賦 }
+
+action_MarkAsGarbage { 標記為垃圾 }
+
+action_Flow_1 {技能 1}
+
+action_Flow_2 {技能 2}
+
+action_Flow_3 {技能 3}
+
+action_Flow_4 {技能 4}
+
+action_Flow_5 {技能 5}
+
+action_Flow_6 {技能 6}
+
+action_Flow_7 {技能 7}
+
+action_Flow_8 {技能 8}
+
+action_Quickbar_1 {快捷欄 1}
+
+action_Quickbar_2 {快捷欄 2}
+
+action_Quickbar_3 {快捷欄 3}
+
+action_Quickbar_4 {快捷欄 4}
+
+action_QuickslotAssignment {分配到快捷欄}
+
+action_DeleteQuickbarItem {清空快捷欄}
+
+action_PrevPanel {上一頁}
+
+action_NextPanel { 下一類 }
+
+action_Lockpick_Left { 迷你遊戲 左 }
+
+action_Lockpick_Right { 迷你遊戲 右 }
+
+action_GuiScrollY { 捲動介面 }
+
+action_PlayNote_1 { 里拉琴音 1 }
+
+action_PlayNote_2 { 里拉琴音 2 }
+
+action_PlayNote_3 { 里拉琴音 3 }
+
+action_PlayNote_4 { 里拉琴音 4 }
+
+action_MoveX { 移動 }
+
+action_MoveY { 移動 }
+
+action_LookX { 環顧四周 }
+
+action_lookY { 環顧四周 }
+
+action_HelpUp { 幫助 }
+
+action_Abilities { 技能 }
+
+action_Squat { 蹲下 }
+
+action_DialogSkip {  繼續對話 }
+
+action_CraftingMenu {  製作選單 }
+
+action_ToggleGarbageVisibility {  顯示/隱藏垃圾 }
+
+action_UIDelete { 關閉介面 }
+
+action_CamZoom { 切換縮放 }
+
+action_toggleCraftables { 切換：只顯示可製作的配方 }
+
+dialogoption_1 { 對話選項 1 }
+
+dialogoption_2 { 對話選項 2 }
+
+dialogoption_3 { 對話選項 3 }
+
+dialogoption_4 { 對話選項 4 }
+
+dialogoption_5 { 對話選項 5 }
+
+dialogoption_6 { 對話選項 6 }
+
+leftcontrol { 左 Ctrl }
+
+leftalt { 左 Alt }
+
+leftshift { 左 Shift }
+
+rightcontrol { 右控制鍵 }
+
+rightalt { 右Alt鍵 }
+
+rightshift { 右Shift鍵 }
+
+action_uiSubmit { GUI 確認 }
+
+action_minigameSubmit { 迷你遊戲動作 }
+
+action_PrevNavigation { 上一個分頁 }
+
+action_NextNavigation { 下一個分頁 }
+
+

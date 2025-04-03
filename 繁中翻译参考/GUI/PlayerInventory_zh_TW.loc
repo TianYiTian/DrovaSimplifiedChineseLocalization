@@ -1,0 +1,61 @@
+title_character_segment { 角色 }
+
+label_character_level { 等級 }
+
+tooltip_character_level { 顯示你目前的等級。這表示你的角色有多強大。 }
+
+tooltip_character_faction { 顯示你目前的陣營。 }
+
+tooltip_character_skillpoints { 你可以使用學習點數來提升你的能力值或向老師學習新的天賦。每個新等級會賦予你 <color=#55BD55>4</color> 點學習點數和 <color=#55BD55>5</color> 點生命值。 }
+
+label_character_skillpoints {學習點數}
+
+tooltip_character_xp {透過擊殺敵人或完成任務可獲得經驗值}
+
+label_attributes_hitpoints {生命值}
+
+tooltip_attributes_hitpoints {當你的生命值降至零時，你的角色就會死亡。}
+
+tooltip_attributes_stamina {體力用於格擋、閃避和重型攻擊。}
+
+label_attributes_stamina {體力}
+
+tooltip_attributes_flow {專注值用於技能。它會透過造成傷害而產生，並會隨著時間或受到傷害而減少。}
+
+label_attributes_flow {專注值}
+
+tooltip_attributes_power { 戰鬥力是你的屬性值總和，是用於使用某些武器的先決條件。 }
+
+tooltip_attributes_strength {力量使你造成的物理傷害提高 [VALUE]。}
+
+tooltip_attributes_dexterity {敏捷使你的暴擊機率提高 [VALUE]。每次暴擊都會導致目標流血，並根據你的武器類型造成額外傷害。}
+
+tooltip_attributes_mind {精神使你造成的魔法傷害提高 [VALUE1]，並使你的基礎專注值提高 [VALUE2]。}
+
+label_attributes_armor {護甲}
+
+tooltip_attributes_armor {降低受到的物理傷害。}
+
+tooltip_attributes_magic_resistance {降低受到的魔法傷害。}
+
+label_attributes_magic_resistance { 魔法抗性 }
+
+title_equipment_segment { 裝備 }
+
+title_directquickbar_segment { 快捷欄 }
+
+faction_none { 無陣營 }
+
+faction_nemeton { 聖地 }
+
+faction_ruincamp { 倖存者 }
+
+title_ammo { 彈藥 }
+
+totalFIghtingStrength { 綜合戰力 }
+
+baseFightingStrength { 基礎戰力 }
+
+baseFightingStrengthDesc { 基礎戰鬥力是您所有屬性值的總和，不包含裝備加成。它也作為某些天賦的先決條件。 }
+
+

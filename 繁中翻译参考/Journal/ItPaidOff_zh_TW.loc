@@ -1,0 +1,13 @@
+Title {進入深邃礦坑中的名額}
+
+Entry_01 {穆塔總是拿走阿爾瑪在深邃礦坑中探勘的大部分白銀。如果我能勸退穆塔這樣做，阿爾瑪就會把他在深邃礦坑中的位置分給我。}
+
+Entry_02A {我已經處理好阿爾瑪了。如果他不能工作，詹卓就需要其他人來深邃礦坑。這是我的機會。}
+
+Entry_02B {穆塔不會再給阿爾瑪帶來麻煩了。我應該告訴阿爾瑪。}
+
+Entry_02C {$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ 阿爾瑪在深邃礦坑的位置要付給詹卓$GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ 塊白銀。我付了錢，現在我得到了他的位置。}
+
+Entry_03 {我和阿爾瑪共享深邃礦坑中的一個位置。他現在正在休息。現在詹卓應該願意帶我一起去了。}
+
+

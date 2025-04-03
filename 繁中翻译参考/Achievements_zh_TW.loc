@@ -1,0 +1,157 @@
+Achievement_ImmersiveMod_name { 鋼鐵 }
+Achievement_ImmersiveMod_desc { 在儲存模式設定為「鋼鐵」的情況下完成德羅瓦。 }
+
+Achievement_CengizWoodcampQuest_name { 美好的開始 }
+Achievement_CengizWoodcampQuest_desc { 確保所有森吉茲的人都在橋上工作。 }
+
+Achievement_LeftDeepMine_name { 地底深處 }
+Achievement_LeftDeepMine_desc { 從殘存者營地的深礦中逃脫。 }
+
+Achievement_HelpedGeorg_name { 關於戰鬥與狐狸 }
+Achievement_HelpedGeorg_desc { 幫助喬治農場的每一個人。 }
+
+Achievement_JoinNemeton_name { 家人 }
+Achievement_JoinNemeton_desc { 加入聖地。 }
+
+Achievement_JoinRuinenlager_name { 加入殘存者 }
+Achievement_JoinRuinenlager_desc { 加入殘存者。 }
+
+Achievement_GotFamiliar_name { 我那活潑的小火花 }
+Achievement_GotFamiliar_desc { 被火花選中。 }
+
+Achievement_CaughtBoar_name { 神性屬於我們！ }
+Achievement_CaughtBoar_desc { 擊敗強大的野豬。 }
+
+Achievement_GotYourRunestone_name { 唯有符文 }
+Achievement_GotYourRunestone_desc { 獲得你的符文石。 }
+
+Achievement_CompletedLibrary_name { 書蟲 }
+Achievement_CompletedLibrary_desc { 完成圖書館。 }
+
+Achievement_CompletedAuwald_name { 森林中的孤獨 }
+Achievement_CompletedAuwald_desc { 在洪氾平原森林中找到神聖水晶。 }
+
+Achievement_CompletedCityDungeon_name { 追溯過去 }
+Achievement_CompletedCityDungeon_desc { 在原始森林中找到神聖水晶。 }
+
+Achievement_EnteredRedTower_name { 進入血色高塔！ }
+Achievement_EnteredRedTower_desc { 進入血色高塔。 }
+
+Achievement_FirstDeath_name { 歡迎來到德羅瓦 }
+Achievement_FirstDeath_desc { 第一次嚥下塵土。 }
+
+Achievement_FirstArenaFight_name { 我不夠有趣嗎？ }
+Achievement_FirstArenaFight_desc { 贏得你在競技場的第一場戰鬥。 }
+
+Achievement_GraWonArenaFight_name { 為弱者而戰 }
+Achievement_GraWonArenaFight_desc { 你幫助格拉贏得了戰鬥。艾絲特很開心。 }
+
+Achievement_BloodborneAchievement_name { 提防舊血 }
+Achievement_BloodborneAchievement_desc { 獵人必須狩獵。 }
+
+Achievement_BertineRevenge_name { 以眼還眼，以牙還牙 }
+Achievement_BertineRevenge_desc { 幫助伯蒂娜完成她最後的復仇。 }
+
+Achievement_Schnitzeljagd_name { 尋寶遊戲 }
+Achievement_Schnitzeljagd_desc { 創造你自己的護身符。 }
+
+Achievement_ArenaMaster_name { 角鬥士 }
+Achievement_ArenaMaster_desc { 在殘存者營地的競技場戰鬥中晉升到頂峰。 }
+
+Achievement_Blackboard_name { 為了社群 }
+Achievement_Blackboard_desc { 完成佈告欄上的所有任務。 }
+
+Achievement_LastManStandingFeuertaufe_name { 最後倖存者 }
+Achievement_LastManStandingFeuertaufe_desc { 在歐根的烈火洗禮後成為最後一個站著的人。 }
+
+Achievement_CompletedBrutusMine_name { 自由！ }
+Achievement_CompletedBrutusMine_desc { 解放礦坑中的囚犯。 }
+
+Achievement_KilledRipperWoodcampAct1_name { 森吉茲的左右手 }
+Achievement_KilledRipperWoodcampAct1_desc { 殺死第一章伐木工營地附近撕裂者群的首領。 }
+
+Achievement_HelpedSickSister_name { 撒瑪利亞人 }
+Achievement_HelpedSickSister_desc { 幫助強盜生病的妹妹。 }
+
+Achievement_KilledBearBeforeAct2_name { 熊的恐懼 }
+Achievement_KilledBearBeforeAct2_desc { 在第一章殺死一隻熊。 }
+
+Achievement_KilledOlafRipper_name { 少了一個害蟲 }
+Achievement_KilledOlafRipper_desc { 解決奧拉夫的撕裂者問題。 }
+
+Achievement_KilledDiemo_name { 我別無選擇 }
+Achievement_KilledDiemo_desc { 面對迪莫的復仇。 }
+
+Achievement_GaveCayFamiliar_name { 一隻名叫凱的小豬 }
+Achievement_GaveCayFamiliar_desc { 犧牲自己的一部分來拯救凱。 }
+
+Achievement_StoppedMurtaghAndMursel_name { 我就是法律 }
+Achievement_StoppedMurtaghAndMursel_desc { 在殘存者營地將正義帶到礦坑。 }
+
+Achievement_LeftMine100Silver_name { 那一百銀幣是我的！ }
+Achievement_LeftMine100Silver_desc { 口袋裡帶著一百銀幣離開殘存者營地的礦坑。 }
+
+Achievement_UndertookJourneyToRoots_name { 與原始森林合而為一 }
+Achievement_UndertookJourneyToRoots_desc { 踏上前往母親之根的旅程。 }
+
+Achievement_FedMikesch10Fish_name { 米凱西吞噬者 }
+Achievement_FedMikesch10Fish_desc { 餵 10 條魚給米凱西。 }
+
+Achievement_InteractedWithAllUniqueCritters_name { 動物低語者 }
+Achievement_InteractedWithAllUniqueCritters_desc { 與德羅瓦中所有獨特的動物互動。 }
+
+Achievement_LearnedFromBady_name { 征服競技場 }
+Achievement_LearnedFromBady_desc { 在公平的戰鬥中擊敗巴迪。 }
+
+Achievement_TookAllDrugs_name { 物盡其用 }
+Achievement_TookAllDrugs_desc { 嘗試德羅瓦中的每一種藥物。 }
+
+Achievement_GotRelicFromRuinenraeuber_name { 眼不見，心不忘 }
+Achievement_GotRelicFromRuinenraeuber_desc { 為廢墟掠奪者完成聖物。 }
+
+Achievement_FinishedPwyllConversation_name { 一切都始於... }
+Achievement_FinishedPwyllConversation_desc { 從普威爾那裡收到一份獨特的禮物。 }
+
+Achievement_FoundAtlanterWeapon_name { 過往的遺產 }
+Achievement_FoundAtlanterWeapon_desc { 找到一件古代武器。 }
+
+Achievement_CraftedEpicArmor_name { 無堅不摧！ }
+Achievement_CraftedEpicArmor_desc { 獲得一套過往者的盔甲。 }
+
+Achievement_WonAgainstBrutus_name { 過往者的最後統治者 }
+Achievement_WonAgainstBrutus_desc { 擊敗德里瓦尼斯。 }
+
+Achievement_JoinedRustmossBusiness_name { 交易的一份子 }
+Achievement_JoinedRustmossBusiness_desc { 加入赤鏽苔貿易。 }
+
+Achievement_TrustedGawan_name { 完全信任 }
+Achievement_TrustedGawan_desc { 信任高文和他的商業sense。 }
+
+Achievement_DefaultEnding_name { 一切終結 }
+Achievement_DefaultEnding_desc { 你已經體驗了故事直到苦澀的結局。你釋放了神祇的怒火並驅散了死亡之霧。 }
+
+Achievement_OptionalEnding_name { 新的道路 }
+Achievement_OptionalEnding_desc { 你已經體驗了故事直到苦澀的結局。你已經安撫了神祇並驅散了死亡之霧。 }
+
+Achievement_EnteredNemeton_name { 我會找到辦法的！ }
+Achievement_EnteredNemeton_desc { 找到進入聖地的方法。 }
+
+Achievement_AllAchievements_name { 德羅瓦大師！ }
+Achievement_AllAchievements_desc { 獲得所有成就。 }
+
+Achievement_ExplorerMode_name { 探索者 }
+Achievement_ExplorerMode_desc { 在探索者模式下完成德羅瓦。 }
+
+Achievement_HardcoreMode_name { 硬核 }
+Achievement_HardcoreMode_desc { 在儲存模式設定為「硬核」的情況下完成德羅瓦。 }
+
+Achievement_ClassicMode_name { 經典 }
+Achievement_ClassicMode_desc { 在經典模式下完成德羅瓦。 }
+
+Achievement_InsaneMode_name { 瘋狂 }
+Achievement_InsaneMode_desc { 在「瘋狂」模式下完成德羅瓦。不計入基本成就。 }
+
+Achievement_DefeatedFleshBoss_name { 解放克諾德沼澤的神性。 }
+Achievement_DefeatedFleshBoss_desc { 確保克諾德沼澤能夠恢復。不計入基本成就。 }
+
+

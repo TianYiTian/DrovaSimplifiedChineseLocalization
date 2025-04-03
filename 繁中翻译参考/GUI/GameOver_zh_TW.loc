@@ -1,0 +1,13 @@
+Title { — 你死了 — }
+
+CloseGame { 離開遊戲 }
+
+MainMenu { 主選單 }
+
+Restart { 重試 }
+
+Load { 載入 }
+
+HardcoreMessage { 你在「硬派」模式中死亡。你的存檔將會降級為「鋼鐵」。<br>如果你想以「硬派」模式完成遊戲，就必須創建一個新的角色。 }
+
+

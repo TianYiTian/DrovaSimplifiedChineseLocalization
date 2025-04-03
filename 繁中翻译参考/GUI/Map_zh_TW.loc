@@ -1,0 +1,33 @@
+Title_Maps { 地圖 }
+
+MapName_World_Rough { 粗略世界地圖 }
+
+MapName_World_Detailed { 詳細世界地圖 }
+
+MapName_World_Shrines { 神龕 }
+
+MapName_Nemeton { 聖地 }
+
+MapName_Ruincamp { 遺跡營地倖存者 }
+
+MapName_Leuchtwald { 遠古森林 }
+
+MapName_Tristan { 崔斯坦的地圖 }
+
+MarkerPlaced { 已標記在地圖上 }
+
+NoInk { 需要墨水 }
+
+Title_Markers { 蓋章 }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { 放置標記 }
+
+DeleteMarker { 刪除標記 }
+
+Hint_Ink { 購買墨水以便在地圖上標記位置。 }
+
+MapName_CaveSystem { 洞穴系統 }
+
+

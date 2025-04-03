@@ -1,0 +1,13 @@
+Title { 卡羅特的武器 }
+
+Entry_01 { 卡羅特又一次弄壞了他的武器。他不好意思拿著這破爛玩意兒去春奈那裡。我答應幫他保管，所以他給了我$GVAR:QuestVars_KarottesWeapon_Config.AmountOfMoney$個錢幣。 }
+
+Entry_02 { 春奈一眼就看出那是卡羅特的武器。 }
+
+Entry_03 { 卡羅特拿回他的武器了。 }
+
+Entry_04 { 卡羅特不再需要他的武器了。 }
+
+Entry_05 { 卡羅特的武器已經修好了。我應該還給他。 }
+
+

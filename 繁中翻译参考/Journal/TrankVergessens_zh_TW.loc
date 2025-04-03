@@ -1,0 +1,7 @@
+Title {遺忘藥水}
+
+Entry_01 {倖存者營地裡的艾登正在試驗藥水。他說他可以為我調製一瓶遺忘藥水。為此，他需要$GVAR:QuestVars_TrankVergessens_Config.AmountMats$朵廢墟之花，根據艾登的說法，這種花生長在廢墟附近。這種藥水能讓我忘記迄今為止學到的一切。}
+
+Entry_02 {我獲得了藥水。}
+
+

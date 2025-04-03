@@ -1,0 +1,95 @@
+EnterName { 輸入名稱… }
+
+Body { 體型 }
+
+Visual { 外觀 }
+
+Souvenir { 紀念品 }
+
+SaveMode { 遊戲模式 }
+
+DefaultMode { 經典 }
+
+ImmersiveMode { 鐵人 }
+
+StoryMode { 探索 }
+
+InsaneMode { 瘋狂 }
+
+SkipIntro { 跳過開場 }
+
+Option_BodyType { 體型 }
+
+Option_SkinColor { 膚色 }
+
+Option_Voice { 聲音 }
+
+Option_Hair { 髮型 }
+
+Option_HairColor { 髮色 }
+
+Option_Deco { 裝飾 }
+
+Option_Beard { 鬍子 }
+
+Option_BeardColor { 鬍鬚顏色 }
+
+Souvenir_Empty { 無紀念品 }
+
+Souvenir_Empty_Tooltip { 只有你和你自身的能力。你已經擁有一切所需。 }
+
+Souvenir_Alchemy { 藥劑 }
+
+Souvenir_Alchemy_Tooltip { 你準備充足，而且總是帶著一些藥劑。 }
+
+Souvenir_Money { 錢袋 }
+
+Souvenir_Money_Tooltip { 你出門一定會帶著錢袋。 }
+
+Souvenir_Health { 生命之戒 }
+
+Souvenir_Health_Tooltip { 這枚戒指注入了生命精華，可以讓你承受更多傷害。 }
+
+Souvenir_Thief { 開鎖工具 }
+
+Souvenir_Thief_Tooltip { 機會是留給做好準備的人的。 }
+
+Souvenir_Strength { 力量之戒 }
+
+Souvenir_Strength_Tooltip { 你很重視體能，而這枚戒指能滿足你的需求。 }
+
+GameMode_Normal_Tooltip { 推薦模式。德羅瓦很危險，小心行事！ }
+
+GameMode_Immersive_Tooltip { 你做出的選擇，後果自負。你只有一次存檔機會，遊戲會自動儲存。 }
+
+InvalidName { 這個名字不可用！ }
+
+HardcoreMode {  硬核 }
+
+GameMode_Hardcore_Tooltip { 終極挑戰。你只有一條命和一次存檔機會。 }
+
+UseKeyboard { 請使用鍵盤輸入你的名字！ }
+
+GameMode_Story_Tooltip { 你造成的傷害會提高，受到的傷害會降低。 }
+
+Story_PopUp { 你確定要用探索者模式遊玩德羅瓦嗎？<br><br>你造成的傷害會提高，受到的傷害會降低。你可以在選項選單中自訂傷害值，並在探索者模式和經典模式之間自由切換。<br><br>你可以隨時儲存和載入遊戲。 }
+
+Immersive_PopUp { 你確定要用鐵人模式遊玩德羅瓦嗎？<br><br>你只有一次存檔機會，遊戲會在每次對話、戰鬥、任務進度和重要決定後自動儲存。<br><br>一旦開始遊戲，你就無法再更改模式。 }
+
+Hardcore_PopUp { 你確定要用硬派模式玩德羅瓦嗎？<br><br>你只有一次存檔機會，遊戲會在每次對話、戰鬥、任務進度和重要決定後自動存檔。角色死亡時，你的存檔將被刪除。<br><br>一旦開始遊戲，你就不能再更改模式了。<br><br>終極挑戰。只有德羅瓦最強的戰士才能駕馭這種模式。 }
+
+SaveModePopUp_Title { 選擇你的存檔模式 }
+
+SaveModePopUp_Text_Default { 德羅瓦提供多種選項來儲存你的遊戲。<br><br>在經典模式下，你可以建立多個存檔，並且隨時儲存。<br><br>如果你選擇遊玩鋼鐵模式，你的遊戲將會自動儲存。在這種模式下，你將無法手動儲存。<br><br>硬派模式基本上與鋼鐵模式相同。在硬派模式中，你只有一次完成遊戲的機會。如果你的角色死亡，挑戰即失敗；你的存檔將會降級為鋼鐵模式。你可以繼續遊玩，但只能以鋼鐵模式進行。如果你想以「硬派」模式完成遊戲，就必須創建一個新的角色。<br><br>你可以隨時在「選項」中降低你的存檔模式。 }
+
+ChangeGameModeWarning { 你確定要退出鋼鐵模式嗎？一旦退出，你就無法在遊戲的剩餘時間內重新啟用此模式。 }
+
+Insane_Desc { 終極挑戰！如果不是第一次玩德羅瓦，不建議使用。 }
+
+ChangeGameModeWarning_Hardcore { 你確定要退出硬派模式嗎？一旦退出，你就無法在遊戲的剩餘時間內重新啟用此模式。 }
+
+Title_Insane_PopUp { 難度：瘋狂 }
+
+Desc_Insane_PopUp { 「瘋狂」難度是德羅瓦目前為止最大膽的挑戰。<br><br>在此模式中，敵人更加危險——我們更新了他們行為、位置和數量。我們不僅為某些生物配備了新的攻擊方式，還創造了現有生物的全新變種，它們會使用新的特殊攻擊。<br><br>此外，你受到的傷害將增加 30%，造成的傷害將減少 20%——如果這還不夠難，你還可以在選項選單中進一步自訂這些數字。<br><br>我們也進行了一些小調整，以增強整體遊戲體驗——敬請期待！<br><br>你確定要用「瘋狂」模式進行遊戲嗎？一旦選擇此模式，你就無法在遊戲過程中更改它。 }
+
+

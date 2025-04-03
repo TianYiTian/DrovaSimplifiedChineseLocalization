@@ -1,0 +1,27 @@
+Title {鮑里斯投票加入倖存者}
+
+Entry_00 {如果我想讓鮑里斯投票支持我加入倖存者，我就必須從聖地的阿斯穆斯那裡取回一個包裹。前往聖地！}
+
+Entry_01 { 鮑里斯給了我三包赤鏽苔，他要我賣給礦工們，每包不少於$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$個銅板。如果我幫他做到這件事，他就會投票給我。 }
+
+Entry_02A { 我和柯拉一起分享了一些赤鏽苔，所以我以$GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$個銅板的價格賣給了她。差價我得自己掏腰包。 }
+
+Entry_02B { 柯拉以$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$個銅板買下了赤鏽苔。 }
+
+Entry_03 { 科德以$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$個銅板買下一包赤鏽苔。 }
+
+Entry_03_1 { 我把一些赤鏽苔賣給了格里特。 }
+
+Entry_03_2 { 我把一些赤鏽苔賣給了森加。 }
+
+Entry_04 { 莉安德拉以$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$個銅板買下一包赤鏽苔。 }
+
+Entry_05 { 我贏得了鮑里斯的支持。他會投票給我。但如果我想加入他的隊伍，我還得贏得他們以及尤金的支持。 }
+
+Entry_01B { 我沒有幫鮑里斯賣那些東西。 }
+
+Entry_Sold { 我把所有東西都賣掉了，我應該向鮑里斯回報。 }
+
+Entry_06 { 莫格弄到了一些赤鏽苔。我因此收到了$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$個銅板。 }
+
+

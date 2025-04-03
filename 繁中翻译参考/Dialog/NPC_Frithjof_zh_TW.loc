@@ -1,0 +1,17 @@
+Plh_5 {啊，新面孔。我是弗裡喬夫。我這裡有一些你可以買的有趣玩意兒。 看看吧。 *狡黠一笑* }
+
+Plh_9 {如果你需要什麼... 你知道去哪裡找我。}
+
+Plh_7 {那麼，你想買點什麼嗎？}
+
+Plh_11 {你從哪裡弄到所有這些商品的？}
+
+Plh_12 {噢，我有我的門路。有時候，這些東西就隨便扔在某個地方。或者用點小手段打開一些箱子。只要付 $GVAR:EVars_Frithjof.MoneyForLearning$ 個錢幣，我可以教你如何自己開箱。}
+
+Plh_14 {只要你有 $GVAR:EVars_Frithjof.MoneyForLearning$ 個錢幣。 *得意地笑* }
+
+Plh_15 {這是錢幣。(交出 $GVAR:EVars_Frithjof.MoneyForLearning$ 個錢幣)}
+
+Plh_17 {  我會信守諾言的。 *不懷好意地笑* }
+
+

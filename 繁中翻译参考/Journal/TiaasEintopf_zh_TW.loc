@@ -1,0 +1,7 @@
+Title { 蒂婭的燉菜 }
+
+Entry_01 { 蒂婭現在心情顯然很不好。她需要肉。只有我給她$GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$塊肉，她才願意給我東西。而且還不能是那種她所謂的，全是筋的爛肉。 }
+
+Entry_02 { 我給蒂婭帶了肉。現在我可以每天從她那裡得到一頓熱騰騰的餐點了。 }
+
+

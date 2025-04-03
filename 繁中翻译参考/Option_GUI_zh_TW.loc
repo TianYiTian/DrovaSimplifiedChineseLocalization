@@ -1,0 +1,281 @@
+Control { 控制 }
+
+GameMode { 遊戲模式 }
+
+default { 重設 }
+
+save { 儲存 }
+
+dont_save { 不儲存 }
+
+cancel { 取消 }
+
+keyfield_popup { 您的按鍵綁定已更改。您要儲存此設定嗎？ }
+
+keyfield_popup_conflict { 此設定包含衝突的按鍵綁定，無法儲存。您要繼續而不儲存嗎？ }
+
+world { 世界 }
+
+category_dialog { 對話 }
+
+category_music { 音樂 }
+
+category_guimenus { GUI 菜單 }
+
+category_shotcuts { 雜項 }
+
+Label_Volume_Master { 所有 }
+
+Label_Volume_Sound { 音效 }
+
+Label_Volume_Ambience { 環境音 }
+
+Label_Volume_UI { 使用者介面 }
+
+Label_Volume_Music { 音樂 }
+
+Options { 選項 }
+
+gameplay { 遊戲設定 }
+
+interface { 介面 }
+
+video { 影像 }
+
+audio { 音訊 }
+
+Zoom { 縮放 }
+
+ShowPlayerHealth { 顯示玩家生命值、專注值和其他 }
+
+ShowLootFeedback { 每當您的角色撿起物品、學到新事物、變得更強大或在任務中取得進展時，螢幕右側將顯示額外資訊。 }
+
+ShowQuickbar { 顯示快捷列 }
+
+ShowBuffs { 顯示狀態符號 }
+
+ShowHealthVignette { 顯示生命值暈影 }
+
+ShowOptions_Disclaimer { 我們建議您啟用所有這些設定。 }
+
+ShowDirectionFeedback { 顯示方向回饋 }
+
+ShowHealthbars { 顯示血條 }
+
+ShowStaminaBar { 顯示耐力條和彈藥 }
+
+Title_Gamepad { 控制器 }
+
+Title_KeyBinds { 控制 }
+
+Language { 語言 }
+
+Toggle_ShowHelp { 顯示教學 }
+
+AutosaveInterval { 自動儲存間隔 }
+
+Toggle_PickUpsToQuickbar { 物品直接加入快捷列 }
+
+Toggle_PickUpsToQuickbar_Heal { 治療物品 }
+
+Toggle_PickUpsToQuickbar_Traps { 陷阱 }
+
+Toggle_AutoDrawWeapon { 自動拔出武器 }
+
+Toggle_AutoEquipArrows { 自動裝備彈藥 }
+
+Dropdown_Resolution { 解析度 }
+
+Toggle_WindowMode { 視窗模式 }
+
+Slider_FPS { 幀率 }
+
+Title_Effects { 特效 }
+
+Slider_Screenshake { 螢幕震動強度 }
+
+Slider_ParticleAmount { 粒子數量 }
+
+Toggle_DustParticles { 沙塵粒子 }
+
+Toggle_ShaderEffects { 著色器特效 }
+
+Toggle_WindEffects { 風的粒子 }
+
+Toggle_Vibration { 震動 }
+
+Toggle_AutoAim { 自動瞄準 }
+
+State_Low { 低 }
+
+State_Medium { 中 }
+
+State_High { 高 }
+
+Vsync { 垂直同步 }
+
+Unlimited { 無限制 }
+
+Title_Keyboard { 鍵盤 }
+
+Option_Generic_Off { 關 }
+
+Autosave_Min3 { 3 分鐘 }
+
+Autosave_Min5 { 5 分鐘 }
+
+Autosave_Min10 { 10 分鐘 }
+
+Autosave_Min20 { 20 分鐘 }
+
+Autosave_Min30 { 30 分鐘 }
+
+Title_FontAndDialog { 文字與對話 }
+
+Toggle_PickUpsToQuickbar_Food { 食物 }
+
+Toggle_PickUpsToQuickbar_Throwables { 投擲物 }
+
+Toggle_PickUpsToQuickbar_Torches { 火把 }
+
+Dropdown_FontSize { 字體大小 }
+
+Dropdown_DialogSpeed { 文字顯示速度 }
+
+FontSize_Small { 普通 }
+
+FontSize_Medium { 大 }
+
+FontSize_Big { 非常大 }
+
+DialogSpeed_Instant { 立即 }
+
+DialogSpeed_Fast { 快 }
+
+DialogSpeed_Slow { 普通 }
+
+Toggle_GroundFog { 地面霧 }
+
+Toggle_Rain { 雨 }
+
+Toggle_Clouds { 雲 }
+
+Toggle_TextSounds { 顯示文字時發出聲音 }
+
+Toggle_NPCDialogSounds { 角色聲音 }
+
+Toggle_ShowCompleteHUD { 顯示完整 HUD }
+
+Toggle_CharacterFeedback { 顯示角色回饋 }
+
+ShowDirectionFeedback_Enemies { 顯示方向指示器 }
+
+ShowPoiseBar_Enemies { 顯示對手架勢條 }
+
+ShowMunition { 顯示彈藥 }
+
+Toggle_SmartQuickbar { 智慧快捷列 }
+
+Toggle_ShowItemChanges { 顯示獲得/失去的物品 }
+
+Toggle_ShowDiaryChanges { 顯示日記更新 }
+
+Toggle_ShowNewSpells { 顯示新學到的法術、配方和天賦 }
+
+Toggle_ShowCharacterImprovements { 顯示角色提升 }
+
+Toggle_ChangeSticks { 交換搖桿 }
+
+Toggle_ChangeDirectionWithSticks { 交換方向鍵和標準動作按鈕 }
+
+Toggle_ChangeTriggers { 交換肩鈕 }
+
+Keybinding_Preset { 預設 }
+
+KeyPreset_LeftHanded { 左手模式 }
+
+Toggle_ScrollAbilities { 使用滑鼠滾輪切換主動技能 }
+
+Parent_BasicHudElements { 基本 HUD 元素 }
+
+Parent_CharacterFeedback { 角色回饋 }
+
+Title_ScreenHUD { 螢幕角落的 HUD 元素 }
+
+Title_PlayerHUD { 附著在玩家角色上的 HUD 元素 }
+
+Title_EnemyHUD { 附著在非玩家角色上的 HUD 元素 }
+
+ShowNPCNames { 顯示角色名稱 }
+
+KeyPresent_Standard { 標準 }
+
+KeyPresent_Azerty { Azerty }
+
+Title_General { 一般 }
+
+Description_SmartQuickbar { 記住上次分配給快捷列欄位的物品，並在獲得相同物品時再次分配。 }
+
+Toggle_CameraMode { 將鏡頭對準視線方向 }
+
+Description_CameraMode { 鏡頭將始終移向游標指向的位置。如果關閉此選項，鏡頭將與移動方向對齊。 }
+
+Toggle_FilterSellItems { 自動將可出售物品標記為垃圾 }
+
+Description_FilterSellItems { 自動將新物品標記為垃圾以便出售，這會導致該物品僅在您顯示垃圾時才出現在物品欄中。 }
+
+Dropdown_DisplayMode { 螢幕模式 }
+
+DisplayMode_Windowed { 視窗模式 }
+
+DisplayMode_Borderless { 無邊框視窗模式 }
+
+DisplayMode_Fullscreen { 全螢幕 }
+
+Zoom_Near { 近 }
+
+Zoom_Far { 遠 }
+
+Toggle_PickUpsToQuickbar_Potions { 藥劑 }
+
+Description_AutoDrawWeapon { 角色在閃避或使用法術時自動拔出武器。 }
+
+Title_WeatherEffects { 天氣效果 }
+
+Toggle_WindMovements { 風的移動 }
+
+Toggle_Quickcast { 快速施法 }
+
+AutoDrawWeapon_CombatAbilitiesOnly { 僅限攻擊技能 }
+
+Description_Quickcast { 按下其中一個技能鍵後，技能將會切換，並且如果啟用快速施法，將會立即使用。 }
+
+Description_LookDirection { 在戰鬥中，角色腳下的箭頭表示其面向的方向。 }
+
+Description_LookDIrection_NPCs { 在戰鬥中，角色腳下的箭頭表示其面向的方向。 }
+
+popup_reset { 捨棄 }
+
+FontSize_Preview { 預覽 }
+
+MapMarker_Player_Toggle { 在地圖上顯示位置 }
+
+PlayerDmgReceive { 受到傷害 }
+
+PlayerDmgOutput { 額外造成的傷害 }
+
+Toggle_MiniGame { 停用小遊戲 }
+
+MouseLock { 將滑鼠限制在視窗內 }
+
+UseHardwareMouse { 使用硬體滑鼠指標 }
+
+UseAltFriendlyColor { 友軍血條使用替代顏色 }
+
+FontSize_VeryBig { 更大 }
+
+category_quickbar { 快捷列 }
+
+SaveMode { 儲存模式 }
+
+Toggle_ChallengeTimer { 顯示遊玩時間計時器 }

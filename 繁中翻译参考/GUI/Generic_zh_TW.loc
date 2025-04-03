@@ -1,0 +1,21 @@
+cancel { 取消 }
+
+accept { 接受 }
+
+yes { 是 }
+
+no { 不是 }
+
+on { 開 }
+
+off { 關 }
+
+holdToSkip { 長按跳過 }
+
+gameModeChangeDesc { 模式一經更改就無法回復，你確定要這樣做嗎？ }
+
+loadLatestPopUp { 要載入上次的存檔嗎？ }
+
+Answer_Understood { 瞭解。 }
+
+

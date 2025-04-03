@@ -1,0 +1,209 @@
+talent_sword_01 { 基礎劍術 }
+
+talent_sword_01_desc { 提升你的戰鬥姿態，增加你造成的傷害 [DamageValuePercent]。你將學會武器技能血腥狂怒。 }
+
+talent_sword_02 { 進階劍術 }
+
+talent_sword_02_desc { 增加你造成的傷害 [DamageValuePercent]，並解鎖第三段連擊。 }
+
+talent_sword_03 { 大師級劍術 }
+
+talent_sword_03_desc { 提升你的戰鬥姿態，並增加你造成的傷害 [DamageValuePercent]。 }
+
+talent_sneak_01 { 潛行 }
+
+talent_sneak_01_desc { 你可以更隱匿地潛行，並讓你的對手更難注意到你。 }
+
+talent_shield_02 { 進階盾牌術 }
+
+talent_shield_02_desc { 完美格擋會暫時擊暈你的對手。 }
+
+talent_shield_01 { 基礎盾牌術 }
+
+talent_shield_01_desc { 你現在可以用盾牌進行完美格擋。 }
+
+talent_shield_01_additionale_headline { 完美格擋 }
+
+talent_shield_01_additionale_desc { 如果你在攻擊即將命中前進行格擋，你可以執行消耗極少耐力的完美格擋。 }
+
+talent_spear_01 { 基礎長矛術 }
+
+talent_spear_01_desc { 提升你的戰鬥姿態，增加你造成的傷害 [DamageValuePercent]。你將學會武器技能穿刺。 }
+
+talent_spear_02 { 進階長矛術 }
+
+talent_spear_02_desc { 增加你造成的傷害 [DamageValuePercent]。普通長矛攻擊恢復 [StaminaValueAbsolut] 的耐力。 }
+
+talent_spear_03 { 大師級長矛術 }
+
+talent_spear_03_desc { 提升你的戰鬥姿態。增加你造成的傷害 [DamageValuePercent]，以及你每次擊中恢復的耐力，最多 [StaminaValueAbsolut]。 }
+
+talent_dagger_01 { 基礎匕首術 }
+
+talent_dagger_01_desc { 提升你的戰鬥姿態，增加你造成的傷害 [DamageValuePercent]。你將學會武器技能傳染。 }
+
+talent_dagger_02 { 進階匕首術 }
+
+talent_dagger_02_desc { 增加你造成的傷害 [DamageValuePercent]，每次擊中增加你產生的專注 [FocusValueAbsolut]。 }
+
+talent_dagger_03 { 大師級匕首術 }
+
+talent_dagger_03_desc { 提升你的戰鬥姿態，增加你造成的傷害 [DamageValuePercent]，每次擊中增加你產生的專注 [FocusValueAbsolut]。 }
+
+talent_bow_01 { 基礎弓術 }
+
+talent_bow_02 { 大師級弓術 }
+
+talent_bow_01_additionale_headline { 強力射擊 }
+
+talent_bow_01_additionale_desc { 當你用弓瞄準時，在最恰當的時刻釋放強力射擊，造成 [WeaponDamagePercent] 的武器傷害。 }
+
+talent_bow_01_desc { 增加你造成的傷害 [DamageValuePercent]。你現在可以用弓進行強力射擊。 }
+
+talent_bow_02_desc { 增加你造成的傷害 [DamageValuePercent]，並減少你需要瞄準的時間。你將學會武器技能震盪射擊。 }
+
+talent_slingshot_01 { 基礎彈弓術 }
+
+talent_slingshot_02 { 大師級彈弓術 }
+
+talent_slingshot_01_desc { 增加你造成的傷害 [DamageValuePercent]，並增加 [PoiseValuePercent] 的架勢傷害。你將學會武器技能跳彈。 }
+
+talent_slingshot_02_desc { 增加你造成的傷害 [DamageValuePercent]，並增加 [PoiseValuePercent] 的架勢傷害。 }
+
+talent_axe_01 { 基礎斧術 }
+
+talent_axe_01_desc { 提升你的戰鬥姿態，增加你造成的傷害 [DamageValuePercent]。你將學會技能處決。 }
+
+talent_axe_02 { 進階斧術 }
+
+talent_axe_02_desc { 增加你造成的傷害 [DamageValuePercent]，並解鎖第三段連擊。 }
+
+talent_axe_03 { 大師級斧術 }
+
+talent_axe_03_desc { 提升你的戰鬥姿態，並增加你造成的傷害 [DamageValuePercent]。 }
+
+talent_alchemy { 釀造藥水 }
+
+talent_alchemy_desc { 你可以釀造藥水來協助你戰鬥或提升你的屬性。 }
+
+talent_lockpicking_01 { 開啟複雜鎖 }
+
+talent_lockpicking_01_desc { 沒有你打不開的鎖了。 }
+
+talent_extractsecretion { 萃取毒液 }
+
+talent_extractsecretion_desc { 你可以從某些動物身上萃取毒液。毒液是釀造藥水和製作物品所需的材料。 }
+
+talent_tearclaws { 拔爪 }
+
+talent_tearclaws_desc { 你可以移除一些動物的爪子和牙齒。爪子可以出售；牙齒可以用於製作。 }
+
+talent_melting_01 { 熔煉 }
+
+talent_melting_01_desc { 你可以在煉鐵爐處理礦石。 }
+
+talent_smith_01 { 製作 }
+
+talent_smith_01_desc { 你可以製作各種物品。 }
+
+talent_smith_02 { 大師級工藝 }
+
+talent_smith_02_desc { 你可以製作危險的陷阱、物品和彈藥。 }
+
+talent_stripfur { 剝取動物皮 }
+
+talent_stripfur_desc { 你可以剝取某些動物的皮。你可以出售獸皮或將其用於製作。 }
+
+talent_shield_CritAfterBlock { 失去平衡 }
+
+talent_shield_CritAfterBlock_desc { 如果你完美格擋了一次攻擊，你的下一次攻擊將會造成致命一擊。 }
+
+talent_shield_flow_afterblock { 這就是你的全部本事嗎？ }
+
+talent_shield_flow_afterblock_desc { 如果你完美格擋了一次攻擊，你會產生 [FocusValueAbsolut] 的專注。 }
+
+talent_axe_adddmgflow { 戰鬥狂熱 }
+
+talent_axe_adddmgflow_desc { 成功擊中後，攻擊會額外產生 [FocusValueAbsolut] 的專注。 }
+
+talent_axe_critonpoise { 致命一擊 }
+
+talent_axe_critonpoise_desc { 你第一次對架勢被破壞的對手進行斧頭攻擊將會造成致命一擊。 }
+
+talent_axe_decreasestamina { 全速衝刺 }
+
+talent_axe_decreasestamina_desc { 重攻擊消耗的耐力減少 [StaminaValuePercent]。 }
+
+Talent_Daggers_CritAfterDodge { 驚喜！ }
+
+Talent_Daggers_CritAfterDodge_desc { 你閃避後第一次使用匕首攻擊，致命一擊的機率將提高四倍。 }
+
+Talent_Daggers_DecreaseFlow { 全神貫注！ }
+
+Talent_Daggers_DecreaseFlow_desc { 使用技能後，你將獲得 [FocusValueAbsolut] 的專注。 }
+
+Talent_Daggers_RegenerateStamina { 有效打擊 }
+
+Talent_Daggers_RegenerateStamina_desc { 普通攻擊產生 [StaminaValueAbsolut] 的耐力。 }
+
+Talent_Sword_NextSpellLesserFlow { 機會主義者 }
+
+Talent_Sword_NextSpellLesserFlow_desc { 用劍打出致命一擊後，你將恢復下一個需要專注的技能 [FocusValuePercent] 的專注消耗。 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { 猛烈打擊 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { 重劍攻擊消耗的耐力減少 [StaminaValuePercent]。 }
+
+Talent_Sword_AddCritChance { 精準 }
+
+Talent_Sword_AddCritChance_desc { 當你用劍攻擊時，你有 [CritValuePercent] 更高的機率造成致命一擊。 }
+
+Talent_Spear_GenerateFlow { 專注打擊 }
+
+Talent_Spear_GenerateFlow_desc { 每次對同一個對手進行長矛攻擊，產生的專注都會增加 [FocusValueAbsolut]。 }
+
+Talent_Spear_MoreDmgOnHead { 巔峰表現 }
+
+Talent_Spear_MoreDmgOnHead_desc { 矛尖最多可造成 [DamageValuePercent] 的額外傷害。 }
+
+Talent_Spear_PoiseOnCrit { 淬毒之尖 }
+
+Talent_Spear_PoiseOnCrit_desc { 用長矛造成致命一擊將使你有 [ChanceToPoison] 的機率使你的對手中毒。 }
+
+Talent_Bow_InstantAfterDodge { 快速拔箭 }
+
+Talent_Bow_InstantAfterDodge_desc { 你閃避後，可以不瞄準直接射箭。 }
+
+Talent_Bow_IncreaseCritDamage { 箭無虛發 }
+
+Talent_Bow_IncreaseCritDamage_desc { 弓的致命一擊會造成 [DamageValuePercent] 的額外傷害。 }
+
+Talent_Sling_MultipleProjectiles { 雙重射擊 }
+
+Talent_Sling_MultipleProjectiles_desc { 有 [TriggerPercent] 的機率在發射一個投射物時，第二個投射物會在不消耗彈藥的情況下發射。 }
+
+Talent_Sling_AddDmgOnPoise { 鞭擊 }
+
+Talent_Sling_AddDmgOnPoise_desc { 如果你用彈弓打破了對手的架勢，你下一次對他們的攻擊將會造成 [DamageValuePercent] 的額外傷害。 }
+
+Talent_Sling_Ricochet_Name { 跳彈 }
+
+Talent_Sling_Ricochet_Desc { 你投擲一個投射物，造成 [WeaponDamagePercent] 的傷害，然後從對手身上彈開並擊中附近的對手。 }
+
+Talent_Sling_HeavyShot_Name { 強力射擊 }
+
+Talent_Sling_HeavyShot_Desc { 強力射擊造成 [WeaponDamagePercent] 的傷害並使對手昏迷 [StunTime] 秒。 }
+
+teachers { 老師 }
+
+talent_mining_desc { 增加礦石探勘的產量。 }
+
+talent_mining_01 { 探勘 1 }
+
+talent_mining_02 { 探勘 2 }
+
+talent_mining_03 { 探勘 3 }
+
+talent_mining_04 { 探勘 4 }
+
+talent_mining_05 { 探勘 5 }

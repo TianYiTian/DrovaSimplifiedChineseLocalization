@@ -1,0 +1,11 @@
+Title { - 暫停 - }
+
+Continue { 繼續 }
+
+QuitApp { 離開遊戲 }
+
+LoadLatest { 上次存檔 }
+
+ToMainMenu { 回主選單 }
+
+PleaseWait { 遊戲儲存中，請稍候。 }

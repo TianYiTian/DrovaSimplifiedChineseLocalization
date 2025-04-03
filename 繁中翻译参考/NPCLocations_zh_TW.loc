@@ -1,0 +1,115 @@
+Faction_Neutral { 中立 }
+
+Remnants_Arena { 倖存者營地：競技場區 }
+
+Remnants_WayToMine { 倖存者營地礦坑南方 }
+
+Nemeton_Gate_North { 聖地：北門 }
+
+Nemeton_Dormitory { 聖地東部 }
+
+Woodcamp { 伐木工營地 }
+
+Remnants_Mine { 倖存者礦坑 }
+
+Remnants_MinerArea { 倖存者營地：豪爾區 }
+
+Nemeton_Palisades_North { 聖地：北柵欄牆 }
+
+Neutral_SilverMine { 河床銀礦 }
+
+Cave_RuinRaiders { 廢墟掠奪者藏身處 }
+
+Tavern_Forest { 無頭撕裂者客棧 }
+
+Nemeton_WarriorsQuarter { 聖地：戰士區 }
+
+Remnants_Academy { 倖存者營地：學院 }
+
+Neutral_Forest { 針葉林北部 }
+
+Remnants_Market { 倖存者營地：市集廣場 }
+
+MissingPerson { 失蹤 }
+
+Remnants_UpperQuarter { 倖存者營地：上層區域 }
+
+Remnants_Tavern { 伯諾德的酒館 }
+
+Neutral_Refugee { 避難所 }
+
+Nemeton_Kitchen { 聖地：廚房 }
+
+Remnants_LostQuater { 倖存者營地：黑暗區域 }
+
+Nemeton_FrontCamp { 聖地外營地 }
+
+Nemeton_CraftingQuarter { 聖地：工匠區 }
+
+Nemeton_Market { 聖地：市集廣場 }
+
+Nemeton_Farm_Georg { 喬治農場 }
+
+Neutral_DestroyedBridge { 斷橋 }
+
+Neutra_Heath { 中立之地：荒原 }
+
+Nemeton_Global { 聖地 }
+
+Remnants_Entry { 倖存者營地：入口 }
+
+Remnants_Global { 倖存者營地 }
+
+Nemeton_MarketAndCrafting { 聖地：市集廣場／工匠區 }
+
+Nemeton_Moor_South { 聖地南方沼澤 }
+
+Nemeton_Garden { 聖地：東邊花園 }
+
+Neutral_Maw { 峽谷 }
+
+Nemeton_WarriorQuarter { 聖地：戰士區 }
+
+Nemeton_SacredGrove { 聖地：聖樹林 }
+
+Neutral_River_WoodcampAndRemnants { 伐木工營地與倖存者營地之間的河流旁 }
+
+Nemeton_AppleGrove { 聖地附近的蘋果樹叢 }
+
+Nemeton_BridgeToDruids { 聖地：通往德魯伊區的橋 }
+
+Neutral_FloodplainForest_Plateau_Ruins { 洪氾平原森林小丘上的地下遺跡 }
+
+Nemeton_Gate_South { 聖地：南門 }
+
+Neutral_ForestPrimeval_Border { 原始森林：邊緣 }
+
+Neutral_Cave_Woodcamp_South { 伐木工營地附近南方 }
+
+Dead { 死亡 }
+
+DrivaniusChamber { 德里瓦尼烏斯的房間 }
+
+Riverbed_North { 北方河床 }
+
+TravelingMerchants { 倖存者營地：入口；聖地：入口；酒館；喬治農場西方 }
+
+Neutral_Heath { 荒原 }
+
+Neutral_ForestPrimeval { 原始森林 }
+
+Remnants_Underground { 倖存者營地：地下 }
+
+Neutral_Forest_Camp { 針葉林營地 }
+
+Unknown { ??? }
+
+Nemeton_DruidCave { 聖地：德魯伊洞穴 }
+
+Nemeton_Leader { 聖地：領袖之家 }
+
+Expedition_Moor { 沼澤探險 }
+
+Nemeton_Muc { 聖地：南門；喬治農場或蘋果樹叢 }
+
+SmugglersDen { 走私者巢穴 }

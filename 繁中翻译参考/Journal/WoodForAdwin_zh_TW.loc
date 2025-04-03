@@ -1,0 +1,11 @@
+Title { 給艾德溫的木材 }
+
+Entry_01 { 工匠區的艾德溫急需$GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$根原木。我應該從市場廣場的斯溫那裡取來。}
+
+Entry_02 { 我拿到木材了——珍妮佛和斯溫為了木材差點吵起來。現在我得把它交給艾德溫。}
+
+Entry_03 { 艾德溫拿到木材了，而我也拿到我的報酬了。}
+
+Entry_04 { 我現在有更重要的事情要做。}
+
+

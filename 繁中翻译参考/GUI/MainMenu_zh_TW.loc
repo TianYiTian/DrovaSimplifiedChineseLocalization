@@ -1,0 +1,19 @@
+NewGame { 新遊戲 }
+
+LoadGame { 載入遊戲 }
+
+Continue { 繼續 }
+
+Options { 選項 }
+
+QuitGame { 離開遊戲 }
+
+StartGame { 開始 }
+
+Back { 返回 }
+
+Credits { 工作人員 }
+
+reset_binding_texst { 隨著 1.1.0 版本的更新，我們重新設計了操作設定。這表示您目前的控制設定已被重置。如果您之前有更改過任何控制設定，您需要重新設定它們。<br>祝您在德羅瓦遊戲愉快！ }
+
+

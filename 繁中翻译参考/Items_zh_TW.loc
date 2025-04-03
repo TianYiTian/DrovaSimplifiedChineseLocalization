@@ -1,0 +1,2128 @@
+weapon_sword { 劍 }
+
+weapon_spear { 矛 }
+
+weapon_axe { 斧 }
+
+weapon_dagger { 匕首 }
+
+weapon_shield { 盾 }
+
+weapon_bow { 弓 }
+
+weapon_slingshot { 彈弓 }
+
+item_honeyMead_name { 蜂蜜酒 }
+
+item_redHerb_name { 赤鏽草 }
+
+item_redHerb_description { 生長在沼澤地。 }
+
+item_meat_raw_name { 鮮嫩的肉 }
+
+item_meat_raw_description { 那還是生的。不適合人類食用。 }
+
+item_farmersFood_name { 農夫的餐點 }
+
+item_bogIron_name { 沼鐵 }
+
+armor_feet_shoe_lost_name { 單隻皮鞋 }
+
+armor_feet_shoe_lost_description { 一隻散發著惡臭的鞋子。 }
+
+item_letterToAsmus_open_name { 已開啟的給阿斯莫斯的信 }
+
+item_letterToAsmus_open_description { 這封信是寫給阿斯莫斯的。封印已被打開。 }
+
+item_honey_name { 蜂蜜 }
+
+item_packageToMoorlager_name { 包裹 }
+
+item_packageToMoorlager_description { 喬治給聖地安格斯的貨物。 }
+
+item_letterToAsmus_sealed_name { 給阿斯莫斯的信 }
+
+item_letterToAsmus_sealed_description { 這封信是寫給阿斯莫斯的。 }
+
+item_healthPlant_0_name { 藥草 }
+
+item_healthPlant_1_name { 大型治療藥草 }
+
+item_lanternFruit_name { 燈籠果 }
+
+item_lanternFruit_description { 可以在原始森林的樹上找到。 }
+
+item_lyra_name { 里拉琴 }
+
+misc_lockpick_simple_name { 簡易開鎖器 }
+
+misc_lockpick_simple_description { 沒有我打不開的鎖了。 }
+
+misc_worldmap_name { 德羅瓦的粗略地圖 }
+
+misc_mapink_name { 墨水 }
+
+misc_mapink_description { 用於在地圖上標記位置。 }
+
+key_chest_delani_name { 德拉尼的鑰匙 }
+
+key_chest_delani_description { 德拉尼箱子的鑰匙。 }
+
+note_evidence_boris_name { 預謀的伏擊 }
+
+note_evidence_boris_description { 我從倖存者營地外的強盜身上拿到的。 }
+
+item_stolenPackage_name { 被竊的包裹 }
+
+item_stolenPackage_description { 我在蘋果樹叢裡發現的這個包裹。它很臭。 }
+
+item_alraune_name { 曼德拉草 }
+
+item_alraune_description { 一種會尖叫的根。我想知道它是用來做什麼的... }
+
+item_callashroom_name { 毒蠅傘 }
+
+item_callashroom_description { 一種來自沼澤的蘑菇。 }
+
+item_egg_name { 蛋 }
+
+item_egg_description { 從巢裡拿到的蛋。 }
+
+item_beer_name { 啤酒 }
+
+item_beer_description { 簡單的啤酒。喝得越多越好喝。 }
+
+item_apple_name { 蘋果 }
+
+item_callashroom_extract_name { 毒蠅傘萃取物 }
+
+item_callashroom_extract_description { 海爾瑪護身符所需的萃取物。 }
+
+item_ironbar_name { 鐵錠 }
+
+note_debtorlist_name { 弗里德爾的債務人名單 }
+
+note_debtorlist_description { 很多人都負債。我現在是討債人了嗎？ }
+
+key_ratcellar_name { 地窖鑰匙 }
+
+key_ratcellar_description { 倖存者營地酒館地窖的鑰匙。 }
+
+weapon_axe_bady_dull_name { 巴迪的鈍斧。 }
+
+weapon_axe_bady_sharp_name { 巴迪的利斧。 }
+
+item_letterMehlunaToBady_name { 梅露娜的情書 }
+
+item_earthroot_name { 土根 }
+
+item_earthroot_description { 生長在洪氾平原森林的河流邊 }
+
+item_wine_name { 葡萄酒 }
+
+note_mineInformation_name { 招募豪爾 }
+
+item_entryMine_name { 萊文的便條 }
+
+item_silverore_name { 銀礦 }
+
+tool_pickaxe_silberhauer_name { 碎銀者 }
+
+tool_pickaxe_silberhauer_description { 梅瑞克賣給我的，一把非常棒的十字鎬。 }
+
+item_logwood_name { 木材 }
+
+item_salve_healing_name { 治療藥膏 }
+
+item_pigglet_food_name { 加強飼料 }
+
+item_pigglet_food_description { 這將有助於小豬恢復體力。 }
+
+item_brokenwings_name { 蚊蚋翅膀 }
+
+item_furtuft_name { 皮革碎片 }
+
+item_resin_name { 樹液 }
+
+item_resin_description { 從樹木生物身上獲得。 }
+
+weapon_axe_largeBranch_name { 石斧 }
+
+weapon_axe_woodSplitter_name { 劈柴斧 }
+
+weapon_axe_bronzeTusk_name { 青銅十字鎬 }
+
+weapon_axe_bronzeTusk_description { 可用於探勘礦石 }
+
+weapon_axe_jawboneAxe_name { 下顎骨斧 }
+
+weapon_axe_heavyNailClub_name { 鋸齒青銅斧 }
+
+weapon_axe_deformedAxe_name { 簡陋石斧 }
+
+weapon_axe_lightAxe_name { 輕斧 }
+
+weapon_axe_coarseBronzeAxe_name { 粗製青銅斧 }
+
+weapon_axe_oldAxe_name { 舊斧 }
+
+weapon_axe_splittingAxe_name { 分裂斧 }
+
+weapon_axe_beardedAxe_name { 變形的倒鉤斧 }
+
+weapon_axe_broadAxe_name { 闊斧 }
+
+weapon_axe_highlandAxe_name { 高地斧 }
+
+weapon_axe_coarseDoubleAxe_name { 顱骨劈裂者 }
+
+weapon_axe_doubleAxe_name { 粗製鐵斧 }
+
+weapon_axe_rustyAxe_name { 戰斧 }
+
+weapon_axe_coarseWarAxe_name { 鐵斧 }
+
+weapon_axe_warAxe_name { 生鏽的斧頭 }
+
+weapon_axe_bearSlaughtererAxe_name { 屠熊者之斧 }
+
+weapon_axe_greatAxe_name { 大斧 }
+
+weapon_axe_barbarianBattleAxe_name { 野蠻人長柄斧 }
+
+weapon_axe_iron-BoundGreatAxe_name { 鈍大斧 }
+
+weapon_axe_bloodReaper_name { 黑曜石收割者 }
+
+weapon_axe_berserkAxe_name { 處刑者 }
+
+weapon_axe_berserkAxe_description { 無人能逃脫他的審判。 }
+
+weapon_sword_gildedSickle_name { 鍍金鐮刀 }
+
+weapon_sword_nailClub_name { 鏽蝕的青銅劍 }
+
+weapon_sword_heavyNailClub_name { 鈍青銅劍刃 }
+
+weapon_sword_bronzeShortSword_name { 破損的短劍 }
+
+weapon_sword_warClub_name { 簡陋青銅劍 }
+
+weapon_sword_oldBronzeGladius_name { 古老的青銅短劍 }
+
+weapon_sword_roughSword_name { 變形的劍 }
+
+weapon_sword_sword_name { 短劍 }
+
+weapon_sword_scavengingScimitar_name { 掠奪者彎刀 }
+
+weapon_sword_hawk'SClaw_name { 老鷹之爪 }
+
+weapon_sword_crudeIronBlade_name { 粗製鐵劍刃 }
+
+weapon_sword_coarseBroadsword_name { 闊劍 }
+
+weapon_sword_broadsword_name { 生鏽的闊劍 }
+
+weapon_sword_longsword_name { 長劍 }
+
+weapon_sword_battleBlade_name { 戰刃 }
+
+weapon_sword_berserkBlade_name { 狂戰士之刃 }
+
+weapon_sword_swordOfNemeton_name { 鈍戰士之劍 }
+
+weapon_sword_swordOfTheFaithful_name { 忠誠者之劍 }
+
+weapon_sword_runeSword_name { 符文劍 }
+
+weapon_sword_moonSword_name { 月之劍 }
+
+weapon_sword_moonSword_description { 拒絕露娜提議的人很快就會嚐到她黑暗的一面。 }
+
+weapon_dagger_tombstick_name { 破損的青銅匕首 }
+
+weapon_dagger_pineDagger_name { 鋸齒青銅小刀 }
+
+weapon_dagger_breadKnife_name { 麵包刀 }
+
+weapon_dagger_fang_name { 鈍毒牙 }
+
+weapon_dagger_boneKnife_name { 骨刀 }
+
+weapon_dagger_wornBronzeDagger_name { 青銅匕首 }
+
+weapon_dagger_bronzeDagger_name { 平衡匕首 }
+
+weapon_dagger_pointedDagger_name { 變形的青銅匕首 }
+
+weapon_dagger_ceremonialDagger_name { 儀式匕首 }
+
+weapon_dagger_sacrificialDagger_name { 短刀 }
+
+weapon_dagger_shortBlade_name { 有毒牙的匕首 }
+
+weapon_dagger_coarseDagger_name { 蚊子刺 }
+
+weapon_dagger_ironSpike_name { 鐵刺 }
+
+weapon_dagger_mosquitoSting_name { 生鏽的匕首 }
+
+weapon_dagger_ironDagger_name { 霧刺 }
+
+weapon_dagger_blackKnife_name { 黑刀 }
+
+weapon_dagger_eviscerator_name { 開膛手 }
+
+weapon_dagger_silence_name { 鈍鐵匕首 }
+
+weapon_dagger_heartSeeker_name { 追心者 }
+
+weapon_dagger_theKingslayer_name { 弑王者之刃 }
+
+weapon_dagger_bloodDagger_name { 弑王者之刃 }
+
+weapon_dagger_bloodDagger_description { 當人民崛起，國王必將倒下。 }
+
+weapon_sling_coarseSling_name { 粗製彈弓 }
+
+weapon_sling_simpleSlingshot_name { 簡易彈弓 }
+
+weapon_sling_heavySlingshot_name { 重型彈弓 }
+
+weapon_sling_headSlingshot_name { 頭部彈弓 }
+
+weapon_sling_battleSlingshot_name { 戰鬥彈弓 }
+
+weapon_bow_simpleBow_name { 簡易弓 }
+
+weapon_bow_shortBow_name { 短弓 }
+
+weapon_bow_huntingBow_name { 簡陋弓 }
+
+weapon_bow_longBow_name { 長弓 }
+
+weapon_bow_reinforcedBow_name { 扭曲的弓 }
+
+weapon_bow_battleBow_name { 戰弓 }
+
+item_bloodquitostinger_name { 蚊蚋刺 }
+
+item_boartusk_name { 野豬牙 }
+
+weapon_sword_shortSword_name { 青銅短劍 }
+
+weapon_sword_gladius_name { 短劍 }
+
+weapon_spear_woodenSpear_name { 舊矛 }
+
+weapon_spear_stoneSpear_name { 鈍矛 }
+
+weapon_spear_pitchfork_name { 簡陋矛 }
+
+weapon_spear_fishSpear_name { 扭曲的青銅矛 }
+
+weapon_spear_wolfToothSpear_name { 狼牙矛 }
+
+weapon_spear_shortSpear_name { 短矛 }
+
+weapon_spear_simpleBronzeSpear_name { 簡易青銅矛 }
+
+weapon_spear_huntingSpear_name { 變形的獵矛 }
+
+weapon_spear_ango_name { 安戈矛 }
+
+weapon_spear_framea_name { 弗雷梅亞矛 }
+
+weapon_spear_ger_name { 日耳曼短矛 }
+
+weapon_spear_bronzeSpear_name { 鐵矛 }
+
+weapon_spear_spear_name { 野豬矛 }
+
+weapon_spear_deathRitualSpear_name { 生鏽的矛 }
+
+weapon_spear_partisan_name { 長柄刀 }
+
+weapon_spear_pilum_name { 標槍 }
+
+weapon_spear_wingSpear_name { 翼狀矛 }
+
+weapon_spear_silverSpear_name { 鈍鐵矛 }
+
+weapon_spear_bloodBlade_name { 血刃 }
+
+weapon_spear_tipOfDeath_name { 赤蛇之矛 }
+
+weapon_spear_messengerOfTheDivine_name { 九頭蛇之牙 }
+
+weapon_spear_messengerOfTheDivine_description { 以眼還眼，以牙還牙——我們將共同面對九頭蛇。 }
+
+weapon_shield_adornedWoodenShield_name { 裝飾木盾 }
+
+weapon_shield_smallRoundShield_name { 小型圓盾 }
+
+weapon_shield_smallBronzeShield_name { 小型青銅盾 }
+
+weapon_shield_bronzeShield_name { 變形的青銅盾 }
+
+weapon_shield_sigilShield_name { 圖騰盾 }
+
+weapon_shield_roundShield_name { 生鏽的圓盾 }
+
+weapon_shield_theWall_name { 牆 }
+
+weapon_shield_protection_name { 鐵盾 }
+
+weapon_axe_snaga_name { 史納加斧 }
+
+weapon_sword_branch_name { 樹枝 }
+
+weapon_sword_baton_name { 警棍 }
+
+weapon_shield_woodenBoard_name { 木板 }
+
+weapon_shield_smallWoodenShield_name { 小型木盾 }
+
+item_roastedMeat_name { 烤乾癟的肉 }
+
+item_roastedMeat_description { 不怎麼好吃，但至少你知道它是從哪裡來的。 }
+
+item_signOfAtonement_name { 贖罪的信物 }
+
+item_signOfAtonement_description { 我在避難所犯下的罪行特此赦免。 }
+
+item_luminousTruffle_name { 發光松露 }
+
+item_slingermunition_name { 彈弓石 }
+
+item_slingermunition_description { 彈弓的彈藥。可以在河流中找到。 }
+
+item_ironore_name { 鐵礦石 }
+
+item_ironlump_name { 鐵塊 }
+
+item_frogleg_name { 青蛙腿 }
+
+item_acidsecretion_name { 酸性分泌物 }
+
+item_acidsecretion_description { 可以使用「萃取毒液」的天賦從動物身上獲得。 }
+
+item_forestessence_name { 森林精華 }
+
+item_forestessence_description { 這種精華可以從森林中的強大生物身上獲得。 }
+
+item_teeth_name { 牙齒 }
+
+item_leather_name { 皮革 }
+
+item_leather_description { 可以使用「剝取動物皮」的天賦從動物身上獲得。 }
+
+item_feather_name { 羽毛 }
+
+item_feather_description { 可以在巢穴中找到。 }
+
+item_stalkerfeather_name { 潛獵者羽毛 }
+
+item_meat_stringy_name { 乾癟的肉 }
+
+item_flowPlant_0_name { 春草 }
+
+item_flowPlant_0_description { 可以在古老的建築附近找到。 }
+
+item_flowPlant_1_name { 春之花 }
+
+item_flowPlant_1_description { 可以在古老的建築附近找到。 }
+
+item_healthPlant_2_name { 生命之花 }
+
+item_potion_health_0_name { 治療藥水 }
+
+item_potion_health_1_name { 強效治療藥水 }
+
+item_permapotion_life_name { 生命藥劑 }
+
+item_permapotion_strength_name { 力量藥劑 }
+
+item_permapotion_mind_name { 心靈藥劑 }
+
+item_permapotion_skill_name { 敏捷藥劑 }
+
+item_permaherb_strength_name { 玄武岩根 }
+
+item_permaherb_mind_name { 健腦草 }
+
+item_permaherb_life_name { 山楂 }
+
+item_permaherb_skill_name { 懸崖地衣 }
+
+item_shadowmushroom_name { 暗影菇 }
+
+item_shadowmushroom_description { 生長在黑暗的地方。 }
+
+item_redmushroomtincture_name { 紅菇酊劑 }
+
+item_beartrap_name { 捕熊陷阱 }
+
+item_beartrap_description { 使目標昏迷 [TimeAbs] 秒並造成嚴重流血。 }
+
+item_cavemushroom_name { 洞穴菇 }
+
+item_cavemushroom_description { 生長在黑暗的地方。 }
+
+item_ruinherb_name { 廢墟之花 }
+
+item_tarnishedSilverCup_name { 失去光澤的銀杯 }
+
+item_mudLotus_name { 泥蓮 }
+
+item_mudLotus_description { 生長在泥濘的沼澤地。 }
+
+item_shinyStone_name { 神秘水晶 }
+
+item_shinyStone_description { 從德魯伊那裡獲得。我應該把它帶到聖地。 }
+
+cons_flow_energyProjectile_name { 魔法飛彈 }
+
+cons_flow_energyProjectile_description { 你發射一道魔法投射物，在視線範圍內，撞擊時爆炸並造成 [DamageFlexAbs] 的魔法傷害。 }
+
+cons_flow_conflagration_name { 烈焰 }
+
+cons_flow_conflagration_description { 你召喚出一場火焰爆炸，造成 [DamageFlexAbs] 的魔法傷害。 }
+
+cons_flow_wound_name { 傷口 }
+
+cons_flow_wound_description { 你造成 [WeaponDamagePercent] 的武器傷害並導致流血。 }
+
+key_harvey_name { 舊鑰匙 }
+
+key_harvey_description { 在聖地找到的。看起來又舊又破。 }
+
+misc_currency_name { 硬幣 }
+
+misc_currency_description { 德羅瓦的貨幣。 }
+
+weapon_barehands_name { 拳頭 }
+
+weapon_barehands_description { 空手攻擊的傷害取決於力量。 }
+
+item_stew_tiaa_name { 蒂亞的燉湯 }
+
+item_stew_tiaa_manipulated_name { 被動過手腳的食物 }
+
+item_stew_tiaa_manipulated_description { 巴迪的內臟會很不舒服。 }
+
+item_mushroom_name { 普通蘑菇 }
+
+item_berry_name { 莓果 }
+
+item_berry_description { 生長在洪氾平原森林。 }
+
+item_fish_bass_name { 鱸魚 }
+
+item_bottlePost_name { 瓶中信 }
+
+item_auwaldDungeon_name { 水晶竊賊 }
+
+misc_riddle_sundial_name { 公羊雕像 }
+
+misc_riddle_mirror_name { 鏡子 }
+
+misc_riddle_incense_name { 香爐 }
+
+misc_riddle_horn_name { 角 }
+
+misc_riddle_horn_description { 在許多情況下都很有用且總是需要的。 }
+
+misc_riddle_conch_name { 蛤蜊 }
+
+misc_riddle_club_name { 儀式之劍 }
+
+item_yellowGlyphStone_name { 黃色閃亮的石頭 }
+
+item_yellowGlyphStone_description { 一塊裝飾華麗的黃色石頭。它描繪著渡鴉符號下方交叉的兩隻手。 }
+
+tool_pickaxe_improvisedpickaxebroken_name { 損壞的碎擊者 }
+
+tool_pickaxe_improvisedpickaxebroken_description { 該死！梅瑞克賣給我的是什麼爛貨？ }
+
+throwing_knife_name { 飛刀 }
+
+throwing_knife_description { 你投擲一把刀，造成 [DamageFlexAbs] 的傷害。忽略目標的護甲。 }
+
+item_lyra_description { 說著人人都懂的語言。 }
+
+tool_torch_name { 火把 }
+
+tool_torch_description { 照亮黑暗區域和洞穴。拔出武器會使你掉落火把。 }
+
+item_claw_name { 爪子 }
+
+misc_bagOfCurrency_name { 叮噹作響的錢袋 }
+
+item_diaryKora_name { 寇拉的日記 }
+
+item_treasureMap_auwald_name { 寶藏：洪氾平原森林 }
+
+misc_map_tristan_name { 特里斯坦的地圖 }
+
+item_claw_description { 可以使用「拔爪」的天賦從動物身上獲得。 }
+
+misc_bagOfCurrency_description { 一個搖晃時會發出叮噹聲的袋子。它只裝著幾個硬幣，還是另有玄機？ }
+
+key_chest_mineBanditMainKey_name { 生鏽的鑰匙 }
+
+key_chest_mineBanditMainKey_description { 我從一群強盜身上拿到的。 }
+
+item_mineRelic_name { 奇異的遺物 }
+
+item_mineRelic_description { 往昔之民的古老遺物 }
+
+item_rubble_name { 瓦礫 }
+
+Note_BanditMine_name { 往昔之民的遺物 }
+
+item_spiritVessel_greatTusk_name { 靈魂容器 }
+
+item_atlanterRune_name { 奇怪的符文 }
+
+item_runestone_name { 符文石 }
+
+item_runestone_empty_name { 空的符文石 }
+
+item_packageBrutusMineWeapons_name { 武器包 }
+
+item_packageBrutusMineWeapons_description { 夠所有人用的武器。是時候逃出這裡了！ }
+
+key_chest_mineBanditEntry_name { 生鏽的鑰匙 }
+
+key_chest_mineBanditEntry_description { 在一個強盜身上找到的。 }
+
+item_runestone_description { 這顆符文石提供了與強大野豬魔法力量的直接連結。藉由揮舞它，我可以隨時施放法術。 }
+
+cons_Familiar_Firefly_name { 火花 }
+
+key_tavernKey_name { 酒館鑰匙 }
+
+key_tavernKey_description { 酒館後門的鑰匙。 }
+
+weapon_bow_atlanterBow_name { 眾神使者 }
+
+weapon_bow_atlanterBow_description { 你可能不喜歡他們的消息。自己去告訴他們。 }
+
+weapon_shield_atlanterShield_name { 眾神庇護 }
+
+weapon_shield_atlanterShield_description { 眾神選民萬歲。 }
+
+misc_writing_importantdocument_name { 神聖水晶的下落 }
+
+item_energycrystal_cityDungeon_empty_name { 來自原始森林的空神聖水晶 }
+
+item_energycrystal_cityDungeon_charged_name { 來自原始森林的灌注神聖水晶 }
+
+item_energycrystal_aufwald_charged_name { 來自洪氾平原森林的灌注神聖水晶 }
+
+item_energycrystal_aufwald_charged_description { 這顆神聖水晶充滿了魔法力量。 }
+
+item_energycrystal_brutus_empty_name { 空的神聖水晶 }
+
+item_energycrystal_brutus_charged_name { 灌注的神聖水晶 }
+
+item_secret_foglets_name { 霧妖分泌物 }
+
+item_ripper_head_name { 巨型撕裂者爪 }
+
+item_essence_atlanter_name { 古老精華 }
+
+item_essence_atlanter_description { 這種精華只能從古老的生物身上獲得。 }
+
+item_heart_name { 熊心 }
+
+item_secret_poise_name { 毒性毒液 }
+
+item_beak_name { 鳥喙 }
+
+item_essence_stone_name { 大地精華 }
+
+item_essence_stone_description { 這種精華只能從強大的岩石生物身上獲得。 }
+
+item_salivate_worm_name { 蠕蟲唾液 }
+
+item_spider_thread_name { 蜘蛛絲 }
+
+item_essence_void_name { 暗影碎片 }
+
+item_essence_void_description { 一個昏暗的碎片，可以暫時讓你變得如同陰影一般。在 [TimeAbs] 秒內，增加 [DamageResPercent] 的傷害抗性。 }
+
+consumable_potion_darkbrew_healing_name { 黑釀 }
+
+key_mursel_mine_name { 銀礦鑰匙 }
+
+key_mursel_mine_description { 倖存者營地礦坑中宿舍的鑰匙。 }
+
+key_tristanBillKey_name { 上層酒館鑰匙 }
+
+key_tristanBillKey_description { 奧拉夫酒館樓上房間的鑰匙。 }
+
+key_ruinenexplorer_name { 來自廢墟掠奪者的鑰匙 }
+
+key_ruinenexplorer_description { 開啟廢墟掠奪者大門的鑰匙。 }
+
+cons_Familiar_Firefly_description { 我那活潑的小火花。無論我走到哪裡都跟著我。 }
+
+item_bear_claw_name { 熊爪 }
+
+item_energycrystal_aufwald_empty_name { 來自洪氾平原森林的空神聖水晶 }
+
+item_energycrystal_aufwald_empty_description { 這顆神聖水晶感覺空空的。 }
+
+common { 普通 }
+
+uncommon { 不常見 }
+
+rare { 稀有 }
+
+epic { 史詩 }
+
+legendary { 傳奇 }
+
+cons_flow_heavyBlow_name { 強力一擊 }
+
+cons_flow_heavyBlow_description { 一次沉重的攻擊，造成 [WeaponDamagePercent] 的武器傷害和 [PoiseDamageAbs] 的架勢傷害。 }
+
+cons_flow_shockingBlow_name { 破碎打擊 }
+
+cons_flow_shockingBlow_description { 你造成 [WeaponDamagePercent] 的武器傷害，並使對手昏迷 [StunTime] 秒。 }
+
+cons_flow_spartanKick_name { 踢擊 }
+
+cons_flow_spartanKick_description { 你造成 [DamageFlexAbs] 的傷害並擊退對手。 }
+
+cons_flow_execute_name { 血腥狂怒 }
+
+cons_flow_execute_description { 你造成 [WeaponDamagePercent] 的武器傷害，並且根據對手身上每層現有的流血效果額外造成 [WeaponDamagePercent2] 的武器傷害。增加一層額外的流血效果。 }
+
+cons_flow_pierce_name { 穿刺 }
+
+cons_flow_pierce_description { 你向前躍起，並用長矛執行多次快速的刺擊，對你面前的對手造成每次 [WeaponDamagePercent] 的武器傷害。 }
+
+cons_flow_infection_name { 傳染 }
+
+cons_flow_infection_description { 你造成 [WeaponDamagePercent] 的武器傷害，並使正在遭受流血效果的對手中毒。 }
+
+cons_flow_bloodRage_name { 處決 }
+
+cons_flow_bloodRage_description { 一次沉重的攻擊，造成 [WeaponDamagePercent] 的武器傷害。如果你使用處決殺死對手，你將恢復該技能的專注點數。 }
+
+item_rubin_name { 紅寶石 }
+
+item_atlanterAcademyText_name { 往昔之民前往德羅瓦的旅程 }
+
+cons_flow_blink_name { 迷霧步 }
+
+cons_flow_blink_description { 你會被傳送到面向方向的一小段距離處。 }
+
+item_kiepe_name { 背簍 }
+
+cons_flow_fogForm_name { 霧狀 }
+
+cons_flow_fogForm_description { 提升你的移動速度 [MovementPercent]，並使你在 [TimeAbs] 秒內免疫物理傷害。 }
+
+cons_flow_fireCry_name { 烈焰呼嘯 }
+
+cons_flow_fireCry_description { 你在你面前的錐形區域內造成 [DamageFlexAbs] 的魔法傷害。 }
+
+cons_flow_root_cone_name { 根鬚之錐 }
+
+cons_flow_root_cone_description { 在你面前的錐形區域內，你會召喚出可以纏繞對手 [TimeAbs] 秒的根鬚。 }
+
+cons_flow_conjure_pack_name { 召喚：狼群 }
+
+cons_flow_conjure_pack_description { 召喚一群撕裂者來撕碎你的對手。 }
+
+cons_flow_conjure_insects_name { 召喚：昆蟲 }
+
+cons_flow_conjure_insects_description { 召喚可以使你的對手中毒的昆蟲。 }
+
+cons_flow_conjure_rats_name { 召喚：老鼠 }
+
+cons_flow_conjure_rats_description { 召喚有機會使對手流血的老鼠。 }
+
+cons_flow_venomCry_name { 劇毒呼嘯 }
+
+cons_flow_venomCry_description { 你在你面前召喚出一團雲霧，使對手中毒並每秒造成 [DamageFlexAbs] 的魔法傷害。 }
+
+cons_flow_thunderstorm_name { 雷暴 }
+
+cons_flow_thunderstorm_description { 你創造出一場強大的雷暴，將閃電投向你的對手。效果持續 [TimeAbs] 秒。 }
+
+misc_traderBag_name { 骯髒的袋子 }
+
+misc_traderBag_description { 一個裝滿東西的袋子，上面繡有一個渡鴉符號下交叉的兩隻手的圖案。 }
+
+misc_emptyTraderBag_name { 空的骯髒袋子 }
+
+misc_emptyTraderBag_description { 一個空的袋子，上面繡有一個渡鴉符號下交叉的兩隻手的圖案。 }
+
+item_redGlyphStone_name { 紅色華麗的石頭 }
+
+item_redGlyphStone_description { 一塊裝飾華麗的紅色石頭。它描繪著渡鴉符號下方交叉的兩隻手。 }
+
+misc_riddle_butterfly_name { 被觸摸的蝴蝶 }
+
+item_searchingForArenaFighter_name { 公告：競技場 }
+
+item_letterFromEtzel_name { 伏擊的便條 }
+
+cons_flow_root_aoe_name { 根鬚之環 }
+
+cons_flow_root_aoe_description { 你召喚出可以纏繞你周圍對手 [TimeAbs] 秒的根鬚。 }
+
+item_escortLetter_name { 公告：護送至倖存者營地 }
+
+item_blackboard_woodcamp_name { 公告：伐木工營地 }
+
+cons_flow_flowForm_name { 專注形態 }
+
+cons_flow_flowForm_description { 增加 [DamagePercent] 的物理傷害，增加 [MovePercent] 的移動速度和攻擊速度，並減少所有動作 [StaminaValuePercent] 的耐力消耗。<br><br>專注點數會隨著時間消耗。此效果持續到所有專注點數用完為止。 }
+
+cons_flow_whirlingEnergy_name { 迴旋能量 }
+
+cons_flow_whirlingEnergy_description { 你在你周圍召喚出魔法之風，對對手造成 [DamageFlexAbs] 的魔法傷害。效果持續 [TimeAbs] 秒。 }
+
+cons_flow_magicVision_name { 魔法視覺 }
+
+cons_flow_magicVision_description { 在 [TimeAbs] 秒內，你的夜視能力可媲美貓。 }
+
+item_searchingGraffiti_name { 公告：被塗污的牆壁 }
+
+item_traps_name { 公告：我們需要更多陷阱 }
+
+cons_flow_obsidianSpear_name { 召喚黑曜石之矛 }
+
+cons_flow_obsidianSpear_description { 你召喚出一把往昔之民的長矛，它會在周圍區域產生專注點數。 }
+
+item_playWithKids_name { 公告：和孩子們玩 }
+
+item_mikeschLetter_name { 一個人情 }
+
+item_BanditsOnTheBridge_name { 公告：解放橋樑 }
+
+cons_flow_dash_name { 衝刺 }
+
+cons_flow_dash_description { 你朝著視線方向猛衝。 }
+
+cons_flow_aggressiveCry_name { 侵略怒吼 }
+
+cons_flow_aggressiveCry_description { 你朝著你面前的錐形區域怒吼，並造成 [PoiseDamageAbs] 的架勢傷害。 }
+
+cons_flow_battleCry_name { 戰吼 }
+
+cons_flow_battleCry_description { 增加 [DamagePercent] 的物理傷害，增加 [MovePercent] 的移動速度和攻擊速度，但你也會受到增加 [ReceiveDamagePercent] 的傷害。效果持續 [TimeAbs] 秒。 }
+
+cons_flow_bullRush_name { 猛衝 }
+
+cons_flow_bullRush_description { 你向前衝鋒，造成 [DamageFlexAbs] 的物理傷害。 }
+
+cons_flow_ferventCry_name { 熱情呼喊 }
+
+cons_flow_ferventCry_description { 在 [TimeAbs] 秒內，增加 [DamageResPercent] 的物理傷害抗性。 }
+
+item_crowtrap_name { 鐵蒺藜 }
+
+item_crowtrap_description { 啟動後，使對手流血並降低其移動速度。 }
+
+throwing_ensnare_name { 投網 }
+
+throwing_ensnare_description { 你投出一張網，使對手在 [TimeAbs] 秒內無法移動。 }
+
+item_permapotion_flow_name { 專注藥劑 }
+
+item_permaherb_flow_name { 發光鱸魚 }
+
+item_potion_flow_0_name { 專注藥水 }
+
+item_potion_flow_1_name { 強效專注藥水 }
+
+item_fishing_name { 公告：為湯準備魚 }
+
+item_butterfliesAllAround_name { 蝴蝶 }
+
+item_rootTrap_name { 根鬚陷阱 }
+
+item_rootTrap_description { 啟動後，使所有對手在 [TimeAbs] 秒內無法移動。 }
+
+item_poisonedThrowingKnife_name { 淬毒飛刀 }
+
+item_poisonedThrowingKnife_description { 你投擲一把刀，造成 [DamageFlexAbs] 的傷害並使目標中毒。忽略目標的護甲。 }
+
+item_thornyRanke_name { 多刺藤蔓 }
+
+item_thornyRanke_description { 你投擲一條藤蔓，使目標中毒並將其拉向你。 }
+
+item_bomb_name { 集束炸彈 }
+
+item_bomb_description { 你投擲一顆炸彈，對作用範圍內的所有目標造成 [DamageFlexAbs] 的傷害。忽略目標的護甲。 }
+
+item_woodArrow_name { 石箭 }
+
+item_ironArrow_name { 鐵箭 }
+
+item_silverArrow_name { 銀箭 }
+
+item_ironStone_name { 鐵彈 }
+
+item_silverStone_name { 銀彈 }
+
+item_diamond_name { 鑽石 }
+
+item_ripperfur_name { 撕裂者皮毛 }
+
+item_pigfur_name { 野豬皮 }
+
+item_bearfur_name { 熊皮 }
+
+item_shiningfur_name { 發光的皮毛 }
+
+item_gnarlyroot_name { 粗壯的根 }
+
+item_silverlump_name { 銀塊 }
+
+item_bellow_name { 風箱 }
+
+item_bellow_description { 賣！硬幣！硬幣！硬幣！ }
+
+item_blanktrap_name { 陷阱模具 }
+
+item_blanktrap_description { 這個用於製作陷阱。 }
+
+item_splittertrap_name { 集束陷阱 }
+
+item_splittertrap_description { 啟動時會觸發爆炸，對作用範圍內的所有對手造成 [DamageFlexAbs] 的傷害。忽略目標的護甲。 }
+
+item_acidtrap_name { 酸液陷阱 }
+
+item_acidtrap_description { 啟動時會觸發毒性爆炸，減慢作用範圍內所有對手的速度。 }
+
+item_jaggedthrowingknife_name { 鋸齒儀式刀 }
+
+item_jaggedthrowingknife_description { 你投擲一把刀，造成 [DamageFlexAbs] 的傷害並導致流血。忽略目標的護甲。 }
+
+item_acidbomb_name { 酸液炸彈 }
+
+item_acidbomb_description { 你投擲一顆炸彈，它會爆炸成毒霧，減慢作用範圍內所有對手的速度。 }
+
+item_bogwheat_name { 沼澤小麥 }
+
+item_bogwheat_description { 生長在農場附近的沼澤地。 }
+
+item_glauglocke_name { 灰百合 }
+
+item_glauglocke_description { 生長在原始森林。 }
+
+item_riverbedmoss_name { 河床苔 }
+
+item_needlelichen_name { 針狀地衣 }
+
+item_needlelichen_description { 生長在針葉林的樹上。 }
+
+item_povage_name { 三葉草 }
+
+item_povage_description { 生長在酒館附近。 }
+
+item_skulldew_name { 顱骨露 }
+
+item_skulldew_description { 在沼澤的最深處發現。非常稀有。 }
+
+item_rustymosspipe_name { 赤鏽苔菸斗 }
+
+item_rustymosspipe_description { 讓你放鬆，忘卻日常的辛勞。 }
+
+item_potion_windwalker_name { 風行者藥水 }
+
+item_potion_windwalker_description { 在 [TimeAbs] 秒內，增加你的移動速度 [MovePercent]。 }
+
+item_harpybrew_name { 鷹身女妖釀 }
+
+item_harpybrew_description { 交換專注和生命值。我確信這並非完全沒有意義，對吧？ }
+
+item_golemsalve_name { 魔像藥膏 }
+
+item_golemsalve_description { 減少 [DamageResPhysPercent] 的物理傷害，但暫時增加 [DamageResMagicPercent] 的魔法傷害。效果持續 [TimeAbs] 秒。 }
+
+item_agilostew_name { 阿吉洛的奇怪燉湯 }
+
+item_foodpile_name { 魚肉煎蛋捲 }
+
+item_fishpan_name { 煎魚 }
+
+item_roastedcallamushroom_name { 烤毒蠅傘 }
+
+item_roastofthepast_name { 往昔的烤肉 }
+
+item_mudmash_name { 奧拉夫的肉燉湯 }
+
+item_fogstew_name { 陰沉的燉湯 }
+
+item_rootstew_name { 霧濛濛的燉湯 }
+
+item_troutskewersbombus_name { 熊蜂風味鱒魚串 }
+
+item_aditroast_name { 洞穴燉湯 }
+
+armor_chest_leather_name_name { 皮甲 }
+
+armor_chest_leather_name_description { 我的第一件真正的盔甲。 }
+
+armor_chest_miner_name_name { 豪爾服裝 }
+
+armor_chest_miner_name_description { 對爪子的防護不高，但工作時很舒適。 }
+
+armor_chest_nemeton_guardian_druid_name_name { 聖地德魯伊守衛戰甲 }
+
+armor_chest_nemeton_guardian_druid_name_description { 只有聖地的守衛才能穿戴這件盔甲。 }
+
+armor_chest_nemeton_guardian_heavy_name_name { 聖地重型戰甲 }
+
+armor_chest_nemeton_guardian_light_name_name { 聖地輕型戰甲 }
+
+armor_chest_lendha_heavy_name_name { 聖地重甲 }
+
+armor_chest_lendha_heavy_name_description { 這件盔甲是聖地成員專屬的。它展現了我對聖地的忠誠。 }
+
+armor_chest_lendha_name_name { 聖地輕甲 }
+
+armor_chest_shirt_ragged_name_name { 破爛的衣服 }
+
+armor_chest_shirt_ragged_name_description { 總比沒有好... }
+
+armor_chest_ruinenlager_fighter_druid_name_name { 倖存者德魯伊戰士甲 }
+
+armor_chest_ruinenlager_fighter_druid_name_description { 只有倖存者營地最強的人才能穿戴這件盔甲。 }
+
+armor_chest_ruinenlager_fighter_fight_name_name { 倖存者輕型戰士甲 }
+
+armor_chest_ruinenlager_fighter_heavy_name_name { 倖存者重型戰士甲 }
+
+armor_chest_ruinenlager_heavy_name_name { 倖存者重甲 }
+
+armor_chest_ruinenlager_heavy_name_description { 這件盔甲是倖存者成員專屬的。它展現了我對傑羅的忠誠。 }
+
+armor_chest_ruinenlager_name_name { 倖存者輕甲 }
+
+armor_chest_tunic_name_name { 工作服 }
+
+armor_chest_tunic_name_description { 工作服。提供的保護不多，但總比沒有好。 }
+
+helmet_antlers_name_name { 雄鹿頭盔 }
+
+helmet_draugr_silver_name_name { 往昔之民的頭盔 }
+
+helmet_earprotection_name_name { 耳罩 }
+
+helmet_ironwings_name_name { 鐵翼頭盔 }
+
+helmet_legionare_name_name { 軍團士兵頭盔 }
+
+Raven Mask_name { 渡鴉面具 }
+
+quiver_simple_name_name { 簡易箭筒 }
+
+quiver_simple_name_description { 一個簡陋的箭筒，可容納三支箭。 }
+
+ring_aldo_name_name { 阿爾多的戒指 }
+
+ring_aldo_name_description { 一枚刻有字母 A 的小戒指。 }
+
+item_mediumquiver_name { 中型箭筒 }
+
+item_mediumquiver_description { 這個箭筒可容納五支箭。 }
+
+item_bigquiver_name { 大型箭筒 }
+
+item_bigquiver_description { 這個箭筒可容納七支箭。 }
+
+item_rivercharm_name { 河流護符 }
+
+item_rivercharm_description { 成功擊中時，攻擊會產生更多專注點數。 }
+
+item_thornfetish_name { 荊棘符物 }
+
+item_thornfetish_description { 每個法術和每個能力都會額外消耗 [HealValuePercent] 的生命值，但會造成 [DamageValuePercent] 的額外傷害。 }
+
+item_riptoothchain_name { 裂齒項鍊 }
+
+item_riptoothchain_description { 流血效果會更快造成傷害。 }
+
+item_vipertooth_name { 毒蛇之牙 }
+
+item_vipertooth_description { 毒素會被進一步減緩 [SlowPercent]。 }
+
+item_mastersmemory_name { 大師的腰帶 }
+
+item_mastersmemory_description { 最後一下劍或斧的連擊會額外造成 [DamageValuePercent] 的傷害，並產生額外 [FocusValuePercent] 的專注點數。 }
+
+item_cleavageskull_name { 顱骨劈裂者 }
+
+item_cleavageskull_description { 你對對手造成 [PoiseValuePercent] 的額外架勢傷害。 }
+
+item_bloodthirstamulet_name { 嗜血護符 }
+
+item_bloodthirstamulet_description { 如果你的對手處於流血狀態，你的近戰攻擊有 [TriggerPercent] 的機率恢復 [TriggerChance] 的生命值。 }
+
+item_berserkerring_name { 狂戰士之戒 }
+
+item_berserkerring_description { 每殺死一個對手恢復 [HealValueAbsolut] 的生命值。 }
+
+item_berserkerring_2_name { 華麗的狂戰士之戒 }
+
+item_berserkerring_2_description { 每殺死一個對手恢復 [HealValuePercent] 的生命值。 }
+
+item_sprigganheart_name { 乾燥的斯普里岡之心 }
+
+item_sprigganheart_description { 每次擊中你的近戰攻擊都有 [TriggerPercent] 的機率使樹根纏繞對手 [StunTime] 秒。 }
+
+item_hunterquiver_name { 獵人之角 }
+
+item_hunterquiver_description { 增加你的箭筒容量 1 並加快裝填速度。 }
+
+item_boartooth_name { 野豬頭骨 }
+
+item_boartooth_description { 重攻擊消耗的耐力減少 [StaminaValuePercent]。 }
+
+item_tendonofglory_name { 光榮之筋 }
+
+item_tendonofglory_description { 遠程攻擊會穿透第一個被擊中的目標。 }
+
+item_shaftofpurefury_name { 純粹狂怒之柄 }
+
+item_shaftofpurefury_description { 每損失 [HealthPercent] 的生命值，你就會額外造成 [DamagePercent] 的傷害。 }
+
+item_bloodbornering_name { 血之戒 }
+
+item_bloodbornering_description { 一旦你受到攻擊，你將在短時間內，透過對敵人造成傷害來恢復失去的生命值。小心古老的血液。 }
+
+item_whispersilkbag_name { 低語絲綢製成的袋子 }
+
+item_whispersilkbag_description { 你每秒恢復 [StaminaValueAbsolut] 的耐力。 }
+
+item_rubintalisman_name { 紅寶石護符 }
+
+item_rubintalisman_description { 增強所有呼喊的效果。 }
+
+item_flowcatchertalisman_name { 聚能者護符 }
+
+item_flowcatchertalisman_description { 使用專注技能會暫時增加你下一次近戰攻擊 [DamageValuePercent] 的傷害。 }
+
+item_windtalisman_name { 風之護符 }
+
+item_windtalisman_description { 閃避後，你的下一次物理攻擊會額外造成 [DamageValuePercent] 的傷害。 }
+
+item_lifering_name { 諾倫之戒 }
+
+item_spiritamulet_0_name { 精神護符 }
+
+item_spiritamulet_1_name { 增幅精神護符 }
+
+item_silverringstrength_0_name { 暴力之戒 }
+
+item_silverringstrength_1_name { 強效暴力之戒 }
+
+item_silverringstrength_2_name { 達拉結之戒 }
+
+item_silberringskill_0_name { 強盜銀戒指 }
+
+item_silberringskill_1_name { 殺人犯銀戒指 }
+
+item_silberringskill_2_name { 僱傭殺手銀戒指 }
+
+item_silberringmind_0_name { 妖精之戒 }
+
+item_silberringmind_1_name { 精緻妖精之戒 }
+
+item_silberringmind_2_name { 極品妖精之戒 }
+
+item_armorring_0_name { 鐵三曲枝 }
+
+item_armorring_1_name { 銀三曲枝 }
+
+item_magicresring_0_name { 三葉結 }
+
+item_magicresring_1_name { 發光三葉結 }
+
+item_harpyiefeather_name { 鷹身女妖羽毛 }
+
+item_harpyiefeather_description { 從廢墟中年老的有翼生物身上獲得。 }
+
+item_hunterstrophy_name { 獵人之 trophy }
+
+item_hunterstrophy_description { 遠程攻擊有 [TriggerPercent] 的機率不消耗彈藥。 }
+
+item_talismanJourneyToTheRoots_name { 血腥護符 }
+
+item_talismanJourneyToTheRoots_description { 從迪莫那裡得到的護符。我應該帶一個給母親的每個根。 }
+
+armor_chest_leather_strong_name_name { 強韌皮甲 }
+
+armor_chest_leather_magielager_name_name { 連結者之衣 }
+
+armor_chest_leather_magielager_name_description { 現在我與原始森林合而為一。 }
+
+armor_chest_nemeton_merchant_name_name { 聖地商人服裝 }
+
+armor_chest_nemeton_craftsman_name_name { 聖地工匠服裝 }
+
+armor_chest_nemeton_chief_name_name { 聖地領袖盔甲 }
+
+armor_chest_ruinenlager_chief_name_name { 倖存者領袖盔甲 }
+
+item_mumbertDiarrhoea_name { 加料啤酒 }
+
+item_mumbertDiarrhoea_description { 亨伯特給阿斯莫斯的。 }
+
+item_marinatedmeatleg_name { 蒂亞的醃肉腿 }
+
+item_letterCityDungeon_0_name { 德羅瓦的動盪 IV }
+
+item_letterCityDungeon_1_name { 德羅瓦的動盪 V }
+
+item_letterCityDungeon_2_name { 德羅瓦的動盪 VI }
+
+item_letterCityDungeon_3_name { 古老的樂譜 }
+
+item_letterCityDungeon_Underground_0_name { 末日將至 I }
+
+item_letterCityDungeon_Underground_1_name { 末日將至 II }
+
+item_letterCityDungeon_Underground_2_name { 鎖住的房間 }
+
+item_letterAuwaldDungeon_0_name { 操縱自然的開始 }
+
+item_letterAuwaldDungeon_1_name { 意外的副作用 }
+
+item_letterAuwaldDungeon_2_name { 蜘蛛洞穴 }
+
+item_letterAuwaldDungeon_3_name { 操縱自然的成功 }
+
+item_letterAuwaldDungeon_4_name { 蜘蛛觀察 }
+
+item_letterAuwaldDungeon_5_name { 最後的倖存者之一 }
+
+key_ShadyDistrict_name { 黑暗區域的鑰匙 }
+
+item_rustmoss_BadFromGera_name { 切割過的赤鏽苔 }
+
+item_rustmoss_BadFromGera_description { 蓋拉要我把這個赤鏽苔「不小心」放到萊娜的補給裡。 }
+
+item_kiepe_rubble_name { 背簍 }
+
+item_paperchasestone_cleansed_name { 淨化的護符 }
+
+item_paperchasestone_cleansed_description { 草木灰清除了護符上的所有邪惡。但還缺少一個符文。 }
+
+item_paperchasestone_band_name { 帶繩索的護符 }
+
+item_paperchasestone_band_description { 粗糙的護符現在掛在一根繩子上。但看起來還不夠整潔... }
+
+item_paperchasestone_raw_name { 粗糙的護符 }
+
+item_paperchasestone_rune_name { 裝飾過的護符 }
+
+item_paperchasestone_rune_description { 感謝我的藝術天賦，一個符文現在裝飾著這個護符。也許我應該給孩子們看看？ }
+
+misc_riddle_deer_name { 銀色鹿角 }
+
+misc_riddle_deer_description { 往昔之民的魔法神器。讓人想起一位神祇。 }
+
+misc_riddle_fox_name { 銀爪 }
+
+misc_riddle_eagle_name { 銀色羽毛 }
+
+weapon_sword_karottegladius_name { 卡洛特的武器 }
+
+weapon_sword_karottegladius_description { 一把靈巧的武器，上面刻著一根粗大的胡蘿蔔。 }
+
+item_karottegladius_broken_name { 卡洛特損壞的武器 }
+
+item_karottegladius_broken_description { 春奈應該可以修好這個武器。 }
+
+item_letterboard_fragment_name { 石板碎片 }
+
+item_atlanter_coin_name { 古老的硬幣 }
+
+item_engraving_stones_name { 刻字的石頭 }
+
+item_sealstone_past_name { 往昔之民的印章石 }
+
+item_sealstone_past_description { 一塊精緻裝飾的石頭，鑲嵌著水晶。 }
+
+item_brutus_seal_inactive_name { 未啟動的德里瓦尼斯印章 }
+
+item_brutus_seal_inactive_description { 目前只有七顆鑲嵌水晶中的 $GVAR:QuestVars_Brutus.ActivateShrine$ 顆在發光。 }
+
+item_shell_01_name { 蛤蜊 }
+
+item_shell_02_name { 蛤蜊 }
+
+item_atlanter_wine_name { 往昔之民的葡萄酒 }
+
+item_atlanter_wine_description { 年份：未知。 }
+
+item_herb_past_name { 往昔之民的治療藥草 }
+
+item_herb_past_description { 古老，但仍然具有一些治療特性。 }
+
+item_headdress_magicamp_name { 連結者的頭飾 }
+
+item_headdress_magicamp_description { 一個象徵著與原始森林連結的頭飾。 }
+
+item_brutus_seal_active_name { 已啟動的德里瓦尼斯印章 }
+
+item_brutus_seal_active_description { 所有七顆鑲嵌的水晶都在發光。 }
+
+item_letterTableBrutus_0_name { 德里瓦尼斯最終研究 II }
+
+item_letterTableBrutus_1_name { 德里瓦尼斯最終研究 III }
+
+item_letterTableBrutus_2_name { 德里瓦尼斯最終研究 IV }
+
+item_atlanteanarmorparts_name { 往昔之民的盔甲碎片 }
+
+item_atlanteanarmorparts_description { 看起來很值錢。也許鐵匠能用這些做些什麼？ }
+
+recipe_flow_aggressiveCry_name { 能力：侵略怒吼 }
+
+recipe_flow_battleCry_name { 能力：戰吼 }
+
+recipe_flow_blink_name { 法術：迷霧步 }
+
+recipe_flow_bloodRage_name { 能力：處決 }
+
+recipe_flow_bullRush_name { 能力：猛衝 }
+
+recipe_flow_conflagration_name { 法術：烈焰 }
+
+recipe_flow_dash_name { 能力：衝刺 }
+
+recipe_flow_energyProjectile_name { 法術：魔法飛彈 }
+
+recipe_flow_execute_name { 能力：血腥狂怒 }
+
+recipe_flow_ferventCry_name { 能力：熱情呼喊 }
+
+recipe_flow_fireCry_name { 法術：烈焰呼嘯 }
+
+recipe_flow_flowForm_name { 法術：專注形態 }
+
+recipe_flow_fogForm_name { 法術：霧狀 }
+
+recipe_flow_heavyBlow_name { 能力：強力一擊 }
+
+recipe_flow_infection_name { 能力：傳染 }
+
+recipe_flow_magicVision_name { 法術：魔法視覺 }
+
+recipe_flow_obsidianSpear_name { 法術：召喚黑曜石之矛 }
+
+recipe_flow_pierce_name { 能力：穿刺 }
+
+recipe_flow_root_aoe_name { 法術：根鬚之環 }
+
+recipe_flow_root_cone_name { 法術：根鬚之錐 }
+
+recipe_flow_shockingBlow_name { 能力：破碎打擊 }
+
+recipe_flow_spartanKick_name { 能力：踢擊 }
+
+recipe_flow_thunderstorm_name { 法術：雷暴 }
+
+recipe_flow_venomCry_name { 法術：劇毒呼嘯 }
+
+recipe_flow_whirlingEnergy_name { 法術：迴旋能量 }
+
+recipe_flow_wound_name { 能力：傷口 }
+
+recipe_acidbomb_name { 配方：酸液炸彈 }
+
+recipe_acidtrap_name { 配方：酸液陷阱 }
+
+recipe_aditroast_name { 配方：洞穴燉湯 }
+
+recipe_agilostew_name { 配方：阿吉洛的奇怪燉湯 }
+
+recipe_beartrap_name { 配方：捕熊陷阱 }
+
+recipe_bellow_name { 配方：風箱 }
+
+recipe_bigquiver_name { 配方：大型箭筒 }
+
+recipe_blanktrap_name { 配方：陷阱模具 }
+
+recipe_bomb_name { 配方：集束炸彈 }
+
+recipe_crowfeettrap_name { 配方：鐵蒺藜 }
+
+recipe_elixier_concentration_name { 配方：專注藥劑 }
+
+recipe_elixier_life_name { 配方：生命藥劑 }
+
+recipe_elixier_skill_name { 配方：敏捷藥劑 }
+
+recipe_elixier_spirit_name { 配方：心靈藥劑 }
+
+recipe_elixier_strength_name { 配方：力量藥劑 }
+
+recipe_farmersmeal_name { 配方：農夫的餐點 }
+
+recipe_fishpan_name { 配方：煎魚 }
+
+recipe_flowpotion_0_name { 配方：專注藥水 }
+
+recipe_flowpotion_1_name { 配方：強效專注藥水 }
+
+recipe_fogstew_name { 配方：陰沉的燉湯 }
+
+recipe_foodpile_name { 配方：魚肉煎蛋捲 }
+
+recipe_golemsalve_name { 配方：魔像藥膏 }
+
+recipe_harpybrew_name { 配方：鷹身女妖釀 }
+
+recipe_healingsalve_name { 配方：治療藥膏 }
+
+recipe_healingsalve_2_name { 配方：紅菇酊劑 }
+
+recipe_healingsalve_3_name { 配方：黑釀 }
+
+recipe_honeybeer_name { 配方：蜂蜜酒 }
+
+recipe_hunterstrophy_name { 配方：獵人之 trophy }
+
+recipe_ironarrow_name { 配方：鐵箭 }
+
+recipe_ironbar_name { 配方：鐵錠 }
+
+recipe_ironlump_name { 配方：鐵塊 }
+
+recipe_ironstone_name { 配方：鐵彈 }
+
+recipe_jaggedthrowingknife_name { 配方：鋸齒儀式刀 }
+
+recipe_leather_name { 配方：皮革 }
+
+recipe_lockpick_name { 配方：開鎖器 }
+
+recipe_marinatedmeatleg_name { 配方：蒂亞的醃肉腿 }
+
+recipe_mediumquiver_name { 配方：中型箭筒 }
+
+recipe_mudmash_name { 配方：奧拉夫的肉燉湯 }
+
+recipe_poisonedthrowingknife_name { 配方：淬毒飛刀 }
+
+recipe_potion_health_0_name { 配方：治療藥水 }
+
+recipe_potion_health_1_name { 配方：強效治療藥水 }
+
+recipe_potion_windwalker_name { 配方：風行者藥水 }
+
+recipe_rivercharm_name { 配方：河流護符 }
+
+recipe_roastedcallamushroom_name { 配方：烤毒蠅傘 }
+
+recipe_roastofthepast_name { 配方：往昔的烤肉 }
+
+recipe_rootstew_name { 配方：霧濛濛的燉湯 }
+
+recipe_rustymosspipe_name { 配方：赤鏽苔菸斗 }
+
+recipe_silberringmind_0_name { 配方：妖精之戒 }
+
+recipe_silberringmind_1_name { 配方：精緻妖精之戒 }
+
+recipe_silberringskill_0_name { 配方：強盜銀戒指 }
+
+recipe_silberringskill_1_name { 配方：殺人犯銀戒指 }
+
+recipe_silverarrow_name { 配方：銀箭 }
+
+recipe_silverlump_name { 配方：銀塊 }
+
+recipe_silverringstrength_0_name { 配方：暴力之戒 }
+
+recipe_silverringstrength_1_name { 配方：強效暴力之戒 }
+
+recipe_silverstone_name { 配方：銀彈 }
+
+recipe_smashironbar_name { 配方：鐵塊 }
+
+recipe_spiritamulet_0_name { 配方：精神護符 }
+
+recipe_spiritamulet_1_name { 配方：增幅精神護符 }
+
+recipe_splittertrap_name { 配方：集束陷阱 }
+
+recipe_thronyvine_name { 配方：多刺藤蔓 }
+
+recipe_thrownet_name { 配方：投網 }
+
+recipe_troutskewersbombus_name { 配方：熊蜂風味鱒魚串 }
+
+recipe_whispersilkbag_name { 配方：低語絲綢製成的袋子 }
+
+recipe_woodenarrow_name { 配方：石箭 }
+
+ring_tuz_name_name { 骯髒的戒指 }
+
+ring_tuz_name_description { 它很臭。我在荒原找到的。 }
+
+item_letterfromolafaboutBrutus_name { 德里瓦尼烏斯的信 }
+
+item_ruinenlager_bandit_name { 誰伏擊誰 }
+
+speed_slow { 慢 }
+
+speed_medium { 中等偏快 }
+
+speed_fast { 快 }
+
+speed_veryfast { 非常快 }
+
+category_all { 所有物品 }
+
+category_armor { 盔甲、頭盔和配件 }
+
+category_weapons { 武器、盾牌和彈藥 }
+
+category_consumables { 藥水、治療和食物 }
+
+item_ripper_head_huntTheRipper_name { 撕裂者首領的頭顱 }
+
+item_ripper_head_huntTheRipper_description { 這隻撕裂者將不再在奧拉夫酒館附近作惡。 }
+
+item_letter_sick_siser_name { 德魯伊的便條 }
+
+SickSiser { 強盜營地的便條 }
+
+armor_chest_light_atlanter_name { 往昔之民的符文輕甲 }
+
+armor_chest_heavy_atlanter_name { 往昔之民的符文重甲 }
+
+armor_chest_druid_atlanter_name { 往昔之民的符文長袍 }
+
+armor_chest_druid_atlanter_description { 一件古老的盔甲，重新打造而成。僅憑它的外觀就能證明它的力量。 }
+
+item_letter_library_0_name { 符文魔法史 I }
+
+item_letter_library_1_name { 符文魔法史 II }
+
+item_letter_library_2_name { 符文魔法史 III }
+
+item_letter_library_3_name { 符文魔法史 IV }
+
+item_letter_library_circleRoom_note1_name { 傳送法陣 }
+
+item_letter_library_circleRoom_note2_name { 黑暗白銀 }
+
+item_letter_library_energyRoom_note_name { 符文石 }
+
+item_letter_library_golemRoom_note1_name { 研究：自然魔法 }
+
+item_letter_library_golemRoom_note2_name { 研究：力量魔法 }
+
+item_letter_library_golemRoom_note3_name { 火焰符文事故 }
+
+item_letter_library_golemRoom_note4_name { 第一個符文魔像 }
+
+item_letter_library_natureRoom_note_name { 斯普里岡之心 }
+
+item_letter_library_soundRoom_note_name { 音波 trouble }
+
+item_letter_library_spearRoom_note1_name { 萃取器 I }
+
+item_letter_library_spearRoom_note2_name { 符文矛 I }
+
+item_letter_library_spearRoom_note3_name { 符文矛 II }
+
+item_letter_shrine_apus_circinus_name { 天燕座神殿 }
+
+item_letter_shrine_bootes_auriga_name { 牧夫座神殿 }
+
+item_letter_shrine_cygnus_name { 天鵝座神殿 }
+
+item_letter_shrine_luna_name { 月神殿 }
+
+item_letter_shrine_sol_name { 太陽神殿 }
+
+item_letter_shrine_terra_borealis_name { 大地神殿 }
+
+item_letter_shrine_vela_name { 天帆座神殿 }
+
+key_sleepingTavernKey_name { 房間鑰匙 }
+
+key_sleepingTavernKey_description { 我在奧拉夫那裡租了一晚樓上的房間。 }
+
+item_strangeFossil_name { 奇異的化石 }
+
+letter_leru_hint01_name { 洛爾西斯的第一次夢境繪畫 }
+
+letter_leru_hint02_name { 洛爾西斯的第二次夢境繪畫 }
+
+armor_chest_nemeton_social_name_name { 聖地服裝 }
+
+armor_chest_tunic_ragged_2_name { 毀壞的盔甲 }
+
+armor_chest_tunic_ragged_2_description { 如果沒有其他選擇，這在這裡或許可以充當盔甲... }
+
+armor_chest_tunic_noble_name_name { 精緻的服裝 }
+
+armor_chest_tunic_noble_name_description { 第一印象沒有第二次機會。我穿這件看起來很體面。 }
+
+armor_chest_bandit_T1_name { 強盜輕甲 }
+
+armor_chest_bandit_T2_name { 強盜中甲 }
+
+armor_chest_bandit_T2_description { 與其說是保護，不如說是恐嚇的手段。 }
+
+armor_chest_bandit_T4_name { 強盜重甲 }
+
+armor_chest_bandit_T4_description { 地位象徵與保護的完美結合。 }
+
+helmet_crown_name_name { 古老的頭飾 }
+
+helmet_crown_name_description { 誰曾經戴過這個？ }
+
+helmet_mask_empathetic_name_name { 同理心面具 }
+
+helmet_mask_empathetic_name_description { 只有那些關心同胞的人才會欣賞這面具的價值。 }
+
+helmet_mask_arrogant_name_name { 優越感面具 }
+
+helmet_mask_arrogant_name_description { 只有那些對自己有信心的人才會欣賞這面具的價值。 }
+
+helmet_mask_rational_name_name { 明察秋毫面具 }
+
+helmet_mask_rational_name_description { 只有那些具有批判性和分析性思維的人才會欣賞這面具的價值。 }
+
+helmet_nemeton_guard1_name_name { 聖地輕型頭盔 }
+
+helmet_nemeton_guard2_name_name { 聖地重型頭盔 }
+
+helmet_ruinenlager_guard1_name_name { 倖存者簡易頭盔 }
+
+helmet_ruinenlager_guard2_name_name { 倖存者重型頭盔 }
+
+helmet_cauldron_name_name { 大鍋 }
+
+helmet_cauldron_name_description { 帶著它走動的時候，看好你的東西。 }
+
+helmet_leathercap_name_name { 皮帽 }
+
+helmet_leathercap_name_description { 看起來很時髦。很適合你。 }
+
+helmet_gladiator_name_name { 角鬥士頭盔 }
+
+helmet_gladiator_name_description { 你可以透過狹窄的縫隙觀察你未來的受害者。 }
+
+helmet_blindfold_dark_name_name { 黑暗眼罩 }
+
+helmet_blindfold_dark_name_description { 你仍然可以透過狹窄的縫隙看到一切。而且你看起來會更神秘！ }
+
+helmet_blindfold_light_name_name { 明亮的眼罩 }
+
+helmet_atlanter_name_name { 往昔之民的頭盔 }
+
+helmet_atlanter_name_description { 一個古老的頭盔，可能已經幾個世紀沒有人戴過了。 }
+
+helmet_straw_name_name { 草帽 }
+
+helmet_straw_name_description { 即使經常修補，這頂草帽看起來仍然很不錯。一定有人非常小心地照料它。 }
+
+helmet_hood_bandit_name_name { 強盜頭巾 }
+
+helmet_hood_bandit_name_description { 遮住你的臉和你的意圖。 }
+
+helmet_hood_bandit_t4_name_name { 強盜重型頭巾 }
+
+helmet_barbarian_name_name { 野蠻人頭盔 }
+
+helmet_barbarian_name_description { 一個野蠻人用的頭盔。裡面刻著字母「C」。 }
+
+helmet_mask_sheep_name_name { 羊面具 }
+
+helmet_mask_sheep_name_description { 咩！ }
+
+helmet_onion_name_name { 洋蔥頭盔 }
+
+helmet_onion_name_description { 一個造型獨特的頭盔。 }
+
+helmet_mask_vodoo_name_name { 巫毒面具 }
+
+helmet_mask_vodoo_name_description { 他們說這個面具擁有魔法力量。 }
+
+helmet_mask_frog_name_name { 青蛙面具 }
+
+helmet_mask_frog_name_description { 呱呱！ }
+
+helmet_mask_death_name_name { 死亡面具 }
+
+helmet_mask_death_name_description { 令人毛骨悚然。可怕。但製作得相當精良。 }
+
+helmet_mask_obito_name_name { 漩渦面具 }
+
+helmet_mask_obito_name_description { 螺旋的中心是一隻眼睛。 }
+
+helmet_mushroom_name_name { 蘑菇帽 }
+
+helmet_mushroom_name_description { 如果我把自己埋在沙裡，只露出頭——會有人採集我嗎？ }
+
+helmet_draugr_dark_name_name { 往昔之民的黑暗頭盔 }
+
+helmet_draugr_mage_name_name { 往昔之民的法師黑暗頭盔 }
+
+item_sheepfur_name { 羊皮 }
+
+note_naughty_male_name { 赤裸的事實 }
+
+note_naughty_male_description { 一張英俊裸男的畫。他看起來是不是有點眼熟？ }
+
+note_naughty_female_name { 生命的盛開 }
+
+note_naughty_female_description { 一張美麗裸女的畫。太棒了。 }
+
+misc_map_nemeton_name { 聖地地圖 }
+
+misc_map_ruincamp_name { 倖存者營地地圖 }
+
+misc_map_leuchtwald_name { 原始森林地圖 }
+
+misc_worldmap_detailed_name { 德羅瓦地圖 }
+
+misc_worldmap_detailed_description { 由一位名為「洛爾西斯」的人繪製。 }
+
+misc_worldmap_shrines_name { 神殿地圖 }
+
+misc_caveSystem_name { 洞穴系統地圖 }
+
+misc_caveSystem_description { 一張倖存者營地下方洞穴系統的地圖。 }
+
+armor_chest_ruinenlager_gladiator_name { 角鬥士盔甲 }
+
+armor_chest_ruinenlager_gladiator_description { 每損失 % 的生命值，受到的傷害就減少 1%——最多可減少 90%。<br><br>浸滿敵人鮮血的盔甲。勝利是我的。 }
+
+misc_bagOfCurrency_big_name { 裝滿硬幣的大袋子 }
+
+item_letterRedTower_0_name { 迷霧將近 }
+
+item_letterRedTower_1_name { 淪陷 II }
+
+item_letterRedTower_2_name { 憤怒的神祇 }
+
+item_letterRedTower_3_name { 神秘的便條 }
+
+item_letterRedTower_5_name { 淪陷 I }
+
+item_AldriksNote_name { 阿爾德里克的便條 }
+
+item_letterAtlanter_AtlanterCreation_name { 往昔之民的創造 }
+
+item_letterAtlanter_AtlanterProblems_name { 往昔之民的困難 }
+
+item_letterAtlanter_AtlanterRevolt_name { 往昔之民的暴動 }
+
+item_letterAtlanter_CancelledResearch_name { 研究取消 }
+
+item_letterAtlanter_DangerousRunes_name { 符文魔法的危險 }
+
+item_letterAtlanter_DangerousTravels_name { 危險旅程 I }
+
+item_letterAtlanter_DangerousTravels2_name { 危險旅程 II }
+
+item_letterAtlanter_DrivaniusAttitude_name { 德里瓦尼烏斯的信念 }
+
+item_letterAtlanter_EmergingFog_name { 迷霧正在逼近 }
+
+item_letterAtlanter_Extractor2_name { 萃取器 II }
+
+item_letterAtlanter_Eye_name { 帝國之眼 }
+
+item_letterAtlanter_FirstDownfall_name { 神祇的第一次隕落 }
+
+item_letterAtlanter_ItsMoreDangerous_name { 德羅瓦變得越來越危險 I }
+
+item_letterAtlanter_ItsMoreDangerous2_name { 德羅瓦變得越來越危險 II }
+
+item_letterAtlanter_LightAndDarkness_name { 光明與黑暗 }
+
+item_letterAtlanter_NewsRedTower_name { 來自血色高塔的通告 }
+
+item_letterAtlanter_OlafDiary_name { 奧拉夫的舊日記 }
+
+item_letterAtlanter_ReijaAndMonko_name { 雷婭和蒙科的重大發現 }
+
+item_letterAtlanter_Revolt1_name { 德羅瓦的動盪 I }
+
+item_letterAtlanter_Revolt2_name { 德羅瓦的動盪 II }
+
+item_letterAtlanter_Revolt3_name { 德羅瓦的動盪 III }
+
+item_letterAtlanter_RuneVessel_Nemeton_name { 符文容器指南 }
+
+item_letterAtlanter_RuneVessel_Ruinenlager_name { 符文容器指南 }
+
+item_letterAtlanter_Senat_name { 元老院的信 }
+
+item_letterAtlanter_ShiftingPriorities_name { 優先事項轉移 }
+
+item_letterAtlanter_SpreadingDanger_name { 危險正在蔓延 }
+
+item_letterAtlanter_Stars_name { 星星寫了什麼？ }
+
+item_letterAtlanter_ThirdDownfall_name { 第三位神祇的隕落 }
+
+item_letterAtlanter_ToTheRuinRaiders_name { 給廢墟掠奪者的 }
+
+item_letterAtlanter_WhereIsDrivanius_name { 德里瓦尼斯在哪裡？ I }
+
+item_letterAtlanter_WhereIsDrivanius2_name { 德里瓦尼斯在哪裡？ II }
+
+item_letterAtlanter_Workerletter_name { 工人的信 }
+
+item_letterCelts_Anatoli_name { 阿納托利的擔憂 }
+
+item_letterCelts_BoundaryStone_name { 界石與聖地 }
+
+item_letterCelts_Diemo_name { 迪莫對聖地的看法 }
+
+item_letterCelts_Jero_name { 傑羅對神祇的看法 }
+
+item_letterCelts_Nemeton_name { 聖地的建立 }
+
+item_letterCelts_Roarke_name { 羅爾克的奇異想法 }
+
+item_letterCelts_SafeHaven_name { 避難所的目的 }
+
+item_letterCelts_Treason_name { 避難所的目的 }
+
+item_HiddenTreasure_name { 隱藏的寶藏 }
+
+item_blackboard_Butterflies_name { 公告：幫助樹林 }
+
+item_letterAtlanter_Arrival_name { 往昔之民的到來 }
+
+category_keysAndQuestItems { 鑰匙和任務物品 }
+
+weapon_sword_draugrIronBlade_name { 亡靈鐵劍 }
+
+weapon_spear_draugr_name { 亡靈之矛 }
+
+weapon_shield_draugr_name { 亡靈之盾 }
+
+weapon_axe_improvisedpickaxe_name { 編號：weapon_axe_improvisedpickaxe }
+
+helmet_earprotection_name_description { 有些噪音就是會讓人不舒服。這些蠟團有助於減輕。 }
+
+armor_chest_lendha_dylara_name { 戴拉拉的盔甲和鞋子 }
+
+item_stalker_egg_name { 潛獵者之卵 }
+
+item_headleshen_name { 樹精的頭顱 }
+
+item_shadowfur_name { 陰影外袍 }
+
+item_fogears_name { 霧妖耳朵 }
+
+item_foxpaw_name { 狐狸爪 }
+
+item_foodpile_strong_name { 躍動的鱸魚 }
+
+item_fish_trout_name { 鱒魚 }
+
+item_fish_trout_description { 那還是生的。不適合人類食用。 }
+
+item_fish_dead_name { 死亡之魚 }
+
+item_fish_dead_description { 那還是生的。不適合人類食用。 }
+
+recipe_foodpile_strong_name { 配方：躍動的鱸魚 }
+
+letter_leru_hint03_name { 洛爾西斯的第三次夢境繪畫 }
+
+key_chest_BanditCamp_name { 重型鑰匙 }
+
+key_chest_BanditCamp_description { 我從一群強盜身上拿到的，一把很大的鑰匙。 }
+
+item_chunnaic_diamond_name { 春奈的鑽石 }
+
+item_roastedMeat_t2_name { 多汁的烤肉 }
+
+item_roastedTrout_name { 烤鱒魚 }
+
+recipe_meat_cooked_name { 配方：烤乾癟的肉 }
+
+recipe_meat_2_name { 配方：多汁的烤肉 }
+
+item_ring_god_name { 神祇的祝福 }
+
+item_ring_god_description { 我自己的護身符 }
+
+key_harald_name { 礦坑鑰匙 }
+
+key_harald_description { 有了這個，我就可以進入哈羅德的礦坑，在那裡探勘一些銀礦。 }
+
+item_letterTableBrutus_3_name { 德里瓦尼斯最終研究 I }
+
+helmet_brutus_name_name { 樞紐頭盔 }
+
+helmet_brutus_name_description { 一個裝飾著大量符文的奇異頭盔。 }
+
+item_letter_foresttavern_chapter1_name { 撕裂者獵殺 1 }
+
+item_letter_foresttavern_chapter3_name { 撕裂者獵殺 2 }
+
+category_traps { 可使用的物品 }
+
+item_MeriksBusiness_name { 給梅瑞克的信 }
+
+item_KendrickThreat_name { 威脅信 }
+
+item_KendrickHideout_name { 隱藏的信 }
+
+item_KendrickGoodsBook_name { 貨物清單 }
+
+category_crafting { 製作材料 }
+
+category_saleitems { 雜項、銷售物品、垃圾 }
+
+item_letterAtlanter_Shrines_name { 往昔之民的神殿 }
+
+item_letterCityDungeon_GodPaintings_name { 描繪神祇的壁畫 }
+
+item_letter_Reija_name { 德里瓦尼烏斯的奇怪觀察 }
+
+weapon_spear_georg_name { 喬治的矛 }
+
+weapon_spear_georg_description {  }
+
+weapon_sword_jendra_name { 詹卓的劍 }
+
+weapon_sword_jendra_description {  }
+
+flow_ricochet_name { 跳彈 }
+
+flow_ricochet_description { 你發射一個投射物，造成 [WeaponDamagePercent] 的武器傷害，然後從目標上彈開並擊中附近的其他對手。 }
+
+recipe_flow_ricochet_name { 能力：跳彈 }
+
+flow_bruntShot_name { 震盪射擊 }
+
+flow_bruntShot_description { 你射出一支箭，造成 [WeaponDamagePercent] 的武器傷害，並使對手昏迷 [StunTime] 秒。 }
+
+recipe_flow_bruntShot_name { 能力：震盪射擊 }
+
+flow_poisonArrow_name { 毒箭 }
+
+flow_poisonArrow_description { 你射出一支箭，造成 [WeaponDamagePercent] 的武器傷害並使對手中毒。 }
+
+recipe_flow_poisonArrow_name { 能力：毒箭 }
+
+key_tavernKey_Cellar_name { 地窖鑰匙 }
+
+key_tavernKey_Cellar_description { 倖存者營地酒館地窖的鑰匙。 }
+
+helmet_none_name { 編號：helmet_none }
+
+recipe_silverringstrength_2_name { 配方：達拉結之戒 }
+
+recipe_silverringstrength_2_description { recipe_silverringstrength_2_description }
+
+recipe_silberringskill_2_name { 配方：僱傭殺手銀戒指 }
+
+recipe_silberringskill_2_description { recipe_silberringskill_2_description }
+
+recipe_silberringmind_2_name { 配方：極品妖精之戒 }
+
+recipe_silberringmind_2_description { recipe_silberringmind_2_description }
+
+item_Whiskey_StoneWall_name { 石牆威士忌 }
+
+item_Whiskey_StoneWall_description { 一個舊瓶子，上面描繪著一面舊牆。 }
+
+item_trinket_boxer_name { 荊棘指虎 }
+
+item_trinket_boxer_description { 你的空手攻擊總是造成致命一擊。 }
+
+item_bigligering_name { 世界樹之戒 }
+
+item_bigligering_description {  }
+
+recipe_yggdrasil_name { 配方：世界樹之戒 }
+
+cons_flow_natureSpirit_npc_name { 編號：cons_flow_natureSpirit_npc }
+
+cons_flow_aggressiveCry_npc_name { 編號：cons_flow_aggressiveCry_npc }
+
+cons_flow_bullRush_bady_name { 編號：cons_flow_bullRush_bady }
+
+cons_flow_heavyBlow_bady_name { 編號：cons_flow_heavyBlow_bady }
+
+cons_flow_infection_bady_name { 編號：cons_flow_infection_bady }
+
+cons_flow_shockingBlow_bady_name { 編號：cons_flow_shockingBlow_bady }
+
+flow_battleCry_npc_name { 編號：flow_battleCry_npc }
+
+item_Map_Treasure_Forest_name { 寶藏：針葉林 }
+
+item_Map_Treasure_Garden_name { 寶藏：廢墟 }
+
+item_Map_Treasure_GeorgsFarm_name { 寶藏：喬治農場 }
+
+item_Map_Treasure_Heath_name { 寶藏：荒原 }
+
+item_Map_Treasure_PrimevalForest_name { 寶藏：原始森林 }
+
+item_Map_Treasure_Rotmoor_name { 寶藏：紅色沼澤 }
+
+item_Map_Treasure_WayToMine_name { 寶藏：礦坑之路 }
+
+item_trinket_doriansHeirloom_name { 多里安的傳家寶 }
+
+item_trinket_doriansHeirloom_description { 減少 [PoiseValuePercent] 的架勢傷害和專注傷害。 }
+
+weapon_axe_blaansoldsword_name { 布蘭的舊斧 }
+
+weapon_axe_blaansoldsword_description {  }
+
+weapon_sword_carimasoldsword_name { 卡莉瑪的舊劍 }
+
+weapon_sword_carimasoldsword_description {  }
+
+item_wine_description { 你一定會喜歡的。 }
+
+item_silverore_description { 需要在煉鐵爐中提煉。 }
+
+item_ironore_description { 需要在煉鐵爐中提煉。 }
+
+item_trinket_pureDmg_name { 修補匠的復仇 }
+
+item_trinket_pureDmg_description { 增加陷阱和投擲物 [DamageValuePercent] 的傷害。 }
+
+item_VoragoFragment_0_name { 徽章碎片 }
+
+item_VoragoFragment_0_description { 另一半似乎不見了。有一個符號，但難以辨認。這會是個貝殼嗎？ }
+
+item_letterAtlanter_Excalibur_name { 石中劍 }
+
+item_letterAtlanter_Excalibur_description {  }
+
+item_KendrickSagar_name { 皺巴巴的信 }
+
+item_KendrickSagar_description {  }
+
+recipe_throwingknife_name { 配方：飛刀 }
+
+item_letterAtlanter_Extractor2_description {  }
+
+item_letterAtlanter_Armor_name { 往昔之民的盔甲 }
+
+item_letterAtlanter_Armor_description {  }
+
+item_potion_respec_name { 遺忘藥水 }
+
+item_potion_respec_description { 一種含有烈酒的飲料。據說喝下這種酒的人之後會忘記自己喝過。<br>(重置使用學習點數習得的天賦) }
+
+weapon_sling_legendarySlingshot_name { 旋風 }
+
+weapon_sling_legendarySlingshot_description { 彈弓被一股風包圍，增強了它的動能。 }
+
+item_letterCelts_Spark_name { 貝爾蒂娜的火花 }
+
+item_letterCelts_Spark_description { item_letterCelts_Spark_description }
+
+item_letter_library_soundRoom_note2_name { 共鳴之角 }
+
+item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }
+
+weapon_dagger_draugr_name { 亡靈匕首 }
+
+weapon_axe_draugr_name { 亡靈之斧 }
+
+weapon_bow_draugr_name { 亡靈之弓 }
+
+cons_flow_magicNuke_name { 閃電轟擊 }
+
+cons_flow_magicNuke_description { 一個強大的法術，造成 [DamageFlexAbs] 的魔法傷害和 [PoiseDamageAbs] 的架勢傷害。 }
+
+flow_sunder_name { 毀滅 }
+
+flow_sunder_description { 劍攻擊，透過大範圍的揮舞造成 [WeaponDamagePercent] 的魔法武器傷害。取決於力量和心靈。 }
+
+flow_ballista_name { 弩砲 }
+
+flow_ballista_description { 具有遠距離和後座力的矛攻擊，造成 [WeaponDamagePercent] 的魔法武器傷害。取決於力量和心靈。 }
+
+flow_cyclone_name { 旋風 }
+
+flow_cyclone_description { 斧攻擊，在一個圓圈範圍內造成 [WeaponDamagePercent] 的魔法武器傷害。取決於力量和心靈。 }
+
+flow_dashStab_name { 暗影衝鋒 }
+
+flow_dashStab_description { 你朝著視線方向猛衝，忽略與其他生物的碰撞，並造成 [WeaponDamagePercent] 的魔法武器傷害。取決於力量和心靈。 }
+
+flow_blast_name { 樹葉之擊 }
+
+flow_blast_description { 你聚集原始魔法能量並將其釋放在視線方向。造成 [DamageFlexAbs] 的魔法傷害。 }
+
+flow_graspingRoots_name { 根鬚召喚 }
+
+flow_graspingRoots_description { 你聚集原始魔法能量，使樹根從地面竄出。將對手束縛 [TimeAbs] 秒。 }
+
+flow_travelForm_name { 狼之賜 }
+
+flow_travelForm_description { 你聚集原始魔法能量，變身為靈狼。增加你的移動速度 [MovementPercent]。 }
+
+flow_natureTouch_name { 自然的擁抱 }
+
+flow_natureTouch_description { 你聚集原始魔法能量，在 [TimeAbs] 秒內恢復自身 [HealValueAbsolut] 的生命值。取決於心靈。 }
+
+flow_conjure_spiritCall_name { 原始森林的呼喚 }
+
+flow_conjure_spiritCall_description { 你聚集原始魔法能量，召喚原始森林的精靈來協助你戰鬥。 }
+
+key_extractor_name { 萃取器鑰匙 }
+
+key_extractor_description { 由頂部連接底部打開的三個部分組成。 }
+
+flow_spiritShot_name { 野豬衝鋒 }
+
+flow_spiritShot_description { 你聚集原始魔法能量，召喚出一隻靈體野豬，朝著視線方向衝鋒並造成 [DamageFlexAbs] 的魔法傷害。 }
+
+helmet_atlanter_champion_name { 冠軍的容顏 }
+
+helmet_atlanter_champion_description { 往昔之民的特殊頭盔，獎勵在戰鬥中表現出色的人。 }
+
+recipe_flow_magicnuke_name { 法術：閃電轟擊 }
+
+recipe_flow_dashstab_name { 法術：暗影衝鋒 }
+
+recipe_flow_sunder_name { 法術：毀滅 }
+
+recipe_flow_cyclone_name { 法術：旋風 }
+
+recipe_flow_ballista_name { 法術：弩砲 }
+
+weapon_sword_ancientRitualSword_name { 古老的儀式之劍 }
+
+weapon_sword_ancientRitualSword_description {  }
+
+weapon_sword_ancientSword_name { 古老的劍 }
+
+weapon_sword_ancientSword_description {  }
+
+weapon_axe_ancientAxe_name { 古老的斧頭 }
+
+weapon_axe_ancientAxe_description {  }
+
+
+

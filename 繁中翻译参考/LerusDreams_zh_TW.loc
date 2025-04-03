@@ -1,0 +1,13 @@
+MadWoman_Name { 瘋女人 }
+
+Percept_Skeleton_00 { 這裡躺著兩具骷髏，互相擁抱著。一個是成年人，另一個顯然是個孩子。這很可能是母親。 }
+
+Percept_Skeleton_01 { (檢查孩子的骨頭) }
+
+Percept_Skeleton_02 { *你把骨頭移開。在下面，你發現一個開關* }
+
+Percept_Skeleton_03 { (啟動開關) }
+
+Percept_Grave_00 { 對不起。我應該在那裡的。 }
+
+Percept_Grave_01 { 石碑嚴重刮傷，無法辨認。 }

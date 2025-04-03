@@ -1,0 +1,19 @@
+Title_MainSpells { 能力 }
+
+Title_ConsSpells { 法術卷軸 }
+
+header_physicalAbilities { 能力 }
+
+header_magicalAbilities { 法術 }
+
+header_memory { 記憶 }
+
+Orientationpoint_Label { 基礎專注： }
+
+Orientationpointtooltip_Header { 基礎專注 }
+
+Orientationpointtooltip_Description { 專注值會隨著時間恢復到這個點。 }
+
+MaxLeben { 最大生命值 }
+
+StaminaCosts { 耐力消耗 }

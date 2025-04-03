@@ -1,0 +1,71 @@
+Plh_20 { 你知道我如何在這裡以一個豪爾的身分脫穎而出嗎？ }
+
+Plh_21 { 你得砍出一堆白銀來。這樣你就能得到萊文的關注。他會獎勵努力工作的豪爾。 }
+
+Plh_46 { 如果你想了解更多，就去找特斯帝吧。他就是你剛來時，在這裡的那個人。 }
+
+Plh_4 { 嘿，你們想去哪？ }
+
+Plh_51 { 給傑羅的。 }
+
+Plh_52 { 滾開。我們這裡不歡迎你們這種人。 }
+
+Plh_1 { 我也正想問這個。 }
+
+Plh_2 { 從你旁邊過。 }
+
+Plh_3 { 你瘋了嗎？能進倖存者礦山的只有持有萊文信件和洛薩裝備的人！ }
+
+Plh_22 { 喂，那邊的！ }
+
+Plh_23 { 你想出去？ }
+
+Plh_24 { 是的，沒錯。 }
+
+Plh_25 { 不，我打算留下來。 }
+
+Plh_49 { 啊，是你啊。你知道的，我現在視力不太好——如果你現在快速通過，我可能攔不住你。 }
+
+Plh_50 { 真可惜。眨眼一笑。 }
+
+Plh_26 { 很好。那就交出你一半的銀子。 }
+
+Plh_28 { 給你，拿去吧。(給出一半) }
+
+Plh_29 { 我寧願待在這。 }
+
+Plh_39 { 你幫我，我幫你。關於我和梅里克之間的事情，你要是守口如瓶，我就睜一隻眼閉一隻眼，而且你上繳的銀兩也會少一些。 }
+
+Plh_40 { 從今天開始，萊文想要更多的銀兩。*賊笑著* }
+
+Plh_41 { 我叫你不要插手我和梅里克之間的事情。否則…這是你的銀兩，滾吧。 }
+
+Plh_30 { 看來不錯，你可以通過了。 }
+
+Plh_27 { 那就回去繼續工作。 }
+
+Plh_33 { 我聽說有些人提早從營地回來了。 }
+
+Plh_34 { 總算回來了。豪爾們一直纏著我問，梅里克什麼時候會再次出售裝備。 }
+
+Plh_45 { 萊文因為沒拿到那麼多銀兩，已經開始不耐煩了… }
+
+Plh_36 { *轉向你* 所以，你是…菜鳥？ }
+
+Plh_32 { 既然你和洛薩一起，那你可以進去了。 }
+
+Plh_38 { 卡莎，妳人真好。 }
+
+Plh_47 { 祝妳在礦坑一切順利！過來吧，我來解釋一下這裡的規矩。 }
+
+Plh_48 { *咕噥著* 最好還是聽特斯帝的… }
+
+Plh_53 { 銀兩呢？這段時間都在偷懶嗎？下次我要看到銀礦！ }
+
+Plh_54 { 你一共挖了$GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$塊銀礦。其中$GVAR:EVars_Katsa.SilverDefaultAmount$塊銀礦要上繳，剩下的$GVAR:EVars_Katsa.SilverAmountLeaveMine$塊銀礦才是你的。 }
+
+Plh_55 { 你總共開採了$GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$塊銀礦。其中$GVAR:EVars_Katsa.SilverAngryAmount$塊歸我們金庫所有，剩下的$GVAR:EVars_Katsa.SilverAmountLeaveMine$塊是你的。 }
+
+Plh_56 { 你總共開採了$GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$塊銀礦。其中$GVAR:EVars_Katsa.SilverFriendlyAmount$塊歸我們金庫所有，剩下的$GVAR:EVars_Katsa.SilverAmountLeaveMine$塊是你的。 }
+
+

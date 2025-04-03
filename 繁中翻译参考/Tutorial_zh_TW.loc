@@ -1,0 +1,103 @@
+Movement_Gamepad { 使用 $MOVEMENT$ 移動。 }
+
+Movement_Keyboard { 按下 $MOVEMENT$ 移動。 }
+
+LookDirection { 移動滑鼠來環顧四周。你的視線取決於你行走的方向。如果你面向相反的方向，你的角色會向後走，速度也會更慢。 }
+
+LookDirection_Gamepad { 除非你使用 $INPUTANIM:LookX$ 來環顧四周，否則你會朝你面向的方向移動。如果你面向相反的方向，你的角色會向後走，速度也會更慢。 }
+
+Perception_01 { 按住 $INPUTANIM:PerceptionMode$ 可以更仔細地觀察周圍。這樣你就可以看到物體後面或穿過霧。 }
+
+Perception_01_Gamepad { 按下 $INPUTANIM:PerceptionMode$ 啟用調查模式。這樣你就可以看到物體後面或穿過霧。 }
+
+Perception_02 { 如果你仔細觀察周圍，你可以發現那些原本看不見的東西。例如，腳印。 }
+
+ChangeStance { 按下 $INPUTANIM:DrawWeapon$ 來拔出或收起你的武器。在拔出武器的情況下，使用 $INPUTANIM:Attack_Primary$ 進行攻擊。 }
+
+EngageCombat { 只有在你拔出武器後才能使用 $INPUTANIM:Attack_Primary$ 進行攻擊！ }
+
+Interact { 使用 $INPUTANIM:Interact$ 與物品或人物互動。只要你的武器已拔出，你就無法進行任何互動。<br>使用 $INPUTANIM:DrawWeapon$ 收起你的武器。 }
+
+Perception_03 { 某些物體可以更仔細地檢查。按住 $INPUTANIM:PerceptionMode$ 直到你頭頂的眼睛符號完全填滿。 }
+
+Dodge { 按住一個移動按鈕並按下 $INPUTANIM:Dodge$ 朝該方向閃避。閃避會消耗耐力。耐力顯示在你的角色下方。 }
+
+Inventory { 按下 $INPUTANIM:Inventory$ 開啟你的物品欄。在這裡，你可以將物品拖到你的快捷列，並且可以裝備和使用物品。 }
+
+SwitchWeapon { 你找到了一種新武器！在德羅瓦中有多種不同類型的武器。試用它們找出最適合你的。<br>有兩組可以自由自訂的武器組合。你可以使用 $INPUTANIM:SwapWeaponSet$ 在它們之間切換。 }
+
+Perception_03_Controller { 按下 $INPUTANIM:PerceptionMode$ 啟用調查模式。為了檢查物體，靠近它並使用 $INPUTANIM:LookX$ 朝它的方向看。 }
+
+Abilities_02 { 你學會了一項能力！它已經自動裝備好了。按下 $INPUTANIM:OpenAbilities$ 開啟能力菜單，仔細查看你的新能力或將其移動到輪盤菜單中的另一個欄位。在遊戲中，你可以使用輪盤菜單 ($INPUTANIM:RingMenu$) 更改主動能力。 }
+
+Abilities_02_Controller { 你學會了一項能力！它已經自動裝備好了。按下 $INPUTANIM:Inventory$ 開啟菜單，並使用 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 訪問能力頁籤。從那裡你可以仔細查看你的新能力或將其移動到輪盤菜單中的另一個欄位。在遊戲中，你可以使用輪盤菜單 ($INPUTANIM:RingMenu$) 更改主動能力。 }
+
+Abilities_03 { 你已經裝備了你的第一個能力！為了切換能力，按住 $INPUTANIM:RingMenu$ 直到你選擇了想要主動使用的能力。 }
+
+FoodAndHeal { 隨著時間的推移，食物和治療物品都會恢復生命值。與治療物品相反，食物恢復生命值的速度較慢，但一旦你的生命值全滿，恢復過程就會暫停。此外：只要增益效果有效，食物還會賦予你額外的效果。 }
+
+FirstHeal { 你找到了一株藥草！<br>按下 $INPUTANIM:Inventory$ 開啟你的物品欄。<br>在這裡，你可以將物品拖到你的快捷列，或使用 $INPUTANIM:Interact$ 立即裝備和使用該物品。<br>$ICON:Heal$ 治療物品會隨著時間恢復你的生命值。 }
+
+BattleBuddies_Blocks { 按住 $INPUTANIM:Block$ 進行格擋。每次成功格擋都會消耗你的耐力而不是生命值。一旦你的耐力耗盡，你就無法再進行格擋。 }
+
+BattleBuddies_Blocks_Label { 成功的格擋 }
+
+BattleBuddies_Combos { 在你攻擊後，於精確的時間按下 $INPUTANIM:Attack_Primary$ 以再次攻擊。使用連擊通常可以讓你更快地攻擊並造成更大的傷害。 }
+
+BattleBuddies_Combos_Label { 成功的連擊 }
+
+BattleBuddies_Spells { 如專注值條中的能力標記所示，你已經收集了足夠的專注值來使用能力。按下 $INPUTANIM:UseSpell$ 使用能力。 }
+
+BattleBuddies_Spells_Label { 成功的法術 }
+
+BattleBuddies_GetFlow { 生命值下方的專注值條顯示你目前的專注值。在戰鬥中，每次你成功擊中對手，都會產生專注值。如果你被擊中，你會失去專注值。如果你不使用你的專注值，它會消散——除了你的基礎專注值。 }
+
+FirstFood { 你找到了一些食物！<br>按下 $INPUTANIM:Inventory$ 開啟你的物品欄。<br>在這裡，你可以將食物拖到你的快捷列，或使用 $INPUTANIM:Interact$ 立即食用。<br><br>$ICON:Food$ 食物會隨著時間恢復你的生命值。但是，當你的生命值全滿時，恢復將會暫停。<br><br>確保你隨時都處於飽足狀態。收集食譜並在營火旁準備你的食物。 }
+
+FirstGoodFood { 你食用了一些豐盛的食物。<br>德羅瓦中的許多菜餚在你飽足時會賦予被動效果。<br>但是要小心！如果你之後再食用其他食物，飽足效果將會被覆蓋。最好等到效果消失後再進食。<br><br>建議隨時保持飽足狀態，以享受被動的生命值恢復。 }
+
+FirstWeapon { 你找到了一件武器！<br>按下 $INPUTANIM:Inventory$ 開啟你的物品欄。<br>在這裡，你可以使用 $INPUTANIM:Interact$ 裝備你的武器。<br><br>(你可以自訂兩套武器組合；按下 $INPUTANIM:SwapWeaponSet$ 在它們之間切換。) }
+
+FirstNote { 你找到了一封信！<br>所有信件都存放在你的日記的信件頁籤中。你可以隨時從那裡閱讀它們。 }
+
+FirstNote_Gamepad { 你找到了一封信。<br>按下 $INPUTANIM:Inventory$ 開啟你的菜單，並使用 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 訪問日記頁籤。你所有的信件都收集在信件頁籤中。你可以隨時從那裡閱讀它們。 }
+
+NeedMunition { 為了在戰鬥中使用遠程武器，你必須使用 $INPUTANIM:Block$ 裝填彈藥。 }
+
+FirstRangeWeapon { 你找到了一件遠程武器。<br>按下 $INPUTANIM:Inventory$ 訪問你的物品欄並裝備武器。<br>為了使用它，你還需要從物品欄裝備相應的彈藥。 }
+
+Journal { 你的日記中新增了一則條目。<br>按下 $INPUTANIM:Journal$ 開啟你的日記。<br>從那裡，你可以隨時查看你的任務狀態。 }
+
+Journal_Gamepad { 你的日記中新增了一則條目。<br>按下 $INPUTANIM:Inventory$ 開啟你的菜單，並使用 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 訪問日記頁籤。<br>從那裡，你可以隨時查看你目前的任務狀態。 }
+
+FirstConsFlow_Gamepad { 你找到了一張法術卷軸。<br>按下 $INPUTANIM:OpenAbilities$ 開啟菜單，並使用 $INPUTANIM:PrevPanel$ 到 $INPUTANIM:NextPanel$ 訪問能力頁籤。你可以從那裡裝備你的法術卷軸。<br>法術卷軸可以在困難的戰鬥中給你優勢；沒有理由囤積它們。 }
+
+FirstThrow { 你找到了一個消耗品！<br>按下 $INPUTANIM:Inventory$ 開啟你的物品欄。<br>在這裡，你可以將該物品拖到你的快捷列。 }
+
+Stealing { 德羅瓦的居民密切注意他們的財物。你可以嘗試偷竊，但要確保不會被抓住。<br>滑鼠游標會指示互動是否為冒犯行為。 }
+
+Stealing_Gamepad { 德羅瓦的居民密切注意他們的財物。你可以嘗試偷竊，但要確保不會被抓住。<br>互動符號會指示互動是否為冒犯行為。 }
+
+Crafting { 在營火旁烹飪和釀造藥水。還有其他工作站可以用於製作陷阱、裝備和投擲物。<br>無需工作站，直接從 $INPUTANIM:CraftingMenu$ 製作菜單製作一些配方。 }
+
+CloseTutorial { 隱藏 }
+
+CloseTutorial_Gamepad { 關閉 (按住 $INPUTANIM:UISubmit$) }
+
+Statuseffects { 你走進了荊棘叢，並受到了「流血」的影響。<br>在遊戲中，你的生命值條右側會顯示幾種不同的負面狀態。<br>使用 $INPUTANIM:Inventory$ 開啟菜單，使用工具提示更仔細地檢查各種負面狀態。 }
+
+Secondaries { 你找到了一面盾牌！<br>這是一個副手物品。在戰鬥中使用 $INPUTANIM:Block$ 來使用它。<br>如果你在沒有裝備副手物品的情況下按下 $INPUTANIM:Block$，你將執行每個武器類型獨有的動作。 }
+
+UsedHealItem { 你使用了一個治療物品。<br>你現在施加了一個治療效果，使你定期恢復生命值。<br>可以同時激活多個治療效果。 }
+
+PoiseBreak { 你打破了對手的架勢後，他倒在了地上。<br>架勢顯示為生命值下方黃色的條。<br>利用這個時間好好攻擊你的對手、治療自己或使用物品。 }
+
+LookDirectionCombat { 在戰鬥中，你總是會朝你面向的方向攻擊。<br>你角色下方的箭頭指示了你面向的方向。<br>使用你的滑鼠來更改這個方向。 }
+
+LookDirectionCombat_Gamepad { 在戰鬥中，你總是會朝你面向的方向攻擊。<br>你角色下方的箭頭指示了你面向的方向。<br>使用 $INPUTANIM:LookX$ 來更改這個方向。 }
+
+FirstTreasure { 你找到了一張藏寶圖！<br>所有藏寶圖都存放在你的日記的信件頁籤中。你可以隨時從那裡閱讀它們。 }
+
+FirstTreasure_Gamepad { 你找到了一張藏寶圖。<br>按下 $INPUTANIM:Inventory$ 開啟你的菜單，並使用 $INPUTANIM:PrevPanel$ 和 $INPUTANIM:NextPanel$ 訪問日記頁籤。<br>你所有的藏寶圖都存放在信件頁籤中。你可以隨時從那裡閱讀它們。 }
+
+FirstRecipe { 你找到了一個配方。<br>按下 $INPUTANIM:Inventory$ 開啟你的物品欄。從那裡，你可以按下 $INPUTANIM:Inventory$ 來學習配方。 }

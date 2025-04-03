@@ -1,0 +1,33 @@
+Workbench { 工作檯 }
+
+Furnace { 煉鐵爐 }
+
+Fireplace { 營火 }
+
+Personal { 個人 }
+
+Recipes { 配方 }
+
+Title_Panel { 製作 }
+
+Toggle_CraftableOnly { 僅顯示可製作的配方 }
+
+Foldout_Throw { 工具 }
+
+Foldout_Ammo { 彈藥 }
+
+Foldout_Trinkets { 飾品 }
+
+Foldout_Food { 食物 }
+
+Foldout_Heal { 治療 }
+
+Foldout_Unsorted { 未分類 }
+
+Title_CraftingStation { 工作臺 }
+
+Prefix_RequiredWorkbench { 需要： }
+
+Foldout_Potion { 藥劑 }
+
+Foldout_Crafting { 加工 }

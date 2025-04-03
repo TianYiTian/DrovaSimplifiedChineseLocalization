@@ -1,0 +1,13 @@
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: 指定到快捷欄 }
+
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$ 指定到快捷欄 }
+
+Inventory_GarbageToggle_show { 顯示垃圾 }
+
+Inventory_GarbageToggle_hide { 隱藏垃圾 }
+
+Inventory_MarkAsGarbage { 標記物品為垃圾 }
+
+GarbageFeedback { 垃圾過濾器啟動 }
+
+

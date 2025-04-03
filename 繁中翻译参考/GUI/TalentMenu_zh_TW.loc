@@ -1,0 +1,33 @@
+Level { 等級： }
+
+LearningPoints { 學習點數： }
+
+Category_Sword { 劍 }
+
+Category_Unknown { ??? }
+
+Category_Spear { 矛 }
+
+Category_Axe { 斧 }
+
+Category_Daggers { 匕首 }
+
+Category_Bow { 弓 }
+
+Category_Crafting { 製作 }
+
+Category_Hunting { 材料 }
+
+CombatStrength {  戰鬥力 }
+
+Category_Slingshot { 彈弓 }
+
+Category_Shield { 盾牌 }
+
+requirement { 必要條件： }
+
+Category_Preparation { 準備 }
+
+Category_Mining { 探勘 }
+
+

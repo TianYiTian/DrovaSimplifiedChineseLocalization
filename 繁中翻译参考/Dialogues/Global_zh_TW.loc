@@ -1,0 +1,159 @@
+back { (返回) }
+
+end_dialog { (結束對話) }
+
+End_(End) { (結束對話) }
+
+Silence { (保持沉默) }
+
+Leave { (離開) }
+
+NotEnoughMoney { 這些錢不夠。等你錢夠了再來吧。 }
+
+NotEnoughMoney1 { 就這麼一點錢哪夠啊？等你錢夠了再來吧。 }
+
+NotEnoughMoney2 { 別想唬我。這些錢根本不夠。 }
+
+aboutQuests { 關於任務…… }
+
+aboutOtherQuests { 任務幫助…… }
+
+end { 我得走了。(結束對話) }
+
+Teach_SpearSling { 你可以教我如何更好地使用矛和彈弓戰鬥嗎？ }
+
+End_WirSehenUns { 再見。 }
+
+BloodSteel { 熱血與鋼鐵！ }
+
+End_VergissEs { 算了吧。 }
+
+End_KeineZeit { 我沒時間做這個。 }
+
+Inf_DaWarNochWas { 還有一些事…… }
+
+SLP_GoaWay { 走開。 }
+
+Busy_NotNow { 現在不行。 }
+
+End_MussLos { 我得走了。（結束對話） }
+
+aboutGenericTopics { 我想聊點別的。 }
+
+Teach_Smith { 教我一些關於你的手藝吧。 }
+
+showMeWares { 給我看看你的商品。 }
+
+Inf_IchSchauMichUm { 我只是隨便看看。 }
+
+Inf_HabeFrage { 我想問個問題…… }
+
+ShowMeSkills { 我想學習新的技能。 }
+
+Teach_Sword_! { 教我如何更熟練地用劍戰鬥。 }
+
+Teach_Dagger_! { 教我如何更熟練地用匕首戰鬥。 }
+
+End_IchGehDannMal { 我要走了。 }
+
+End_VlltSpäter { 也許晚點吧。 }
+
+Acc_KuemmereMichDrum { 我會處理的。 }
+
+Teach_Animals { 你可以教我如何處理動物嗎？ }
+
+Teach_General { 教我一些東西。 }
+
+Acc_HelfeDir { 好吧，我會幫你的。 }
+
+End_ÜberlegeNoch { 我還在考慮。 }
+
+Teach_Dagger { 你可以教我如何使用匕首戰鬥嗎？ }
+
+Armor? { 你能用這些盔甲碎片做些什麼嗎？ }
+
+Armor { 我有這三塊盔甲碎片——你能用它們做出一套完整的盔甲嗎？ }
+
+ArmorLight { 越輕越好，一件我可以輕鬆操控的盔甲。 }
+
+ArmorHeavy { 提供最大保護的盔甲。 }
+
+ArmorDruid { 盔甲上刻有許多符文的盔甲。 }
+
+End_AnderesZuTun { 我還有其他事要做。 }
+
+LetsTraining { 準備好戰鬥了嗎？ }
+
+LetsRevance { 準備好再打一次了嗎？ }
+
+NoTime_TrainingTime { 當太陽高掛在德羅瓦的天空時，我會在訓練場。到時候我們就可以戰鬥了。 }
+
+Inf_WasMachstDuHier { 你在這裡做什麼？ }
+
+SLP_Dunkel { 等太陽高掛在德羅瓦上空時再回來吧！ }
+
+Run_IchBinNochDabei { 我還在努力... }
+
+SLP_Müde { 我可以連續三天三夜不停地睡覺...但總是有太多事情要做。永遠都有太多事情要做... }
+
+Teach_Training { 跟我一起訓練吧。 }
+
+LetsTraining_fromMorvin { 普羅克西姆斯說我們應該訓練。 }
+
+Inf_Crimes { 關於我的罪行... }
+
+FightingArena { 今天我們兩個都要在競技場上戰鬥。 }
+
+Teach_Mind { 教我如何更好地提升我的魔力。 }
+
+Teach_SpearSling_! { 教我如何更好地使用長矛和彈弓戰鬥。 }
+
+Teach_Axe_! { 教我如何更好地使用斧頭戰鬥。 }
+
+SLP_Zeit { *呵欠～*  現在不行... }
+
+Acc_BinDabei { 我加入！ }
+
+Teach_Power { 教我如何提升我的力量。 }
+
+End_NichtsZuTun { 我不想跟這件事扯上任何關係。 }
+
+Teach_Sword { 你能教我劍術嗎？ }
+
+Teach_Lockpicking { 教我開鎖。 }
+
+MeldDichBeiMir { 向我報告。 }
+
+HereIsMyMoney { 這些錢給你。 }
+
+PlayerSaysTheyDontHaveMoney { 我錢不夠... }
+
+PlayCatch { 要不要玩鬼抓人？ }
+
+OnlyNemetonTeaching { 我只教聖地來的戰士。 }
+
+Teach_Axe { 你能教我怎麼更熟練地使用斧頭嗎？ }
+
+HaveRostmoos { 我有赤鏽苔，你需要嗎？ }
+
+FastTravel { 你能載我一程嗎？ }
+
+FastTravel_Ruinenlager { 帶我去倖存者營地。 }
+
+FastTravel_Nemeton { 帶我去聖地。 }
+
+FastTravel_Tavern { 帶我去酒館。 }
+
+FastTravel_Georgsfarm { 帶我去喬治農場。 }
+
+FastTravel_Accepted { 好啊，跳上車吧。我們馬上就出發。 }
+
+FastTravel_Rejected { 如果你改變主意，你知道去哪裡找我... }
+
+FastTravel_IntroChapter2_01 { 如果你不想一個人閒晃，可以搭我的車。 }
+
+FastTravel_IntroChapter2_02 { 這趟旅程只需花費你$GVAR:QuestVars_FastTravel_Config.Costs$個金幣。 }
+
+FastTravel_GerogsFarm { 我們請了新人，所以現在我們也前往喬治農場。 }
+
+

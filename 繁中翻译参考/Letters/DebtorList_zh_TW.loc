@@ -1,0 +1,9 @@
+Mog { 莫格欠我 $GVAR:QuestVars_Debt_Config.MoneyFromMog$ 個硬幣。 }
+
+Meluna { 自從梅露娜被搶劫後，她也欠我 $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ 個硬幣。 }
+
+Lindon { 林頓很放肆。<br>他欠我 $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ 個硬幣。 }
+
+Bady { 榮譽的巴迪借走了 $GVAR:QuestVars_Debt_Config.MoneyFromBady$ 個硬幣。 }
+
+Lore { 羅爾欠我 $GVAR:QuestVars_Debt_Config.MoneyFromLore$ 個硬幣。 }
