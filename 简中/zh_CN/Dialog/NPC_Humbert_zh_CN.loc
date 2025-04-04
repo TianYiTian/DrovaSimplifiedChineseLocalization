@@ -54,7 +54,7 @@ Plh_64 { 这要是奥尔佳的想法就怪了。*咧嘴笑* }
 
 Plh_65 { 一种表达赞赏的优雅姿态。我会帮助你。 }
 
-Plh_66 { $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ 个蘑菇换取一点提取物？ }
+Plh_66 { 用 $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ 个马蹄蘑制作一份提取物？ }
 
 Plh_67 { 你能更详细地描述一下这些蘑菇吗？ }
 
@@ -224,7 +224,7 @@ Plh_192 { 喝的时候喉咙会烧，但真正烧的是从后面出来的时候�
 
 Plh_194 { 一定是杰里恩干的！他从来都不尊重我的植物朋友们。他必须付出代价！ }
 
-Plh_196 { 给我带$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$个这种蘑菇，我给你制作一份提取物。你可以在涅墨顿附近，沼泽地里找到它们。它们有刺眼的红色。 }
+Plh_196 { 给我带$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$个马蹄蘑，我给你制作一份提取物。你可以在涅墨顿附近，沼泽地里找到它们。它们有着醒目的的红色。 }
 
 Plh_197 { 让我静一静。 }
 

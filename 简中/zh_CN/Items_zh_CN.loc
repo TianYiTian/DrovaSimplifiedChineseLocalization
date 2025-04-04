@@ -1330,7 +1330,7 @@ item_fishpan_name { 鱼锅 }
 
 item_fishpan_description {  }
 
-item_roastedcallamushroom_name { 炒蘑菇 }
+item_roastedcallamushroom_name { 炒马蹄蘑 }
 
 item_roastedcallamushroom_description {  }
 
@@ -1910,7 +1910,7 @@ recipe_potion_windwalker_name { 配方：游羽药剂 }
 
 recipe_rivercharm_name { 配方：河流护身符 }
 
-recipe_roastedcallamushroom_name { 配方：炒蘑菇 }
+recipe_roastedcallamushroom_name { 配方：炒马蹄蘑 }
 
 recipe_roastofthepast_name { 配方：往者的烤肉 }
 
