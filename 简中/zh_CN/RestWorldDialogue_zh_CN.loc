@@ -498,7 +498,7 @@ R_NialaRunToWoodcamp_251 { 快点！ }
 
 R_AgiloGoToJola_252 { $GVAR:EVars_Player.Name$ 派我来的。 }
 
-R_AgiloGoToJola_253 { 听说你们还在找矿工？ }
+R_AgiloGoToJola_253 { 听说你们还在招募矿工？ }
 
 R_AgiloGoToJola_254 { 听对了。向莱文报到。 }
 

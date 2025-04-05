@@ -1,4 +1,4 @@
-Title { 农民的铁矿石 }
+Title { 农民的褐铁矿 }
 
 Entry_01 { 当我到达时，尤雷克和杰尔齐刚刚吵完架。我应该帮助他们收集$GVAR:QuestVars_IronForFarmers.NumItemsNeeded$块褐铁矿。它就散落在田野的某个地方。 }
 

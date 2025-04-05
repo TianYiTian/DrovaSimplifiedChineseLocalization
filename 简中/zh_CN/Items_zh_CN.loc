@@ -26,7 +26,7 @@ item_meat_raw_name { 鲜嫩多汁的肉 }
 
 item_meat_raw_description { 这还是生的。最好别吃。 }
 
-item_farmersFood_name { 农夫午餐 }
+item_farmersFood_name { 农庄简餐 }
 
 item_farmersFood_description {  }
 
@@ -92,7 +92,7 @@ item_stolenPackage_name { 被盗包裹 }
 
 item_stolenPackage_description { 我在苹果林中发现的这个包裹，它闻起来有些异味。 }
 
-item_alraune_name { 曼陀罗 }
+item_alraune_name { 曼德拉草 }
 
 item_alraune_description { 一根尖叫的根状植物。它究竟有何用途呢？ }
 
@@ -144,11 +144,11 @@ item_earthroot_name { 地根 }
 
 item_earthroot_description { 生长在河边的树林中。 }
 
-item_wine_name { 酒 }
+item_wine_name { 葡萄酒 }
 
-item_wine_description { 必须得享受。 }
+item_wine_description { 你一定会喜欢的。 }
 
-note_mineInformation_name { 矿工任务 }
+note_mineInformation_name { 招募矿工 }
 
 note_mineInformation_description {  }
 
@@ -852,7 +852,7 @@ throwing_knife_name { 飞刀 }
 
 throwing_knife_description { 投掷一把造成 [DamageFlexAbs] 伤害的飞刀。忽视目标的护甲。 }
 
-item_lyra_description { 用一种所有人都能理解的语言来说话。 }
+item_lyra_description { 说着人人都能懂的语言。 }
 
 tool_torch_name { 火把 }
 
@@ -2644,9 +2644,9 @@ flow_poisonArrow_description { 射出一支箭，造成[WeaponDamagePercent]武�
 
 recipe_flow_poisonArrow_name { 技能：毒箭 }
 
-key_tavernKey_Cellar_name { 酒窖钥匙 }
+key_tavernKey_Cellar_name { 地窖钥匙 }
 
-key_tavernKey_Cellar_description { 酒馆地下室的钥匙 }
+key_tavernKey_Cellar_description { 位于流亡者营地的酒馆地窖钥匙。 }
 
 recipe_silverringstrength_2_name { 配方：达拉克之戒 }
 
